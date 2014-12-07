@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="cache-control" content="no-cache">
+        <meta http-equiv="pragma" content="no-cache">
+        <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css"></link>
+        <link href="/css/mobile.css" media="handheld, only screen and (max-device-width: 960px)" rel="stylesheet" type="text/css"></link>
+        <link href="/css/pygments.css" media="screen" rel="stylesheet" type="text/css"></link>
+        <link href="/css/fonts.css" rel="stylesheet">
+        <link href="http://feeds.feedburner.com/github/FETh"
+        type="application/atom+xml" rel="alternate" title="情书.feed" />
+
+        <meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@_muyun">
+<meta name="twitter:creator" content="@_muyun">
+
+  <meta name="twitter:title" content="Sort Algorithms: Priority Queues">
+
+
+  <meta name="twitter:url" content="/algorithms/2014/04/19/sort-algorithms-priority-queues.html">
+
+
+
+<meta name="twitter:description" content="">
+
+
+
+        <title>Sort Algorithms: Priority Queues </title>
+    </head>
+    
+    <body>
+        
+        <div class="menu">
+            <h1> 情书</h1>
+            <em> by muyun_</em>
+            
+            <ul class="nobullet pagelinks">
+                <li class="menulinks"><a href="/">writing</a></li>
+                <li class="menulinks"><a href="/shorts.html">bits</a></li>
+                
+                <li class="menulinks"><a href="/delicious.html">delicious</a></li>
+                
+                <li class="menulinks"><a href="/blogroll.html">links</a></li>
+                <li class="menulinks"><a href="/about.html">about</a></li>
+            </ul>
+            
+            <hr class="hidemobile">
+            
+            <ul class="nobullet linkicons">
+              <li><a href="http://feeds.feedburner.com/github/FETh"><i class="icon-rss"> </i></a></li>
+              <li><a href="https://github.com/muyun"><i class="icon-github-sign"> </i></a></li>
+              <li><a href="https://twitter.com/_muyun"><i class="icon-twitter"> </i></a></li>
+              <li><a href="http://www.weibo.com/cloudadmirer/profile?rightmod=1&wvr=6&mod=personnumber"><i class="icon-weibo"> </i></a></li>
+            </ul>
+        </div>
+        
+        <div id="wrapper">
+            <div id="content">
+                <div class="postdateheading"> Apr 19, 2014 </div>
+<div> <h2 style="color:#840044"> Sort Algorithms: Priority Queues </h2> </div>
+<div class="post">
+    <p><strong>Priority Queues</strong> is a data type to find the largest M items in a
+stream of N items (Constrict: Not enough memory to store N
+items). Using priority queues is similar to using queues and stacks
+but implementing them efficiently is more challenging.  We consider a
+classic priority-queue implementation based on the <strong>binary heap</strong>
+data structure, where items are kept in an array, subject to certain
+ordering constraints that allow for <strong>efficient (log-time)
+implementations</strong> of remove the maximum and insert.</p>
+
+<p>We use array representation of a heap-ordered complete binary tree.
+Because array implementation <strong>does not waste any space on the usual
+pointers</strong> you have in a tree to traverse between parents and
+children. The reason is that we&#39;re able to <strong>keep this binary tree as
+balanced as possible, we don&#39;t need pointers to figure out the parents
+and children</strong>. we can just read that off directly from the position in
+the array.</p>
+
+<ul>
+<li>The Implementation:</li>
+</ul>
+
+<p>The binary heap is that <strong>parent&#39;s key no smaller than children&#39;s key</strong>, that&#39;s (k is the index):
+: -<strong>set a[k] to a[k/2] when we move up the tree</strong>,
+: -<strong>set a[k] to a[2*k] or a[2*k+1] when move down the tree</strong>;</p>
+
+<p>We can take advantage of the capability to move up and down paths in
+the tree without pointers and have guaranteed <strong>logarithmic performance</strong>
+because the height of a complete binary tree of size N is lgN.</p>
+
+<p>The basic algorithm swim (bottom-up reheapify) moves up the heap until we reach a node with a larger key, or the root; The function swim(int k)</p>
+<div class="highlight"><pre><code class="language-java" data-lang="java"><span class="c1">//the parent of the node at position k in a heap is at position k/2</span>
+<span class="kd">private</span> <span class="kt">void</span> <span class="nf">swim</span><span class="o">(</span><span class="kt">int</span> <span class="n">k</span><span class="o">){</span>
+    <span class="k">while</span><span class="o">(</span><span class="n">k</span> <span class="o">&gt;</span> <span class="mi">1</span> <span class="o">&amp;&amp;</span> <span class="n">less</span><span class="o">(</span><span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="o">,</span> <span class="n">k</span><span class="o">)){</span>  <span class="c1">//the node&#39;s key larger than parent&#39;s key</span>
+        <span class="n">exch</span><span class="o">(</span><span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="o">,</span> <span class="n">k</span><span class="o">);</span>              <span class="c1">//exchange the node with its parent</span>
+        <span class="n">k</span> <span class="o">=</span> <span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
+    <span class="o">}</span>
+<span class="o">}</span>
+</code></pre></div>
+<p>The sink algorithm movs down the heap until we reach a node with both children smaller(or equal,) or the bottom; The function sink(int k)</p>
+<div class="highlight"><pre><code class="language-java" data-lang="java"><span class="c1">//the children of the node at position k in a heap are at positions 2k and 2k+1</span>
+<span class="kd">private</span> <span class="kt">void</span> <span class="nf">sink</span><span class="o">(</span><span class="kt">int</span> <span class="n">k</span><span class="o">){</span>
+    <span class="k">while</span><span class="o">(</span><span class="mi">2</span><span class="o">*</span><span class="n">k</span> <span class="o">&lt;=</span> <span class="n">N</span><span class="o">){</span>
+        <span class="kt">int</span> <span class="n">j</span> <span class="o">=</span> <span class="mi">2</span><span class="o">*</span><span class="n">k</span><span class="o">;</span>                    <span class="c1">//the children of the node</span>
+        <span class="k">if</span> <span class="o">(</span><span class="n">j</span> <span class="o">&lt;</span> <span class="n">N</span> <span class="o">&amp;&amp;</span> <span class="n">less</span><span class="o">(</span><span class="n">j</span><span class="o">,</span> <span class="n">j</span><span class="o">+</span><span class="mi">1</span><span class="o">))</span> <span class="n">j</span><span class="o">++;</span> <span class="c1">//find the smaller children</span>
+        <span class="k">if</span> <span class="o">(!</span><span class="n">less</span><span class="o">(</span><span class="n">k</span><span class="o">,</span> <span class="n">j</span><span class="o">))</span> <span class="k">break</span><span class="o">;</span>
+        <span class="n">exch</span><span class="o">(</span><span class="n">k</span><span class="o">,</span> <span class="n">j</span><span class="o">);</span>                     <span class="c1">//swap the node with the smaller children</span>
+        <span class="n">k</span> <span class="o">=</span> <span class="n">j</span><span class="o">;</span>
+    <span class="o">}</span>
+<span class="o">}</span>
+</code></pre></div>
+<p>The insert algorithm requires no more than 1 + lgN compares, which involving <strong>moving along a path between the root and the bottom of the heap</strong> whose number of links is no more than lgN; the function insert(key x)</p>
+<div class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">public</span> <span class="kt">void</span> <span class="nf">insert</span><span class="o">(</span><span class="n">Key</span> <span class="n">x</span><span class="o">){</span>
+    <span class="n">pq</span><span class="o">[++</span><span class="n">N</span><span class="o">]</span> <span class="o">=</span> <span class="n">x</span><span class="o">;</span>
+    <span class="n">swim</span><span class="o">(</span><span class="n">N</span><span class="o">);</span>     <span class="c1">//swim up through the heap</span>
+
+<span class="o">}</span>
+</code></pre></div>
+<p>The heap algorithms require no more than 2lgN compares for remove the maximum; The operation involves moving the heap path no more than lgN, and it requires two compares for each node on the path (except at the bottom): one to find the child with larger key, the other to decide whether that child needs to be promoted; The function delMax()</p>
+<div class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">public</span> <span class="n">Key</span> <span class="nf">delMax</span><span class="o">(){</span>
+    <span class="n">Key</span> <span class="n">max</span> <span class="o">=</span> <span class="n">pq</span><span class="o">[</span><span class="mi">1</span><span class="o">];</span> <span class="c1">//the largest key off the top</span>
+    <span class="n">exch</span><span class="o">(</span><span class="mi">1</span><span class="o">,</span> <span class="n">N</span><span class="o">--);</span>    <span class="c1">//exchange the last one with root</span>
+    <span class="n">sink</span><span class="o">(</span><span class="mi">1</span><span class="o">);</span>         <span class="c1">//sink sown through the heap</span>
+    <span class="n">pq</span><span class="o">[</span><span class="n">N</span><span class="o">+</span><span class="mi">1</span><span class="o">]</span> <span class="o">=</span> <span class="kc">null</span><span class="o">;</span>  <span class="c1">//to avoid loitering and help with garbage collection</span>
+
+    <span class="k">return</span> <span class="n">max</span><span class="o">;</span>
+<span class="o">}</span>
+</code></pre></div>
+<ul>
+<li>Performance Analysis:</li>
+</ul>
+
+<p>For typical applications that <strong>require a large number of intermixed insert and remove the maximum/min operations</strong> in a large priority queue, the elementary implementations using an ordered array or an unordered array require linear time for one of the operations, a heap-based implementation provides a guarantee that both operations complete in <strong>logarithmic time</strong>.</p>
+
+</div>
+<p>
+  Copyright &copy; - muyun_ -
+  <span class="credit">Powered by <a href="http://jekyllrb.com/">Jekyll</a></span>
+</p>
+
+
+<!--
+<a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+<a href="https://twitter.com/_muyun" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @_muyun</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+-->
+
+
+            </div>
+        </div>
+        <script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '4e511776613f5d3738000002');
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+
+    </body>
+</html>

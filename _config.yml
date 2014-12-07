@@ -1,0 +1,26 @@
+destination: ./_site
+lsi:         false
+port:        4000
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline"]
+
+#gems: [ delicious ]
+permalink:   date
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_dir:    images/latex
+  png_url:    /images/latex
+
+#delicious plugins 
+#gems: [ jekyll-plugins ] 
+  
+#baseurl:     /blog
+
+title:  "情书"
+description: "by muyun_"
+
+author_name: muyun_
+author_email: wenlzhao@gmail.com
