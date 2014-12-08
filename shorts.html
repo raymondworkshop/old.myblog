@@ -15,20 +15,29 @@
 <meta name="twitter:site" content="@_muyun">
 <meta name="twitter:creator" content="@_muyun">
 
-  <meta name="twitter:title" content="Delicious">
+  <meta name="twitter:title" content="Short Bits">
 
 
-  <meta name="twitter:url" content="/delicious.html">
+  <meta name="twitter:url" content="/shorts.html">
 
 
 
 <meta name="twitter:description" content="
 
+  
+    {% for post in site.categories.bits %}
+      
+       {{ post.title }}
+      {{ post.date | date: &quot;%b %d, %Y&quot;}}
+      
+    {% endfor %}
+  
+
 ">
 
 
 
-        <title>Delicious </title>
+        <title>Short Bits </title>
     </head>
     
     <body>
@@ -53,23 +62,19 @@
               <li><a href="http://feeds.feedburner.com/github/FETh"><i class="icon-rss"> </i></a></li>
               <li><a href="https://github.com/muyun"><i class="icon-github-sign"> </i></a></li>
               <li><a href="https://twitter.com/_muyun"><i class="icon-twitter"> </i></a></li>
-              
-              <li><a href="http://www.weibo.com/2126155907/profile?topnav=1&wvr=6"><i class="icon-weibo"> </i></a></li>
- 
+              <li><a href="http://www.weibo.com/cloudadmirer/profile?rightmod=1&wvr=6&mod=personnumber"><i class="icon-weibo"> </i></a></li>
             </ul>
         </div>
         
         <div id="wrapper">
             <div id="content">
-                <h2><a href="Delicious">Delicious</a></h2>
+                <h2><a href="/shorts.html">Short Bits</a></h2>
 
-<!---
-<ul class="archive">
-    //    
-     //   <li><a href="" title="" rel="external"></a></li>
-    //   
-</ul>
--->
+<div class="postcontent archive">
+  <ul class="archive">
+    
+  </ul>
+</div>
 
             </div>
         </div>
