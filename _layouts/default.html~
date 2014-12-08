@@ -11,33 +11,16 @@
         <link href="http://feeds.feedburner.com/github/FETh"
         type="application/atom+xml" rel="alternate" title="情书.feed" />
 
-        <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@_muyun">
-<meta name="twitter:creator" content="@_muyun">
+        {% include twittercard.html %}
 
-  <meta name="twitter:title" content="About">
-
-
-  <meta name="twitter:url" content="/about.html">
-
-
-
-<meta name="twitter:description" content="
-
-* github: [http://github.com/muyun](http://github.com/muyun)
-* email/g: wenlzhao@gmail.com
-">
-
-
-
-        <title>About </title>
+        <title>{{page.title}} </title>
     </head>
     
     <body>
-        
+        {% unless page.nomenu %}
         <div class="menu">
-            <h1> 情书</h1>
-            <em> by muyun_</em>
+            <h1> {{ site.title }}</h1>
+            <em> by {{ site.author_name }}</em>
             
             <ul class="nobullet pagelinks">
                 <li class="menulinks"><a href="/">writing</a></li>
@@ -55,36 +38,18 @@
               <li><a href="http://feeds.feedburner.com/github/FETh"><i class="icon-rss"> </i></a></li>
               <li><a href="https://github.com/muyun"><i class="icon-github-sign"> </i></a></li>
               <li><a href="https://twitter.com/_muyun"><i class="icon-twitter"> </i></a></li>
-              
+              <!--
               <li><a href="http://www.weibo.com/2126155907/profile?topnav=1&wvr=6"><i class="icon-weibo"> </i></a></li>
- 
+              -->
+              <li></li>
             </ul>
         </div>
-        
+        {% endunless %}
         <div id="wrapper">
             <div id="content">
-                <h2><a href="About">About</a></h2>
-
-<ul>
-<li>github: <a href="http://github.com/muyun">http://github.com/muyun</a></li>
-<li>email/g: <a href="mailto:wenlzhao@gmail.com">wenlzhao@gmail.com</a></li>
-</ul>
-
+                {{ content }}
             </div>
         </div>
-        <script type="text/javascript">
-  var _gauges = _gauges || [];
-  (function() {
-    var t   = document.createElement('script');
-    t.type  = 'text/javascript';
-    t.async = true;
-    t.id    = 'gauges-tracker';
-    t.setAttribute('data-site-id', '4e511776613f5d3738000002');
-    t.src = '//secure.gaug.es/track.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(t, s);
-  })();
-</script>
-
+        {% include gauges.html %}
     </body>
 </html>
