@@ -5,5 +5,7 @@ date: 2013-03-26 21:21
 comments: true
 categories: 
 ---
+``` c
+printf("Hello, World!") 
 
-printf("Hello, World! Firstly blog here");
+```
