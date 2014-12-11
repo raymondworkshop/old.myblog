@@ -2,13 +2,12 @@
 layout: default
 ---
 <div class="postdateheading"> {{page.date | date: "%b %d, %Y"}} </div>
-<div> <h2 style="color:#840044"> {{page.title}} </h2> </div>
+## {{page.title}}
 <div class="post">
     {{ content }}
 </div>
 {% include footer.html %}
 
-{% include disqus.html %}
 <!--
 {% include twitter.html %}
 -->
