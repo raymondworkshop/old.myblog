@@ -6,6 +6,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline"]
 
+permalink: /:categories/:title.html
 #gems: [ delicious ]
 permalink:   date
 maruku:

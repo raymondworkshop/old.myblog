@@ -3,7 +3,7 @@ layout: post
 title: "Search Algorithms: Binary Search"
 date: 2014-05-11 22:30
 comments: true
-categories: Algorithms
+categories: [technology, algorithms]
 ---
 
 A symbol table is a data structure for **key-value pairs** that supports
