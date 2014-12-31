@@ -14,4 +14,4 @@ Open the recently created post file.
 
 >jekyll serve  -- A development server will run at http://127.0.0.1:4000/
 
->
+> git commit/push     -- push to github to generate the static
