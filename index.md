@@ -6,7 +6,7 @@ title: writing
 <div class="postcontent archive">
   <ul class="archive">
   {% for post in site.posts %}
-    {% unless post.categories.first == "bits"  %}
+    {% unless post.categories.first == "_drafts"  %}
       <li>
       <a href="{{ post.url }}"> {{ post.title }}</a>
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
