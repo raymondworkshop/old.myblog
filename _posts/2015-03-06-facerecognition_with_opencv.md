@@ -5,8 +5,9 @@ date: 2015-03-06 22:05
 comments: true
 categories: [technology, algorithms]
 ---
+#### This is a basic SUMMARY of [Face Recognition with OpenCV] [1] ####
 
-####  *Some basic approaches* ###
+####  *Some basic approaches*
  
 #####  geometric feature 
       1.  marker points ( position of eyes, ears, noses, ...) are used to build the feature vector (the distance, the angle, ...)
