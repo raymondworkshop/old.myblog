@@ -6,12 +6,12 @@ comments: true
 categories: [technology, algorithms]
 ---
 
-###  *Some basic approaches* ###
+####  *Some basic approaches* ###
  
-####  geometric feature 
+#####  geometric feature 
       1.  marker points ( position of eyes, ears, noses, ...) are used to build the feature vector (the distance, the angle, ...)
 	  
-####  Eigenfaces
+#####  Eigenfaces
       1.  The idea is that a facial image is a point from a high-dim image space, and a high-dim dataset is often
       described by correlated variables and therefore only a few meaningful dim account for most of the information .
           
@@ -47,10 +47,10 @@ categories: [technology, algorithms]
                 Each test sample is projected into PCA subspace,and get the related label based on the NORM_L2 distance in the trained subspace.
                  
 				 
-####  Fisherfaces
+#####  Fisherfaces
           1.
 		  
-####  Local Binary Patterns Histograms (LBPH)
+#####  Local Binary Patterns Histograms (LBPH)
           1. The idea is that the focus is only on extracting local features of an object, thus the features in this waywill have a low-dim implicitly. 
 		  
 		  Also, the local description has to be a bit robust against image illumination variations (things like
@@ -85,14 +85,15 @@ categories: [technology, algorithms]
               Chi-square test is used for the distance measure
 			  
 
-###  *The Performance*
 
-####  Receiver operating characteristic ( [ROC] [4] )
+####  *The Performance*
+
+#####  Receiver operating characteristic ( [ROC] [4] )
         1.  A ROC space is defined by TAR (I.e., the rate of genuine attempts accepted) and FAR(I.e., the rate of
         impostor attempts accepted) as y and x axes respectively, which depicts relative trade-offs between
         true positive (benefits) and false positive (costs).
 
-####  Cumulative Match Characteristic (CMC)
+#####  Cumulative Match Characteristic (CMC)
          1. It plots the probability of identification against the returned 1:N candidate list size.
            It shows the probability that a given user appears in different sized candidate lists.
         
