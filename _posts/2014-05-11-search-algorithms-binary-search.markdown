@@ -84,7 +84,6 @@ search; and Inserting a new key into an ordered array uses **~2N array
 accesses** in the worst case (**e.g. move the array entirely, line 14~16**), so inserting N keys into an initially
 empty table uses **~N^2 array accesses** in the worst case; See the table,
 
-
 |  Algorithm          | Worst-case-search   | Worst-case-insert |
 |  ----------------   | :----------------:  | :---------------- |
 |  sequential search  |  N                  |     N             |
