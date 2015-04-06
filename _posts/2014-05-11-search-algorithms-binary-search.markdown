@@ -89,7 +89,7 @@ empty table uses **~N^2 array accesses** in the worst case; See the table,
 |  ----------------   | :----------------:  | :---------------- |
 |  sequential search  |  N                  |     N             |
 |  binary search      |  lgN                |     2N            | 
-[Complex]
+
 
 In summary, For a **static table** (with no insert operations allowed), it
 is **worthwhile to initialize and sort the table**; Still, binary
