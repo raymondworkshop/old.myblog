@@ -11,7 +11,7 @@ Done:
 *  基本用matlab實現一个關於kNN的算法
      - Divide-and-conquer 
         +  递归实现的一些技巧
-        +  總結下 Divide-and-conquer的思想 
+        +  有時間總結下 Divide-and-conquer 解決問題的思路
      
      - 可能matlab 過於向量化了，寫code感觉很不好
     
