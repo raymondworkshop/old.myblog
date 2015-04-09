@@ -8,9 +8,12 @@ categories: [ diary ]
 
 Done:
 
-*  基本實現一个關於KNN的算法
-     - 递归实现的一些技巧
-     - matlab简单,但是感觉很不好
+*  基本用matlab實現一个關於kNN的算法
+     - Divide-and-conquer 
+        +  递归实现的一些技巧
+        +  總結下 Divide-and-conquer的思想 
+     
+     - 可能matlab 過於向量化了，寫code感觉很不好
     
 *  放假这几天看了下 Hash 数据结构,有时间总结下
 
