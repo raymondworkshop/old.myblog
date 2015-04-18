@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle Bones: A Journey Through Time in China"
+title: "甲骨文"
 date: 2015-04-18 12:30
 comments: true
 categories: [readingnotes]
