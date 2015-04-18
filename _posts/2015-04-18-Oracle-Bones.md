@@ -8,14 +8,14 @@ categories: [readingnotes]
 ---
 Annotation summary:
 
---- Page 5 --- Highlight (yellow), 4 Feb, 2015 00:
+--- Page 5 --- Highlight (yellow), 4 Feb, 2015 00:   
 过去并不等于历史
 中国的过去没有真正的叙事，有的只是一个个不知真假的故事罢了
 
---- Page 6 --- Highlight (yellow), 16 Feb, 2015 00:03:
+--- Page 6 --- Highlight (yellow), 16 Feb, 2015 00:03:  
 发现它像箭一般的笔直
 
---- Page 10 ---Highlight (yellow), 1 Mar, 2015 00:30:
+--- Page 10 ---Highlight (yellow), 1 Mar, 2015 00:30:  
 第一趟调查研究之旅：我计划为一家报纸写一篇游记，内容是关于这座城市的历史
 
 --- Page 11 --- Highlight (yellow), 1 Mar, 2015 00:30:
