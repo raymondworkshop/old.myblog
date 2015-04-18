@@ -6,8 +6,9 @@ comments: true
 categories: [readingnotes]
 
 ---
-Annotation summary:
+摘錄自彼得·海斯勒的[甲骨文](http://book.douban.com/subject/6539859/)
 
+Annotation summary:
 --- Page 5 --- Highlight (yellow), 4 Feb, 2015 00:   
 过去并不等于历史
 中国的过去没有真正的叙事，有的只是一个个不知真假的故事罢了
