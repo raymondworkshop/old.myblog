@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2015-04-08-weekly-summary.md"
+title: "2015-04-08-weekly-summary"
 date: 2015-04-08
 comments: true
 categories: [ diary ]
