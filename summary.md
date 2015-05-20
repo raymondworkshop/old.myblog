@@ -6,7 +6,7 @@ title: Summary
 <div class="postcontent archive">
   <ul class="archive">
   {% for post in site.posts %}
-    {% if post.categories.first == "art"  %}
+    {% if post.categories.first == "summary"  %}
       <li>
       <a href="{{ post.url }}"> {{ post.title }}</a>
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
