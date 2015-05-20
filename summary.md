@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Art
+title: Summary
 ---
-## [Art]({{page.url}})
+## [Summary]({{page.url}})
 <div class="postcontent archive">
   <ul class="archive">
   {% for post in site.posts %}
