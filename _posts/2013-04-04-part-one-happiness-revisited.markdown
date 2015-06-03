@@ -3,7 +3,7 @@ layout: post
 title: "Part one: Happiness Revisited"
 date: 2013-04-04 21:18
 comments: true
-categories: Reading
+categories: notes
 ---
 Preface
 
