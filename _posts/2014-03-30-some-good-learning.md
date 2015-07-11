@@ -3,7 +3,7 @@ layout: post
 title: "一些好的摘录"
 date: 2014-03-30 22:14
 comments: true
-categories: readingnotes
+categories: notes
 ---
 + 在拥有足够智商的前提下,人与人之间的差距更多取决于**随时独力思考的习惯,勤勉的学习工作态度,坚韧不拔克服困难的能力**
 
