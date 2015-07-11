@@ -4,9 +4,9 @@
 }
 
 body {
-    background-color: white;
+    background-color: #FFFFFF;
     color: #051822;
-    font-family: "Heiti SC", "Heiti TC" , "Galdeano", "Arapey", serif,sans-serif ;
+    font-family: "Galdeano","Arapey", serif,sans-serif ;
 }
 
 #wrapper {
