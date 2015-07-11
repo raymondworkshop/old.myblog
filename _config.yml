@@ -4,9 +4,9 @@ port:        4000
 highlighter: pygments
 markdown: redcarpet
 redcarpet:
-  extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline"]
+  extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline", "strikethrough", "superscript", "with_toc_data", "prettify","no_intra_emphasis"]
 
-permalink: /:categories/:title.html
+permalink: /:categories/:year/:month/:day/:title.html
 #gems: [ delicious ]
 permalink:   date
 maruku:
@@ -20,8 +20,8 @@ maruku:
   
 #baseurl:     /blog
 
-title:  "情书"
-description: "by muyun_"
+title:  "情書"
+description: "by _muyun"
 
-author_name: muyun_
+author_name: _muyun
 author_email: wenlzhao@gmail.com
