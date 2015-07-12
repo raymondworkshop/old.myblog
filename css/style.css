@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -19,14 +20,14 @@ body {
     top: 10%;
     width: 65%;
     font-size: 1.08em;
-    padding-bottom: 100px;
+    padding-bottom: 6em;
 }
 .menu {
     position: absolute;
-    left: 50px;
-    top: 50px;
+    left: 3em;
+    top: 3em;
     font-size: 1.1em;
-    width: 100px;
+    width: 6em;
 }
 
 ul.nobullet {
@@ -34,11 +35,11 @@ ul.nobullet {
 }
 
 div.menu ul.nobullet {
-  margin-top: 15px;
+  margin-top: 1em;
   text-align: right;
 }
 ul.linkicons {
-  margin-top: 10px;
+  margin-top: 0.6em
   list-style-type: none;
   text-align: center;
   color: #000000;
@@ -53,11 +54,11 @@ ul.linkicons i{
   font-size: 1.2em;
 }
 ul.archive {
-  margin-top: 15px;
+  margin-top: 1em;
   list-style-type: none;
 }
 ul.archive li{
-  margin-bottom: 10px;
+  margin-bottom: 0.6em;
 }
 h1 {
     font-size:2.05em;
