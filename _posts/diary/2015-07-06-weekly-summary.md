@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2015-07-06-weekly-summary"
-date: 2015-06-08
+date: 2015-07-06
 comments: true
 categories: [diary]
 ---
