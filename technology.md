@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Short Bits
+title: Technology
 ---
 ## [Technology]({{page.url}})
 <div class="postcontent archive">
