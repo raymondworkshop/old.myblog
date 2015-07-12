@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #FFFFFF;
+    background-color: #F8F8F8;
     color: #051822;
     font-family: "Galdeano","Arapey", serif,sans-serif ;
 }
@@ -17,13 +17,15 @@ body {
     position: absolute;
     left: 20%;
     top: 10%;
-    width: 60%;
+    width: 65%;
+    font-size: 1.08em;
     padding-bottom: 100px;
 }
 .menu {
     position: absolute;
     left: 50px;
     top: 50px;
+    font-size: 1.1em;
     width: 100px;
 }
 
@@ -48,7 +50,7 @@ ul.linkicons a{
   color: black;
 }
 ul.linkicons i{
-  font-size: 20px;
+  font-size: 1.2em;
 }
 ul.archive {
   margin-top: 15px;
@@ -58,21 +60,21 @@ ul.archive li{
   margin-bottom: 10px;
 }
 h1 {
-    font-size:34px;
+    font-size:2.05em;
     margin-bottom: 15px;
 }
 h2 {
     color: #184468;
-    font-size: 30px;
+    font-size: 1.9em;
     margin-bottom: 22px;
 }
 h3 {
     color: #184468;
-    font-size:24px;
+    font-size:1.5em;
     margin-bottom: 10px;
 }
 h4 {
-    font-size:16px;
+    font-size:1em;
     margin-bottom: 15px;
 }
 p, pre{
@@ -98,7 +100,7 @@ a:hover {
 a.posttitle {
     color: #184468;
     
-    font-size:24px;
+    font-size:1.5em;
     margin-bottom: 15px;
 }
 div.menu a.avatar {
@@ -193,5 +195,5 @@ div.talksection .center {
 }
 
 span.talkbyline {
-    font-size: 17px;
+    font-size: 1.02em;
 }
