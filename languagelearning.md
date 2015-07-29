@@ -1,8 +1,11 @@
 ---
 layout: default
-title: languagelearning
+title: Language
 ---
-##[languagelearning]({{page.url}})
+##[Language]({{page.url}})
+   * Cantonese learning
+
+<!--
 <div class="postcontent archive">
   <ul class="archive">
   {% for post in site.posts %}
@@ -15,3 +18,4 @@ title: languagelearning
   {% endfor %}
   </ul>
 </div>
+-->
