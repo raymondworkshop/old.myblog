@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "clustering"
+title: "Clustering"
 date: 2015-07-29
 comments: true
 categories: [technology, datamining]

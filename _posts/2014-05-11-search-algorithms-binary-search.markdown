@@ -84,14 +84,16 @@ search; and Inserting a new key into an ordered array uses **~2N array
 accesses** in the worst case (**e.g. move the array entirely, line 14~16**), so inserting N keys into an initially
 empty table uses **~N^2 array accesses** in the worst case; See the table,
 
-  Algorithm         | Worst-case-search   | Worst-case-insert 
-  ----------------  | :----------------:  | :----------------: 
-  sequential search |  N                  |     N
-  binary search     |  lgN                |    2N
+   Algorithm         | Worst-case-search   | Worst-case-insert 
+   ----------------  | :----------------:  | :----------------:
+   sequential search |  N                  |     N
+   binary search     |  lgN                |    2N
 
+* 
+* In Summary
 
-In summary, For a **static table** (with no insert operations allowed), it is **worthwhile to initialize and sort the table**; Still, binary
-search is infeasible for use in many other applications. For example,
+For a **static table** (with no insert operations allowed), it is **worthwhile to initialize and sort the table**;
+Still, binary search is infeasible for use in many other applications. For example,
 it fails because **searches and inserts are intermixed and the table
 size is too large** . As typical modern search clients require symbole
 tables that can support fast implementations of both search and
