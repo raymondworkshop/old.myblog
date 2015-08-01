@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: post
 title: Courses
 ---
-
-## [Courses Ongoing]({{page.title}})
+####Courses Ongoing
    * Algorithms
        -  [Computability, Complexity & Algorithms on Udacity] (https://www.udacity.com/wiki/ud061)
        -  [Algorithms, Part I] (https://www.coursera.org/course/algs4partI)
