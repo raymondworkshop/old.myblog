@@ -31,8 +31,9 @@ categories: [technology]
 	   - the accuracy guarantee
 		   +   k-seeding : TODO
 		       the seed choice (David Arthur, Sergei Vassilvitskii: k-means++: the advantages of careful seeding. SODA 2007: 1027-1035.)
-		 
-		 - the limitation of k-mean
+
+
+	   - the limitation of k-mean
 		   + differing sizes, differing density, Non-globular shapes
 	  	  
 	  
