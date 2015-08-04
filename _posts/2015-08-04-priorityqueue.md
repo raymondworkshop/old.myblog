@@ -25,8 +25,11 @@ categories: [technology, algorithms]
 #### stack : FILO (first in, last out) 
 
 #### Priority Queue
-   * The case: a collection in which items can be added at any time, but the only item that can be removed is the one with the **highest priority**.
-   We collect a set of items, then process the one with the largest key, **then perhaps collect more items**, then process the one with the current largest key.
+   * The case: a collection in which items can be added at any time, but the only item that can be removed is the one
+   with the **highest priority**.
+   
+   We collect a set of items, then process the one with the largest key, **then perhaps collect more items**,
+   then process the one with the current largest key.
    
    * The implementations
      - unordered array/linked-list: 
@@ -38,14 +41,15 @@ categories: [technology, algorithms]
 	   + The MAX is always at the end. o(1)
 	   
 	 -  **binary heap** [2]
-	   + a binary tree is heap-ordered if the key in each node ** >= ** the keys in the node's two children [3]
+	   + a binary tree is heap-ordered if the key in each node ** >= ** the keys in the node's two children [3].
        + To insert: **exchanging the node with its parent** to restore the heap condition
        + To remove: take the key off the top;
        put the item at the end of the heap to the top,
        and then sink through the heap with the key to restore the heap condition
        
        + In a heap, the highest (or lowest) priority item is always stored **at the root**, henc the name "heap".
-       A heap is not a sorted structure and can be regarded as **partially ordered**. [4]
+       A heap is not a sorted structure and can be regarded as **partially ordered** [4].
+       
        There is no particular relationship among ndoes on any given level, even among the siblings.
 
        + A heap is useful data structure when we need to **remove the object with the highest (or lowest) priority**.
