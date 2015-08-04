@@ -52,10 +52,11 @@ categories: [technology, algorithms]
        A heap is not a sorted structure and can be regarded as **partially ordered** . There is no particular
        relationship among ndoes on any given level, even among the siblings [4].
 
+
        + A heap is useful data structure when we need to **remove the object with the highest (or lowest) priority**.
        
        + O(logN)
-####
+       
 [1]: http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html "stack and heap"
 [2]: http://cs.lmu.edu/~ray/notes/pqueues/ "priority queue"
 [3]: http://algs4.cs.princeton.edu/24pq/ "Priority Queues"
