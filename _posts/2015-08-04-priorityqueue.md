@@ -49,9 +49,8 @@ categories: [technology, algorithms]
             - and then sink through the heap with the key to restore the heap condition
        
        + In a heap, the highest (or lowest) priority item is always stored **at the root**, hence the name "heap".
-       A heap is not a sorted structure and can be regarded as **partially ordered** [4].
-       
-       There is no particular relationship among ndoes on any given level, even among the siblings.
+       A heap is not a sorted structure and can be regarded as **partially ordered** . There is no particular
+       relationship among ndoes on any given level, even among the siblings [4].
 
        + A heap is useful data structure when we need to **remove the object with the highest (or lowest) priority**.
        
