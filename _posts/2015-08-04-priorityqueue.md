@@ -25,20 +25,21 @@ categories: [technology, algorithms]
 #### stack : FILO (first in, last out) 
 
 #### Priority Queue
-   * The case: a collection in which items can be added at any time, but the only item that can be removed is the one
+   * The case
+     - We collect a set of items, then process the one with the largest key, **then perhaps collect more items**,
+     then process the one with the current largest key.
+     
+     - a collection in which items can be added at any time, but the only item that can be removed is the one
    with the **highest priority**.
-   
-   We collect a set of items, then process the one with the largest key, **then perhaps collect more items**,
-   then process the one with the current largest key.
    
    * The implementations
      - unordered array/linked-list: 
-	   + To insert: push in the stack. o(1)
+	   + To insert: push in the stack. O(1)
 	   + To remove the max: exchange the MAX with the item at the end, and then delete that one. o(n)
 	   
 	 - ordered array/linked-list:
 	   + for insert to move larger entries on the right position,thus keeping the keys in the order array. o(n)
-	   + The MAX is always at the end. o(1)
+	   + The MAX is always at the end. O(1)
 	   
 	 -  **binary heap** [2]
 	   + a binary tree is heap-ordered if the key in each node >= the keys in the node's two children [3].
