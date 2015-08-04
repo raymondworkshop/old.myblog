@@ -39,9 +39,22 @@ categories: [technology, algorithms]
 	   + for insert to move larger entries on the right position,thus keeping the keys in the order array. o(n)
 	   + The MAX is always at the end. o(1)
 	   
-	 -  heap [2]
-	   + TODO
+	 -  **binary heap** [2]
+	   + a binary tree is heap-ordered if the key in each node ** >= ** the keys in the node's two children [3]
+       + To insert: **exchanging the node with its parent** to restore the heap condition
+       + To remove: take the key off the top;
+       put the item at the end of the heap to the top,
+       and then sink through the heap with the key to restore the heap condition
+       
+       + In a heap, the highest (or lowest) priority item is always stored **at the root**, henc the name "heap".
+       A heap is not a sorted structure and can be regarded as **partially ordered**. [4]
+       There is no particular relationship among ndoes on any given level, even among the siblings.
 
+       + A heap is useful data structure when we need to **remove the object with the highest (or lowest) priority**.
+       
+       + O(logN)
 ####
 [1]: http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html "stack and heap"
 [2]: http://cs.lmu.edu/~ray/notes/pqueues/ "priority queue"
+[3]: http://algs4.cs.princeton.edu/24pq/ "Priority Queues"
+[4]: http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html "priority queues"
