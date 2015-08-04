@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Priority Queue"
+date: 2015-08-04
+categories: [technology, algorithms]
+---
 ###
 
 #### Stack: FILO (first in, last out) [1]
@@ -27,15 +32,15 @@
    
    * The implementations
      - unordered array/linked-list: 
-	   + To insert: push in the stack. 成(1)
-	   + To remove the max: exchange the MAX with the item at the end, and then delete that one. 成(n)
+	   + To insert: push in the stack. o(1)
+	   + To remove the max: exchange the MAX with the item at the end, and then delete that one. o(n)
 	   
 	 - ordered array/linked-list:
-	   + for insert to move larger entries on the right position,thus keeping the keys in the order array. 成(n)
-	   + The MAX is always at the end. 成(1)
+	   + for insert to move larger entries on the right position,thus keeping the keys in the order array. o(n)
+	   + The MAX is always at the end. o(1)
 	   
 	 -  heap [2]
-	   + 
+	   + TODO
 
 ####
 [1]: http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html "stack and heap"
