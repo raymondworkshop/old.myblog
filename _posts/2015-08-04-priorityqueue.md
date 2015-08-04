@@ -4,8 +4,6 @@ title: "Priority Queue"
 date: 2015-08-04
 categories: [technology, algorithms]
 ---
-###
-
 #### Stack: FILO (first in, last out) [1]
    * Stored in computer RAM
    * stack grows and shrinks as functions push and pop local variables;
