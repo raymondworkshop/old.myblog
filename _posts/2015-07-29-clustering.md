@@ -4,15 +4,15 @@ title: "clustering"
 date: 2015-07-29
 categories: [technology]
 ---
-#### [Clustering - divide a set of objects into meaningful groups] [1]
+#### Clustering - divide a set of objects into meaningful groups
 
-##### Centroid-based partitioning
+##### Centroid-based partitioning 
    * Objects in the same cluster should be similar to each other, while in different clusters should be dissimilar.
 	  
    * k-center: find the k center set with the **smallest radius r* **
 	  
 	   - NP-hard
-	   - an optimal k-circle: a 2-approximate k circle cover
+	   - an optimal k-circle: a 2-approximate k circle cover [1]
 		   + returning a k-center set with radius at most 2r*
 		   
 		   + choose **a random point** firstly, then choose the MAX distance to the points
@@ -20,21 +20,27 @@ categories: [technology]
 	  
 	* k-mean
 	   - **k random points** as the initial centroid, form k clusters by assigning all points to the closest centroid
-		   + each point is chosen as the centroid with a probability proportional to (D(p)^2)
-		   + if 100%, that's k-center
+           + the centroid is the **average of all the coordinates of the points in this cluster**
+           + terminate until the the centorid set don't update.
+           + 
 		 
 	   - k-means alg always terminates
          
-		  +  only a finite number of centroid sets that can possibily be produced at the end of each round
-		  +  after each round, the cost (the distance) of the centroid set is strictly lower than that of the old centroid set
+		   +  only a finite number of centroid sets that can possibily be produced at the end of each round
+		   +  after each round, the cost (the distance) of the centroid set is strictly lower than that of the old centroid set
 		   
-	   - the accuracy guarantee
-		   +   k-seeding : TODO
-		       the seed choice (David Arthur, Sergei Vassilvitskii: k-means++: the advantages of careful seeding. SODA 2007: 1027-1035.)
-
+	   - the accuracy guarantee [1]
+		   +   k-seeding : the seed choice (David Arthur, Sergei Vassilvitskii: k-means++: the advantages of careful seeding. SODA
+		       2007: 1027-1035.)
+               each point is chosen as the centroid **with a probability proportional to ( D(p)^2 )**.
+               
+           +   if 100%, that's k-center
+               
+           +   this gives the fact that the initial centroid set is picked too arbitrarily.
+               By doing so more carefully, we can significantly improve the approximation ratio.
 
 	   - the limitation of k-mean
-		   + differing sizes, differing density, Non-globular shapes
+		   +   differing sizes, differing density, Non-globular shapes
 	  	  
 	  
 ##### Hierarchical Methods 
