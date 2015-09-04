@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title: "Similarity Search"
 date: 2015-09-04
-categories: [technology]
+categories: [technology, algorithms]
 ---
 #### Similarity search [1] in high-dimensional spaces becomes increasingly important in databases, data mining, and search engines
    * particularly for content-based search of feature-rich data such as audio recordings, digital photos, digital videos and other sensor data.
@@ -10,6 +10,7 @@ categories: [technology]
    
    * The problem of similarity search refers to finding objects that have similar characteristics to the query object.
    Similarity search is usually implemented as K-Nearest Neighbor (KNN) or Approximate Nearest Neighbors (ANN) search in high-dim feature-vector space.
+   
        +  KNN: find  the K objects that are closest to q according to a distance function
 	   +  ANN: find K objects whose distances are within a small factor (1 + x) of the true K-nearest neighbors's distances
    
