@@ -7,6 +7,7 @@ categories: [technology, algorithms]
 
 #### Similarity search [1] in high-dimensional spaces becomes increasingly important in databases, data mining, and search engines
    * particularly for content-based search of feature-rich data such as audio recordings, digital photos, digital videos and other sensor data.
+
    * Since feature-rich data objects are typically represented as high-dimensional feature vectors.
    
    * The problem of similarity search refers to finding objects that have similar characteristics to the query object.
@@ -34,6 +35,7 @@ categories: [technology, algorithms]
 	   and ranking the candidate objects according to their distances to q.
 		
 	   + Drawback: to achieve high search accuracy, the LSH method needs to use multiple hash tables to produce a good candidate set.
+	   
 		Experimental studies show that the basic LSH needs hundreds hash tables to achieve good search accuracy for high-dimensional datasets.
 		
 		The size of each hash table is proportional to the number of data objects, since each table has **as many entries as the number of data objects** in the dataset. When the space requirement for the hash tables exceeds the main memory size, looking up a hash bucket may require a disk I/O, causing substantial delay to the query process.
