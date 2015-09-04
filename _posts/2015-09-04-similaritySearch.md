@@ -6,7 +6,7 @@ categories: [technology, algorithms]
 ---
 #### Similarity search [1] in high-dimensional spaces becomes increasingly important in databases, data mining, and search engines
    * particularly for content-based search of feature-rich data such as audio recordings, digital photos, digital videos and other sensor data.
-   Since feature-rich data objects are typically represented as high-dimensional feature vectors.
+   * Since feature-rich data objects are typically represented as high-dimensional feature vectors.
    
    * The problem of similarity search refers to finding objects that have similar characteristics to the query object.
    Similarity search is usually implemented as K-Nearest Neighbor (KNN) or Approximate Nearest Neighbors (ANN) search in high-dim feature-vector space.
@@ -27,7 +27,8 @@ categories: [technology, algorithms]
 	   + TODO
         
    *  the indexing method: LSH	[1]
-       +  use hash functions to ** map similar objects into the same hash buckets with high probability **.
+       +  use hash functions to ** map similar objects into the same hash buckets with high probability ** .
+   
 	   using LSH functions to select candidate objects for a given query q;
 	   and ranking the candidate objects according to their distances to q.
 		
@@ -45,6 +46,4 @@ categories: [technology, algorithms]
 		
 	   + By probing multiple buckets in each hash table, the method requires far fewer hash tables than previous LSH methods
         		
-
-
 [1]: "Multi-probe LSH: Efficient indexing for high-dimensional similarity search" by Q.Lv, W.Josephson, Z. Wang, M. Charikar, and K. Li, VLDB 
