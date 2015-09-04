@@ -40,9 +40,9 @@ categories: [technology, algorithms]
 		The approach does not satisfy the space-efficiency requirement.
 		
    * Multi-probe LSH [1]
-       + The main idea is to build on the basic LSH indexing method, but to use ** a carefully derived probing sequence to look up multiple buckets ** that have a high probability of containing the nearest neighbors of a query object.
+       + The main idea is to build on the basic LSH indexing method, but to use **a carefully derived probing sequence to look up multiple buckets** that have a high probability of containing the nearest neighbors of a query object.
 		
-	   + Given the property of LSH, if an object is close to a query object q but not hashed to the same bucket as q, it is likely to be in ** a buckets  that is "close by" ** (i.e. the hash values of the two buckets only differ slightly).
+	   + Given the property of LSH, if an object is close to a query object q but not hashed to the same bucket as q, it is likely to be in **a buckets  that is "close by"** (i.e. the hash values of the two buckets only differ slightly).
 		
 	   + By probing multiple buckets in each hash table, the method requires far fewer hash tables than previous LSH methods
         		
