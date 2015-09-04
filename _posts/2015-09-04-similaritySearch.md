@@ -27,7 +27,7 @@ categories: [technology, algorithms]
 	   + TODO
         
    *  the indexing method: LSH	[1]
-       +  use hash functions to ** map similar objects into the same hash buckets with high probability ** .
+       +  use hash functions to **map similar objects into the same hash buckets with high probability** .
    
 	   using LSH functions to select candidate objects for a given query q;
 	   and ranking the candidate objects according to their distances to q.
@@ -35,7 +35,7 @@ categories: [technology, algorithms]
 	   + Drawback: to achieve high search accuracy, the LSH method needs to use multiple hash tables to produce a good candidate set.
 		Experimental studies show that the basic LSH needs hundreds hash tables to achieve good search accuracy for high-dimensional datasets.
 		
-		The size of each hash table is proportional to the number of data objects, since each table has ** as many entries as the number of data objects ** in the dataset. When the space requirement for the hash tables exceeds the main memory size, looking up a hash bucket may require a disk I/O, causing substantial delay to the query process.
+		The size of each hash table is proportional to the number of data objects, since each table has **as many entries as the number of data objects** in the dataset. When the space requirement for the hash tables exceeds the main memory size, looking up a hash bucket may require a disk I/O, causing substantial delay to the query process.
 		
 		The approach does not satisfy the space-efficiency requirement.
 		
