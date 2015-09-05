@@ -1,8 +1,8 @@
 ﻿---
-layout: post
-title: "Similarity Search"
-date: 2015-09-04
-categories: [technology, algorithms]
+layout: post 
+title: "Similarity Search" 
+date: 2015-09-04 
+categories: [technology, algorithms] 
 ---
 #### Similarity search [1]
    * Similarity Search in high-dimensional spaces becomes increasingly important in databases, data mining, and
