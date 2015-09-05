@@ -18,7 +18,7 @@ categories: [technology, algorithms]
    search in high-dim feature-vector space.
    
        +  KNN: find  the K objects that are closest to q according to a distance function
-	   +  ANN: find K objects whose distances are within a small factor (1 + x) of the true K-nearest neighbors's distances
+	     +  ANN: find K objects whose distances are within a small factor (1 + x) of the true K-nearest neighbors's distances
    
    * An ideal indexing scheme for similarity search:
        +   Accurate: very close to those of the brute-force, linear-scan approach
@@ -53,7 +53,7 @@ categories: [technology, algorithms]
 		The approach does not satisfy the space-efficiency requirement.
 		
    * Multi-probe LSH [1]
-       + The main idea is to build on the basic LSH indexing method, but to use **a carefully derived probing
+    + The main idea is to build on the basic LSH indexing method, but to use **a carefully derived probing
        sequence to look up multiple buckets** that have a high probability of containing the nearest neighbors of
        a query object.
 		
