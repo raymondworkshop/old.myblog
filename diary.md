@@ -4,7 +4,7 @@ title: Diary
 ---
 
 ## [Diary]({{page.title}})
-<!---
+<!--
 <ul class="archive">
     //    
      //   <li><a href="{{ item.link }}" title="{{ item.description }}" rel="external">{{ item.title }}</a></li>
@@ -18,9 +18,9 @@ title: Diary
     {% if post.categories.first == "diary"  %}
       <li>
       <a href="{{ post.url }}"> {{ post.title }}</a>
-      <!---
+      s
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
-      --->
+      
       </li>
     {% endif %}
   {% endfor %}

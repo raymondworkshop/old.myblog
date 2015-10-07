@@ -4,11 +4,12 @@ port:        4000
 highlighter: pygments
 markdown: redcarpet
 redcarpet:
-  extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline", "strikethrough", "superscript", "with_toc_data", "prettify","no_intra_emphasis"]
+  #extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline", "strikethrough", "superscript", "with_toc_data", "prettify","no_intra_emphasis"]
+  extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline"]
 
 permalink: /:categories/:title.html
 #gems: [ delicious ]
-permalink:   date
+#permalink:   date
 maruku:
   use_tex:    false
   use_divs:   false
