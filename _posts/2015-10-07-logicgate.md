@@ -2,7 +2,7 @@
 layout: post
 title: "Logic Gate"
 date: 2015-10-07
-categories: [technology, algorithms]
+categories: [notes]
 ---
 
 #### XOR - exclusive or [1] [2]
