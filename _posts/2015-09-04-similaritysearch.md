@@ -2,6 +2,7 @@
 layout: post
 title: "Similarity Search"
 date: 2015-09-04
+comments: true
 categories: [technology, algorithms]
 ---
 #### Similarity Search [1]

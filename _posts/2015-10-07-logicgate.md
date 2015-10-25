@@ -3,7 +3,7 @@ layout: post
 title: "Logic Gate"
 date: 2015-10-07
 comments: true
-categories: [diary]
+categories: [summary]
 ---
 #### XOR - exclusive or [1] [2]
   * used in cryptography because it let's us **'flip' the bits** using a mask in a reversable operations
