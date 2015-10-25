@@ -9,3 +9,7 @@ categories: [summary]
 Randomization of a part of the control is an essential concept of nature's strategy.
 
 [TODO]
+
+#### reference
+[1]: "Is the Cosmos Random?""
+[2]: http://www.weibo.com/p/1001603833249125236809 "该死就死的市场经济"
