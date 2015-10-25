@@ -11,5 +11,5 @@ Randomization of a part of the control is an essential concept of nature's strat
 [TODO]
 
 #### reference
-[1]: [Is the Cosmos Random?] 
-[2]: [该死就死的市场经济] (http://www.weibo.com/p/1001603833249125236809)
+*  Is the Cosmos Random? 
+* [该死就死的市场经济] (http://www.weibo.com/p/1001603833249125236809)
