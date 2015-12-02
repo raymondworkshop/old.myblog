@@ -29,17 +29,18 @@ categories: [technology, algorithms]
    *  the indexing method: LSH  [1]
        +  use hash functions to **map similar objects into the same hash buckets with high probability** .
    
-     using LSH functions to select candidate objects for a given query q;
-     and ranking the candidate objects according to their distances to q.
+          using LSH functions to select candidate objects for a given query q,
+          and ranking the candidate objects according to their distances to q.
     
-       + Drawback: to achieve high search accuracy, the LSH method needs to use multiple hash tables to produce a good candidate set.
+       +  Drawback: to achieve high search accuracy, the LSH method needs to use multiple hash tables to produce a good candidate set.
      
-     Experimental studies show that the basic LSH needs hundreds hash tables to achieve good search accuracy for high-dimensional datasets.
+          - Experimental studies show that the basic LSH needs hundreds hash tables to achieve good search accuracy for high-dimensional datasets.
     
-      The size of each hash table is proportional to the number of data objects, since each table has **as many entries as the number of data objects** in the dataset. When the space requirement for the hash tables
-        exceeds the main memory size, looking up a hash bucket may require a disk I/O, causing substantial delay to the query process.
+          - The size of each hash table is proportional to the number of data objects, since each table has **as many
+          entries as the number of data objects** in the dataset.
+          When the space requirement for the hash tables exceeds the main memory size, looking up a hash bucket may require a disk I/O, causing substantial delay to the query process.
     
-    The approach does not satisfy the space-efficiency requirement.
+       + The approach does not satisfy the space-efficiency requirement.
     
    * Multi-probe LSH [1]
        + The main idea is to build on the basic LSH indexing method, but to use **a carefully derived probing
