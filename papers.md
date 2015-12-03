@@ -5,4 +5,5 @@ title: papers
 
 <u1 class="archive">
      <li><a href="http://arxiv.org/">arXiv</a></li>
+     <li><a href="http://blog.acolyer.org/">The morning paper</a></li>
 </u1>
