@@ -6,7 +6,7 @@ comments: true
 categories: notes
 ---
 
-The summary of part two tries to answer the question:how consciousness works and what it actually means to have experiences?
+The summary of part two tries to answer the question:<font color="#800080">how consciousness works and what it actually means to have experiences?</font>
 
 Consciousness as intentionally ordered information is a mirror that reflects what our senses tell us about what happens both outside our bodies and within the nervous system. It reflects those changes selectively, actively shaping events and imposing on them a reality of its own. Consciousness has developed the ability to override its genetic instructions and to set its own independent course of action.   We all know individuals who can transform hopeless situations into challenges to be overcome, just through the force of their personalities. This ability to persevere despite obstacles and setbacks is the quality people most admire in others, to develop this trait, one must find ways to order consciousness so as to be in control of feelings and thoughts.
 

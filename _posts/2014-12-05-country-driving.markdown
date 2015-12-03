@@ -3,7 +3,7 @@ layout: post
 title: "寻路中国"
 date: 2014-12-05 22:42
 comments: true
-categories: notes
+categories: [summary]
 ---
 断断续续的看完了彼得·海斯勒的[<寻路中国(Country Driving)>] [1],才意识到对这快速发展,魔幻现实的国度失去了太多感觉, 要是早些看到就好了。
 
@@ -16,7 +16,6 @@ categories: notes
 
 比如作者以租车的经历(<small><font color="#fb9090">在香港之后才深有的体会,比如很多港本地人认为内地人不守规距</font></small>),
 >在中国,生活中很多事物都要打制度的插边球; 其中最基本的真理就是,<font color="#800080">事后原谅比事前许可要简单得多</font>
-
 
 
 比如对中国驾驶员的观察,

@@ -5,13 +5,13 @@ date: 2013-04-04 21:18
 comments: true
 categories: notes
 ---
-Preface
+####Preface
 
 The series is a summary from the book [Flow](http://www.amazon.cn/Flow-The-Psychology-of-Optimal-Experience-Mihaly-Csikszentmihalyi/dp/0061339202/ref=sr_1_1?s=books&ie=UTF8&qid=1333304856&sr=1-1#tc_qz_original=93427426), which mainly presents concrete examples and general principles to transform boring and meaningless lives into ones full of enjoyment.
 
-Content
+####Content
 
-We often ask ourselves the similar questions like:How could we have more enjoyable life? When do we feel most happy? 
+We often ask ourselves the similar questions like:<font color="#800080">How could we have more enjoyable life? When do we feel most happy? </font>
 
 Author Mihaly Csikzentmihalyi lists the examples to show that it does not depend on outside events, but,rather, on how we interpret them. Also we cannot reach happiness by consciously searching for it.Because it is by being fully involved with every detail of our lives, whether good or bad, that we find happiness, not by trying to look for it directly. But there is a circuitous path that begins with achieving control over the contents of our consciousness.
 
