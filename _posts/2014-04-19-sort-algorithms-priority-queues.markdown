@@ -5,10 +5,13 @@ date: 2014-04-19 19:19
 comments: true
 categories: [technology, algorithms]
 ---
-
-**Priority Queues** is a data type to find the largest M items in a
+#### Introduction
+Priority Queues is a data type to find the largest M items in a
 stream of N items (Constrict: Not enough memory to store N
-items). Using priority queues is similar to using queues and stacks
+items). 
+
+#### priority-queue implementation based on the binary heap
+Using priority queues is similar to using queues and stacks
 but implementing them efficiently is more challenging.  We consider a
 classic priority-queue implementation based on the **binary heap**
 data structure, where items are kept in an array, subject to certain
@@ -19,15 +22,15 @@ We use array representation of a heap-ordered complete binary tree.
 Because array implementation **does not waste any space on the usual
 pointers** you have in a tree to traverse between parents and
 children. The reason is that we're able to **keep this binary tree as
-balanced as possible, we don't need pointers to figure out the parents
-and children**. we can just read that off directly from the position in
+balanced as possible**, we don't need pointers to figure out the parents
+and children. we can just read that off directly from the position in
 the array.
 
-* The Implementation:
-
-The binary heap is that **parent's key no smaller than children's key**, that's (k is the index):
-: -**set a[k] to a[k/2] when we move up the tree**,
-: -**set a[k] to a[2\*k] or a[2\*k+1] when move down the tree**;
+#### binary heap
+The binary heap is that **parent's key no smaller than children's key**, that's (k is the index),
+>set a[k] to a[k/2] when we move up the tree**
+>
+>set a[k] to a[2\*k] or a[2\*k+1] when move down the tree**
 
 We can take advantage of the capability to move up and down paths in
 the tree without pointers and have guaranteed **logarithmic performance**
@@ -82,8 +85,7 @@ public Key delMax(){
 }
 ```
 
-* Performance Analysis:
-
+#### Performance Analysis:
 For typical applications that **require a large number of intermixed insert and remove the maximum/min operations** in a large priority queue, the elementary implementations using an ordered array or an unordered array require linear time for one of the operations, a heap-based implementation provides a guarantee that both operations complete in **logarithmic time**.
 
 

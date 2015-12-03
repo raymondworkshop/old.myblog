@@ -5,7 +5,7 @@ date: 2014-05-25 22:20
 comments: true
 categories: [technology, algorithms]
 ---
-
+#### Introduction
 Binary search trees (BST) combines the flexibility of insertion in a
 linked list (using two links per node leads to an efficient
 implementation) with the efficiency of search in an ordered array.
@@ -31,7 +31,7 @@ private class Node {
         }
  }
 ```
-* The Implementation:
+####The Implementation:
 
 The search use the recursive algorithm to search for a key, the function get()
 
@@ -76,7 +76,7 @@ private Node put(Node x, Key key, Value val){
     return x;
 }
 ```
-* Performance Analysis:
+####Performance Analysis:
 
 The running times depend on the shapes of the trees, which depends on the **order in which the
 keys come in (insert)**.  (If the key is inserted in natural order, this is no difference from
@@ -89,7 +89,9 @@ partitioning, after the random shuffling, we have the partitioning
 element and then we process everybody to the left independently of
 everybody to the right, so, if N **distinct keys** are inserted into a BST
 **in random order**, the expected number of compares for a
-search/insert is **~2lnN(about 1.39lgN) on the average** . But there's problem that the actual worst
+search/insert is **~2lnN(about 1.39lgN) on the average** . 
+
+But there's problem that the actual worst
 case height if the keys come in in order and reverse order and other
 natural orders (the worst tree shape), that the time could be proportional to ~N .
 
