@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Part two: The Anatomy of Consciousness"
-date: 2013-04-04 21:26
+date: 2012-04-04 21:26
 comments: true
 categories: notes
 ---
