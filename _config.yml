@@ -25,3 +25,6 @@ description: "by muyun_"
 
 author_name: muyun_
 author_email: wenlzhao@gmail.com
+
+gems:
+  - jekyll-feed
