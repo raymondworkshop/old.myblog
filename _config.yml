@@ -15,8 +15,6 @@ maruku:
   png_dir:    images/latex
   png_url:    /images/latex
 
-#delicious plugins 
-#gems: [ jekyll-plugins ] 
   
 #baseurl:     /blog
 

@@ -1,31 +1,397 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>情書</title>
+    <description>by muyun_</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Jan 2016 23:37:51 +0800</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 23:37:51 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>生活的艺术</title>
+        <description>&lt;p&gt;终于看完了林语堂先生的&lt;a href=&quot;http://book.douban.com/subject/1017626/&quot;&gt;《生活的艺术》&lt;/a&gt;，先生分享了自己的思想和生活所得的经验，
+真是太独到了。 读完这本书，发现自己的核还是东方的核， 同时对人性，对生活也有了更好的热爱。&lt;/p&gt;
+
+&lt;p&gt;一，觉醒 － 中国人的哲学观，即我们的人生观和事务观&lt;/p&gt;
+
+&lt;p&gt;中国文化的最高理想人物，是一个对人生有一种建于明慧悟性上的“达观者”（&lt;small&gt;这种达观产生宽宏的怀抱，能使人带着温和的讥评心理度过
+一生，丢开功名利禄，乐天知名地生活。这种达观也产生了自由意识，放荡不羁的爱好，傲骨和漠然的态度&lt;/small&gt;）。&lt;/p&gt;
+
+&lt;p&gt;我们中国人的理智构造：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;伟大的现实主义，不充分的理想主义，很多的幽默感，以及对人生和自然的高度诗意感觉性（敏感性）。&lt;/font&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这种对快乐，痛苦，和人生百态的丰富敏感性，产生一种对人生的适当艺术观念，使中国人很肯定地感到尘世是美满的；其更大的意义是它事实上代表一种近乎哲学的艺术观念。因这理由，中国哲学家的人生观就是诗人的人生观，而且中国哲学是跟诗歌发生联系，而不比西方的哲学是跟科学发生联系的。&lt;/p&gt;
+
+&lt;p&gt;另一方面，我们有浓厚的现实主义，这是一种安于人生现状的态度，一种认为“二鸟在林，不如一鸟在手”的态度；这种现实感觉
+（&lt;small&gt;或者人生智慧&lt;/small&gt;）的主要功用是把人生哲学中一切不必要的东西摒除出去，而把哲学上的问题化减到很简单的地步 - 家庭，生活，大自然和文化的享受－ 同时停止其他不相干的科学训练和智识追求；这么一来，我们的人生智慧也即是一种不耐烦的态度 －一种对形而上学的哲学，以及与人生没有实际关系的智识的不耐烦态度。其结果即，是生活的目的，不是什么形而上的实物，而仅是生活本身。&lt;/p&gt;
+
+&lt;p&gt;中国人的哲学因为具有这种现实主义和极端不相信逻辑及智能，就变成了一种对人生本身有直接亲热感觉的东西，而不肯让它归纳到任何
+一种体系里去。因而中国虽有儒道释三教，每一种教都是宏大的哲学体系，但它们都曾被健全的常识所冲淡，因而都变成追求人生幸福的共同问题。&lt;/p&gt;
+
+&lt;p&gt;有了这种文化和哲学，相比西洋人，中国人比较过着一种接近大自然和儿童时代的生活。在这种生活里，一种不太重视智能，敬重
+肉体也尊崇精神，具有深沉的智慧，轻松的快活和熟悉世故但很孩子气的天真。 归纳起来，这种哲学的特征就是一种以艺术眼光对人生
+的天赋才能（&lt;small&gt;丰富的敏感性&lt;/small&gt;），一种于哲理上有意识的回到简单（&lt;small&gt;伟大的现实主义&lt;/small&gt;），一种合理近情的生活理想（&lt;small&gt;幽默感，现实性&lt;/small&gt;）。 最后的产品就是一种对于诗人，农夫和放浪者的崇拜。&lt;/p&gt;
+
+&lt;p&gt;二，关于人类的观念&lt;/p&gt;
+
+&lt;p&gt;传统的基督教观念有一种着重来世的倾向，拯救问题替代了人生幸福问题。这观念的涵义是人类要怎样才能脱离这个腐败，混乱和灭亡中
+的世界，而到另一个世界里去。因此，就有了永生的观念。罪恶仍是今日通行的基督教教义的根本理论。&lt;/p&gt;
+
+&lt;p&gt;希腊的异教世界是一个绝对不同的世界，希腊的神不过是另一个种族的人，是一族能够永生的巨人，同时地球上的人却不能够。希腊人承
+认人类总有一死的。一旦接受了这种命运后，便感到十分愉快。因为希腊人酷爱这个人生和这个宇宙，他们除了专心致志，科学地去理解
+物质世界外，也应注意于理解人生的真善美。&lt;/p&gt;
+
+&lt;p&gt;中国人认为人类是造物之主，“万物之灵”。在儒家看来，人和天地并列为“三灵”，万物都有生命，或都有神灵依附。在这种用灵魂说为背
+景之下，人自然也被视为神灵的具体表现。这神灵和宇宙间一切生物一样，是由阴阳的成分结合而产生出来的。人即是神灵的具体表现，
+所以在世的时，当然须有一些热情和欲望，这些东西无所谓好坏。在儒家看来，是怎样使这些热情和欲望能够和谐地表现； 可以归纳为
+“让我们做合理近情的人”，就是中庸之道，好像人是介乎天地之间，介乎理想主义和现实主义之间，介乎喜欢一个好的思想和喜爱一盆美
+味的笋炒肉之间，这些都是人之常情。&lt;/p&gt;
+
+&lt;p&gt;这种近情合理的态度造成了一种宽恕哲学，觉得人类的错误和谬行都可以获得宽恕，不论是法律上的，道德上的或政治上的，都可以认为
+是“人之常情”。&lt;/p&gt;
+
+&lt;p&gt;三，我们的动物性遗产&lt;/p&gt;
+
+&lt;p&gt;当我们承认人类不免一死的时候，当我们意识到时间消逝的时候，诗歌和哲学才会产生出来。这种时间消逝的意识是藏在中西一切诗歌的
+背后的 － 人生本是一场梦。&lt;/p&gt;
+
+&lt;p&gt;当我们承认人类的动物性的时候，我们就总有一个填饱肚子的问题；孔子对于人类的天性，有着深切的了解，他把人生的大欲简括于营养和生育二事之下，简单的说来，就是饮食男女。&lt;/p&gt;
+
+&lt;p&gt;只有人类发明了一种文明，温和即文明，因而也有了人类的尊严。&lt;/p&gt;
+
+&lt;p&gt;四，[TODO]&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 +0800</pubDate>
+        <link>/summary/the-art-of-the-life.html</link>
+        <guid isPermaLink="true">/summary/the-art-of-the-life.html</guid>
+        
+        
+        <category>summary</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Some Biases</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;如果你想要说服别人，要诉诸利益&lt;/font&gt;，而非诉诸理性&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;唯一能让你真正保持生机的办法，就是深入挖掘你痴迷的东西&lt;/font&gt;&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;传统中国重视思想却不重视理论，而且不重视逻辑训练&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;知道怎么站在别人的角度思考问题&lt;/font&gt;，这是最重要的； 外交的艺术就是把你的愿望变成别人的愿望&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;可以选择善良，但要有应对复杂的能力&lt;/font&gt;&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;年轻时花精力投入在自我成长上，到某个阶段，&lt;font color=&quot;#800080&quot;&gt;专业的力量会散发出一种独特魅力&lt;/font&gt;&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;念书的唯一目的就是知识，知识与所得财富有正相关；知识与商业报酬之间没有必然联系&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;庆祝每一次胜利，很自豪我做过的那些事&lt;/font&gt;&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;观察他人是如何生活的&lt;/font&gt;，结识来自各个收入水平的人群，并&lt;font color=&quot;#800080&quot;&gt;尝试去理解他们的世界&lt;/font&gt;&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;人若是心灵成熟，或是心智继续成长，就能与人讨论任何事情而不会引人生厌&lt;font color=&quot;#800080&quot;&gt;凡是经由他处理的每件事，都会变的有意义&lt;/font&gt;&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;直面未来生活的各种变故与不确定性，更好地与自己所生活的世界打交道；理解它的复杂性，以及自己在其中扮演的角色，从而拥有一个更美好和富有意义的人生&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;沟通的关键是认知差异； 信任是 了解对方的核心诉求，极力维持&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;有深入的跨国体验&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;男人能力一直在和责任赛跑；有些情况下，被残酷地赋予很难的责任，那也只能硬着头皮继续成长&lt;/font&gt;； 另一种就是能力增长吼
+，视野开阔了，会主动招揽一些责任，使命感； 两者并存&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;一个人不断进步的结果是遇到越来越精彩和优秀的人，你知道他／她真的很优秀，从外在到内心&lt;/font&gt;。
+就因为你变得优秀，你会遇到更优秀的人。 优秀是一种信息素，随风飘散。 &lt;font color=&quot;#800080&quot;&gt;为遇到这些更优秀的人而进步吧，不要停止&lt;/font&gt;。&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;在自己喜欢的人身上用心，在不喜欢自己的人身上健忘&lt;/font&gt;&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&quot;#800080&quot;&gt;社交能力; 知道怎么站在别人的角度思考问题； 尝试理解对方的需求；人际关系的本质是 了解和应对别人的需求 &lt;/font&gt;;
+有一个高质量的朋友圈（价值观一致，有一些相同的爱好，在一起说话，最好有趣一些）&lt;br&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 14 Dec 2015 00:00:00 +0800</pubDate>
+        <link>/diary/summary.html</link>
+        <guid isPermaLink="true">/diary/summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>weekly summary</title>
+        <description>&lt;p&gt;最近有点颓，加油吧，畢竟自己沒有那麼多時間來頹了&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Dec 2015 00:00:00 +0800</pubDate>
+        <link>/diary/weekly-summary.html</link>
+        <guid isPermaLink="true">/diary/weekly-summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>monthly summary</title>
+        <description>&lt;h4 id=&quot;11月发生了些事情，并回家了一趟（回去睡了几天，惭愧）。&quot;&gt;11月发生了些事情，并回家了一趟（回去睡了几天，惭愧）。&lt;/h4&gt;
+
+&lt;h4 id=&quot;希望自己能够好好珍惜时间，好好提升自己。&quot;&gt;希望自己能够好好珍惜时间，好好提升自己。&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;在专业方面：先专注在编程和算法方面吧，接着是系统方面，包括多读些paper.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在软能力方面：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;希望自己在语言方面能够多加强 － 沟通能力&lt;/li&gt;
+&lt;li&gt;多读些其它自己感兴趣的书&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;和人交往&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;这个比较重要&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;健康&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;作息规律&lt;/li&gt;
+&lt;li&gt;加强锻炼&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;要努力&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;要珍惜时间，珍惜机会&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 30 Nov 2015 00:00:00 +0800</pubDate>
+        <link>/diary/month-summary.html</link>
+        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>Summary of the RA work</title>
+        <description>&lt;p&gt;終於完成了這份RA工作，雖然很累，但是還是有不少的收穫；
+稍微接觸到了些最科技前沿，知道professor们都在做些什么，是怎么思考一些问题的。&lt;/p&gt;
+
+&lt;p&gt;前三个月 和 后面的两个月 比較失敗，各種問題吧。
+一個感受就是 以後要多讀paper,多和厲害的人交流，自己在這方面還是需要些加強的，包括交往能力和表達能力；
+在想如果有機會組織些活動的話，即可以鍛鍊組織能力，表達能力， 也可以鍛鍊人際交往能力的。&lt;/p&gt;
+
+&lt;p&gt;另外一個就是要學會怎麼去拒絕別人，這份work自己在后面太拖了。&lt;/p&gt;
+
+&lt;p&gt;在英文speaking and listening方面，一个问题是英文口音問題，另外一個就是 盡量要有些精力去 聽聽。&lt;/p&gt;
+
+&lt;p&gt;人生苦短，盡量做些有意義的事，盡量交些有意思的朋友。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Nov 2015 00:00:00 +0800</pubDate>
+        <link>/diary/summary-ra.html</link>
+        <guid isPermaLink="true">/diary/summary-ra.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>Randomness</title>
+        <description>&lt;h4 id=&quot;randomness-as-a-source-of-efficiency&quot;&gt;Randomness as a source of efficiency&lt;/h4&gt;
+
+&lt;p&gt;Randomization of a part of the control is an essential concept of nature&amp;#39;s strategy.&lt;/p&gt;
+
+&lt;p&gt;[TODO]&lt;/p&gt;
+
+&lt;h4 id=&quot;reference&quot;&gt;reference&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Is the Cosmos Random? from Scientific American [0036-8733] Musser, George yr:2015 vol:313 iss:3 pg:88&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.weibo.com/p/1001603833249125236809&quot;&gt;该死就死的市场经济&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Oct 2015 00:00:00 +0800</pubDate>
+        <link>/technology/randomness.html</link>
+        <guid isPermaLink="true">/technology/randomness.html</guid>
+        
+        
+        <category>technology</category>
+        
+      </item>
+    
+      <item>
+        <title>Logic Gate</title>
+        <description>&lt;h4 id=&quot;xor-exclusive-or-1&quot;&gt;XOR - exclusive or &lt;a href=&quot;http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/BitOp/xor.html&quot;&gt;1&lt;/a&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;used in cryptography because it let&amp;#39;s us &lt;strong&gt;&amp;#39;flip&amp;#39; the bits&lt;/strong&gt; using a mask in a reversable operations&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;p1 (+) p2 (+) ... (+) pn is true if the number of variables with the value true (1) is odd, because the XOR is associative&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;XOR is the same as addition modulo 2&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;p1 (+) p2 (+) ... (+) pn == ( p1 + p2 + ... + pn) % 2 - dividing mod 2 is one way to determine if a number is even or odd&lt;/li&gt;
+&lt;li&gt;Only the variables that have value 1 contribute to the sum, that determines how many variables have value 1&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;doing parity check&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;kind of checksum: use the XOR to check whether there is the flip &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 07 Oct 2015 00:00:00 +0800</pubDate>
+        <link>/technology/logicgate.html</link>
+        <guid isPermaLink="true">/technology/logicgate.html</guid>
+        
+        
+        <category>technology</category>
+        
+      </item>
+    
+      <item>
+        <title>monthly summary</title>
+        <description>&lt;p&gt;整个的九月份状态奇差，一个是一直处于紧张状态（没有很好的调节），一个是作息不规律（晚睡）。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Oct 2015 00:00:00 +0800</pubDate>
+        <link>/diary/month-summary.html</link>
+        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>Similarity Search</title>
+        <description>&lt;h4 id=&quot;similarity-search-1&quot;&gt;Similarity Search [1]&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Similarity Search in high-dimensional spaces becomes increasingly important in databases, data mining, and search engines,particularly for content-based search of feature-rich data such as audio recordings, digital photos, digital videos and other sensor data. Since feature-rich data objects are typically represented as high-dimensional feature vectors.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The problem of similarity search refers to finding objects that have similar characteristics to the query object.  Similarity search is usually implemented as K-Nearest Neighbor (KNN) or Approximate Nearest Neighbors (ANN) search in high-dim feature-vector space.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt; KNN: find  the K objects that are closest to q according to a distance function&lt;/li&gt;
+&lt;li&gt; ANN: find K objects whose distances are within a small factor (1 + x) of the true K-nearest neighbors&amp;#39;s distances&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;An ideal indexing scheme for similarity search:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  Accurate: very close to those of the brute-force, linear-scan approach&lt;/li&gt;
+&lt;li&gt;  Time efficient: O(logN)&lt;/li&gt;
+&lt;li&gt;  Space efficient: the index data structure may even fit into main memory&lt;/li&gt;
+&lt;li&gt;  High-dimensional:  the indexing scheme should work well for datasets with very high intrinsic
+dimensionalities&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;the-related-approaches&quot;&gt;The related approaches&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;tree-based indexing methods for K-Nearest Neighbor(KNN)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt; K-D tree: not time efficient for data with high-dim&lt;/li&gt;
+&lt;li&gt;TODO&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;the indexing method: LSH  [1]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;use hash functions to &lt;strong&gt;map similar objects into the same hash buckets with high probability&lt;/strong&gt; .&lt;/p&gt;
+
+&lt;p&gt;using LSH functions to select candidate objects for a given query q,
+  and ranking the candidate objects according to their distances to q.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Drawback: to achieve high search accuracy, the LSH method needs to use multiple hash tables to produce a good candidate set.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experimental studies show that the basic LSH needs hundreds hash tables to achieve good search accuracy for high-dimensional datasets.&lt;/li&gt;
+&lt;li&gt;The size of each hash table is proportional to the number of data objects, since each table has &lt;strong&gt;as many
+entries as the number of data objects&lt;/strong&gt; in the dataset.
+When the space requirement for the hash tables exceeds the main memory size, looking up a hash bucket may require a disk I/O, causing substantial delay to the query process.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The approach does not satisfy the space-efficiency requirement.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Multi-probe LSH [1]&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The main idea is to build on the basic LSH indexing method, but to use &lt;strong&gt;a carefully derived probing
+sequence to look up multiple buckets&lt;/strong&gt; that have a high probability of containing the nearest neighbors of a query object.&lt;/li&gt;
+&lt;li&gt;Given the property of LSH, if an object is close to a query object q but not hashed to the same bucket as q, it is likely to be in &lt;strong&gt;a buckets  that is &amp;quot;close by&amp;quot;&lt;/strong&gt; (i.e. the hash values of the two buckets only differ slightly).&lt;/li&gt;
+&lt;li&gt;By probing multiple buckets in each hash table, the method requires far fewer hash tables than previous LSH methods&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;reference&quot;&gt;reference&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt; &amp;quot;Multi-probe LSH: Efficient indexing for high-dimensional similarity search&amp;quot; by Q.Lv, W.Josephson, Z. Wang, M. Charikar, and K. Li, VLDB &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 04 Sep 2015 00:00:00 +0800</pubDate>
+        <link>/technology/algorithms/similaritysearch.html</link>
+        <guid isPermaLink="true">/technology/algorithms/similaritysearch.html</guid>
+        
+        
+        <category>technology</category>
+        
+        <category>algorithms</category>
+        
+      </item>
+    
+      <item>
+        <title>工作</title>
+        <description>&lt;h4 id=&quot;在大公司，小公司-startup-，学校的ra-都待了一遍，什么是觉得还不错的工作呢？&quot;&gt;在大公司，小公司(startup)，学校的RA 都待了一遍，什么是觉得还不错的工作呢？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;做的事情有前景，有意义，有点挑战力&lt;/li&gt;
+&lt;li&gt;老板，有相似的价值观，有能力并且愿意思考下属的发展空间&lt;/li&gt;
+&lt;li&gt;尊重工程师的view&lt;/li&gt;
+&lt;li&gt;稍微有些掌控力和自由度&lt;/li&gt;
+&lt;li&gt;待遇還行&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;想要什么样的生活呢？&quot;&gt;想要什么样的生活呢？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;稍微自由（时间，掌控力，财务）&lt;/li&gt;
+&lt;li&gt;亲密的家人和朋友&lt;/li&gt;
+&lt;li&gt;自己喜欢做的事&lt;/li&gt;
+&lt;li&gt;能为社会做点力所能及的贡献 &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 16 Aug 2015 00:00:00 +0800</pubDate>
+        <link>/diary/work.html</link>
+        <guid isPermaLink="true">/diary/work.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
 =======
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
