@@ -3,7 +3,7 @@ layout: post
 title: "Part one: Happiness Revisited"
 date: 2012-04-04 21:18
 comments: true
-categories: notes
+categories: [summary]
 ---
 The series is a summary from the book [Flow](http://www.amazon.cn/Flow-The-Psychology-of-Optimal-Experience-Mihaly-Csikszentmihalyi/dp/0061339202/ref=sr_1_1?s=books&ie=UTF8&qid=1333304856&sr=1-1#tc_qz_original=93427426), which mainly presents concrete examples and general principles to transform boring and meaningless lives into ones full of enjoyment.  
 

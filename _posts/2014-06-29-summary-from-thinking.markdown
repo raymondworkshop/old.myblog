@@ -3,7 +3,7 @@ layout: post
 title: "思考的技术"
 date: 2014-06-29 16:23
 comments: true
-categories: notes
+categories: [summary]
 ---
 总结自[思考的技术](http://book.douban.com/subject/3138847/)
 
