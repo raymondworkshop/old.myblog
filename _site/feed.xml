@@ -5,36 +5,35 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jan 2016 17:10:12 +0800</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2016 17:10:12 +0800</lastBuildDate>
+    <pubDate>Tue, 05 Jan 2016 20:56:03 +0800</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2016 20:56:03 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>New Year Challenges</title>
-        <description>&lt;ul&gt;
-&lt;li&gt;New Year Challenges
+        <description>&lt;h4 id=&quot;珍惜时间，珍惜机会，好好努力&quot;&gt;珍惜时间，珍惜机会，好好努力&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;英文流利 ()&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;简单的粤语对话（上次的粤语课有点失败）&quot;&gt;- 简单的粤语对话（上次的粤语课有点失败）&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;简单的粤语对话（去年的粤语课有点失败）&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;学会游泳&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;作息规律&quot;&gt;- 作息规律&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;除专业书外，每月读一本书&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;去北欧一趟&quot;&gt;- 去北欧一趟&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;有机会参加（或参与组织）一个有意义的活动&lt;/li&gt;
+&lt;li&gt; &lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;作息规律&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;学会游泳&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;素描练习&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;除专业书外，每月读一本书&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;有机会参加（或参与组织）一个有意义的活动&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;去北欧一趟&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 05 Jan 2016 00:00:00 +0800</pubDate>
@@ -49,7 +48,7 @@
       <item>
         <title>生活的艺术</title>
         <description>&lt;p&gt;终于看完了林语堂先生的&lt;a href=&quot;http://book.douban.com/subject/1017626/&quot;&gt;《生活的艺术》&lt;/a&gt;，先生分享了自己的思想和生活所得的经验，
-真是太独到了。 读完这本书，发现自己的核还是东方的核， 同时对人性，对生活也有了更好的热爱。&lt;/p&gt;
+真是太独到了。 发现对人性，对生活也有了更好的热爱。&lt;/p&gt;
 
 &lt;p&gt;一，觉醒 － 中国人的哲学观，即我们的人生观和事务观&lt;/p&gt;
 
@@ -97,13 +96,14 @@
 &lt;p&gt;当我们承认人类不免一死的时候，当我们意识到时间消逝的时候，诗歌和哲学才会产生出来。这种时间消逝的意识是藏在中西一切诗歌的
 背后的 － 人生本是一场梦。&lt;/p&gt;
 
-&lt;p&gt;当我们承认人类的动物性的时候，我们就总有一个填饱肚子的问题；孔子对于人类的天性，有着深切的了解，他把人生的大欲简括于营养和生育二事之下，简单的说来，就是饮食男女。&lt;/p&gt;
+&lt;p&gt;当我们承认人类的动物性的时候，我们就总有一个填饱肚子的问题；孔子对于人类的天性，有着深切的了解，他把人生的大欲简括于营养
+和生育二事之下，简单的说来，就是饮食男女(Note: &lt;small&gt;电影《饮食男女》by 李安&lt;/small&gt;)。&lt;/p&gt;
 
-&lt;p&gt;只有人类发明了一种文明，温和即文明，因而也有了人类的尊严。&lt;/p&gt;
+&lt;p&gt;只有我们人类发明了一种文明，因而也有了人类的尊严，温和即文明。&lt;/p&gt;
 
 &lt;p&gt;四，论近人情&lt;/p&gt;
 
-&lt;p&gt;[TODO]&lt;/p&gt;
+&lt;p&gt;待续...&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Jan 2016 00:00:00 +0800</pubDate>
         <link>/summary/the-art-of-the-life.html</link>
@@ -111,83 +111,6 @@
         
         
         <category>summary</category>
-        
-      </item>
-    
-      <item>
-        <title>A review of Computer System</title>
-        <description>&lt;h4 id=&quot;optimizing-program-performance-ch5&quot;&gt;Optimizing Program Performance [ch5]&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;trade-off between how easy a program is to implement and maintain, and how fast it runs&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Select an appropriate set of algorithms and data structures&lt;/li&gt;
-&lt;li&gt;make the compiler optimize the code effectively&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;The limitations of optimizing compilers - &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;reducing excessive function calls&lt;/li&gt;
-&lt;li&gt;eliminating unneeded memory references - introduce temp variables to hold intermediate rsults&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;program profiling&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Amdahl&amp;#39;s Law&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The performance gain depends both on &lt;strong&gt;xhow much we improve this part&lt;/strong&gt;
-and &lt;strong&gt;how large a fraction&lt;/strong&gt; of the overall time this part originally required&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;the-memory-hierarchy-ch6&quot;&gt;The Memory Hierarchy [ch6]&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Storage Technologies - trade-off between price and performance (access times)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Static Random-Access memory(SRAM) - stable - cache memory&lt;/li&gt;
-&lt;li&gt;Dynamic RAM - sensitive to any disturbance - main memory&lt;/li&gt;
-&lt;li&gt;Solid state dist (SSD)&lt;/li&gt;
-&lt;li&gt;rotating disk&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;DRAM and disk access times are much larger than CPU CYCLE TIMES&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;So systems bridge the gaps by organizing memory as a hierarchy of storage devices&lt;/li&gt;
-&lt;li&gt; locality - try to bridge the processor-memory gap
-
-&lt;ul&gt;
-&lt;li&gt;temporal locality - locate same data objects multiple time&lt;/li&gt;
-&lt;li&gt;spatial locality - nearby memory location&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;programs with good locality access most of their data from fast cache memories&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Exploiting SRAM-based cache memories
-
-&lt;ul&gt;
-&lt;li&gt;programs that fetch data primarily from cache memories can run much faster than ones that fetch data primarily
-from memory&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;temporal locality -  using a data object as often as possible once it has been read from memory&lt;/li&gt;
-&lt;li&gt;spatial locality - by reading data objects sequentially, with stride 1, in the order they are stored in memory&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;reference&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Dec 2015 00:00:00 +0800</pubDate>
-        <link>/technology/system/note/a-review-of-computer-system.html</link>
-        <guid isPermaLink="true">/technology/system/note/a-review-of-computer-system.html</guid>
-        
-        
-        <category>technology</category>
-        
-        <category>system</category>
-        
-        <category>note</category>
         
       </item>
     
@@ -434,6 +357,36 @@ sequence to look up multiple buckets&lt;/strong&gt; that have a high probability
         <category>technology</category>
         
         <category>algorithms</category>
+        
+      </item>
+    
+      <item>
+        <title>工作</title>
+        <description>&lt;h4 id=&quot;在大公司，小公司-startup-，学校的ra-都待了一遍，什么是觉得还不错的工作呢？&quot;&gt;在大公司，小公司(startup)，学校的RA 都待了一遍，什么是觉得还不错的工作呢？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;做的事情有前景，有意义，有点挑战力&lt;/li&gt;
+&lt;li&gt;老板，有相似的价值观，有能力并且愿意思考下属的发展空间&lt;/li&gt;
+&lt;li&gt;尊重工程师的view&lt;/li&gt;
+&lt;li&gt;稍微有些掌控力和自由度&lt;/li&gt;
+&lt;li&gt;待遇還行&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;想要什么样的生活呢？&quot;&gt;想要什么样的生活呢？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;稍微自由（时间，掌控力，财务）&lt;/li&gt;
+&lt;li&gt;亲密的家人和朋友&lt;/li&gt;
+&lt;li&gt;自己喜欢做的事&lt;/li&gt;
+&lt;li&gt;能为社会做点力所能及的贡献 &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 16 Aug 2015 00:00:00 +0800</pubDate>
+        <link>/diary/work.html</link>
+        <guid isPermaLink="true">/diary/work.html</guid>
+        
+        
+        <category>diary</category>
         
       </item>
     
