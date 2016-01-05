@@ -5,7 +5,7 @@ date: 2016-01-05
 comments: true
 categories: [diary]
 ---
-* New Year Challenges
+* 珍惜时间，好好努力
   - 英文流利 ()
   - 简单的粤语对话（上次的粤语课有点失败）
   - 
