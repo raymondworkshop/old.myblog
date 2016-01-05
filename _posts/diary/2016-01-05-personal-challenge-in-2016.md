@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Year Challenges"
+title: "Personal Challenge in 2016"
 date: 2016-01-05
 comments: true
 categories: [diary]
@@ -15,7 +15,7 @@ categories: [diary]
   * 素描练习
     -  
   
-  * 除专业书外，每月读一本书
+  * 除专业书外，每两月读一本书
   * 有机会参加（或参与组织）一个有意义的活动
     -  
   
