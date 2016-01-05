@@ -4,7 +4,7 @@ title: "To Improve in Next Few Months"
 date: 2014-05-04 21:48
 comments: true
 published: false
-categories: thinking
+categories: [ diary ]
 ---
 接下来几个月需要改进的地方,
 **主要是感觉最近失去了生活目标和激情**
