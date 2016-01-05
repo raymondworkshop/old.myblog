@@ -43,6 +43,7 @@ categories: [technology, system, note]
    - spatial locality - by reading data objects sequentially, with stride 1, in the order they are stored in memory
 
 
-#### 
+#### Linking
+
 
 reference
