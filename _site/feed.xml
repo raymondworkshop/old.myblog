@@ -5,9 +5,36 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jan 2016 16:56:30 +0800</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2016 16:56:30 +0800</lastBuildDate>
+    <pubDate>Tue, 05 Jan 2016 17:08:52 +0800</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2016 17:08:52 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>new-year-challenges</title>
+        <description>&lt;h4 id=&quot;希望自己能够好好珍惜时间，好好提升自己。&quot;&gt;希望自己能够好好珍惜时间，好好提升自己。&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;New Year Challenges&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;英文流利 ()&lt;/li&gt;
+&lt;li&gt;简单的粤语对话（上次的粤语课有点失败）&lt;/li&gt;
+&lt;li&gt;学会游泳&lt;/li&gt;
+&lt;li&gt;作息规律&lt;/li&gt;
+&lt;li&gt;除专业书外，每月读一本书&lt;/li&gt;
+&lt;li&gt;去北欧一趟&lt;/li&gt;
+&lt;li&gt;有机会参加（或参与组织）一个有意义的活动&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 05 Jan 2016 00:00:00 +0800</pubDate>
+        <link>/diary/new-year-challenges.html</link>
+        <guid isPermaLink="true">/diary/new-year-challenges.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
     
       <item>
         <title>生活的艺术</title>
@@ -228,47 +255,6 @@ from memory&lt;/li&gt;
         <pubDate>Thu, 10 Dec 2015 00:00:00 +0800</pubDate>
         <link>/diary/weekly-summary.html</link>
         <guid isPermaLink="true">/diary/weekly-summary.html</guid>
-        
-        
-        <category>diary</category>
-        
-      </item>
-    
-      <item>
-        <title>monthly summary</title>
-        <description>&lt;h4 id=&quot;11月发生了些事情，并回家了一趟（回去睡了几天，惭愧）。&quot;&gt;11月发生了些事情，并回家了一趟（回去睡了几天，惭愧）。&lt;/h4&gt;
-
-&lt;h4 id=&quot;希望自己能够好好珍惜时间，好好提升自己。&quot;&gt;希望自己能够好好珍惜时间，好好提升自己。&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;在专业方面：先专注在编程和算法方面吧，接着是系统方面，包括多读些paper.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;在软能力方面：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;希望自己在语言方面能够多加强 － 沟通能力&lt;/li&gt;
-&lt;li&gt;多读些其它自己感兴趣的书&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;和人交往&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;这个比较重要&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;健康&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;作息规律&lt;/li&gt;
-&lt;li&gt;加强锻炼&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;要努力&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;要珍惜时间，珍惜机会&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 30 Nov 2015 00:00:00 +0800</pubDate>
-        <link>/diary/month-summary.html</link>
-        <guid isPermaLink="true">/diary/month-summary.html</guid>
         
         
         <category>diary</category>

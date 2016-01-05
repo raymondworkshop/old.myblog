@@ -8,8 +8,8 @@ categories: [diary]
 
 #### 希望自己能够好好珍惜时间，好好提升自己。
 
-* New year challenges
-  - 英文流利
+* New Year Challenges
+  - 英文流利 ()
   - 简单的粤语对话（上次的粤语课有点失败）
   
   - 学会游泳
