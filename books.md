@@ -1,6 +1,6 @@
 ---
 layout: post
-title: books
+title: Courses
 ---
 ####Courses Ongoing
    * Algorithms
