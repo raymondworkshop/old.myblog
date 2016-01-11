@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jan 2016 16:21:59 +0800</pubDate>
-    <lastBuildDate>Wed, 06 Jan 2016 16:21:59 +0800</lastBuildDate>
+    <pubDate>Mon, 11 Jan 2016 18:11:32 +0800</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2016 18:11:32 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -154,6 +154,125 @@
         
         
         <category>summary</category>
+        
+      </item>
+    
+      <item>
+        <title>A review of Computer System</title>
+        <description>&lt;h4 id=&quot;optimizing-program-performance-ch5&quot;&gt;Optimizing Program Performance [ch5]&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;trade-off between how easy a program is to implement and maintain, and how fast it runs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Select an appropriate set of algorithms and data structures&lt;/li&gt;
+&lt;li&gt;make the compiler optimize the code effectively&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The limitations of optimizing compilers - &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;reducing excessive function calls&lt;/li&gt;
+&lt;li&gt;eliminating unneeded memory references - introduce temp variables to hold intermediate rsults&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;program profiling&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Amdahl&amp;#39;s Law&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The performance gain depends both on &lt;strong&gt;xhow much we improve this part&lt;/strong&gt;
+and &lt;strong&gt;how large a fraction&lt;/strong&gt; of the overall time this part originally required&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;the-memory-hierarchy-ch6&quot;&gt;The Memory Hierarchy [ch6]&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Storage Technologies - &lt;strong&gt;trade-off between price and performance (access times)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Static Random-Access memory(SRAM) - stable - cache memory&lt;/li&gt;
+&lt;li&gt;Dynamic RAM - sensitive to any disturbance - main memory&lt;/li&gt;
+&lt;li&gt;Solid state dist (SSD)&lt;/li&gt;
+&lt;li&gt;rotating disk&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;DRAM and disk access times are much larger than CPU CYCLE TIMES&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;So systems bridge the gaps by organizing memory as a hierarchy of storage devices&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;locality - try to bridge the processor-memory gap&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;temporal locality - locate same data objects multiple time&lt;/li&gt;
+&lt;li&gt;spatial locality - nearby memory location&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;programs with good locality access most of their data from fast cache memories&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Exploiting SRAM-based cache memories
+
+&lt;ul&gt;
+&lt;li&gt;programs that fetch data primarily from cache memories can run much faster than ones that fetch data primarily
+from memory&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;temporal locality -  using a data object as often as possible once it has been read from memory&lt;/li&gt;
+&lt;li&gt;spatial locality - by reading data objects sequentially, with stride 1, in the order they are stored in memory&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;linking-ch7-enable-separate-compilation-just-only-recompile-one-source-and-relink&quot;&gt;Linking [ch7] - enable separate compilation (just only recompile one source and relink )&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Linking - concatenates blocks together, and decides on &lt;strong&gt;run-time locations&lt;/strong&gt; for the concatenated blocks&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;symbol resolution step -  symbol table in .symtab
+
+&lt;ul&gt;
+&lt;li&gt;associate each global symbol (functions and global variables) reference with a &lt;strong&gt;unique&lt;/strong&gt; symbol definition&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;relocation - associate &lt;strong&gt;a memory location with each symbol&lt;/strong&gt; definition, and then make them point to the memory
+location
+
+&lt;ul&gt;
+&lt;li&gt;meger all sections of the same type into a new aggregate section&lt;/li&gt;
+&lt;li&gt;relocate symbol references so that they point to the correct run-time addresses&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;linking with static libraries&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;related functions can be compiled into separate object modules and then packaged in a single static library file;
+At link time, the linker will &lt;strong&gt;copy only the object modules&lt;/strong&gt;(symbol resolution) that are referenced by the program.&lt;/li&gt;
+&lt;li&gt;advantages
+
+&lt;ul&gt;
+&lt;li&gt;need to maintain and update the static libraries periodically&lt;/li&gt;
+&lt;li&gt;At run time, the code of the functions like I/O functions is duplicated in the text segment of each running process&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;dynamic linking with shared libraries&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a single copy of the .text section of a shared libray in memory can be &lt;strong&gt;shared&lt;/strong&gt; by different running&lt;/li&gt;
+&lt;li&gt;the basic idea is to &lt;strong&gt;link the relocation and symbol table info&lt;/strong&gt; when the executable file is created, and then
+complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynamically when the program is loaded&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;exceptional-control-flow-ch8&quot;&gt;Exceptional Control Flow [ch8]&lt;/h4&gt;
+
+&lt;p&gt;reference&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Dec 2015 00:00:00 +0800</pubDate>
+        <link>/technology/system/note/a-review-of-computer-system.html</link>
+        <guid isPermaLink="true">/technology/system/note/a-review-of-computer-system.html</guid>
+        
+        
+        <category>technology</category>
+        
+        <category>system</category>
+        
+        <category>note</category>
         
       </item>
     
@@ -400,36 +519,6 @@ sequence to look up multiple buckets&lt;/strong&gt; that have a high probability
         <category>technology</category>
         
         <category>algorithms</category>
-        
-      </item>
-    
-      <item>
-        <title>工作</title>
-        <description>&lt;h4 id=&quot;在大公司，小公司-startup-，学校的ra-都待了一遍，什么是觉得还不错的工作呢？&quot;&gt;在大公司，小公司(startup)，学校的RA 都待了一遍，什么是觉得还不错的工作呢？&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;做的事情有前景，有意义，有点挑战力&lt;/li&gt;
-&lt;li&gt;老板，有相似的价值观，有能力并且愿意思考下属的发展空间&lt;/li&gt;
-&lt;li&gt;尊重工程师的view&lt;/li&gt;
-&lt;li&gt;稍微有些掌控力和自由度&lt;/li&gt;
-&lt;li&gt;待遇還行&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;想要什么样的生活呢？&quot;&gt;想要什么样的生活呢？&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;稍微自由（时间，掌控力，财务）&lt;/li&gt;
-&lt;li&gt;亲密的家人和朋友&lt;/li&gt;
-&lt;li&gt;自己喜欢做的事&lt;/li&gt;
-&lt;li&gt;能为社会做点力所能及的贡献 &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 16 Aug 2015 00:00:00 +0800</pubDate>
-        <link>/diary/work.html</link>
-        <guid isPermaLink="true">/diary/work.html</guid>
-        
-        
-        <category>diary</category>
         
       </item>
     
