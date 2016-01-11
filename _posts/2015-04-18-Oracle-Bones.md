@@ -3,7 +3,7 @@ layout: post
 title: "甲骨文"
 date: 2015-04-18 12:30
 comments: true
-categories: notes
+categories: [books]
 
 ---
 摘錄自彼得·海斯勒的[甲骨文](http://book.douban.com/subject/6539859/)
