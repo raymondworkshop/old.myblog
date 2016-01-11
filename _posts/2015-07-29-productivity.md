@@ -16,5 +16,11 @@ categories: [summary]
 #### hard problems
   * break it down
 
-#### TODO
+#### 设计思维
+  * 搞清自身需求（比如能给自己带来什么？） 进而定义真正的问题
+
+#### reference
+[1] 设计思维
+
+
 

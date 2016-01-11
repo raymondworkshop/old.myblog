@@ -2,8 +2,8 @@
 layout: post
 title: papers
 ---
+#### papers summary
 
-<u1 class="archive">
-     <li><a href="http://blog.acolyer.org/">The morning paper</a></li>
-     <li><a href="http://arxiv.org/">arXiv</a></li>
-</u1>
+#### reference:
+  * [The morning paper] (http://blog.acolyer.org)
+  * [arXiv] (http://arxiv.org/)
