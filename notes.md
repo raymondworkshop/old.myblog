@@ -1,12 +1,12 @@
 ---
 layout: default
-title: notes
+title: books
 ---
 ## [notes]({{page.url}})
 <div class="postcontent archive">
   <ul class="archive">
   {% for post in site.posts %}
-    {% if post.categories.first == "notes"  %}
+    {% if post.categories.first == "books"  %}
       <li>
       <a href="{{ post.url }}"> {{ post.title }}</a>
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
