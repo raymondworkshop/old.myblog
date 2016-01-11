@@ -1,8 +1,7 @@
 ---
 layout: post
-title: notes
+title: book notes
 --- 
-#### book notes
 <div class="postcontent archive">
   <ul class="archive">
   {% for post in site.posts %}
