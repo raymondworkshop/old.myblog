@@ -5,8 +5,7 @@ date: 2016-01-03
 comments: true
 categories: [summary]
 ---
-终于看完了林语堂先生的[《生活的艺术》](http://book.douban.com/subject/1017626/)，先生主要分享了自己的思想和生活所得的经验，
-真是太独到了。 
+终于看完了林语堂先生的[《生活的艺术》](http://book.douban.com/subject/1017626/)，先生主要分享了自己的思想和生活所得的经验。 
 
 一，觉醒 － 中国人的哲学观，即我们的人生观和事务观
 
