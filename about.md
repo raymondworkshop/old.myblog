@@ -4,4 +4,4 @@ title: About
 ---
 ## [About]({{page.title}})
 
-A designer and programmer : email/g: wenlzhao@gmail.com
+A designer and engineer : email/g: wenlzhao@gmail.com
