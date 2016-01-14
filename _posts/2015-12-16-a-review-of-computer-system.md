@@ -66,7 +66,8 @@ categories: [technology, system, note]
    - the basic idea is to **link the relocation and symbol table info** when the executable file is created, and then
      complete the linking process (**code and data** ) dynamically when the program is loaded
 
-#### Exceptional Control Flow [ch8]
+#### Exceptional Control Flow (ECF) [ch8]
+ * 
 
 #### Virtual Memory [ch9]
 
