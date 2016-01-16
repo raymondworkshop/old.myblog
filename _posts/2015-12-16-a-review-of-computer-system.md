@@ -3,7 +3,7 @@ layout: post
 title: "A review of Computer System"
 date: 2015-12-16
 comments: true
-categories: [technology, system, note]
+categories: [technology, system, summary]
 ---
 
 ####Optimizing Program Performance [ch5]
@@ -67,8 +67,25 @@ categories: [technology, system, note]
      complete the linking process (**code and data** ) dynamically when the program is loaded
 
 #### Exceptional Control Flow (ECF) [ch8]
- * 
+ * control flow (a sequence of control transfer) of the processor
+   - control transfer - from the address ak to ak+1
 
+ * Exception - a change in the processor's state (event) triggers an abrupt control tansfer (an exception)
+   - **an abrupt change in the control flow** in response to some change in the processor's state
+   - **The change in processor's state** is known as an event
+   
+   - interrutp handling - occurs as a result of events in I/O device
+   - traps handling - a procedure-like interface between user programs and the kernel known as a system call
+   - fault handling - result from error conditions
+   - abort handling
+
+ * process -
+   - an independent logical control flow
+   - a private address space
+
+   - concurrent flows - a logical flow whose execution overlaps in time with another
+   - signals
+ 
 #### Virtual Memory [ch9]
 
 #### Network programming
