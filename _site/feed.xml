@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 20:00:15 +0800</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 20:00:15 +0800</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2016 01:13:52 +0800</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2016 01:13:52 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -48,7 +48,7 @@
     
       <item>
         <title>生活的艺术</title>
-        <description>&lt;p&gt;终于看完了林语堂先生的&lt;a href=&quot;http://book.douban.com/subject/1017626/&quot;&gt;《生活的艺术》&lt;/a&gt;，先生主要分享了自己的思想和生活所得的经验。 希望像先生一样能够认真的生活。&lt;/p&gt;
+        <description>&lt;p&gt;林语堂先生的&lt;a href=&quot;http://book.douban.com/subject/1017626/&quot;&gt;《生活的艺术》&lt;/a&gt;主要分享了先生自己的思想和生活所得的经验。 希望像先生一样能够认真的生活。&lt;/p&gt;
 
 &lt;p&gt;一，觉醒 － 中国人的哲学观，即我们的人生观和事务观&lt;/p&gt;
 
@@ -261,7 +261,30 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
 &lt;h4 id=&quot;exceptional-control-flow-ecf-ch8&quot;&gt;Exceptional Control Flow (ECF) [ch8]&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;control flow (a sequence of control transfer) of the processor&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;control transfer - from the address ak to ak+1&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Exception - a change in the processor&amp;#39;s state (event) triggers an abrupt control tansfer (an exception)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;an abrupt change in the control flow&lt;/strong&gt; in response to some change in the processor&amp;#39;s state&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The change in processor&amp;#39;s state&lt;/strong&gt; is known as an event&lt;/li&gt;
+&lt;li&gt;interrutp handling - occurs as a result of events in I/O device&lt;/li&gt;
+&lt;li&gt;traps handling - a procedure-like interface between user programs and the kernel known as a system call&lt;/li&gt;
+&lt;li&gt;fault handling - result from error conditions&lt;/li&gt;
+&lt;li&gt;abort handling&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;process -&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an independent logical control flow&lt;/li&gt;
+&lt;li&gt;a private address space&lt;/li&gt;
+&lt;li&gt;concurrent flows - a logical flow whose execution overlaps in time with another&lt;/li&gt;
+&lt;li&gt;signals&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;[TODO]&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;virtual-memory-ch9&quot;&gt;Virtual Memory [ch9]&lt;/h4&gt;
@@ -270,18 +293,23 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
 
 &lt;h4 id=&quot;concurrent-programming&quot;&gt;concurrent programming&lt;/h4&gt;
 
-&lt;p&gt;reference&lt;/p&gt;
+&lt;h4 id=&quot;reference&quot;&gt;reference&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://csapp.cs.cmu.edu/public/code.html&quot;&gt;Computer Systems: A Programmer&amp;#39;s Perspective, 2/E&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Memory/introCache.html&quot;&gt;Introduction to Caches&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 16 Dec 2015 00:00:00 +0800</pubDate>
-        <link>/technology/system/note/a-review-of-computer-system.html</link>
-        <guid isPermaLink="true">/technology/system/note/a-review-of-computer-system.html</guid>
+        <link>/technology/system/summary/a-review-of-computer-system.html</link>
+        <guid isPermaLink="true">/technology/system/summary/a-review-of-computer-system.html</guid>
         
         
         <category>technology</category>
         
         <category>system</category>
         
-        <category>note</category>
+        <category>summary</category>
         
       </item>
     

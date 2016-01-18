@@ -84,7 +84,8 @@ categories: [technology, system, summary]
    - a private address space
 
    - concurrent flows - a logical flow whose execution overlaps in time with another
-   - signals
+   - signals  
+   - [TODO]
  
 #### Virtual Memory [ch9]
 
@@ -92,4 +93,8 @@ categories: [technology, system, summary]
 
 #### concurrent programming
 
-reference
+#### reference 
+ * [Computer Systems: A Programmer's Perspective, 2/E] (http://csapp.cs.cmu.edu/public/code.html)
+ * [Introduction to Caches] (http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Memory/introCache.html)
+
+
