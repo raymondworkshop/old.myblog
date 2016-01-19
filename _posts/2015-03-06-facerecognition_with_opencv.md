@@ -49,7 +49,6 @@ categories: [technology, algorithms]
                  
 				 
 #####  Fisherfaces
-          1.
 		  
 #####  Local Binary Patterns Histograms (LBPH)
           1. The idea is that the focus is only on extracting local features of an object, thus the features in this waywill have a low-dim implicitly. 
@@ -87,18 +86,18 @@ categories: [technology, algorithms]
 			  
 
 
-####  *The Performance*
+####  The Performance
 
-#####  Receiver operating characteristic ( [ROC] [4] )
-        1.  A ROC space is defined by TAR (I.e., the rate of genuine attempts accepted) and FAR(I.e., the rate of
+   * Receiver operating characteristic ( [ROC] [4] )
+       - A ROC space is defined by TAR (I.e., the rate of genuine attempts accepted) and FAR(I.e., the rate of
         impostor attempts accepted) as y and x axes respectively, which depicts relative trade-offs between
         true positive (benefits) and false positive (costs).
 
-#####  Cumulative Match Characteristic (CMC)
-         1. It plots the probability of identification against the returned 1:N candidate list size.
+   * Cumulative Match Characteristic (CMC)
+       - It plots the probability of identification against the returned 1:N candidate list size.
            It shows the probability that a given user appears in different sized candidate lists.
         
-        
+#### Reference        
  [1]: http://docs.opencv.org/trunk/modules/contrib/doc/facerec/ "Face Recognition with OpenCV"
  [2]: http://en.wikipedia.org/wiki/Eigenface/ "Eigenface"
  [3]: http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.htm "FaceRecognizer API"
