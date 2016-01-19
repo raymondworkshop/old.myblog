@@ -98,7 +98,7 @@ categories: [technology, algorithms]
            It shows the probability that a given user appears in different sized candidate lists.
         
 #### Reference        
- [1]: http://docs.opencv.org/trunk/modules/contrib/doc/facerec/ "Face Recognition with OpenCV"
+ [1]: http://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html "Face Recognition with OpenCV"
  [2]: http://en.wikipedia.org/wiki/Eigenface/ "Eigenface"
  [3]: http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.htm "FaceRecognizer API"
  [4]: http://en.wikipedia.org/wiki/Receiver_operating_characteristic "ROC"
