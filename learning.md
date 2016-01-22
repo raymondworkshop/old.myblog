@@ -15,10 +15,12 @@ title: Learning
      - [Computability, Complexity & Algorithms on Udacity] (https://www.udacity.com/wiki/ud061) 
      - [Algorithms, Part II] (https://www.coursera.org/course/algs4partII)  
 
-  * Image
-     - [Introduction to Computer Vision] (https://www.udacity.com/wiki/ud810)
+  * System  
+     - [Computer Systems: A Programmer's Perspective] (http://cs61.seas.harvard.edu/wiki/2015/Home)
+     - [Advanced Operating Systems on Udacity] (https://www.udacity.com/wiki/ud189) 
 
   * Interface
+     - [Introduction to Computer Vision] (https://www.udacity.com/wiki/ud810)
      - [Intro to iOS App Development with Swift] (https://www.udacity.com/wiki/ud585)
      - [Intro to HTML and CSS] (https://www.udacity.com/wiki/ud304)
  
@@ -27,9 +29,6 @@ title: Learning
      - [Machine Learning: Supervised Learning] (https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)
      - 
 
-  * System  
-     - [Computer Systems: A Programmer's Perspective] (http://cs61.seas.harvard.edu/wiki/2015/Home)
-     - [Advanced Operating Systems on Udacity] (https://www.udacity.com/wiki/ud189) 
 
 
 
