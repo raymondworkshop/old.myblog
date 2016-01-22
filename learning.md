@@ -16,6 +16,7 @@ title: Learning
   * Algorithms
      - [Computability, Complexity & Algorithms on Udacity] (https://www.udacity.com/wiki/ud061) 
      - [Algorithms, Part II] (https://www.coursera.org/course/algs4partII)  
+     - [Design of Computer Programs] (https://www.udacity.com/wiki/cs212)
 
   * System  
      - [Computer Systems: A Programmer's Perspective] (http://cs61.seas.harvard.edu/wiki/2015/Home)
