@@ -18,9 +18,12 @@ title: Learning
   * System  
      - [Computer Systems: A Programmer's Perspective] (http://cs61.seas.harvard.edu/wiki/2015/Home)
      - [Advanced Operating Systems on Udacity] (https://www.udacity.com/wiki/ud189) 
+     - [Software Development Process] (https://www.udacity.com/courses/ud805)
+     - ~~[Software Architecture and Design] (https://www.udacity.com/wiki/saad/schedule)~~
 
   * Interface
-     - [Introduction to Computer Vision] (https://www.udacity.com/wiki/ud810)
+     - [Computational Photography] (https://www.udacity.com/courses/ud955)
+     - ~~[Introduction to Computer Vision] (https://www.udacity.com/wiki/ud810)~~
      - [Intro to iOS App Development with Swift] (https://www.udacity.com/wiki/ud585)
      - [Intro to HTML and CSS] (https://www.udacity.com/wiki/ud304)
  
