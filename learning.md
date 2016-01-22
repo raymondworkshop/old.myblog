@@ -15,6 +15,13 @@ title: Learning
      - [Computability, Complexity & Algorithms on Udacity] (https://www.udacity.com/wiki/ud061) 
      - [Algorithms, Part II] (https://www.coursera.org/course/algs4partII)  
 
+  * Image
+     - [Introduction to Computer Vision] (https://www.udacity.com/wiki/ud810)
+
+  * Interface
+     - [Intro to iOS App Development with Swift] (https://www.udacity.com/wiki/ud585)
+     - [Intro to HTML and CSS] (https://www.udacity.com/wiki/ud304)
+ 
   * AI
      - [機器學習基石 (Machine Learning Foundations)] (https://class.coursera.org/ntumlone-003)
      - [Machine Learning: Supervised Learning] (https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)
