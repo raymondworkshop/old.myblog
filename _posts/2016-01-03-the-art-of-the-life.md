@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "生活的艺术"
+title: "生活的藝術"
 date: 2016-01-03
 comments: true
 categories: [summary]
 ---
-林语堂先生的[《生活的艺术》](http://book.douban.com/subject/1017626/)主要分享了先生自己的思想和生活所得的经验。 希望像先生一样能够认真的生活。
+林語堂先生的[《生活的藝術》](http://book.douban.com/subject/1017626/)主要分享了先生自己的思想和生活所得的经验。 希望能像先生一样能够认真的生活。
 
 一，觉醒 － 中国人的哲学观，即我们的人生观和事务观
 
