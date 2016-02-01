@@ -5,7 +5,6 @@ title: Learning
 ####Courses Ongoing
   * English Writing 
        - [English Grammar and Essay Writing] (https://www.edx.org/course/english-grammar-essay-writing-uc-berkeleyx-colwri2-2x)
-       
        - ~~[Writing in the Sciences] (https://lagunita.stanford.edu/dashboard)~~
 
        - [Pronouncing English Accurately] (http://www.scs.cuhk.edu.hk/search/course_details.php?l=en&term=161&course_cd=379105&class_cd=01&fm=gc)
@@ -36,6 +35,11 @@ title: Learning
      - ~~[Machine Learning: Supervised Learning] (https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)~~
      - 
 
-
+  * Others
+     - [essential skills for the workplace] (https://www.coursera.org/learn/project-management-basics/home/welcome)
+     - [Writing English] ( https://www.coursera.org/learn/grammar-punctuation/home/welcome)
+     - [Improve Your English Communication Skills] (https://www.coursera.org/specializations/improve-english)
+     - [English Skills for Business] (https://www.coursera.org/specializations/business-english)
+     - [Leadership] (https://www.coursera.org/learn/leadership-skills/home/welcome)
 
 
