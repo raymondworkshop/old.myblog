@@ -4,11 +4,11 @@ title: paper summary
 ---
 #### [An Introduction about P2PSIP] (https://drive.google.com/file/d/0B8JbPdkDj7JZQVpqbkwzeDM3bDQ/view?usp=sharing)
   * **Abstract**  
-   Peer-to-Peer Session Initiation Protocol (P2PSIP) is a new technology currently being standardized in the P2PSIP working group of the IETF [1]. A P2PSIP network consists of a collection of nodes organized in a peer-to-peer fashion for the purpose of enablingreal-time communication using the Session Initiation Protocol (SIP). In this report, we present a simple introduction of P2PSIP system and a detailed introduction about Distributed Hash tables (DHTs), which is used to organize the P2PSIP overlay.
+   Peer-to-Peer Session Initiation Protocol (P2PSIP) is a new technology currently being standardized in the P2PSIP working group of the IETF. A P2PSIP network consists of a collection of nodes organized in a peer-to-peer fashion for the purpose of enabling real-time communication using the Session Initiation Protocol (SIP). In this report, an introduction of P2PSIP system and Distributed Hash tables (DHTs) algorithms are presented, which are used to organize the P2PSIP overlay.
 
 #### [A Summary of online learning] (https://drive.google.com/file/d/0B8JbPdkDj7JZZ3hTYXNlbDhSU1U/view?usp=sharing)
   * **Abstract**  
-  Online learning has brought about dramatic changes in higher education, and a number of successful large­scale Massive Open Online Courses (MOOCs) platforms such as edX, Coursera, and Udacity have been developed. This revolution raises a series of challenges and possibilities in technology and education fields. In this summary, I present an introduction about the latest progress in terms of online student behavior and skills, online assessment, course materials and online forums.
+  Online learning has brought about dramatic changes in higher education, and a number of successful large­scale Massive Open Online Courses (MOOCs) platforms such as edX, Coursera, and Udacity have been developed. This revolution raises a series of challenges and possibilities in technology and education fields. This summary presents an introduction about the latest progress in terms of online student behavior and skills, online assessment, course materials and online forums.
 
 #### [An Instruction about incremental 3D reconstruction using Bayesian learning] (https://drive.google.com/open?id=0B8JbPdkDj7JZNjdXZE5GMVc4bGc)
   * **Abstract**  
