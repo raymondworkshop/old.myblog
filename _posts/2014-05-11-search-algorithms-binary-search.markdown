@@ -89,5 +89,5 @@ Still, binary search is infeasible for use in many other applications. For examp
 
 To combine the efficiency of binary search with the flexibility of linked structures, we need more complicated data structure. That are **binary search trees and hash tables** .
 
-#### References:  
+### References:  
   * [Elementary Symbol Tables](http://algs4.cs.princeton.edu/31elementary/)
