@@ -7,7 +7,7 @@ categories: [technology, system, summary]
 ---
 
 ####Optimizing Program Performance [ch5]  
- * **trade-off between how easy a program is to implement and maintain, and how fast it runs**
+ * **trade-off between how easy a program is to implement and maintain, and how fast it runs**  
    - Select an appropriate set of algorithms and data structures
    - make the compiler optimize the code effectively
 
