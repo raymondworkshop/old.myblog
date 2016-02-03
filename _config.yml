@@ -2,9 +2,9 @@ destination: ./_site
 lsi:         false
 port:        4000
 highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline", "strikethrough", "superscript", "with_toc_data", "prettify","no_intra_emphasis"]
+markdown: kramdown
+#redcarpet:
+#  extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline", "strikethrough", "superscript", "with_toc_data", "prettify","no_intra_emphasis"]
 
 permalink: /:categories/:title.html
 #gems: [ delicious ]
@@ -15,7 +15,7 @@ maruku:
   png_dir:    images/latex
   png_url:    /images/latex
 
-  
+
 #baseurl:     /blog
 
 title:  "情書"
