@@ -3,7 +3,7 @@ layout: post
 title: "Jean-Christophe(約翰·克利斯朵夫)"
 date:  2014-06-24 17:53
 comments: true
-categories: [notes]
+categories: [summary notes]
 ---
 摘錄自罗曼·罗兰的[Jean-Christophe（约翰·克利斯朵夫）](http://book.douban.com/subject/1851058/)
 
