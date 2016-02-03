@@ -17,7 +17,7 @@ keys kept in order**.
 ####The Implementation
 For get(), the rank() (returns the number of keys) tells us precisely where the key is to be found;
 
-``` java
+~~~ java
 //return the value associated with the given key, or null
 public Value get(Key key){
    int i = rank(key); //return the number of keys in the table
@@ -26,16 +26,16 @@ public Value get(Key key){
 
    return null;
 }
-```
+~~~
 
-``` java 
+~~~ java
 //return the number of keys in the table that are smaller than given key
 public int rank(Key key){
     int lo = 0, hi = N-1;
     while(lo <= hi){
         int m = lo + (hi - lo) / 2;
         int cmp = key.compareTo(keys[m]);
-            
+
         if (cmp < 0) hi = m - 1;
         else if (cmp > 0) lo = m + 1;
         else return m;
@@ -43,15 +43,15 @@ public int rank(Key key){
 
     return lo;
 }
-```
+~~~
 
 and for put(), the rank tells where to update the value .
 
-``` java
+~~~ java
 //search for key, update value if found, grow table if new
 public void put(Key key, Value val){
     int i = rank(key); //where to update the value
-    
+
     // key is already in table
     if (i < N && keys[i].compareTo(key) == 0){
          vals[i] = val;
@@ -65,12 +65,12 @@ public void put(Key key, Value val){
          keys[j] = keys[j-1];
          vals[j] = vals[j-1];
     }
-    
+
     keys[i] = key;
     vals[i] = val;
     N++;
  }
-```
+~~~
 
 ####Performance Analysis
 
@@ -81,14 +81,14 @@ the related mid value based on array index**).
 
 Binary search in an ordered array with N keys uses no more than **lgN + 1** compares for a
 search; and Inserting a new key into an ordered array uses **~2N array
-accesses** in the worst case (**e.g. move the array entirely, line 14~16**), so inserting N keys into an initially empty table uses **~N^2 array accesses** in the worst case; 
+accesses** in the worst case (**e.g. move the array entirely, line 14~16**), so inserting N keys into an initially empty table uses **~N^2 array accesses** in the worst case;
 
 See the table,
 >
-   Algorithm         | Worst-case-search   | Worst-case-insert 
+   Algorithm         | Worst-case-search   | Worst-case-insert
    ----------------  | :----------------:  | :----------------:
    sequential search |  N                  |     N
-   binary search     |  lgN                |    2N 
+   binary search     |  lgN                |    2N
                      |                    |
 
 ####In Summary
@@ -103,7 +103,7 @@ that achieve logarithmic performance for both search and insert. To
 **support efficient insertion**, it seems that we need a **linked
 structure**. But a singly linked list forecloses the use of binary
 search, because **the efficiency of binary search depends on the ability
-to get to the middle of any subarray quickly via indexing**. 
+to get to the middle of any subarray quickly via indexing**.
 
 To combine the efficiency of binary search with the flexibility of linked
 structures, we need more complicated data structure. That are **binary
