@@ -10,8 +10,8 @@ title: paper summary
   * **Abstract**  
   Online learning has brought about dramatic changes in higher education, and a number of successful large­scale Massive Open Online Courses (MOOCs) platforms such as edX, Coursera, and Udacity have been developed. This revolution raises a series of challenges and possibilities in technology and education fields. This summary presents an introduction about the latest progress in terms of online student behavior and skills, online assessment, course materials and online forums.
 
-#### [privacy-preserving Similar Search](https://drive.google.com/file/d/0B8JbPdkDj7JZR2NQemVEQUNrZVU/view?usp=sharing) 
-  * **Abstract**
+#### [privacy-preserving Similar Search](https://drive.google.com/file/d/0B8JbPdkDj7JZR2NQemVEQUNrZVU/view?usp=sharing)
+  * **Abstract**  
     Refers to finding objects (i.e. face in biometric) that have similar characteristics to the query object
 
 #### [An Instruction about incremental 3D reconstruction using Bayesian learning](https://drive.google.com/open?id=0B8JbPdkDj7JZNjdXZE5GMVc4bGc)  
