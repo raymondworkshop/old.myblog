@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Feb 2016 18:46:31 +0800</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2016 18:46:31 +0800</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2016 18:59:12 +0800</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 18:59:12 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -156,12 +156,14 @@
     
       <item>
         <title>A review of Computer System</title>
-        <description>&lt;p&gt;####Optimizing Program Performance [ch5]&lt;br /&gt;
- * &lt;strong&gt;trade-off between how easy a program is to implement and maintain, and how fast it runs&lt;/strong&gt;&lt;br /&gt;
-   - Select an appropriate set of algorithms and data structures&lt;br /&gt;
-   - make the compiler optimize the code effectively&lt;/p&gt;
-
+        <description>&lt;h4 id=&quot;optimizing-program-performance-ch5&quot;&gt;Optimizing Program Performance [ch5]&lt;/h4&gt;
 &lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;trade-off between how easy a program is to implement and maintain, and how fast it runs&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Select an appropriate set of algorithms and data structures&lt;/li&gt;
+      &lt;li&gt;make the compiler optimize the code effectively&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;The limitations of optimizing compilers -
     &lt;ul&gt;
       &lt;li&gt;reducing excessive function calls&lt;/li&gt;
