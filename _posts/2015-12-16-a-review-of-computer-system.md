@@ -10,8 +10,8 @@ categories: [technology, system, summary]
  * **trade-off between how easy a program is to implement and maintain, and how fast it runs**
    - Select an appropriate set of algorithms and data structures
    - make the compiler optimize the code effectively
-   
- * The limitations of optimizing compilers - 
+
+ * The limitations of optimizing compilers -
    - reducing excessive function calls
    - eliminating unneeded memory references - introduce temp variables to hold intermediate rsults
 
@@ -32,9 +32,9 @@ categories: [technology, system, summary]
    - So systems bridge the gaps by organizing memory as a hierarchy of storage devices
    -  **locality - try to bridge the processor-memory gap**
      + temporal locality - locate same data objects multiple time
-    
+
      + spatial locality - nearby memory location
-     
+
  * programs with good locality access most of their data from fast cache memories
    - Exploiting SRAM-based cache memories
      + programs that fetch data primarily from cache memories can run much faster than ones that fetch data primarily
@@ -47,7 +47,7 @@ categories: [technology, system, summary]
  * Linking - concatenates blocks together, and decides on **run-time locations** for the concatenated blocks
    - symbol resolution step -  symbol table in .symtab
      + associate each global symbol (functions and global variables) reference with a **unique** symbol definition
- 
+
    - relocation - associate **a memory location with each symbol** definition, and then make them point to the memory
    location
      + meger all sections of the same type into a new aggregate section
@@ -73,8 +73,8 @@ categories: [technology, system, summary]
  * Exception - a change in the processor's state (event) triggers an abrupt control tansfer (an exception)
    - **an abrupt change in the control flow** in response to some change in the processor's state
    - **The change in processor's state** is known as an event
-   
-   - interrutp handling - occurs as a result of events in I/O device
+
+   - interrupt handling - occurs as a result of events in I/O device
    - traps handling - a procedure-like interface between user programs and the kernel known as a system call
    - fault handling - result from error conditions
    - abort handling
@@ -86,15 +86,13 @@ categories: [technology, system, summary]
    - concurrent flows - a logical flow whose execution overlaps in time with another
    - signals  
    - [TODO]
- 
+
 #### Virtual Memory [ch9]
 
 #### Network programming
 
 #### concurrent programming
 
-#### reference 
- * [Computer Systems: A Programmer's Perspective, 2/E] (http://csapp.cs.cmu.edu/public/code.html)
- * [Introduction to Caches] (http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Memory/introCache.html)
-
-
+#### reference
+ * [Computer Systems: A Programmer's Perspective, 2/E](http://csapp.cs.cmu.edu/public/code.html)
+ * [Introduction to Caches](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Memory/introCache.html)
