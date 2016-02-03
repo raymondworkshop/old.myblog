@@ -3,6 +3,8 @@ lsi:         false
 port:        4000
 highlighter: pygments
 markdown: kramdown
+kramdown:
+  input: GFM
 #redcarpet:
 #  extensions: ["highlight", "fenced_code_blocks", "autolink", "tables", "underline", "strikethrough", "superscript", "with_toc_data", "prettify","no_intra_emphasis"]
 
