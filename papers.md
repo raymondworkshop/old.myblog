@@ -18,7 +18,7 @@ title: paper summary
   * **Abstract**  
    The essay mainly presents an algorithm for 3D reconstruction. The method first reconstructs an initial 3D model by selecting uniformly distributed key images using a view sphere. Then when a new image is added, its correlated reconstructed patches are searched and incrementally update the result model by optimizing the geometric and photometric terms. This can be applied for large-scale datasets or to real-time reconstruction.
 
-#### [](https://drive.google.com/file/d/0B8JbPdkDj7JZUGF1S1BiRjhUYzQ/view?usp=sharing)  
+#### [Finding Better Experts](https://drive.google.com/file/d/0B8JbPdkDj7JZUGF1S1BiRjhUYzQ/view?usp=sharing)  
   * **Abstract**
    This report focuses on the problem of finding better experts in micro-blogging services (like Sina weibo/twitter). Now micro-blogging has been one of the most popular platforms where users can describe their current status in short posts. Micro-blogging uses a model called “following”, in which users can choose who he/she wants to follow without the latter to give the permission first. This report is based on the existence of homophily to measure the influence of users in micro-blogging. The algorithm TwitterRank is used because it takes the topical similarity between users and the link structure into account.  
 
