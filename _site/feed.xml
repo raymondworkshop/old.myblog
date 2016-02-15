@@ -5,9 +5,33 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Feb 2016 00:17:41 +0800</pubDate>
-    <lastBuildDate>Thu, 04 Feb 2016 00:17:41 +0800</lastBuildDate>
+    <pubDate>Tue, 16 Feb 2016 01:00:51 +0800</pubDate>
+    <lastBuildDate>Tue, 16 Feb 2016 01:00:51 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>The New Year</title>
+        <description>&lt;p&gt;过年是个很快乐的日子，毕竟有亲人的陪伴；家人的爱总是那么的无私。&lt;/p&gt;
+
+&lt;p&gt;乡村越来越衰败，原先的互助也渐渐消失，村民也越来越原子化和急功近利。&lt;/p&gt;
+
+&lt;p&gt;在太原又遇到老姐以为孩子走丢后那种脆弱感和无力感，终于意识到老姐的不易； 老姐是个重感情的人，自己又不太善于向家人表达爱，都不知道怎么去安慰。&lt;/p&gt;
+
+&lt;p&gt;见了个同事，给了一些建议，都不知道怎么回报，欠的太多。&lt;/p&gt;
+
+&lt;p&gt;还是需要赶紧增强自己各方面能力吧，毕竟欠的太多；不知道为啥过去半年自己失去了点血性， 对自己保持诚实是最重要的。&lt;/p&gt;
+
+&lt;p&gt;一直觉得自己各方面都做的不完美，起码想先对得起支持和帮助自己的人，可惜自己做的还不够好。&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 15 Feb 2016 00:00:00 +0800</pubDate>
+        <link>/summary/chinese-ny.html</link>
+        <guid isPermaLink="true">/summary/chinese-ny.html</guid>
+        
+        
+        <category>summary</category>
+        
+      </item>
     
       <item>
         <title>Personal Challenge in 2016</title>
@@ -523,107 +547,6 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
         
         
         <category>diary</category>
-        
-      </item>
-    
-      <item>
-        <title>Similarity Search</title>
-        <description>&lt;h4 id=&quot;similarity-search-1&quot;&gt;Similarity Search &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Similarity Search in high-dimensional spaces becomes increasingly important in databases, data mining, and search engines,particularly for content-based search of feature-rich data such as audio recordings, digital photos, digital videos and other sensor data. Since feature-rich data objects are typically represented as high-dimensional feature vectors.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The problem of similarity search refers to finding objects that have similar characteristics to the query object.  Similarity search is usually implemented as K-Nearest Neighbor (KNN) or Approximate Nearest Neighbors (ANN) search in high-dim feature-vector space.&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;KNN: find  the K objects that are closest to q according to a distance function&lt;/li&gt;
-      &lt;li&gt;ANN: find K objects whose distances are within a small factor (1 + x) of the true K-nearest neighbors’s distances&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;An ideal indexing scheme for similarity search:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Accurate: very close to those of the brute-force, linear-scan approach&lt;/li&gt;
-      &lt;li&gt;Time efficient: O(logN)&lt;/li&gt;
-      &lt;li&gt;Space efficient: the index data structure may even fit into main memory&lt;/li&gt;
-      &lt;li&gt;High-dimensional:  the indexing scheme should work well for datasets with very high intrinsic&lt;br /&gt;
-  dimensionalities&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;the-related-approaches&quot;&gt;The related approaches&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;tree-based indexing methods for K-Nearest Neighbor(KNN)
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;K-D tree: not time efficient for data with high-dim&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;TODO&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;the indexing method: LSH  &lt;sup id=&quot;fnref:1:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;use hash functions to &lt;strong&gt;map similar objects into the same hash buckets with high probability&lt;/strong&gt; .&lt;/p&gt;
-
-        &lt;p&gt;using LSH functions to select candidate objects for a given query q,&lt;br /&gt;
-and ranking the candidate objects according to their distances to q.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Drawback: to achieve high search accuracy, the LSH method needs to use multiple hash tables to produce a good candidate set.&lt;/p&gt;
-
-        &lt;ul&gt;
-          &lt;li&gt;
-            &lt;p&gt;Experimental studies show that the basic LSH needs hundreds hash tables to achieve good search accuracy for high-dimensional datasets.&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-            &lt;p&gt;The size of each hash table is proportional to the number of data objects, since each table has &lt;strong&gt;as many&lt;br /&gt;
-entries as the number of data objects&lt;/strong&gt; in the dataset.&lt;br /&gt;
-When the space requirement for the hash tables exceeds the main memory size, looking up a hash bucket may require a disk I/O, causing substantial delay to the query process.&lt;/p&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;The approach does not satisfy the space-efficiency requirement.&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Multi-probe LSH &lt;sup id=&quot;fnref:1:2&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;The main idea is to build on the basic LSH indexing method, but to use &lt;strong&gt;a carefully derived probing&lt;br /&gt;
-  sequence to look up multiple buckets&lt;/strong&gt; that have a high probability of containing the nearest neighbors of a query object.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Given the property of LSH, if an object is close to a query object q but not hashed to the same bucket as q, it is likely to be in &lt;strong&gt;a buckets  that is “close by”&lt;/strong&gt; (i.e. the hash values of the two buckets only differ slightly).&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;By probing multiple buckets in each hash table, the method requires far fewer hash tables than previous LSH methods&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;“Multi-probe LSH: Efficient indexing for high-dimensional similarity search” by Q.Lv, W.Josephson, Z. Wang, M. Charikar, and K. Li, VLDB &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:1:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 04 Sep 2015 00:00:00 +0800</pubDate>
-        <link>/technology/algorithms/similaritysearch.html</link>
-        <guid isPermaLink="true">/technology/algorithms/similaritysearch.html</guid>
-        
-        
-        <category>technology</category>
-        
-        <category>algorithms</category>
         
       </item>
     
