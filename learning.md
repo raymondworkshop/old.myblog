@@ -9,7 +9,7 @@ title: Learning
        - [Pronouncing English Accurately](http://www.scs.cuhk.edu.hk/search/course_details.php?l=en&term=161&course_cd=379105&class_cd=01&fm=gc)  
 
   * Cantonese learning  
-
+       - [Online Cantonese] (https://www.ilc.cuhk.edu.hk/EN/CHResources/Lang_CAN_Adv.aspx)
 
   * Algorithms
      - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061)  
