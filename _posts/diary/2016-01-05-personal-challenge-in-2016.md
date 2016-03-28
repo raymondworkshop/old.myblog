@@ -1,10 +1,11 @@
 ---
-Layout: post
+layout: post
 title: "Personal Challenge in 2016"
 date: 2016-01-05
 comments: true
 categories: [diary]
 ---
+
 #### 珍惜时间，珍惜机会，好好努力
 
 * 语言方面 
