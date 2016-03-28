@@ -1,5 +1,5 @@
 ---
-layout: post
+Layout: post
 title: "Personal Challenge in 2016"
 date: 2016-01-05
 comments: true
