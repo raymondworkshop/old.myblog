@@ -12,7 +12,7 @@ title: paper summary
 
 #### Privacy-preserving Similar Search
   * **Abstract**  
-   This [paper](https://drive.google.com/file/d/0B8JbPdkDj7JZR2NQemVEQUNrZVU/view?usp=sharing) Refers to finding objects (i.e. face) that have similar characteristics to the query object
+   This [paper](https://drive.google.com/file/d/0B8JbPdkDj7JZR2NQemVEQUNrZVU/view?usp=sharing) refers to finding objects (i.e. face) that have similar characteristics to the query object
 
 #### An Instruction about incremental 3D reconstruction using Bayesian learning
   * **Abstract**  
