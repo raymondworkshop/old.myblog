@@ -4,7 +4,7 @@ title: paper summary
 ---
 #### Peer-to-Peer Session Initiation Protocol (P2PSIP)    
   * **Abstract**  
-   [P2PSIP)](https://drive.google.com/file/d/0B8JbPdkDj7JZQVpqbkwzeDM3bDQ/view?usp=sharing) is a new technology currently being standardized in the P2PSIP working group of the IETF. A P2PSIP network consists of a collection of nodes organized in a peer-to-peer fashion for the purpose of enabling real-time communication using the Session Initiation Protocol (SIP). In this report, an introduction of P2PSIP system and Distributed Hash tables (DHTs) algorithms are presented, which are used to organize the P2PSIP overlay.
+   [P2PSIP](https://drive.google.com/file/d/0B8JbPdkDj7JZQVpqbkwzeDM3bDQ/view?usp=sharing) is a new technology currently being standardized in the P2PSIP working group of the IETF. A P2PSIP network consists of a collection of nodes organized in a peer-to-peer fashion for the purpose of enabling real-time communication using the Session Initiation Protocol (SIP). In this report, an introduction of P2PSIP system and Distributed Hash tables (DHTs) algorithms are presented, which are used to organize the P2PSIP overlay.
 
 #### Online learning
   * **Abstract**  
