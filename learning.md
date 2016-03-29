@@ -34,7 +34,7 @@ title: Learning
      - <del>[Machine Learning: Supervised Learning](https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)</del>
 
   * Others
-     - [UQx: Think101x The Science of Everyday Thinking] (https://courses.edx.org/courses/course-v1:UQx+Think101x+1T2016/info)
+     - [UQx: Think101x The Science of Everyday Thinking](https://courses.edx.org/courses/course-v1:UQx+Think101x+1T2016/info)
      - [essential skills for the workplace](https://www.coursera.org/learn/project-management-basics/home/welcome)
      - [Writing English]( https://www.coursera.org/learn/grammar-punctuation/home/welcome)
      - [Improve Your English Communication Skills](https://www.coursera.org/specializations/improve-english)
