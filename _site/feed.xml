@@ -5,19 +5,48 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Apr 2016 19:41:07 +0800</pubDate>
-    <lastBuildDate>Sat, 16 Apr 2016 19:41:07 +0800</lastBuildDate>
+    <pubDate>Mon, 25 Apr 2016 00:54:18 +0800</pubDate>
+    <lastBuildDate>Mon, 25 Apr 2016 00:54:18 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
       <item>
-        <title>2016-04-04-weekly-summary</title>
-        <description>&lt;p&gt;总结这两周&lt;br /&gt;
-* 工作赶紧安定下来&lt;br /&gt;
-  - 振作起來，珍惜時間和周圍的人&lt;br /&gt;
-  - 赶紧把方向定下来，看能否走上正轨 (主要目的是写代码能力，再加上有些自己的控制力)&lt;/p&gt;
+        <title>2016-04-25-weekly-summary</title>
+        <description>&lt;p&gt;总结这两周&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;发现自己的精力好差&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;工作上发现很被动，
+    &lt;ul&gt;
+      &lt;li&gt;有些不那么顺利， 进展比较慢 …&lt;/li&gt;
+      &lt;li&gt;感觉好不正轨了&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;多看书&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 25 Apr 2016 00:00:00 +0800</pubDate>
+        <link>/diary/weekly-summary.html</link>
+        <guid isPermaLink="true">/diary/weekly-summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>2016-04-04-weekly-summary</title>
+        <description>&lt;p&gt;总结这两周&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;工作赶紧安定下来
+    &lt;ul&gt;
+      &lt;li&gt;振作起來，珍惜時間和周圍的人&lt;/li&gt;
+      &lt;li&gt;赶紧把方向定下来，看能否走上正轨 (主要目的是写代码能力，再加上有些自己的控制力)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;生活
     &lt;ul&gt;
       &lt;li&gt;珍惜自己的身体
@@ -563,28 +592,6 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
         
         
         <category>diary</category>
-        
-      </item>
-    
-      <item>
-        <title>Randomness</title>
-        <description>&lt;h4 id=&quot;randomness-as-a-source-of-efficiency&quot;&gt;Randomness as a source of efficiency&lt;/h4&gt;
-&lt;p&gt;Randomization of a part of the control is an essential concept of nature’s strategy.&lt;/p&gt;
-
-&lt;p&gt;[TODO]&lt;/p&gt;
-
-&lt;h4 id=&quot;reference&quot;&gt;reference&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Is the Cosmos Random? from Scientific American [0036-8733] Musser, George yr:2015 vol:313 iss:3 pg:88&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.weibo.com/p/1001603833249125236809&quot;&gt;该死就死的市场经济&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 25 Oct 2015 00:00:00 +0800</pubDate>
-        <link>/technology/randomness.html</link>
-        <guid isPermaLink="true">/technology/randomness.html</guid>
-        
-        
-        <category>technology</category>
         
       </item>
     
