@@ -2,7 +2,7 @@
 layout: post
 title: Learning
 ---
-#### Courses Ongoing    
+#### Courses    
   * English Writing  
        - [English Grammar and Essay Writing](https://www.edx.org/course/english-grammar-essay-writing-uc-berkeleyx-colwri2-2x)    
        - <del>[Writing in the Sciences](https://lagunita.stanford.edu/dashboard)</del>  
@@ -10,6 +10,10 @@ title: Learning
 
   * Cantonese learning  
        - [Online Cantonese](https://www.ilc.cuhk.edu.hk/EN/CHResources/Lang_CAN_Adv.aspx)
+
+  * Agile
+      - [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices#)
+  
 
   * Algorithms
      - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061)  
@@ -26,7 +30,6 @@ title: Learning
   * Interface
      - [Computational Photography](https://www.udacity.com/courses/ud955)  
      - <del>[Introduction to Computer Vision](https://www.udacity.com/wiki/ud810)</del>    
-     - [Intro to iOS App Development with Swift](https://www.udacity.com/wiki/ud585)  
      - [Intro to HTML and CSS](https://www.udacity.com/wiki/ud304)  
 
   * AI
