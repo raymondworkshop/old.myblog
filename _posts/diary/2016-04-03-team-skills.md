@@ -6,6 +6,20 @@ comments: true
 categories: [diary]
 ---
 ####
+* have a good relationship with your boss
+  - on time
+  - know your manager's communication style and methods
+    + ask his preferred way of communication and delivery of requirements
+    
+  - your job is to make your manager look good
+    + help your boss do her job - see yourself as a complement
+    + avoid falling into the trap of not fitting the job description
+    
+  - do more than expected (new and better ways)
+  
+  - ask for feedback
+    + schedule to inform him about what I have been working on
+    + communicate often, be respectful, ask questionss
 
 * “追求共好” － 支持彼此的工作，肯定彼此的努力，不受困于个人的恩怨好恶
 * 持续强化自己的各项智识与技能
