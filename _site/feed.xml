@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 May 2016 19:37:58 +0800</pubDate>
-    <lastBuildDate>Sat, 07 May 2016 19:37:58 +0800</lastBuildDate>
+    <pubDate>Sat, 07 May 2016 19:43:16 +0800</pubDate>
+    <lastBuildDate>Sat, 07 May 2016 19:43:16 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -476,7 +476,7 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
       </item>
     
       <item>
-        <title>Summary</title>
+        <title>Some Biases</title>
         <description>&lt;pre&gt;&lt;code&gt;--- layout: post title: &quot;Some Biases&quot; date: 2015-12-14 comments: true categories: [diary] --- &amp;gt; &amp;lt;font color=&quot;#800080&quot;&amp;gt;如果你想要说服别人，要诉诸利益&amp;lt;/font&amp;gt;，而非诉诸理性   &amp;gt; &amp;lt;br/&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
@@ -572,8 +572,8 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 14 Dec 2015 00:00:00 +0800</pubDate>
-        <link>/summary.html</link>
-        <guid isPermaLink="true">/summary.html</guid>
+        <link>/some-biases.html</link>
+        <guid isPermaLink="true">/some-biases.html</guid>
         
         
       </item>
