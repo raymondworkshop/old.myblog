@@ -11,19 +11,14 @@ title: Learning
 
   * Agile
       - [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices#)
-  
 
-  * Algorithms
-     - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061)  
-     - [Algorithms, Part II](https://www.coursera.org/course/algs4partII)    
-     - <del>[Design of Computer Programs](https://www.udacity.com/wiki/cs212) </del>
-
-  * [system reference](https://github.com/muyun/dev.computersystem/blob/master/constructsystem/README.md) 
+  * [System](https://github.com/muyun/dev.computersystem/blob/master/constructsystem/README.md) 
      
   * AI
      - [機器學習基石 (Machine Learning Foundations)](https://class.coursera.org/ntumlone-003)  
      - [learning from data](https://work.caltech.edu/telecourse.html)  
      - <del>[Machine Learning: Supervised Learning](https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)</del>
+
 
   * Others
      - [Spring 2016 - Innovating Across Technology, Business, and Marketplaces](https://www.cs.princeton.edu/courses/archive/spring16/cos448/reading.html)
@@ -33,3 +28,9 @@ title: Learning
      - [Improve Your English Communication Skills](https://www.coursera.org/specializations/improve-english)
      - [English Skills for Business](https://www.coursera.org/specializations/business-english)
      - [Leadership](https://www.coursera.org/learn/leadership-skills/home/welcome)
+
+  * Algorithms
+     - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061)  
+     - [Algorithms, Part II](https://www.coursera.org/course/algs4partII)    
+     - <del>[Design of Computer Programs](https://www.udacity.com/wiki/cs212) </del>
+
