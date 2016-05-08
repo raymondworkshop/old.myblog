@@ -13,6 +13,8 @@ title: Learning
       - [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices#)
 
   * [System](https://github.com/muyun/dev.computersystem/blob/master/constructsystem/README.md) 
+  * programming
+      - [scala](https://class.coursera.org/progfun-003)
      
   * AI
      - [機器學習基石 (Machine Learning Foundations)](https://class.coursera.org/ntumlone-003)  
