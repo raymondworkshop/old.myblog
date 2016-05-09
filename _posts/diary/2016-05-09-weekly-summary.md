@@ -12,10 +12,11 @@ categories: [diary]
   - data engineer/scientist 
     + mainly on python, machine learning, database
     + Kaggle competition
+    + design the related computer algorithm
     
   - construct the software system
     + mainly on Java/Scala, Agile, OS/Networking
-  
+    
   - the field knowledge
     + the image/vision
     + biinformation
