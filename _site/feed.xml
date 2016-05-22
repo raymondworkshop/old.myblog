@@ -5,10 +5,58 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 May 2016 19:57:00 +0800</pubDate>
-    <lastBuildDate>Sat, 07 May 2016 19:57:00 +0800</lastBuildDate>
+    <pubDate>Sun, 22 May 2016 23:40:39 +0800</pubDate>
+    <lastBuildDate>Sun, 22 May 2016 23:40:39 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
+    
+      <item>
+        <title>Two-weekly-summary</title>
+        <description>&lt;p&gt;总结下&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;想了下自己下来的方向
+    &lt;ul&gt;
+      &lt;li&gt;data engineer/scientist
+        &lt;ul&gt;
+          &lt;li&gt;mainly on python, machine learning, database&lt;/li&gt;
+          &lt;li&gt;Kaggle competition&lt;/li&gt;
+          &lt;li&gt;design the related computer algorithm&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;construct the software system
+        &lt;ul&gt;
+          &lt;li&gt;mainly on Java/Scala, Agile, OS/Networking&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;the field knowledge
+        &lt;ul&gt;
+          &lt;li&gt;the image/vision&lt;/li&gt;
+          &lt;li&gt;biinformation&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;the communication
+        &lt;ul&gt;
+          &lt;li&gt;need to practice the cantonese, and English&lt;/li&gt;
+          &lt;li&gt;communicate with more professionals&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;要多思考，并且给出自己的一些分析出来&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;看些有帮助的书，多交流&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 09 May 2016 00:00:00 +0800</pubDate>
+        <link>/diary/weekly-summary.html</link>
+        <guid isPermaLink="true">/diary/weekly-summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
     
       <item>
         <title>2016-04-25-weekly-summary</title>
@@ -570,31 +618,6 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
         <pubDate>Thu, 10 Dec 2015 00:00:00 +0800</pubDate>
         <link>/diary/weekly-summary.html</link>
         <guid isPermaLink="true">/diary/weekly-summary.html</guid>
-        
-        
-        <category>diary</category>
-        
-      </item>
-    
-      <item>
-        <title>Summary of the RA work</title>
-        <description>&lt;p&gt;終於完成了這份RA工作，雖然很累，但是還是有不少的收穫；&lt;br /&gt;
-稍微接觸到了些最科技前沿，知道professor们都在做些什么，是怎么思考一些问题的。&lt;/p&gt;
-
-&lt;p&gt;前三个月 和 后面的两个月 比較失敗，各種問題吧。&lt;br /&gt;
-一個感受就是 以後要多讀paper,多和厲害的人交流，自己在這方面還是需要些加強的，包括交往能力和表達能力；&lt;br /&gt;
-在想如果有機會組織些活動的話，即可以鍛鍊組織能力，表達能力， 也可以鍛鍊人際交往能力的。&lt;/p&gt;
-
-&lt;p&gt;另外一個就是要學會怎麼去拒絕別人，這份work自己在后面太拖了。&lt;/p&gt;
-
-&lt;p&gt;在英文speaking and listening方面，一个问题是英文口音問題，另外一個就是 盡量要有些精力去 聽聽。&lt;/p&gt;
-
-&lt;p&gt;人生苦短，盡量做些有意義的事，盡量交些有意思的朋友。&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 18 Nov 2015 00:00:00 +0800</pubDate>
-        <link>/diary/summary-ra.html</link>
-        <guid isPermaLink="true">/diary/summary-ra.html</guid>
         
         
         <category>diary</category>
