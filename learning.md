@@ -2,25 +2,45 @@
 layout: post
 title: Learning
 ---
-#### Courses    
-  * language 
-       - [English Grammar and Essay Writing](https://www.edx.org/course/english-grammar-essay-writing-uc-berkeleyx-colwri2-2x)    
-       - <del>[Writing in the Sciences](https://lagunita.stanford.edu/dashboard)</del>  
-       - [Pronouncing English Accurately](http://www.scs.cuhk.edu.hk/search/course_details.php?l=en&term=161&course_cd=379105&class_cd=01&fm=gc)    
-       - [Online Cantonese](https://www.ilc.cuhk.edu.hk/EN/CHResources/Lang_CAN_Adv.aspx)
+Courses
 
-  * Agile
-      - [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices#)
+#### NLP:
+  - [stanford-nlp](http://web.stanford.edu/class/cs224n/syllabus.shtml)
+
+#### doing: 
+  - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061) 
+  - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+  - [Advanced OS](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) 
+  - [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
+  - [Effective Communication](https://www.coursera.org/learn/effective-intercultural-communication/home/welcome)
+  - [Improve Your English Communication Skills](https://www.coursera.org/learn/professional-emails-english/home/welcome)
+
+
+#### reference:
 
   * [System](https://github.com/muyun/dev.computersystem/blob/master/constructsystem/README.md) 
   * programming
       - [scala](https://class.coursera.org/progfun-003)
-     
-  * AI
-     - [機器學習基石 (Machine Learning Foundations)](https://class.coursera.org/ntumlone-003)  
-     - [learning from data](https://work.caltech.edu/telecourse.html)  
-     - <del>[Machine Learning: Supervised Learning](https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)</del>
 
+  * Algorithms
+     - [Algorithms, Part II](https://www.coursera.org/course/algs4partII)    
+     - <del>[Design of Computer Programs](https://www.udacity.com/wiki/cs212) </del>
+
+     
+  * ML
+     - [機器學習基石 (Machine Learning Foundations)](https://class.coursera.org/ntumlone-003)  
+     - [Machine Learning: Supervised Learning](https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)
+     - [learning from data](https://work.caltech.edu/telecourse.html)  
+
+  * language 
+       - [English Grammar and Essay Writing](https://www.edx.org/course/english-grammar-essay-writing-uc-berkeleyx-colwri2-2x)    
+       - <del>[Writing in the Sciences](https://lagunita.stanford.edu/dashboard)</del>  
+       - [Pronouncing English Accurately](http://www.scs.cuhk.edu.hk/search/course_details.php?l=en&term=161&course_cd=379105&class_cd=01&fm=gc)    
+       - <del>[Online Cantonese](https://www.ilc.cuhk.edu.hk/EN/CHResources/Lang_CAN_Adv.aspx)</del>
+
+
+  * Agile
+      - [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices#)
 
   * Others
      - [Spring 2016 - Innovating Across Technology, Business, and Marketplaces](https://www.cs.princeton.edu/courses/archive/spring16/cos448/reading.html)
@@ -31,8 +51,4 @@ title: Learning
      - [English Skills for Business](https://www.coursera.org/specializations/business-english)
      - [Leadership](https://www.coursera.org/learn/leadership-skills/home/welcome)
 
-  * Algorithms
-     - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061)  
-     - [Algorithms, Part II](https://www.coursera.org/course/algs4partII)    
-     - <del>[Design of Computer Programs](https://www.udacity.com/wiki/cs212) </del>
 
