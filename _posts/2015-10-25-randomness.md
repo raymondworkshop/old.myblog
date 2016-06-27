@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Randomness"
-date: 2015-10-25
+date: 2015-11-05
 comments: true
 categories: [technology]
 ---
