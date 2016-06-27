@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jun 2016 03:30:35 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Jun 2016 03:30:35 +0800</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2016 03:54:53 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 03:54:53 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -142,12 +142,15 @@
       &lt;li&gt;感觉有些不正轨&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;多看书&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;多看书&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;这个工作最大的问题是 一开始 自己就有些独，没搞好关系，再加上没有经验的领导&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 25 Apr 2016 00:00:00 +0800</pubDate>
-        <link>/diary/weekly-summary.html</link>
-        <guid isPermaLink="true">/diary/weekly-summary.html</guid>
+        <link>/diary/weekly-summary_.html</link>
+        <guid isPermaLink="true">/diary/weekly-summary_.html</guid>
         
         
         <category>diary</category>
@@ -182,8 +185,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 04 Apr 2016 00:00:00 +0800</pubDate>
-        <link>/diary/weekly-summary.html</link>
-        <guid isPermaLink="true">/diary/weekly-summary.html</guid>
+        <link>/diary/weekly-summary_.html</link>
+        <guid isPermaLink="true">/diary/weekly-summary_.html</guid>
         
         
         <category>diary</category>
@@ -264,6 +267,71 @@
       </item>
     
       <item>
+        <title>Android SDK dev</title>
+        <description>&lt;h4 id=&quot;android-ndk----build-cc-code-into-shared-lib-app-uses&quot;&gt;Android NDK  - build c/c++ code into shared lib app uses&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Android.mk - glue the c/c++ code to the Android NDK&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;defines properties specific to individual modules, or libs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Application.mk  - defines properties for all the modules that app uses&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ndk-build -&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;toolchain&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;the dev tool is so important (eclipse is so terrible for this task)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;about-the-linking-to-update&quot;&gt;about the linking [TO UPDATE]&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Linking - concatenates blocks together, and decides on run-time locations for the concatenated blocks
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;symbol resolution step - symbol table in .symtab associate each global symbol (functions and global variables) reference with a unique symbol definition&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;relocation - associate a memory location with each symbol definition, and then make them point to the memory location meger all sections of the same type into a new aggregate section relocate symbol references so that they point to the correct run-time addresses&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;linking with static libraries
+    &lt;ul&gt;
+      &lt;li&gt;related functions can be compiled into separate object modules and then packaged in a single static library file; At link time, the linker will copy only the object modules(symbol resolution) that are referenced by the program.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;advantages&lt;br /&gt;
+need to maintain and update the static libraries periodically  &lt;br /&gt;
+At run time, the code of the functions like I/O functions is duplicated in the text segment of each running process&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;dynamic linking with shared libraries&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a single copy of the .text section of a shared libray in memory can be shared by different running&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the basic idea is to link the relocation and symbol table info when the executable file is created, and then complete the linking process (code and data ) dynamically when the program is loaded&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
+        <link>/summary/android-dev.html</link>
+        <guid isPermaLink="true">/summary/android-dev.html</guid>
+        
+        
+        <category>summary</category>
+        
+      </item>
+    
+      <item>
         <title>新年胡思乱语</title>
         <description>&lt;p&gt;过年是个很快乐的日子，毕竟有亲人的陪伴；可怜天下父母心。&lt;/p&gt;
 
@@ -280,52 +348,6 @@
         
         
         <category>diary</category>
-        
-      </item>
-    
-      <item>
-        <title>透视中国政治</title>
-        <description>&lt;p&gt;总结自&lt;透视中国政治&gt;&lt;/透视中国政治&gt;&lt;/p&gt;
-
-&lt;p&gt;二， 政治制度与运作&lt;/p&gt;
-
-&lt;h4 id=&quot;section&quot;&gt;中国政治中正式规则与潜规则的相互关系&lt;/h4&gt;
-&lt;p&gt;腐败滋生的直接原因，即正式规则与潜规则同时并存于当代社会，构成了腐败滋生的基本社会环境。潜规则与正式规则并存的原因是群体与个体，公共利益与个人利益之间的冲突。有关权力营运的正式规则的本来目的是维护公共利益； 有关权力营运的潜规则主要用于维护权力者的个人利益； 如果没有维护公共利益的正式规则，权力不能成为合法的，有效的权力。但按照公共选择理论，权力拥有者作为个体，有追求个体利益最大化的动机而构成潜规则。&lt;/p&gt;
-
-&lt;h4 id=&quot;section-1&quot;&gt;当代中国军队的政治文化&lt;/h4&gt;
-&lt;p&gt;军事科层制严格的等级权力划分，使得主导政治文化可以高强度的传达， 并且军事组织中的授权关系所体现的官本位，等级特权等意识内化到每一个想在这个组织中得到权力与利益的人心中。中国军队政治工作的传统之一就是革命历史叙事，革命历史叙事为封闭的军队组织中的成员提供了感知过去历史的捷径，使隐含在叙述中的政治信仰，政治价值等也内化到成员的思想中。另外，军中通过重复性的日常生活及其所倚重的习惯，经验，常识在意识与思维上具有同构性，强化着组织内的主导性政治文化&lt;/p&gt;
-
-&lt;h4 id=&quot;section-2&quot;&gt;关于[开会]&lt;/h4&gt;
-&lt;p&gt;从文化社会学的角度来看，个体对社会的认识和知识很大程度上依赖于主观状态。个体生平情境和所处位置限定了它对社会的认识只能是局部的，个体只能以自我的一部分与社会的一部分相联系，对整个社会的知识因而是不全面的。这样就产生了在个体不“在场”的情况下，由他人“再现”而获得的，而这个“再现”又是每一个个体或群体通过自己的意义世界过滤后，并且受自身视界限制，以自身的位置为原点来传播的。所以，有关社会的知识并不是客观的，而是一种建构的知识，但个体却常常将其界定为真实的。&lt;/p&gt;
-
-&lt;p&gt;个体关于社会的知识的建构过程中，如果权利和意识形态密切配合，可以为民众建构起种种关于社会的“知识”。 同样，如果在權利和意识形态的强大影响下，个体会将这些关于社会的“知识”界定为真实的，并将这些所谓的“真实的知识”纳入到自己建构的观念结构中。&lt;/p&gt;
-
-&lt;p&gt;[开会]作为一种“剧场”，一是通过预先“脚本”，二是“演出”时的情境互动和控制，不仅在与会者之间建构起一个关于当下共处同一时空的“我们”这种集体感，而且在与会者中间建构起一种关于“外在”（开会者以外的世界）现实世界的共同观念。[开会]作为一种政治仪式，完全体现了最高决策层的意志，开会所建构的关于现实的种种叙述只能来自最高决策层。 从而由最高决策层建构的对现实认知的种种叙述，通过自上而下的开会被与会者认同并不断操演，最终成为国家权力体系内部的群体行动。另外，媒体围绕着开会做出大量饱和的不可质疑的宣传，将［开会］中建构的关于现实的解释移植到社会大众意识中（由于社会大众常常处于讯息闭塞或讯息不完全状态），从而完成了建构进而操纵社会大众观念的任务。&lt;/p&gt;
-
-&lt;p&gt;通过［开会］形成的叙事框架，将个体的认知的多种可能性与选择都过滤掉了，进而屏蔽和歪曲了个体自身丰富多样的感知能力和理解能力。&lt;/p&gt;
-
-&lt;h4 id=&quot;section-3&quot;&gt;精英政治化&lt;/h4&gt;
-&lt;p&gt;精英政治化在当代中国发生了变异，它形成的是一种政治精英和社会精英相互依赖而不是相互制约的权力关系，精英博弈的目标是如何将公共权力私有化。&lt;/p&gt;
-
-&lt;p&gt;中国转型形态的制度既有市场的特征又有计划的特征，同时又不是原生的计划和市场。在精英成长的现实环境中，他们大多选择利用再分配权力获得财富，因此，当代中国社会精英的成长模式是一种“政治依附型累计”，经济行为与政治权力的依附连带十分紧密。&lt;/p&gt;
-
-&lt;p&gt;经济精英这样融入政治的过程实际上是形成了一种经济精英对政治的依附关系，进而产生了政治精英和经济精英之间权力与资本的置换模式，两者之间的互惠关系从而进入稳定状态。在这种模式里，经济精英资本累计的速度往往依赖于他们与干部的互惠关系的深度，而不取决于经营者真正的经济竞争力。因此，经济精英的成长缺乏自我生存的社会空间，国家制度倡导的精英吸纳之结果的市民社会和公共空间力量弱小并且日益边缘化，一定程度了扭曲了政治发展的方向。&lt;/p&gt;
-
-&lt;h4 id=&quot;section-4&quot;&gt;政治改革： ［中国模式］的难题&lt;/h4&gt;
-&lt;p&gt;经济改革的成功来自于经济自由的扩展，放松国家权力对微观经济主题和微观经济活动的控制，亦即使从地方政府，企业主体最终到每个人的经济自由权利得到不同程度的扩展。把被国家权力劫持和绑架了的权利释放出国家统治经济的牢笼，这就是中国经济体制改革的实质意义。&lt;/p&gt;
-
-&lt;p&gt;中国改革的成就实质在于作为个人，家庭和企业的经济人有了最基本的经济自由。让更多的人，更多的企业拥有平等的自由，仍然使经济改革进一步深化的必由之路。政治改革的也应该让作为公民的政治人获得充分的公民权利和政治参与的实质自由。&lt;/p&gt;
-
-&lt;p&gt;当前中国面临的重大矛盾和突出问题，或多或少都与政治改革不到位有直接，间接的关系；一方面，传统体制下的平均主义优越性已不复存在，但旧方式的固有毛病还远远未根绝；另一方面，我们离成熟的市场体制还相距甚远，但原始，野蛮，权钱勾结的“坏市场主义”却为祸日深。这些问题的严重程度与解决难度，与民主化不足，与不能提供公平，平等的制度环境有着莫大的关系。&lt;/p&gt;
-
-&lt;h4 id=&quot;todo&quot;&gt;TODO&lt;/h4&gt;
-</description>
-        <pubDate>Fri, 12 Feb 2016 00:00:00 +0800</pubDate>
-        <link>/summary/chinese-politics.html</link>
-        <guid isPermaLink="true">/summary/chinese-politics.html</guid>
-        
-        
-        <category>summary</category>
         
       </item>
     
