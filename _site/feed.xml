@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jun 2016 03:54:53 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Jun 2016 03:54:53 +0800</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2016 03:58:50 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 03:58:50 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -323,11 +323,11 @@ At run time, the code of the functions like I/O functions is duplicated in the t
 
 </description>
         <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
-        <link>/summary/android-dev.html</link>
-        <guid isPermaLink="true">/summary/android-dev.html</guid>
+        <link>/diary/android-dev.html</link>
+        <guid isPermaLink="true">/diary/android-dev.html</guid>
         
         
-        <category>summary</category>
+        <category>diary</category>
         
       </item>
     
