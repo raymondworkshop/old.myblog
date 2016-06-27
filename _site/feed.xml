@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jun 2016 04:01:01 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Jun 2016 04:01:01 +0800</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2016 04:06:00 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 04:06:00 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -23,11 +23,11 @@
 &lt;p&gt;京东刘强东等精英，也来自农村，没人计较他老家的午夜饭如何。 每一个人，在眼前，在当下，随时随地，一样拥有尊严。女孩也一样有责任去赢取男人的尊重，不要因为自己是女性，就什么都天经地义。 婚恋市场有时候挺无情的，不要把自己弄得有价无市。&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Dec 2016 00:00:00 +0800</pubDate>
-        <link>/summary/marrage.html</link>
-        <guid isPermaLink="true">/summary/marrage.html</guid>
+        <link>/draft/marrage.html</link>
+        <guid isPermaLink="true">/draft/marrage.html</guid>
         
         
-        <category>summary</category>
+        <category>draft</category>
         
       </item>
     
@@ -45,11 +45,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 28 Jun 2016 00:00:00 +0800</pubDate>
-        <link>/diary/month-summary.html</link>
-        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        <link>/draft/month-summary.html</link>
+        <guid isPermaLink="true">/draft/month-summary.html</guid>
         
         
-        <category>diary</category>
+        <category>draft</category>
         
       </item>
     
@@ -62,11 +62,11 @@
 看了网上很多 “谢霆锋”的视频， 他真的很棒&lt;/p&gt;
 </description>
         <pubDate>Tue, 31 May 2016 00:00:00 +0800</pubDate>
-        <link>/diary/month-summary.html</link>
-        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        <link>/draft/month-summary.html</link>
+        <guid isPermaLink="true">/draft/month-summary.html</guid>
         
         
-        <category>diary</category>
+        <category>draft</category>
         
       </item>
     
@@ -121,11 +121,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 09 May 2016 00:00:00 +0800</pubDate>
-        <link>/diary/weekly-summary.html</link>
-        <guid isPermaLink="true">/diary/weekly-summary.html</guid>
+        <link>/draft/weekly-summary.html</link>
+        <guid isPermaLink="true">/draft/weekly-summary.html</guid>
         
         
-        <category>diary</category>
+        <category>draft</category>
         
       </item>
     
@@ -149,11 +149,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 25 Apr 2016 00:00:00 +0800</pubDate>
-        <link>/diary/weekly-summary_.html</link>
-        <guid isPermaLink="true">/diary/weekly-summary_.html</guid>
+        <link>/draft/weekly-summary_.html</link>
+        <guid isPermaLink="true">/draft/weekly-summary_.html</guid>
         
         
-        <category>diary</category>
+        <category>draft</category>
         
       </item>
     
@@ -185,11 +185,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 04 Apr 2016 00:00:00 +0800</pubDate>
-        <link>/diary/weekly-summary_.html</link>
-        <guid isPermaLink="true">/diary/weekly-summary_.html</guid>
+        <link>/draft/weekly-summary_.html</link>
+        <guid isPermaLink="true">/draft/weekly-summary_.html</guid>
         
         
-        <category>diary</category>
+        <category>draft</category>
         
       </item>
     
@@ -258,11 +258,11 @@
 
 </description>
         <pubDate>Sun, 03 Apr 2016 00:00:00 +0800</pubDate>
-        <link>/diary/team-skills.html</link>
-        <guid isPermaLink="true">/diary/team-skills.html</guid>
+        <link>/draft/team-skills.html</link>
+        <guid isPermaLink="true">/draft/team-skills.html</guid>
         
         
-        <category>diary</category>
+        <category>draft</category>
         
       </item>
     
@@ -323,11 +323,11 @@ At run time, the code of the functions like I/O functions is duplicated in the t
 
 </description>
         <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
-        <link>/diary/android-dev.html</link>
-        <guid isPermaLink="true">/diary/android-dev.html</guid>
+        <link>/draft/android-dev.html</link>
+        <guid isPermaLink="true">/draft/android-dev.html</guid>
         
         
-        <category>diary</category>
+        <category>draft</category>
         
       </item>
     
@@ -343,11 +343,11 @@ At run time, the code of the functions like I/O functions is duplicated in the t
 
 </description>
         <pubDate>Mon, 15 Feb 2016 00:00:00 +0800</pubDate>
-        <link>/diary/chinese-ny.html</link>
-        <guid isPermaLink="true">/diary/chinese-ny.html</guid>
+        <link>/draft/chinese-ny.html</link>
+        <guid isPermaLink="true">/draft/chinese-ny.html</guid>
         
         
-        <category>diary</category>
+        <category>draft</category>
         
       </item>
     
