@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A review of Computer System"
-date: 2015-12-16
+date: 2016-05-16
 comments: true
 categories: [technology, system, summary]
 ---
