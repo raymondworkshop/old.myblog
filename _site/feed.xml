@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jun 2016 04:08:54 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Jun 2016 04:08:54 +0800</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2016 16:20:49 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 16:20:49 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -50,6 +50,28 @@
         
         
         <category>draft</category>
+        
+      </item>
+    
+      <item>
+        <title>month summary</title>
+        <description>&lt;h4 id=&quot;section&quot;&gt;珍惜时间，好好努力&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;终于上了正规
+    &lt;ul&gt;
+      &lt;li&gt;希望能有一篇高质量的paper&lt;/li&gt;
+      &lt;li&gt;-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 00:00:00 +0800</pubDate>
+        <link>/diary/month-summary.html</link>
+        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        
+        
+        <category>diary</category>
         
       </item>
     
@@ -325,26 +347,6 @@ At run time, the code of the functions like I/O functions is duplicated in the t
         <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
         <link>/draft/android-dev.html</link>
         <guid isPermaLink="true">/draft/android-dev.html</guid>
-        
-        
-        <category>draft</category>
-        
-      </item>
-    
-      <item>
-        <title>新年胡思乱语</title>
-        <description>&lt;p&gt;过年是个很快乐的日子，毕竟有亲人的陪伴；可怜天下父母心。&lt;/p&gt;
-
-&lt;p&gt;老家乡村越来越衰败，村民也越来越原子化，传统礼法和公共舆论正在破产。在太原又遇到老姐以为孩子丢失后那种巨大的脆弱感，终于意识到老姐的不易； 老姐是个重感情的人，自己又不太善于向家人表达爱，都不知道怎么去安慰。&lt;/p&gt;
-
-&lt;p&gt;见了个同事，给了一些建议，都不知道怎么回报。还是需要赶紧增强自己各方面能力，毕竟欠的太多；不知道为啥过去半年自己失去了点血性，对自己保持诚实还是最重要的。&lt;/p&gt;
-
-&lt;p&gt;一直觉得自己各方面都做的不完美，起码想先对得起支持和帮助自己的人，可惜自己做的还不够好。&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 15 Feb 2016 00:00:00 +0800</pubDate>
-        <link>/draft/chinese-ny.html</link>
-        <guid isPermaLink="true">/draft/chinese-ny.html</guid>
         
         
         <category>draft</category>
