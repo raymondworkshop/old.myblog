@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jun 2016 16:39:51 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Jun 2016 16:39:51 +0800</lastBuildDate>
+    <pubDate>Wed, 29 Jun 2016 03:49:46 +0800</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2016 03:49:46 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -472,14 +472,22 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
 
 &lt;p&gt;当前中国面临的重大矛盾和突出问题，或多或少都与政治改革不到位有直接，间接的关系；一方面，传统体制下的平均主义优越性已不复存在，但旧方式的固有毛病还远远未根绝；另一方面，我们离成熟的市场体制还相距甚远，但原始，野蛮，权钱勾结的“坏市场主义”却为祸日深。这些问题的严重程度与解决难度，与民主化不足，与不能提供公平，平等的制度环境有着莫大的关系。&lt;/p&gt;
 
-&lt;h4 id=&quot;todo&quot;&gt;TODO&lt;/h4&gt;
+&lt;h4 id=&quot;section-5&quot;&gt;国家与公民的关系&lt;/h4&gt;
+&lt;p&gt;洛克的民主理论是以公民的权利为基础。 洛克认为，公民的个人权利最基本的内容就是生命，自由，财产的权利。洛克的理论对国家的权力与公民的权利作了严格的界分。它认为人们建立政府的过程只是把管理社会的公共权力让渡给了政府；而每个人的个人权利是绝对地从属于个人的；政府的职责只是保障每个人的权利，所以政府的权力是从属，派生于公民权利的。&lt;/p&gt;
+
+&lt;p&gt;卢梭享有“彻底民主主义”的美誉；卢梭把国家（主权者）理想化了，认为国家是公益的代表，它不但代表公共利益，也代表每个人的利益，每个人因此必须服从国家。他还认为，主权者不可能损害他的全体成员，也不可能损害任何个别的人，因此主权权力就无需对臣民提供任何保证。卢梭一方面赋予国家这个主权者以无限的权力，另一方面要求公民个人必须绝对地服从国家，如果有人拒不服从，全体就要迫使他服从。法国大革命时期所出现的雅各宾专政是这种理论的一次实验。&lt;/p&gt;
+
+&lt;p&gt;托克维尔将这种以多数人名义行使的无限权力称之为“多数人的暴政”， 其意义就是即使拥有多数也不能享有“无限的权力”。 托克维尔就此成为将民主与自由相区别的思想家。他认为民主与自由可能发生冲突；民主制度的最大危险在于它所拥有的绝对权威可能扼杀个人自由。民主所产生的多数暴政即拥有政治权力，又拥有社会的乃至道德的权力。任何人如果与多数意见相左，他首先得反省自身，而绝不能对多数的意见提出疑问。 民主蜕变为暴政，借民主之名行暴政之实，以人民的名义迫害人民等等，是法国大革命期间上演的一幕人间悲剧。&lt;/p&gt;
+
+&lt;p&gt;在国家与公民的关系上，西方理论从洛克而起，公民天赋权利产生宪法和法律，进而根据法律造就了统治者；法律的基本宗旨是保障公权和防范政府特权。 而社会主义国家正相反，它把国家确定为神圣的，要求公民对国家无条件服从；如果与国家有不同意见，那就是罪恶，随之而来的便是惩处。国家的权力是建立在无视，甚至无端侵犯公民权利的基础上的。一个社会建立在这样的政治关系下，其政权必定是专制的，暴虐的。&lt;/p&gt;
+
 </description>
         <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
-        <link>/summary/chinese-politics.html</link>
-        <guid isPermaLink="true">/summary/chinese-politics.html</guid>
+        <link>/draft/chinese-politics.html</link>
+        <guid isPermaLink="true">/draft/chinese-politics.html</guid>
         
         
-        <category>summary</category>
+        <category>draft</category>
         
       </item>
     
