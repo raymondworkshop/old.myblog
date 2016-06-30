@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jun 2016 18:55:40 +0800</pubDate>
-    <lastBuildDate>Thu, 30 Jun 2016 18:55:40 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2016 19:08:19 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2016 19:08:19 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -23,8 +23,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 28 Jun 2016 00:00:00 +0800</pubDate>
-        <link>/diary/month-summary.html</link>
-        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        <link>/diary/june-month-summary.html</link>
+        <guid isPermaLink="true">/diary/june-month-summary.html</guid>
         
         
         <category>diary</category>
@@ -32,16 +32,17 @@
       </item>
     
       <item>
-        <title>May-month-summary</title>
+        <title>2016-05-30-month-summary</title>
         <description>&lt;p&gt;是不是自己是 失去了冲劲 (主要是自己没有想清楚要做什么， 还有就是被打击)&lt;br /&gt;
 失去了太多的动力和进取心&lt;/p&gt;
 
 &lt;p&gt;一定好好要努力，好好珍惜时间， 认识些值得交的朋友&lt;br /&gt;
 看了网上很多 “谢霆锋”的视频， 他真的很棒&lt;/p&gt;
+
 </description>
-        <pubDate>Tue, 31 May 2016 00:00:00 +0800</pubDate>
-        <link>/diary/month-summary.html</link>
-        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        <pubDate>Mon, 30 May 2016 00:00:00 +0800</pubDate>
+        <link>/diary/may-month-summary.html</link>
+        <guid isPermaLink="true">/diary/may-month-summary.html</guid>
         
         
         <category>diary</category>
