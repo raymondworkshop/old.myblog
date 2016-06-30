@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jun 2016 17:40:30 +0800</pubDate>
-    <lastBuildDate>Thu, 30 Jun 2016 17:40:30 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2016 17:41:23 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2016 17:41:23 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -484,11 +484,9 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
 &lt;p&gt;####&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
-        <link>/draft/summary/chinese-politics.html</link>
-        <guid isPermaLink="true">/draft/summary/chinese-politics.html</guid>
+        <link>/summary/chinese-politics.html</link>
+        <guid isPermaLink="true">/summary/chinese-politics.html</guid>
         
-        
-        <category>draft</category>
         
         <category>summary</category>
         
