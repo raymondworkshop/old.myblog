@@ -2,3 +2,5 @@ _site
 .sass-cache
 _delicious_cache
 **/~
+*DS_Store
+.gitignore
