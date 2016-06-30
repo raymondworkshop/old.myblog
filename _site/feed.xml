@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jun 2016 03:50:50 +0800</pubDate>
-    <lastBuildDate>Wed, 29 Jun 2016 03:50:50 +0800</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2016 17:40:30 +0800</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2016 17:40:30 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -481,13 +481,16 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
 
 &lt;p&gt;在国家与公民的关系上，西方理论从洛克而起，公民天赋权利产生宪法和法律，进而根据法律造就了统治者；法律的基本宗旨是保障公权和防范政府特权。 而社会主义国家正相反，它把国家确定为神圣的，要求公民对国家无条件服从；如果与国家有不同意见，那就是罪恶，随之而来的便是惩处。国家的权力是建立在无视，甚至无端侵犯公民权利的基础上的。一个社会建立在这样的政治关系下，其政权必定是专制的，暴虐的。&lt;/p&gt;
 
+&lt;p&gt;####&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
-        <link>/draft/chinese-politics.html</link>
-        <guid isPermaLink="true">/draft/chinese-politics.html</guid>
+        <link>/draft/summary/chinese-politics.html</link>
+        <guid isPermaLink="true">/draft/summary/chinese-politics.html</guid>
         
         
         <category>draft</category>
+        
+        <category>summary</category>
         
       </item>
     
