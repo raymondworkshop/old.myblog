@@ -1,6 +1,0 @@
-* Tasks
-** DONE a diary record
-   CLOSED: [2016-03-09 Wed 00:14]
-   :LOGBOOK:
-   - State "DONE"       from "TODO"       [2016-03-09 Wed 00:14]
-   :END:
