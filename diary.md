@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Draft
+title: Diary
 ---
 
-## [Draft]({{page.title}})
+## [Diary]({{page.title}})
 <!--
 <ul class="archive">
     //    

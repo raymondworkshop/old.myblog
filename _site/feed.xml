@@ -5,10 +5,24 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jun 2016 19:13:08 +0800</pubDate>
-    <lastBuildDate>Thu, 30 Jun 2016 19:13:08 +0800</lastBuildDate>
+    <pubDate>Tue, 05 Jul 2016 14:07:33 +0800</pubDate>
+    <lastBuildDate>Tue, 05 Jul 2016 14:07:33 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
+    
+      <item>
+        <title>Looking out Looking In</title>
+        <description>&lt;p&gt;####&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Jul 2016 00:00:00 +0800</pubDate>
+        <link>/summary/looking-out-looing-in.html</link>
+        <guid isPermaLink="true">/summary/looking-out-looing-in.html</guid>
+        
+        
+        <category>summary</category>
+        
+      </item>
     
       <item>
         <title>June-month summary</title>
@@ -456,78 +470,11 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
 &lt;p&gt;当前中国面临的重大矛盾和突出问题，或多或少都与政治改革不到位有直接，间接的关系；一方面，传统体制下的平均主义优越性已不复存在，但旧方式的固有毛病还远远未根绝；另一方面，我们离成熟的市场体制还相距甚远，但原始，野蛮，权钱勾结的“坏市场主义”却为祸日深。这些问题的严重程度与解决难度，与民主化不足，与不能提供公平，平等的制度环境有着莫大的关系。&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
-        <link>/summary/others/chinese-politics.html</link>
-        <guid isPermaLink="true">/summary/others/chinese-politics.html</guid>
+        <link>/summary/chinese-politics.html</link>
+        <guid isPermaLink="true">/summary/chinese-politics.html</guid>
         
         
         <category>summary</category>
-        
-        <category>others</category>
-        
-      </item>
-    
-      <item>
-        <title>Android SDK dev</title>
-        <description>&lt;h4 id=&quot;android-ndk----build-cc-code-into-shared-lib-app-uses&quot;&gt;Android NDK  - build c/c++ code into shared lib app uses&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Android.mk - glue the c/c++ code to the Android NDK&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;defines properties specific to individual modules, or libs&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Application.mk  - defines properties for all the modules that app uses&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;ndk-build -&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;toolchain&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;the dev tool is so important (eclipse is so terrible for this task)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;about-the-linking-to-update&quot;&gt;about the linking [TO UPDATE]&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Linking - concatenates blocks together, and decides on run-time locations for the concatenated blocks
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;symbol resolution step - symbol table in .symtab associate each global symbol (functions and global variables) reference with a unique symbol definition&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;relocation - associate a memory location with each symbol definition, and then make them point to the memory location meger all sections of the same type into a new aggregate section relocate symbol references so that they point to the correct run-time addresses&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;linking with static libraries
-    &lt;ul&gt;
-      &lt;li&gt;related functions can be compiled into separate object modules and then packaged in a single static library file; At link time, the linker will copy only the object modules(symbol resolution) that are referenced by the program.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;advantages&lt;br /&gt;
-need to maintain and update the static libraries periodically  &lt;br /&gt;
-At run time, the code of the functions like I/O functions is duplicated in the text segment of each running process&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;dynamic linking with shared libraries&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;a single copy of the .text section of a shared libray in memory can be shared by different running&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;the basic idea is to link the relocation and symbol table info when the executable file is created, and then complete the linking process (code and data ) dynamically when the program is loaded&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
-        <link>/diary/android-dev.html</link>
-        <guid isPermaLink="true">/diary/android-dev.html</guid>
-        
-        
-        <category>diary</category>
         
       </item>
     
