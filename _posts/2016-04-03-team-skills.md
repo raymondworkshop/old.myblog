@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Team-skills"
+title: "[Updating]-Team-skills"
 date: 2016-04-03
 comments: true
 categories: [summry]
 ---
-#### [updating] 
+#### [Updating] 
 * have a good relationship with your boss
   - on time
   - know your manager's communication style and methods
@@ -44,6 +44,7 @@ categories: [summry]
   - 花一点时间询问你是否在有效地交流，以及你可以怎样把它做得更好； 如果有问题，寻找方法去提高你自己的实践
   - 向别人指出一个问题的最好方法是同时提供一个解决方案,其次是呼吁他们寻求帮助
   - 与boss聊一聊，需要做什么才能获得
+
    
-### reference
+#### reference
 
