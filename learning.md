@@ -5,15 +5,22 @@ title: Learning
 Courses
 
 #### NLP:
-  - [stanford-nlp](http://web.stanford.edu/class/cs224n/syllabus.shtml)
+   * [Introduction to Natural Language Processing
+](https://www.coursera.org/learn/natural-language-processing/home/welcome)
+   * [Stanford-CS 224N / Ling 284  —  Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml)
+   * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+   * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info)
 
 #### doing: 
   - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061) 
   - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
   - [Advanced OS](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) 
   - [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
+  - [Algorithms, Part II](https://www.coursera.org/course/algs4partII)    
+
   - [Effective Communication](https://www.coursera.org/learn/effective-intercultural-communication/home/welcome)
   - [Improve Your English Communication Skills](https://www.coursera.org/learn/professional-emails-english/home/welcome)
+  - [Writing in the Sciences](https://lagunita.stanford.edu/courses/Medicine/SciWrite./Fall2015/info)
 
 
 #### reference:
@@ -34,7 +41,7 @@ Courses
 
   * language 
        - [English Grammar and Essay Writing](https://www.edx.org/course/english-grammar-essay-writing-uc-berkeleyx-colwri2-2x)    
-       - <del>[Writing in the Sciences](https://lagunita.stanford.edu/dashboard)</del>  
+       - <del>[Writing in the Sciences](https://lagunita.stanford.edu/courses/Medicine/SciWrite./Fall2015/info)</del>  
        - [Pronouncing English Accurately](http://www.scs.cuhk.edu.hk/search/course_details.php?l=en&term=161&course_cd=379105&class_cd=01&fm=gc)    
        - <del>[Online Cantonese](https://www.ilc.cuhk.edu.hk/EN/CHResources/Lang_CAN_Adv.aspx)</del>
 
