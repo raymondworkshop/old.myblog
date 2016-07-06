@@ -4,19 +4,21 @@ title: Learning
 ---
 Courses
 
-#### NLP:
-   * [Introduction to Natural Language Processing
-](https://www.coursera.org/learn/natural-language-processing/home/welcome)
-   * [Stanford-CS 224N / Ling 284  —  Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml)
-   * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-   * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info)
-
 #### doing: 
+  -  [Introduction to Natural Language Processing
+](https://www.coursera.org/learn/natural-language-processing/home/welcome)
+  - [Stanford-CS 224N / Ling 284  —  Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml)
+  - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+  -  
+
   - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061) 
   - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+  - [Algorithms, Part II](https://www.coursera.org/course/algs4partII)    
+  - [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info)
+  -  
   - [Advanced OS](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) 
   - [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
-  - [Algorithms, Part II](https://www.coursera.org/course/algs4partII)    
+  -  
 
   - [Effective Communication](https://www.coursera.org/learn/effective-intercultural-communication/home/welcome)
   - [Improve Your English Communication Skills](https://www.coursera.org/learn/professional-emails-english/home/welcome)
