@@ -10,6 +10,10 @@ Courses
   - [Stanford-CS 224N / Ling 284  —  Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml)
   - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   -  
+  - [機器學習基石 (Machine Learning Foundations)](https://class.coursera.org/ntumlone-003)  
+  - [Machine Learning: Supervised Learning](https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)
+  - [learning from data](https://work.caltech.edu/telecourse.html) 
+  - 
 
   - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061) 
   - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
