@@ -14,3 +14,4 @@ categories: [diary]
    - 把车学会
    - 把游泳学会
    - 首先把英语练好， 会几本的粤语
+   - 把GRE 和  toefl 过了

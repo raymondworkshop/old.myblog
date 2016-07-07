@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[Updating]-Team-skills"
+title: "Team-skills"
 date: 2016-04-03
 comments: true
-categories: [summry]
+categories: [summry, others]
 ---
 #### [Updating] 
 * have a good relationship with your boss
