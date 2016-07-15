@@ -5,16 +5,18 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Jul 2016 16:16:50 +0800</pubDate>
-    <lastBuildDate>Fri, 15 Jul 2016 16:16:50 +0800</lastBuildDate>
+    <pubDate>Fri, 15 Jul 2016 16:19:13 +0800</pubDate>
+    <lastBuildDate>Fri, 15 Jul 2016 16:19:13 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
       <item>
         <title>weekly-summary</title>
-        <description>&lt;p&gt;需要提高的地方&lt;br /&gt;
-  - 生活规律些，起码早睡早起&lt;br /&gt;
-  - 10点钟 前必须到， 晚上1点前必须睡觉&lt;/p&gt;
+        <description>&lt;h5 id=&quot;section&quot;&gt;需要提高的地方&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;生活规律些，起码早睡早起&lt;/li&gt;
+  &lt;li&gt;10点钟 前必须到， 晚上1点前必须睡觉&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Fri, 15 Jul 2016 00:00:00 +0800</pubDate>
         <link>/diary/weekly-summary.html</link>
