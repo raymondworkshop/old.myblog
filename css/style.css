@@ -5,8 +5,9 @@
 
 body {
     background-color: #fff;
-    color: #555;
-    font-family: 'Roboto', 'Droid Sans', 'Helvetica', 'Arial', 'Microsoft Yahei',serif,sans-serif ;
+    color: #777;
+    font-family: 'Old Standard TT','cwTeXMing', 'ChineseFont','Roboto', 'Droid Sans', 'Helvetica',  'Microsoft Yahei',serif,sans-serif ;
+     serif;
 }
 
 #wrapper {
@@ -53,24 +54,24 @@ ul.linkicons i{
   font-size: 1.2em;
 }
 ul.archive {
-  margin-top: 15px;
+  margin-top: 8px;
   list-style-type: none;
 }
 ul.archive li{
   margin-bottom: 10px;
 }
 h1 {
-    font-size:2.00em;
+    font-size:1.75em;
     margin-bottom: 15px;
 }
 h2 {
     color: #184468;
-    font-size: 1.75em;
+    font-size: 1.5em;
     margin-bottom: 22px;
 }
 h3 {
     color: #184468;
-    font-size:1.5em;
+    font-size:1.25em;
     margin-bottom: 10px;
 }
 h4 {
@@ -109,7 +110,7 @@ div.menu a.avatar {
 /* single post page layout */
 .postcontent {
     width: 650px;
-    font-size: 13pt;
+    font-size: 12pt;
 }
 .postdate {
    text-align: right;
@@ -125,7 +126,7 @@ div.menu a.avatar {
 }
 .postcontent p{
   width: 550px;
-  line-height: 22px;
+  line-height: 20px;
 }
 .post ul{
   margin-left: 30px;
