@@ -3,7 +3,7 @@ layout: post
 title: "Some Biases"
 date: 2015-12-14
 comments: true
-categories: [summary, diary]
+categories: [diary]
 ---
 > <font color="#800080">唯一能让你真正保持生机的办法，就是深入挖掘你痴迷的东西</font>  
 
