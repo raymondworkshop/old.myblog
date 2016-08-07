@@ -4,7 +4,7 @@ title: messages
 comments: true
 categories:
 ---
-#### [pieces of my message]({{page.title}})
+### [My Messages]({{page.title}})
 
 
 {% if site.disqus %}
