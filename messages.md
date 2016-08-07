@@ -6,11 +6,6 @@ categories:
 ---
 ### [My Messages]({{page.title}})
 
-<!--
-<div class="post">
-    {{ content }}
-</div>
--->
 
 {% if site.disqus %}
    {% include disqus.html %}
