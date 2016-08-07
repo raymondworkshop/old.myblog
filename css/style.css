@@ -65,16 +65,17 @@ h1 {
     margin-bottom: 15px;
 }
 h2 {
-    color: #184468;
+    color: #840044;
     font-size: 1.5em;
     margin-bottom: 22px;
 }
 h3 {
-    color: #184468;
+    color: #815476;
     font-size:1.25em;
     margin-bottom: 10px;
 }
 h4 {
+    color: #574266;
     font-size:1em;
     margin-bottom: 15px;
 }
@@ -84,6 +85,15 @@ p, pre{
 pre{
   margin-left: 25px;
 }
+
+strong {
+  color: #815476;
+}
+
+small {
+  color: #815463;
+}
+
 a:link {
   color: #8C4356;
   text-decoration: none;
@@ -99,8 +109,7 @@ a:hover {
   text-decoration: underline;
 }
 a.posttitle {
-    color: #184468;
-    
+    color: #184468; 
     font-size:1.5em;
     margin-bottom: 15px;
 }
