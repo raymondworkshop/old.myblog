@@ -24,6 +24,10 @@ Courses
   - [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
   -  
 
+#### improving
+  - [English speaking](http://elss.elc.cityu.edu.hk/ELSS/activities.aspx)
+  - [Cantonese speaking](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/tm_introduction.html)
+  
   - [Effective Communication](https://www.coursera.org/learn/effective-intercultural-communication/home/welcome)
   - [Improve Your English Communication Skills](https://www.coursera.org/learn/professional-emails-english/home/welcome)
   - [Writing in the Sciences](https://lagunita.stanford.edu/courses/Medicine/SciWrite./Fall2015/info)
