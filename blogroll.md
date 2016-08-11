@@ -5,6 +5,7 @@ title: Links
 ### [Links]({{page.title}})
  * [Peter Norvig](http://norvig.com/)
  * [Ray Toal](http://cs.lmu.edu/~ray/)
+ * [Brendan D. Gregg](http://www.brendangregg.com/index.html)
  * [Paul Graham](http://www.paulgraham.com/articles.html)
  * [Programming](http://www.cnblogs.com/weidagang2046)
  * [Philip J. Guo](http://www.pgbovine.net/)
