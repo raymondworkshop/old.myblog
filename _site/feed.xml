@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Aug 2016 22:45:17 +0800</pubDate>
-    <lastBuildDate>Tue, 09 Aug 2016 22:45:17 +0800</lastBuildDate>
+    <pubDate>Fri, 19 Aug 2016 01:12:14 +0800</pubDate>
+    <lastBuildDate>Fri, 19 Aug 2016 01:12:14 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -15,6 +15,7 @@
         <description>&lt;h4 id=&quot;english&quot;&gt;English&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://elss.elc.cityu.edu.hk/ELSS/activities.aspx&quot;&gt;English speaking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.weibo.com/ttarticle/p/show?id=2309404005596264270260#_0&quot;&gt;speaking&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;cantonese&quot;&gt;Cantonese&lt;/h4&gt;
@@ -24,6 +25,7 @@
 
 &lt;h4 id=&quot;refereence&quot;&gt;refereence&lt;/h4&gt;
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ilang.cle.ust.hk/pronunciation/&quot;&gt;HKUST&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/learn/effective-intercultural-communication/home/welcome&quot;&gt;Effective Communication&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/learn/professional-emails-english/home/welcome&quot;&gt;Improve Your English Communication Skills&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://lagunita.stanford.edu/courses/Medicine/SciWrite./Fall2015/info&quot;&gt;Writing in the Sciences&lt;/a&gt;&lt;/li&gt;
@@ -55,6 +57,26 @@
         <pubDate>Mon, 08 Aug 2016 00:00:00 +0800</pubDate>
         <link>/diary/weekly-summary.html</link>
         <guid isPermaLink="true">/diary/weekly-summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
+    
+      <item>
+        <title>two-weeks-summary</title>
+        <description>&lt;h4 id=&quot;summary-in-the-two-weeks&quot;&gt;summary in the two weeks&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;作息稍微 规律些&lt;/li&gt;
+  &lt;li&gt;每天花些时间在 语言提高上&lt;/li&gt;
+  &lt;li&gt;开上上课&lt;/li&gt;
+  &lt;li&gt;稍微 提高些 效率&lt;/li&gt;
+  &lt;li&gt;加强下社交能力&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 08 Aug 2016 00:00:00 +0800</pubDate>
+        <link>/diary/two-weeks-summary.html</link>
+        <guid isPermaLink="true">/diary/two-weeks-summary.html</guid>
         
         
         <category>diary</category>
@@ -379,34 +401,6 @@ complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynam
         <pubDate>Mon, 09 May 2016 00:00:00 +0800</pubDate>
         <link>/diary/weekly-summary.html</link>
         <guid isPermaLink="true">/diary/weekly-summary.html</guid>
-        
-        
-        <category>diary</category>
-        
-      </item>
-    
-      <item>
-        <title>2016-04-25-weekly-summary</title>
-        <description>&lt;p&gt;总结这两周&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;发现自己的精力好差&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;工作上发现有些被动，
-    &lt;ul&gt;
-      &lt;li&gt;感觉有些不正轨&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;多看书&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;这个工作最大的问题是 一开始 自己就有些独，没搞好关系，再加上没有经验的领导&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 25 Apr 2016 00:00:00 +0800</pubDate>
-        <link>/diary/weekly-summary_.html</link>
-        <guid isPermaLink="true">/diary/weekly-summary_.html</guid>
         
         
         <category>diary</category>
