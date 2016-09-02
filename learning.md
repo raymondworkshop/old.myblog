@@ -31,6 +31,7 @@ Courses
   - [Effective Communication](https://www.coursera.org/learn/effective-intercultural-communication/home/welcome)
   - [Improve Your English Communication Skills](https://www.coursera.org/learn/professional-emails-english/home/welcome)
   - [Writing in the Sciences](https://lagunita.stanford.edu/courses/Medicine/SciWrite./Fall2015/info)
+  - [Advice on Research and Writing](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
 
 
 #### reference:
