@@ -63,5 +63,5 @@ categories: [technology]
   * TODO
 
 #### reference
-  * (Data Mining and Knowledge Discovery)[http://www.cse.cuhk.edu.hk/~taoyf/course/cmsc5724/spr15/cmsc5724.html]
-  * (FLANN lib)[http://www.cs.ubc.ca/research/flann/]
+  * [Data Mining and Knowledge Discovery](http://www.cse.cuhk.edu.hk/~taoyf/course/cmsc5724/spr15/cmsc5724.html)
+  * [FLANN lib](http://www.cs.ubc.ca/research/flann/)
