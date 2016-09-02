@@ -6,7 +6,7 @@ categories: [technology]
 ---
 #### Clustering - divide a set of objects into meaningful groups
 
-##### Centroid-based partitioning
+#### Centroid-based partitioning
    * Objects in the same cluster should be similar to each other, while in different clusters should be dissimilar.
 
    * k-center: find the k center set with the **smallest radius r\***
@@ -42,7 +42,7 @@ categories: [technology]
 		   +   differing sizes, differing density, Non-globular shapes
 
 
-##### Hierarchical Methods
+#### Hierarchical Methods
    * Why
 	  - when a clustering needs, different users can explore the hierarchy to obtain **various** clustering results efficiently
 
@@ -59,9 +59,9 @@ categories: [technology]
 		   + distance graph G(V,E) (TODO)
 
 
-##### Density-based
+#### Density-based
   * TODO
 
-
-[1]: http://www.cse.cuhk.edu.hk/~taoyf/course/cmsc5724/spr15/cmsc5724.html "Data Mining and Knowledge Discovery"
-[2]: http://www.cs.ubc.ca/research/flann/   "FLANN lib"
+#### reference
+  * (Data Mining and Knowledge Discovery)[http://www.cse.cuhk.edu.hk/~taoyf/course/cmsc5724/spr15/cmsc5724.html]
+  * (FLANN lib)[http://www.cs.ubc.ca/research/flann/]
