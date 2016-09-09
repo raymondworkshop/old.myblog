@@ -22,7 +22,13 @@ Courses
   -  
   - [Advanced OS](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) 
   - [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
-  -  
+  - 
+
+#### checking
+  - CS8695 - Research In Computer Science
+  - CS4487 - Machine Learning
+  - SM8402 - Research Skills and Methods: The Doctorate and Beyond
+   
 
 #### improving
   - [English speaking](http://elss.elc.cityu.edu.hk/ELSS/activities.aspx)
