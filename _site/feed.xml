@@ -5,10 +5,47 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Sep 2016 21:26:34 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Sep 2016 21:26:34 +0800</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2016 15:02:11 +0800</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2016 15:02:11 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
+    
+      <item>
+        <title>pronunciation problem</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;The sounds
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.bbc.co.uk/learningenglish/english/features/pronunciation/otherconst3&quot;&gt;n, ŋ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.bbc.co.uk/learningenglish/english/features/pronunciation/diphthongs3&quot;&gt;ai&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY&quot;&gt;i, i:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;[i, e]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Consonant Clusters&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 +0800</pubDate>
+        <link>/language/pronunciation.html</link>
+        <guid isPermaLink="true">/language/pronunciation.html</guid>
+        
+        
+        <category>language</category>
+        
+      </item>
+    
+      <item>
+        <title>summary</title>
+        <description>
+</description>
+        <pubDate>Tue, 20 Sep 2016 00:00:00 +0800</pubDate>
+        <link>/diary/month-summary.html</link>
+        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
     
       <item>
         <title>language learning</title>
@@ -193,214 +230,6 @@ most of what they wanted.&lt;/font&gt;&lt;/strong&gt;  &lt;strong&gt;&lt;font co
         <pubDate>Mon, 30 May 2016 00:00:00 +0800</pubDate>
         <link>/diary/may-month-summary.html</link>
         <guid isPermaLink="true">/diary/may-month-summary.html</guid>
-        
-        
-        <category>diary</category>
-        
-      </item>
-    
-      <item>
-        <title>Computer Systems: A Programmer&#39;s Perspective</title>
-        <description>&lt;h4 id=&quot;optimizing-program-performance-ch5&quot;&gt;Optimizing Program Performance [ch5]&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;trade-off between how easy a program is to implement and maintain, and how fast it runs&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Select an appropriate set of algorithms and data structures&lt;/li&gt;
-      &lt;li&gt;make the compiler optimize the code effectively&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The limitations of optimizing compilers -
-    &lt;ul&gt;
-      &lt;li&gt;reducing excessive function calls&lt;/li&gt;
-      &lt;li&gt;eliminating unneeded memory references - introduce temp variables to hold intermediate rsults&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;program profiling&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Amdahl’s Law
-    &lt;ul&gt;
-      &lt;li&gt;The performance gain depends both on &lt;strong&gt;xhow much we improve this part&lt;/strong&gt;&lt;br /&gt;
-and &lt;strong&gt;how large a fraction&lt;/strong&gt; of the overall time this part originally required&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;the-memory-hierarchy-ch6&quot;&gt;The Memory Hierarchy [ch6]&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Storage Technologies - &lt;strong&gt;trade-off between price and performance (access times)&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Static Random-Access memory(SRAM) - stable - cache memory&lt;/li&gt;
-      &lt;li&gt;Dynamic RAM - sensitive to any disturbance - main memory&lt;/li&gt;
-      &lt;li&gt;Solid state dist (SSD)&lt;/li&gt;
-      &lt;li&gt;rotating disk&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;DRAM and disk access times are much larger than CPU CYCLE TIMES
-    &lt;ul&gt;
-      &lt;li&gt;So systems bridge the gaps by organizing memory as a hierarchy of storage devices&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;locality - try to bridge the processor-memory gap&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;temporal locality - locate same data objects multiple time&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;spatial locality - nearby memory location&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;programs with good locality access most of their data from fast cache memories
-    &lt;ul&gt;
-      &lt;li&gt;Exploiting SRAM-based cache memories
-        &lt;ul&gt;
-          &lt;li&gt;programs that fetch data primarily from cache memories can run much faster than ones that fetch data primarily&lt;br /&gt;
-from memory&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;temporal locality -  using a data object as often as possible once it has been read from memory&lt;/li&gt;
-      &lt;li&gt;spatial locality - by reading data objects sequentially, with stride 1, in the order they are stored in memory&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;linking-ch7---enable-separate-compilation-just-only-recompile-one-source-and-relink-&quot;&gt;Linking [ch7] - enable separate compilation (just only recompile one source and relink )&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Linking - concatenates blocks together, and decides on &lt;strong&gt;run-time locations&lt;/strong&gt; for the concatenated blocks
-    &lt;ul&gt;
-      &lt;li&gt;symbol resolution step -  symbol table in .symtab
-        &lt;ul&gt;
-          &lt;li&gt;associate each global symbol (functions and global variables) reference with a &lt;strong&gt;unique&lt;/strong&gt; symbol definition&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;relocation - associate &lt;strong&gt;a memory location with each symbol&lt;/strong&gt; definition, and then make them point to the memory&lt;br /&gt;
-location
-        &lt;ul&gt;
-          &lt;li&gt;meger all sections of the same type into a new aggregate section&lt;/li&gt;
-          &lt;li&gt;relocate symbol references so that they point to the correct run-time addresses&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;linking with static libraries
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;related functions can be compiled into separate object modules and then packaged in a single static library file;&lt;br /&gt;
-At link time, the linker will &lt;strong&gt;copy only the object modules&lt;/strong&gt;(symbol resolution) that are referenced by the program.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;advantages&lt;/p&gt;
-        &lt;ul&gt;
-          &lt;li&gt;need to maintain and update the static libraries periodically&lt;/li&gt;
-          &lt;li&gt;At run time, the code of the functions like I/O functions is duplicated in the text segment of each running process&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;dynamic linking with shared libraries
-    &lt;ul&gt;
-      &lt;li&gt;a single copy of the .text section of a shared libray in memory can be &lt;strong&gt;shared&lt;/strong&gt; by different running&lt;/li&gt;
-      &lt;li&gt;the basic idea is to &lt;strong&gt;link the relocation and symbol table info&lt;/strong&gt; when the executable file is created, and then&lt;br /&gt;
-complete the linking process (&lt;strong&gt;code and data&lt;/strong&gt; ) dynamically when the program is loaded&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;exceptional-control-flow-ecf-ch8&quot;&gt;Exceptional Control Flow (ECF) [ch8]&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;control flow (a sequence of control transfer) of the processor
-    &lt;ul&gt;
-      &lt;li&gt;control transfer - from the address ak to ak+1&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Exception - a change in the processor’s state (event) triggers an abrupt control tansfer (an exception)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;an abrupt change in the control flow&lt;/strong&gt; in response to some change in the processor’s state&lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;The change in processor’s state&lt;/strong&gt; is known as an event&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;interrupt handling - occurs as a result of events in I/O device&lt;/li&gt;
-      &lt;li&gt;traps handling - a procedure-like interface between user programs and the kernel known as a system call&lt;/li&gt;
-      &lt;li&gt;fault handling - result from error conditions&lt;/li&gt;
-      &lt;li&gt;abort handling&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;process -
-    &lt;ul&gt;
-      &lt;li&gt;an independent logical control flow&lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;a private address space&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;concurrent flows - a logical flow whose execution overlaps in time with another&lt;/li&gt;
-      &lt;li&gt;signals&lt;/li&gt;
-      &lt;li&gt;[TODO]&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;virtual-memory-ch9&quot;&gt;Virtual Memory [ch9]&lt;/h4&gt;
-
-&lt;h4 id=&quot;network-programming&quot;&gt;Network programming&lt;/h4&gt;
-
-&lt;h4 id=&quot;concurrent-programming&quot;&gt;concurrent programming&lt;/h4&gt;
-
-&lt;h4 id=&quot;reference&quot;&gt;reference&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://csapp.cs.cmu.edu/public/code.html&quot;&gt;Computer Systems: A Programmer’s Perspective, 2/E&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Memory/introCache.html&quot;&gt;Introduction to Caches&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 16 May 2016 00:00:00 +0800</pubDate>
-        <link>/technology/system/summary/a-review-of-computer-system.html</link>
-        <guid isPermaLink="true">/technology/system/summary/a-review-of-computer-system.html</guid>
-        
-        
-        <category>technology</category>
-        
-        <category>system</category>
-        
-        <category>summary</category>
-        
-      </item>
-    
-      <item>
-        <title>Two-weekly-summary</title>
-        <description>&lt;p&gt;总结下&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;想了下自己下来的方向
-    &lt;ul&gt;
-      &lt;li&gt;data engineer/scientist
-        &lt;ul&gt;
-          &lt;li&gt;mainly on python, machine learning, database&lt;/li&gt;
-          &lt;li&gt;Kaggle competition&lt;/li&gt;
-          &lt;li&gt;design the related computer algorithm&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;construct the software system
-        &lt;ul&gt;
-          &lt;li&gt;mainly on Java/Scala, Agile, OS/Networking&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;the field knowledge
-        &lt;ul&gt;
-          &lt;li&gt;the image/vision&lt;/li&gt;
-          &lt;li&gt;biinformation&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;the communication
-        &lt;ul&gt;
-          &lt;li&gt;need to practice the cantonese, and English&lt;/li&gt;
-          &lt;li&gt;communicate with more professionals&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;要多思考，并且给出自己的一些分析出来&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;看些有帮助的书，多交流&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 09 May 2016 00:00:00 +0800</pubDate>
-        <link>/diary/weekly-summary.html</link>
-        <guid isPermaLink="true">/diary/weekly-summary.html</guid>
         
         
         <category>diary</category>
