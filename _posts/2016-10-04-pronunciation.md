@@ -12,7 +12,7 @@ categories: [language]
   - [i, i:](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
   - [i, e]
   - [æ, a:](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
-  - ［k］(http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
+  -［k](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
   
 * [Consonant clusters](http://www.clarityenglish.com/area1/ClearPronunciation2/Start.php?prefix=CITY)
   - 
