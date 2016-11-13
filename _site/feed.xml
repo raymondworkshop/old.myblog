@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Oct 2016 21:48:23 +0800</pubDate>
-    <lastBuildDate>Sat, 22 Oct 2016 21:48:23 +0800</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2016 00:15:21 +0800</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2016 00:15:21 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -34,7 +34,9 @@
       <item>
         <title>pronunciation problem</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;The sounds
+  &lt;li&gt;
+    &lt;p&gt;The sounds&lt;/p&gt;
+
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;http://www.bbc.co.uk/learningenglish/english/features/pronunciation/otherconst3&quot;&gt;n, ŋ&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://www.bbc.co.uk/learningenglish/english/features/pronunciation/diphthongs3&quot;&gt;ai&lt;/a&gt;&lt;/li&gt;
@@ -42,6 +44,11 @@
       &lt;li&gt;[i, e]&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY&quot;&gt;æ, a:&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY&quot;&gt;k&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pronunciation workshop
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.bilibili.com/video/av2681140/&quot;&gt;practice&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.clarityenglish.com/area1/ClearPronunciation2/Start.php?prefix=CITY&quot;&gt;Consonant clusters&lt;/a&gt;
@@ -81,7 +88,10 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://elss.elc.cityu.edu.hk/ELSS/activities.aspx&quot;&gt;English speaking&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.weibo.com/ttarticle/p/show?id=2309404005596264270260#_0&quot;&gt;speaking&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://8drama.com/33506/&quot;&gt;Friends&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://8drama.com/33506/&quot;&gt;Friends&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://classes.engr.oregonstate.edu/eecs/spring2016/cs519-001/&quot;&gt;CS 519-001, Scientific Writing and Presentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;cantonese&quot;&gt;Cantonese&lt;/h4&gt;
