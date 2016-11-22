@@ -10,6 +10,5 @@ categories: [diary]
   *  每天练习下英文，尤其是听说
   *  research skills
   *  每个月读完一本书
-  *  女友
   *  focus on system, programming and algorithms a bit
   *   生活稍微规律些，锻炼身体

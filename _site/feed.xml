@@ -5,10 +5,32 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Nov 2016 21:32:58 +0800</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2016 21:32:58 +0800</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2016 14:02:11 +0800</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2016 14:02:11 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
+    
+      <item>
+        <title>month summary</title>
+        <description>&lt;h4 id=&quot;work-and-life&quot;&gt;work and life&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;language 还是 一个很好的方向， 期望对这个方向 做出点东西&lt;/li&gt;
+  &lt;li&gt;希望把work 做好，让期望的人满意&lt;/li&gt;
+  &lt;li&gt;优化精力，有机会 每天大概总结下&lt;/li&gt;
+  &lt;li&gt;最近作息稍微规律了些， 有时间 多锻炼身体&lt;/li&gt;
+  &lt;li&gt;语言方面，希望每天都有一些时间&lt;/li&gt;
+  &lt;li&gt;一些 soft skills ， 和 写作演讲能力&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 22 Nov 2016 00:00:00 +0800</pubDate>
+        <link>/diary/month-summary.html</link>
+        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
     
       <item>
         <title>summary</title>
@@ -17,7 +39,6 @@
   &lt;li&gt;每天练习下英文，尤其是听说&lt;/li&gt;
   &lt;li&gt;research skills&lt;/li&gt;
   &lt;li&gt;每个月读完一本书&lt;/li&gt;
-  &lt;li&gt;女友&lt;/li&gt;
   &lt;li&gt;focus on system, programming and algorithms a bit&lt;/li&gt;
   &lt;li&gt;生活稍微规律些，锻炼身体&lt;/li&gt;
 &lt;/ul&gt;
@@ -225,35 +246,6 @@ most of what they wanted.&lt;/font&gt;&lt;/strong&gt;  &lt;strong&gt;&lt;font co
         
         
         <category>summary</category>
-        
-      </item>
-    
-      <item>
-        <title>June-month summary</title>
-        <description>&lt;h4 id=&quot;section&quot;&gt;珍惜时间，好好努力&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;终于上了正规
-    &lt;ul&gt;
-      &lt;li&gt;希望能有一篇高质量的paper&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;技能
-    &lt;ul&gt;
-      &lt;li&gt;把车学会&lt;/li&gt;
-      &lt;li&gt;把游泳学会&lt;/li&gt;
-      &lt;li&gt;首先把英语练好， 会几本的粤语&lt;/li&gt;
-      &lt;li&gt;把英语考试过了&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 28 Jun 2016 00:00:00 +0800</pubDate>
-        <link>/diary/june-month-summary.html</link>
-        <guid isPermaLink="true">/diary/june-month-summary.html</guid>
-        
-        
-        <category>diary</category>
         
       </item>
     
