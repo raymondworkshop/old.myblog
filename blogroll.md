@@ -4,6 +4,7 @@ title: Links
 ---
 ### [Links]({{page.title}})
  * [Peter Norvig](http://norvig.com/)
+ * [Matt Might - howto](http://matt.might.net/)
  * [Ray Toal](http://cs.lmu.edu/~ray/)
  * [Brendan D. Gregg](http://www.brendangregg.com/index.html)
  * [Paul Graham](http://www.paulgraham.com/articles.html)

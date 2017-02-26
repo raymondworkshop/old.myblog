@@ -15,13 +15,12 @@ Courses
   - [Machine Learning: Supervised Learning](https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)
   - 
 
-  - [Computability, Complexity & Algorithms on Udacity](https://www.udacity.com/wiki/ud061) 
-  - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
   - [Algorithms, Part II](https://www.coursera.org/course/algs4partII)    
-  - [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info)
-  -  
-  - [Advanced OS](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) 
-  - [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
+
+  - <del>[Software Development Process](https://www.udacity.com/course/software-development-process--ud805)</del>
+  - <del>[MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info)</del> 
+  - <del>[Advanced OS](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) </del>
+  - <del>[Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)</del>
   - 
 
 #### checking

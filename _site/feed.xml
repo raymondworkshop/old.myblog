@@ -5,10 +5,23 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Dec 2016 14:46:03 +0800</pubDate>
-    <lastBuildDate>Thu, 15 Dec 2016 14:46:03 +0800</lastBuildDate>
+    <pubDate>Sun, 26 Feb 2017 22:34:44 +0800</pubDate>
+    <lastBuildDate>Sun, 26 Feb 2017 22:34:44 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
+    
+      <item>
+        <title>summary</title>
+        <description>
+</description>
+        <pubDate>Thu, 05 Jan 2017 00:00:00 +0800</pubDate>
+        <link>/diary/month-summary.html</link>
+        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        
+        
+        <category>diary</category>
+        
+      </item>
     
       <item>
         <title>month summary</title>
@@ -53,8 +66,10 @@
       </item>
     
       <item>
-        <title>pronunciation problem</title>
-        <description>&lt;ul&gt;
+        <title>language learning</title>
+        <description>&lt;h3 id=&quot;pronunciation&quot;&gt;pronunciation&lt;/h3&gt;
+
+&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;The sounds&lt;/p&gt;
 
@@ -80,32 +95,7 @@
   &lt;li&gt;Consonant Clusters&lt;/li&gt;
 &lt;/ul&gt;
 
-</description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 +0800</pubDate>
-        <link>/language/pronunciation.html</link>
-        <guid isPermaLink="true">/language/pronunciation.html</guid>
-        
-        
-        <category>language</category>
-        
-      </item>
-    
-      <item>
-        <title>summary</title>
-        <description>
-</description>
-        <pubDate>Tue, 20 Sep 2016 00:00:00 +0800</pubDate>
-        <link>/diary/month-summary.html</link>
-        <guid isPermaLink="true">/diary/month-summary.html</guid>
-        
-        
-        <category>diary</category>
-        
-      </item>
-    
-      <item>
-        <title>language learning</title>
-        <description>&lt;h4 id=&quot;english&quot;&gt;English&lt;/h4&gt;
+&lt;h4 id=&quot;english&quot;&gt;English&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://elss.elc.cityu.edu.hk/ELSS/activities.aspx&quot;&gt;English speaking&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.weibo.com/ttarticle/p/show?id=2309404005596264270260#_0&quot;&gt;speaking&lt;/a&gt;&lt;/li&gt;
@@ -130,13 +120,29 @@
   &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/specializations/improve-english&quot;&gt;Improve Your English Communication Skills&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/specializations/business-english&quot;&gt;English Skills for Business&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
-        <pubDate>Tue, 09 Aug 2016 00:00:00 +0800</pubDate>
-        <link>/language/language-learning.html</link>
-        <guid isPermaLink="true">/language/language-learning.html</guid>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 +0800</pubDate>
+        <link>/linguistics/others/pronunciation.html</link>
+        <guid isPermaLink="true">/linguistics/others/pronunciation.html</guid>
         
         
-        <category>language</category>
+        <category>linguistics</category>
+        
+        <category>others</category>
+        
+      </item>
+    
+      <item>
+        <title>summary</title>
+        <description>
+</description>
+        <pubDate>Tue, 20 Sep 2016 00:00:00 +0800</pubDate>
+        <link>/diary/month-summary.html</link>
+        <guid isPermaLink="true">/diary/month-summary.html</guid>
+        
+        
+        <category>diary</category>
         
       </item>
     
@@ -236,16 +242,31 @@ most of what they wanted.&lt;/font&gt;&lt;/strong&gt;  &lt;strong&gt;&lt;font co
       </item>
     
       <item>
-        <title>Looking out Looking In</title>
-        <description>&lt;p&gt;####&lt;/p&gt;
+        <title>June-month summary</title>
+        <description>&lt;h4 id=&quot;section&quot;&gt;珍惜时间，好好努力&lt;/h4&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;终于上了正规
+    &lt;ul&gt;
+      &lt;li&gt;希望能有一篇高质量的paper&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;技能
+    &lt;ul&gt;
+      &lt;li&gt;把车学会&lt;/li&gt;
+      &lt;li&gt;把游泳学会&lt;/li&gt;
+      &lt;li&gt;首先把英语练好， 会几本的粤语&lt;/li&gt;
+      &lt;li&gt;把英语考试过了&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sat, 02 Jul 2016 00:00:00 +0800</pubDate>
-        <link>/summary/looking-out-looing-in.html</link>
-        <guid isPermaLink="true">/summary/looking-out-looing-in.html</guid>
+        <pubDate>Tue, 28 Jun 2016 00:00:00 +0800</pubDate>
+        <link>/diary/june-month-summary.html</link>
+        <guid isPermaLink="true">/diary/june-month-summary.html</guid>
         
         
-        <category>summary</category>
+        <category>diary</category>
         
       </item>
     
