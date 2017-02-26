@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Technology
+title: Science & Technology 
 ---
-## [Technology]({{page.url}})
+## [Science & Technology]({{page.url}})
 
 <div class="postcontent archive">
   <ul class="archive">
