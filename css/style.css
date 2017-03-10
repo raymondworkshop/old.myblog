@@ -5,7 +5,7 @@
 
 body {
     background-color: #fff;
-    color: #777;
+    color: #000000;
     font-family: 'Old Standard TT','cwTeXMing', 'ChineseFont','Roboto', 'Droid Sans', 'Helvetica',  'Microsoft Yahei',serif,sans-serif ;
      serif;
 }
@@ -91,7 +91,7 @@ strong {
 }
 
 small {
-  color:  #CD5C5C;
+  color:  #696969;
 }
 
 a:link {
