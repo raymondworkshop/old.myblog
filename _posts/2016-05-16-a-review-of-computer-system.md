@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Computer Systems: A Programmer's Perspective"
+title: "Computer Systems: A Programmer's Perspective" 
 date: 2016-05-16
 comments: true
 categories: [technology, system]
+abstract: "A summary of Computer Systems from A Programmer's Perspective"
+
 ---
 
 #### Optimizing Program Performance [ch5]  

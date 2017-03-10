@@ -3,6 +3,7 @@ layout: post
 title: "Priority Queue"
 date: 2015-08-04
 categories: [technology, algorithms]
+abstract: "About Priority Queue"
 ---
 #### Stack: FILO (first in, last out) [1]
    * Stored in computer RAM

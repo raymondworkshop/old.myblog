@@ -10,7 +10,10 @@ title: writing
       {% unless post.categories contains "draft"  %}
        {% unless post.categories contains "others" %}
       <li>
-      <a href="{{ post.url }}"> {{ post.title }}</a>
+      <a href="{{ post.url }}"> {{ post.title }}</a>  <br>   
+          {{ post.abstract }}  <br>
+          <br>
+
       <!--
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
       -->

@@ -3,7 +3,9 @@ layout: post
 title: "Clustering"
 date: 2015-07-29
 categories: [technology, machinelearning]
+abstract: "A summary of Clustering Algorithms"
 ---
+
 #### Clustering - divide a set of objects into meaningful groups
 
 #### Centroid-based partitioning

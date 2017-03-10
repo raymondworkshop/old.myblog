@@ -4,8 +4,8 @@ title: "Part one: Happiness Revisited"
 date: 2012-04-04 21:18
 comments: true
 categories: [summary]
+abstract: "The series is a summary from the book Flow, which mainly presents concrete examples and general principles to transform boring and meaningless lives into ones full of enjoyment. "
 ---
-The series is a summary from the book [Flow](http://www.amazon.cn/Flow-The-Psychology-of-Optimal-Experience-Mihaly-Csikszentmihalyi/dp/0061339202/ref=sr_1_1?s=books&ie=UTF8&qid=1333304856&sr=1-1#tc_qz_original=93427426), which mainly presents concrete examples and general principles to transform boring and meaningless lives into ones full of enjoyment.  
 
 ###Content
 We often ask ourselves the similar questions like:<font color="#800080">How could we have more enjoyable life? When do we feel most happy? </font>

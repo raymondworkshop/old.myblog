@@ -4,6 +4,7 @@ title: "Logic Gate"
 date: 2015-10-07
 comments: true
 categories: [technology]
+abstract: "XOR"
 ---
 
 ####  exclusive or (XOR)  [1] , [2] 

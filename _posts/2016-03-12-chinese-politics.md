@@ -4,6 +4,7 @@ title: "透视中国政治"
 date: 2016-03-12
 comments: true
 categories: [culture]
+abstract: '总结自 《透视中国政治》 '
 ---
 总结自<透视中国政治>  
   

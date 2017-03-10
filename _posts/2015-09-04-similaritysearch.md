@@ -4,6 +4,7 @@ title: "Similarity Search"
 date: 2015-09-04
 comments: true
 categories: [technology, algorithms]
+abstract: "The problem of similarity search refers to finding objects that have similar characteristics to the query object."
 ---
 #### Similarity Search [^1]
    * Similarity Search in high-dimensional spaces becomes increasingly important in databases, data mining, and search engines,particularly for content-based search of feature-rich data such as audio recordings, digital photos, digital videos and other sensor data. Since feature-rich data objects are typically represented as high-dimensional feature vectors.
