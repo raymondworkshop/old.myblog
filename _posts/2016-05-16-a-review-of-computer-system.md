@@ -3,7 +3,7 @@ layout: post
 title: "Computer Systems: A Programmer's Perspective"
 date: 2016-05-16
 comments: true
-categories: [technology, system, summary]
+categories: [technology, system]
 ---
 
 #### Optimizing Program Performance [ch5]  

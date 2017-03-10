@@ -2,7 +2,7 @@
 layout: post
 title: "Productivity"
 date: 2015-07-29
-categories: [summary]
+categories: [diary]
 ---
 #### [to be more productive] [1]
   * listen to your body

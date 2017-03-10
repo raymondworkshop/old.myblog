@@ -2,7 +2,7 @@
 layout: post
 title: "Clustering"
 date: 2015-07-29
-categories: [technology]
+categories: [technology, machinelearning]
 ---
 #### Clustering - divide a set of objects into meaningful groups
 

@@ -3,7 +3,7 @@ layout: post
 title: "Android SDK dev"
 date: 2016-03-31
 comments: true
-categories: [summary]
+categories: [technology]
 ---
 #### Android NDK  - build c/c++ code into shared lib app uses
   
