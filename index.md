@@ -10,6 +10,7 @@ title: writing
       {% unless post.categories contains "draft"  %}
        {% unless post.categories contains "others" %}
       <li>
+      <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>
       <a href="{{ post.url }}"> {{ post.title }}</a>  <br>   
           {{ post.abstract }}  <br>
           <br>
