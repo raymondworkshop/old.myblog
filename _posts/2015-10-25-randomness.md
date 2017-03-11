@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Randomness"
+title: "Randomness as a source of efficiency"
 date: 2015-11-05
 comments: true
 categories: [science]
 abstract: "Randomization of a part of the control is an essential concept of nature's strategy."
 ---
-#### Randomness as a source of efficiency
+
 Randomization of a part of the control is an essential concept of nature's strategy.
 
 在自然选择里，进化实际上是随机（没有方向）的，是在复杂世界中中找到答案（适应自然）最优效率的办法。 这里的关键词是“不知道”，如果根本不知道未来会怎么变，最好还是随机一些。

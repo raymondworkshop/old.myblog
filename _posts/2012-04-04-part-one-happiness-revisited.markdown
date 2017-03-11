@@ -4,7 +4,7 @@ title: "Part one: Happiness Revisited"
 date: 2012-04-04 21:18
 comments: true
 categories: [summary]
-abstract: "The series is a summary from the book Flow, which mainly presents concrete examples and general principles to transform boring and meaningless lives into ones full of enjoyment. "
+abstract: 'This is a summary from the book <a href="https://www.goodreads.com/book/show/66354.Flow?ac=1&from_search=true">[Flow]</a>, which mainly presents concrete examples and general principles to transform boring and meaningless lives into ones full of enjoyment. '
 ---
 
 ###Content

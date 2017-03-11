@@ -5,7 +5,7 @@ date: 2014-04-19 19:19
 comments: true
 categories: [summary, technology, algorithms]
 abstract: "Priority Queues is a data type to find the largest M items in a
-stream of N items (Constrict: Not enough memory to store N items). "
+stream of N items. "
 ---
 ### Introduction
 "Priority Queues is a data type to find the largest M items in a
