@@ -2,7 +2,7 @@
 layout: default
 title: writing
 ---
-## [Writing]({{page.url}})
+## [Notes]({{page.url}})
 <div class="postcontent archive">
   <ul class="archive">
   {% for post in site.posts %}
