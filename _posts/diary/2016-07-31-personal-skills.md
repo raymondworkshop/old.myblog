@@ -11,7 +11,9 @@ you establish trust by being responsive and informative to those outside your de
 Don't pretend to know something that you don't.
 
 #### 交流
-非正式交流值得任何事情去鼓励
+- 用心听： 用心听对方的感受和目的, 别听情绪； 通过提问让对方说出来更多的有效信息
+
+- 非正式交流值得任何事情去鼓励
 Everything possible should be done to <font color="#800080">**encourage informal communication**</font>. **More useful work is done during lunches with colleagues** than during any other time.
 
 Disagreement is a great opportunity to make a good decision. <font color="#800080">**If you can support this decision even though you disagree, say so</font>. This shows how valuable you are
