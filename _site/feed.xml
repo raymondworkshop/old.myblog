@@ -5,10 +5,21 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Mar 2017 18:33:51 +0800</pubDate>
-    <lastBuildDate>Sat, 11 Mar 2017 18:33:51 +0800</lastBuildDate>
+    <pubDate>Thu, 16 Mar 2017 18:06:42 +0800</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 18:06:42 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
+    
+      <item>
+        <title>Restart</title>
+        <description>
+</description>
+        <pubDate>Sun, 12 Mar 2017 00:00:00 +0800</pubDate>
+        <link>/restart.html</link>
+        <guid isPermaLink="true">/restart.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>summary</title>
@@ -191,14 +202,35 @@
 you establish trust by being responsive and informative to those outside your department or team.&lt;br /&gt;
 Don’t pretend to know something that you don’t.&lt;/p&gt;
 
-&lt;h4 id=&quot;section&quot;&gt;交流&lt;/h4&gt;
-&lt;p&gt;非正式交流值得任何事情去鼓励&lt;br /&gt;
+&lt;h4 id=&quot;section&quot;&gt;沟通能力&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;沟通之前先考虑清楚对方需要的是什么，绝对是对双方事半功倍的事情&lt;/li&gt;
+  &lt;li&gt;说出“你的感受” （比如你这样说我，我很伤心），而不是 去为行为找理由
+    &lt;ul&gt;
+      &lt;li&gt;讲”感受“的方式 （比如赞扬同事， 你那天给我一个表现的机会，我特别开心，觉得自己是团队的一部分）&lt;br /&gt;
+ （比如： 希望对方 ）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;打电话； 邮件约时间打电话； 不需要立刻回复／讨论的内容，发邮件&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;交流&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;用心听： 用心听对方的感受和目的, 别听情绪； 通过提问让对方说出来更多的有效信息&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;非正式交流值得任何事情去鼓励&lt;br /&gt;
 Everything possible should be done to &lt;font color=&quot;#800080&quot;&gt;**encourage informal communication**&lt;/font&gt;. &lt;strong&gt;More useful work is done during lunches with colleagues&lt;/strong&gt; than during any other time.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Disagreement is a great opportunity to make a good decision. &lt;font color=&quot;#800080&quot;&gt;**If you can support this decision even though you disagree, say so&lt;/font&gt;. This shows how valuable you are&lt;br /&gt;
 because you are independent and are not a yes-man, but respectful of the decision and a team player**&lt;/p&gt;
 
-&lt;p&gt;A good mentor is a lot better than a book. At a minimum, &lt;strong&gt;&lt;font color=&quot;#800080&quot;&gt;you should offer to study hard so their time won&#39;t be wasted&lt;/font&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A good mentor is a lot better than a book. At a minimum, &lt;strong&gt;&lt;font color=&quot;#800080&quot;&gt;you should offer to study hard so their time won&#39;t be wasted&lt;/font&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&quot;work&quot;&gt;work&lt;/h4&gt;
 &lt;p&gt;It is our job to do the hard and discern the impossible. it then becomes &lt;strong&gt;&lt;font color=&quot;#800080&quot;&gt;your job to help the entreprenuer find a reasonable solution which is merely hard and gets
@@ -207,6 +239,7 @@ most of what they wanted.&lt;/font&gt;&lt;/strong&gt;  &lt;strong&gt;&lt;font co
 &lt;h4 id=&quot;reference&quot;&gt;reference&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/braydie/how-to-be-a-programmer&quot;&gt;how to be a programmer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nulishehui.blog.caixin.com/archives/159095&quot;&gt;说话这件“小”事儿&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 31 Jul 2016 00:00:00 +0800</pubDate>
@@ -233,35 +266,6 @@ most of what they wanted.&lt;/font&gt;&lt;/strong&gt;  &lt;strong&gt;&lt;font co
         <pubDate>Fri, 15 Jul 2016 00:00:00 +0800</pubDate>
         <link>/diary/weekly-summary.html</link>
         <guid isPermaLink="true">/diary/weekly-summary.html</guid>
-        
-        
-        <category>diary</category>
-        
-      </item>
-    
-      <item>
-        <title>June-month summary</title>
-        <description>&lt;h4 id=&quot;section&quot;&gt;珍惜时间，好好努力&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;终于上了正规
-    &lt;ul&gt;
-      &lt;li&gt;希望能有一篇高质量的paper&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;技能
-    &lt;ul&gt;
-      &lt;li&gt;把车学会&lt;/li&gt;
-      &lt;li&gt;把游泳学会&lt;/li&gt;
-      &lt;li&gt;首先把英语练好， 会几本的粤语&lt;/li&gt;
-      &lt;li&gt;把英语考试过了&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 28 Jun 2016 00:00:00 +0800</pubDate>
-        <link>/diary/june-month-summary.html</link>
-        <guid isPermaLink="true">/diary/june-month-summary.html</guid>
         
         
         <category>diary</category>
