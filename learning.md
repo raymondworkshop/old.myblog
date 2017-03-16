@@ -7,21 +7,13 @@ Courses
 #### doing: 
   -  [Introduction to Natural Language Processing
 ](https://www.coursera.org/learn/natural-language-processing/home/welcome)
+  - [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language/lecture/MR57B/human-language-versus-other-languages)
   - [Stanford-CS 224N / Ling 284  —  Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml)
   - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-  -  
-  - [機器學習基石 (Machine Learning Foundations)](https://class.coursera.org/ntumlone-003) 
-  - [learning from data](https://work.caltech.edu/telecourse.html) 
-  - [Machine Learning: Supervised Learning](https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)
   - 
-
-  - [Algorithms, Part II](https://www.coursera.org/course/algs4partII)    
-
-  - <del>[Software Development Process](https://www.udacity.com/course/software-development-process--ud805)</del>
-  - <del>[MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info)</del> 
-  - <del>[Advanced OS](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) </del>
-  - <del>[Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)</del>
-  - 
+  - [Getting Started with Essay Writing](https://www.coursera.org/learn/getting-started-with-essay-writing/home/welcome)
+  - [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome)
+  
 
 #### checking
   - CS8695 - Research In Computer Science
@@ -73,5 +65,14 @@ Courses
      - [Improve Your English Communication Skills](https://www.coursera.org/specializations/improve-english)
      - [English Skills for Business](https://www.coursera.org/specializations/business-english)
      - [Leadership](https://www.coursera.org/learn/leadership-skills/home/welcome)
+     - <del>[learning from data](https://work.caltech.edu/telecourse.html) </del>
+  - <del>[Machine Learning: Supervised Learning](https://www.udacity.com/course/viewer#!/c-ud675/l-684818868/m-640579194)</del>
+  - 
+  - <del>[Algorithms, Part II](https://www.coursera.org/course/algs4partII) </del>   
+  - <del>[Software Development Process](https://www.udacity.com/course/software-development-process--ud805)</del>
+  - <del>[MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info)</del> 
+  - <del>[Advanced OS](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) </del>
+  - <del>[Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)</del>
+  - 
 
 
