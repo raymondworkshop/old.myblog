@@ -13,6 +13,7 @@ Courses
   - 
   - [Getting Started with Essay Writing](https://www.coursera.org/learn/getting-started-with-essay-writing/home/welcome)
   - [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome)
+  - [Understanding Research Methods](https://www.coursera.org/learn/research-methods/home/welcome)
   
 
 #### checking
