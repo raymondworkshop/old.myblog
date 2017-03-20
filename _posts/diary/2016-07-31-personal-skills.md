@@ -29,6 +29,10 @@ because you are independent and are not a yes-man, but respectful of the decisio
 - A good mentor is a lot better than a book. At a minimum, **<font color="#800080">you should offer to study hard so their time won't be wasted</font>**.
 
 #### work
+自己的事情主动跟进，有什么问题就跟老板说，讨论， 如果不是自己管辖范围内的事情，别人开心就好
+这里最重要的是你对你提出的问题已经找到合适的解决方案。
+
+
 It is our job to do the hard and discern the impossible. it then becomes **<font color="#800080">your job to help the entreprenuer find a reasonable solution which is merely hard and gets
 most of what they wanted.</font>**  **<font color="#800080">A solution is merely hard when it can be confidently scheduled and the risks are understood.</font>**
 
