@@ -14,6 +14,9 @@ Courses
   - [Getting Started with Essay Writing](https://www.coursera.org/learn/getting-started-with-essay-writing/home/welcome)
   - [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome)
   - [Understanding Research Methods](https://www.coursera.org/learn/research-methods/home/welcome)
+  - [Business English: Networking](https://www.coursera.org/learn/business-english-intro/home/welcome)
+  - [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation/home/welcome)
+  - [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
   
 
 #### checking
