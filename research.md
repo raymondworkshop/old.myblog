@@ -3,7 +3,7 @@ layout: post
 title: paper summary
 ---
 #### Text simplification system based on Flask (a Python Microframework)
-  Our paper [A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view) has been accepted for publication at COLING 2016 on Computational Linguistics, Japan)
+  Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka, Japan .
 
 #### A privacy-preserving Nearest Neighbour search  
   [Nearest Neighbour search](https://drive.google.com/file/d/0B8JbPdkDj7JZR2NQemVEQUNrZVU/view?usp=sharing) refers to finding objects (i.e. face in biometric) that have similar characteristics to the query object .
