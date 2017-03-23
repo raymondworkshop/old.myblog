@@ -3,8 +3,12 @@ layout: default
 title: Links
 ---
 ### [Links]({{page.title}})
+ * [Niniane](http://niniane.blogspot.hk/)
  * [Andrej Karpathy blog](http://karpathy.github.io/)
  * [Peter Norvig](http://norvig.com/)
+ * [W. Richard Stevens](http://www.kohala.com/start/)
+ * [vgod's blog](http://blog.vgod.tw/)
+ * [John Ousterhout](http://web.stanford.edu/~ouster/cgi-bin/home.php)
  * [Matt Might - howto](http://matt.might.net/)
  * [Ray Toal](http://cs.lmu.edu/~ray/)
  * [Brendan D. Gregg](http://www.brendangregg.com/index.html)
@@ -16,4 +20,7 @@ title: Links
  * [刘瑜](http://www.aisixiang.com/thinktank/liuyu.html)
  * [Antique](http://vieplivee.wordpress.com/)
  * [木遥的窗子](http://blog.farmostwood.net/)
+ *  [DAVID PABLO COHN](https://davidpablocohn.com/)
+ * [shen si](http://xia.shen.si/)
+
 
