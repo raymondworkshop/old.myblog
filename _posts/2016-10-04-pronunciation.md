@@ -10,6 +10,7 @@ categories: [diary]
 
 * The sounds
   - [l]
+  - [h]
   - [i, e]
 
   - [n, ŋ](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/otherconst3)
