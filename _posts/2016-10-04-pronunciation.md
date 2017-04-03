@@ -9,8 +9,8 @@ categories: [diary]
 ### pronunciation
 
 * The sounds
-  - [l]
-  - [h]
+  - [l](http://www.bilibili.com/video/av2681140/index_5.html)
+  - [h](http://www.bilibili.com/video/av2681140/index_7.html)
   - [i, e]
 
   - [n, ŋ](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/otherconst3)
