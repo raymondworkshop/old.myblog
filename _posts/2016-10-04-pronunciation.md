@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[Draft] language learning"
+title: "[Draft] language speaking - pronunciation"
 date: 2016-10-04
 comments: true
-categories: [diary]
+categories: [language]
 ---
 
 ### pronunciation

@@ -3,7 +3,7 @@ layout: default
 title: Language
 ---
 
-## [Linguistics]({{page.title}})
+## [Language]({{page.title}})
 <!--
 <ul class="archive">
     //    
@@ -15,7 +15,7 @@ title: Language
 <div class="postcontent archive">
   <ul class="archive">
   {% for post in site.posts %}
-    {% if post.categories.first == "linguistics"  %}
+    {% if post.categories.first == "language"  %}
       <li>
       <a href="{{ post.url }}"> {{ post.title }}</a>
       <!--

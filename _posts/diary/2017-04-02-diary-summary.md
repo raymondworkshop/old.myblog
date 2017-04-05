@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "month summary"
+title: "diary summary"
 date: 2017-04-02
 comments: true
 categories: [diary]
