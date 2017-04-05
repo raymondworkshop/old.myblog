@@ -11,6 +11,7 @@ categories: [language]
 * The sounds
   - [l](http://www.bilibili.com/video/av2681140/index_5.html)
   - [h](http://www.bilibili.com/video/av2681140/index_7.html)
+  - [k, g](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/vlessconst4)
   - [i, e]
 
   - [n, ŋ](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/otherconst3)
