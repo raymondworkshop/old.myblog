@@ -12,11 +12,14 @@ categories: [language]
   - [l](http://www.bilibili.com/video/av2681140/index_5.html)
   - [h](http://www.bilibili.com/video/av2681140/index_7.html)
   - [k, g](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/vlessconst4)
+  - [i, i:](http://www.bilibili.com/video/av2681140/index_8.html)
+  - [oʊ/əʊ](http://www.bilibili.com/video/av2681140/index_8.html#page=9) 
+  - [u:, u](http://www.bilibili.com/video/av2681140/index_10.html) the tough is a bit tight and forward
+  - [au]()
   - [i, e]
 
   - [n, ŋ](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/otherconst3)
   - [ai](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/diphthongs3)
-  - [i, i:](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
   
   - [æ, a:](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
   - [k](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
