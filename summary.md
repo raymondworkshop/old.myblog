@@ -8,7 +8,7 @@ title: Summary
   {% for post in site.posts %}
     {% if post.categories.first == "summary"  %}
       <li>
-      <a href="{{ post.url }}"> {{ post.title }}</a>
+      <a href="{{ post.url }}"> {{ post.title }}</a> - {{ post.date | date: "%b %d, %Y"}}
       <!--
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
       -->
