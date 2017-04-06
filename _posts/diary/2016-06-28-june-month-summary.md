@@ -3,7 +3,7 @@ layout: post
 title: "June-month summary"
 date: 2016-06-28
 comments: true
-categories: [summary]
+categories: [diary, summary]
 ---
 #### 珍惜时间，好好努力
 
