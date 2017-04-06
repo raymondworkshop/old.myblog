@@ -3,7 +3,7 @@ layout: post
 title: "Part two: The Anatomy of Consciousness"
 date: 2012-04-04 21:26
 comments: true
-categories: [summary]
+categories: [notes]
 abstract: "The summary tries to answer the question: how consciousness works and what it actually means to have experiences?"
 ---
 
