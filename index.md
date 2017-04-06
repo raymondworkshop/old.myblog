@@ -8,7 +8,8 @@ title: writing
   {% for post in site.posts %}
       {% unless post.categories contains "diary"  %}
       {% unless post.categories contains "draft"  %}
-       {% unless post.categories contains "others" %}
+       {% unless post.categories contains "summary" %}
+         {% unless post.categories contains "language" %}
       <li>
       <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>
       <a href="{{ post.url }}"> {{ post.title }}</a>  <br>   
@@ -19,6 +20,7 @@ title: writing
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
       -->
       </li>
+         {% endunless %}
        {% endunless %}
     {% endunless %}
     {% endunless %}
