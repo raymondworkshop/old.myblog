@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Draft] language speaking - pronunciation"
+title: "[Draft] speaking - pronunciation"
 date: 2016-10-04
 comments: true
 categories: [language]

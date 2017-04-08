@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Apr 2017 16:24:27 +0800</pubDate>
-    <lastBuildDate>Sat, 08 Apr 2017 16:24:27 +0800</lastBuildDate>
+    <pubDate>Sat, 08 Apr 2017 16:29:14 +0800</pubDate>
+    <lastBuildDate>Sat, 08 Apr 2017 16:29:14 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -30,7 +30,7 @@
       </item>
     
       <item>
-        <title>[Draft] language writing</title>
+        <title>[Draft] writing</title>
         <description>&lt;h3 id=&quot;writing-in-english&quot;&gt;writing in english&lt;/h3&gt;
 </description>
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0800</pubDate>
