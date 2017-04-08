@@ -14,7 +14,8 @@ title: writing
       <li>
       <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>
       <a href="{{ post.url }}"> {{ post.title }}</a>  <br>   
-          {{ post.abstract }} <br>
+          {{ post.abstract }}  
+          <br>
       <!--
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
       -->
