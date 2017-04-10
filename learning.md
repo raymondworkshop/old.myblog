@@ -5,6 +5,9 @@ title: Learning
 Courses
 
 #### doing: 
+  - [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/welcome)
+  - [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome)
+  -  
   -  [Introduction to Natural Language Processing
 ](https://www.coursera.org/learn/natural-language-processing/home/welcome)
   - [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language/lecture/MR57B/human-language-versus-other-languages)
