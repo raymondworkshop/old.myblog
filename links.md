@@ -10,6 +10,7 @@ title: Links
  * [Martin Wattenberg](http://www.bewitched.com/)
  * [W. Richard Stevens](http://www.kohala.com/start/)
  * [vgod's blog](http://blog.vgod.tw/)
+ * [VICKI CHEUNG](https://vickicheung.com/)
  * [John Ousterhout](http://web.stanford.edu/~ouster/cgi-bin/home.php)
  * [Matt Might - howto](http://matt.might.net/)
  * [Ray Toal](http://cs.lmu.edu/~ray/)
