@@ -46,6 +46,7 @@ categories: [language]
   - [Cantonese speaking](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/tm_introduction.html)
 
 #### refereence
+  - [cuhk](https://www.ilc.cuhk.edu.hk/EN/ENResources/Speaking_Pronun.aspx)
   - [HKUST](http://ilang.cle.ust.hk/pronunciation/)
   - [Effective Communication](https://www.coursera.org/learn/effective-intercultural-communication/home/welcome)
   - [Improve Your English Communication Skills](https://www.coursera.org/learn/professional-emails-english/home/welcome)
