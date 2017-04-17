@@ -2,7 +2,6 @@
 layout: default
 title: Language
 ---
-
 ## [Language]({{page.title}})
 <!--
 <ul class="archive">
