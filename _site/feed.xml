@@ -5,8 +5,8 @@
     <description>by muyun_</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Apr 2017 23:00:27 +0800</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2017 23:00:27 +0800</lastBuildDate>
+    <pubDate>Mon, 17 Apr 2017 23:03:40 +0800</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2017 23:03:40 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
      <!--
     
@@ -196,13 +196,15 @@
       </item>
     
       <item>
-        <title>Restart</title>
+        <title>restart</title>
         <description>
 </description>
-        <pubDate>Sun, 12 Mar 2017 00:00:00 +0800</pubDate>
-        <link>/restart.html</link>
-        <guid isPermaLink="true">/restart.html</guid>
+        <pubDate>Sun, 12 Feb 2017 00:00:00 +0800</pubDate>
+        <link>/diary/restart.html</link>
+        <guid isPermaLink="true">/diary/restart.html</guid>
         
+        
+        <category>diary</category>
         
       </item>
     
