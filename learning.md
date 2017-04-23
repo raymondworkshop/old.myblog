@@ -8,18 +8,13 @@ Courses
   - [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/welcome)
   - [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome)
   -  
-  -  [Introduction to Natural Language Processing
-](https://www.coursera.org/learn/natural-language-processing/home/welcome)
-  - [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language/lecture/MR57B/human-language-versus-other-languages)
-  - [Stanford-CS 224N / Ling 284  —  Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml)
+  
   - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   - 
   - [Getting Started with Essay Writing](https://www.coursera.org/learn/getting-started-with-essay-writing/home/welcome)
-  - [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome)
   - [Understanding Research Methods](https://www.coursera.org/learn/research-methods/home/welcome)
   - [Business English: Networking](https://www.coursera.org/learn/business-english-intro/home/welcome)
-  - [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation/home/welcome)
-  - [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
+  
   
 
 #### checking
@@ -36,10 +31,16 @@ Courses
   - [Improve Your English Communication Skills](https://www.coursera.org/learn/professional-emails-english/home/welcome)
   - [Writing in the Sciences](https://lagunita.stanford.edu/courses/Medicine/SciWrite./Fall2015/info)
   - [Advice on Research and Writing](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
+  - [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation/home/welcome)
 
 
 #### reference:
- 
+  * [细说红楼](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/102S206)
+  -  [Introduction to Natural Language Processing
+](https://www.coursera.org/learn/natural-language-processing/home/welcome)
+  - [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language/lecture/MR57B/human-language-versus-other-languages)
+  - [Stanford-CS 224N / Ling 284  —  Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml)
+
   * [System](https://github.com/muyun/dev.computersystem/blob/master/constructsystem/README.md) 
   * programming
       - [scala](https://class.coursera.org/progfun-003)
@@ -65,6 +66,8 @@ Courses
       - [Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices#)
 
   * Others
+    - [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
+
      - [Spring 2016 - Innovating Across Technology, Business, and Marketplaces](https://www.cs.princeton.edu/courses/archive/spring16/cos448/reading.html)
      - [Sp 2013 - Innovating Across Technology, Business, & Markets](http://www.cs.princeton.edu/courses/archive/spring13/cos448/web/schedule.html)
      - [UQx: Think101x The Science of Everyday Thinking](https://courses.edx.org/courses/course-v1:UQx+Think101x+1T2016/info)
