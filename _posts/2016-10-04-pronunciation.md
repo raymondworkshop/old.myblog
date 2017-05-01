@@ -20,6 +20,7 @@ categories: [language]
 
   - [au]()
   - [i, e]
+  - [English Pronunciation Lessons for Chinese English Language Learners](http://www.elementalenglish.com/english-pronunciation-lessons-for-chinese-speakers/)
 
   - [n, ŋ](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/otherconst3)
   - [ai](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/diphthongs3)
