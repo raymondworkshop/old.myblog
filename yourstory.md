@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Stories
+title: Story
 ---
 
-## [The Stories]({{page.title}})
+## [Story]({{page.title}})
