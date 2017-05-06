@@ -2,7 +2,7 @@
 layout: default
 title: Health & Life
 ---
-### Health
+#### Health
  + 注意休息 
  + 少吃多餐 
    - 增重： 
@@ -12,3 +12,6 @@ title: Health & Life
         -> 蔬菜和水果 
       * 少吃多餐 
  + 力量训练（多练无氧器械，而不是有氧训练） 
+
+#### Life
+
