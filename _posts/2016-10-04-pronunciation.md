@@ -15,10 +15,15 @@ categories: [language]
   - [i, i:](http://www.bilibili.com/video/av2681140/index_8.html)
   - [oʊ/əʊ](http://www.bilibili.com/video/av2681140/index_8.html#page=9) 
   - [u:, u](http://www.bilibili.com/video/av2681140/index_10.html) the tough is a bit tight and forward
-  - [k, g](https://www.youtube.com/watch?v=O_NisgL1dvY&index=26&list=PLCJE-Cel_zxoVWzKoAkcJzvKdo47vyjjU) 
   - [p](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
-
-  - [au]()
+  - [p, b] -> 是否送气
+  - [t, d] -> 是否送气
+  - [k, g](https://www.youtube.com/watch?v=O_NisgL1dvY&index=26&list=PLCJE-Cel_zxoVWzKoAkcJzvKdo47vyjjU) 
+  - [k] -> 舌根轻触软腭，爆破,送气 *clean, clock*
+  - [g] -> 爆破 *girl*
+ 
+  - 
+  - [au]
   - [i, e]
   - [English Pronunciation Lessons for Chinese English Language Learners](http://www.elementalenglish.com/english-pronunciation-lessons-for-chinese-speakers/)
 
