@@ -3,7 +3,7 @@ layout: post
 title: "[Updating]:Computer Systems: A Programmer's Perspective" 
 date: 2016-05-16
 comments: true
-categories: [notes, technology, system]
+categories: [technology, system]
 abstract: "A summary of Computer Systems from A Programmer's Perspective"
 
 ---

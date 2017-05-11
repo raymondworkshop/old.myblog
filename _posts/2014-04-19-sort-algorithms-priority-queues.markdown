@@ -3,7 +3,7 @@ layout: post
 title: "Sort Algorithms: Priority Queues"
 date: 2014-04-19 19:19
 comments: true
-categories: [notes, technology, algorithms]
+categories: [technology, algorithms]
 abstract: "Priority Queues is a data type to find the largest M items in a
 stream of N items. "
 ---

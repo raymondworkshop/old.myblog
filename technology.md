@@ -11,7 +11,9 @@ title: Science & Technology
     {% if post.categories.first == "technology"  %}
       <li>
       
-      <a href="{{ post.url }}"> {{ post.title }}</a>
+      <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>
+      <a href="{{ post.url }}"> {{ post.title }}</a>  <br>   
+          {{ post.abstract }} <br>
       <!--
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
       -->
