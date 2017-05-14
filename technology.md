@@ -13,7 +13,7 @@ title: Science & Technology
       
       <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>
       <a href="{{ post.url }}"> {{ post.title }}</a>  <br>   
-          {{ post.abstract }} <br>
+          {{ post.abstract }} <br><br>
       <!--
       <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
       -->

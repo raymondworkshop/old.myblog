@@ -5,8 +5,10 @@ title: paper summary
 #### Text simplification system based on Flask (a Python Microframework)
   Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka, Japan .
 
+
 #### A privacy-preserving Nearest Neighbour search  
   [Nearest Neighbour search](https://drive.google.com/file/d/0B8JbPdkDj7JZR2NQemVEQUNrZVU/view?usp=sharing) refers to finding objects (i.e. face in biometric) that have similar characteristics to the query object .
+
 
 #### Peer-to-Peer Session Initiation Protocol (P2PSIP)    
   The [P2PSIP](https://drive.google.com/file/d/0B8JbPdkDj7JZQVpqbkwzeDM3bDQ/view?usp=sharing) presents an introduction of P2PSIP system and Distributed Hash tables (DHTs) algorithms, which are used to organize the P2PSIP overlay.
