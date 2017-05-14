@@ -18,11 +18,14 @@ categories: [language]
   - [p](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
   - [p, b] -> 是否送气
   - [t, d] -> 是否送气
-  - [k, g](https://www.youtube.com/watch?v=O_NisgL1dvY&index=26&list=PLCJE-Cel_zxoVWzKoAkcJzvKdo47vyjjU) 
+  - [k, g](http://soundsofspeech.uiowa.edu/english/english.html) 
   - [k] -> 舌根轻触软腭，爆破,送气 *clean, clock*
   - [g] -> 爆破 *girl*
+  - [f] -> 没有爆破 *coffee* 
+  - [v] -> *very* 
+  - [θ, ð] -> **舌尖伸出来**
  
-  - 
+  - ** [s, z] -> **sea**; θ, s, d, 
   - [au]
   - [i, e]
   - [English Pronunciation Lessons for Chinese English Language Learners](http://www.elementalenglish.com/english-pronunciation-lessons-for-chinese-speakers/)
