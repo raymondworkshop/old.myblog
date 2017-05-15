@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language
+title: language
 ---
 ## [Language]({{page.title}})
 <!--
@@ -11,7 +11,7 @@ title: Language
 </ul>
 -->
 
-<div class="postcontent archive">
+<div>
   <ul class="archive">
   {% for post in site.posts %}
     {% if post.categories.first == "language"  %}

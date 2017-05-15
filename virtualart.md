@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Virtual Art
+title: virtualart
 ---
 
 ## [Virtual Art]({{page.title}})

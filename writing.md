@@ -2,20 +2,18 @@
 layout: default
 title: Writing
 ---
-## [Writing]({{page.url}})
-<div class="postcontent archive">
-  <ul class="archive">
+<div >
+  <ul class="posts">
   {% for post in site.posts %}
     {% if post.categories.first == "writing"  %}
       <li>
+      
       <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>
       <a href="{{ post.url }}"> {{ post.title }}</a>  <br>   
-          {{ post.abstract }} <br><br>
-          
-      <!--
-      <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
-      -->
+          {{ post.abstract }} <br>
+      
       </li>
+
     {% endif %}
   {% endfor %}
   </ul>

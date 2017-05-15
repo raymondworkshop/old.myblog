@@ -1,6 +1,6 @@
 ---
 layout: post
-title: paper summary
+title: Research
 ---
 #### Text simplification system based on Flask (a Python Microframework)
   Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka, Japan .

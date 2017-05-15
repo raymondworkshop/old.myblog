@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Story
+title: story
 ---
-
 ## [Story]({{page.title}})

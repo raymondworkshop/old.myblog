@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Diary
+title: diary
 ---
 
 ## [Diary]({{page.title}})
+<br>
 <!--
 <ul class="archive">
     //    
@@ -12,8 +13,8 @@ title: Diary
 </ul>
 -->
 
-<div class="postcontent archive">
-  <ul class="archive">
+<div>
+  <ul class="posts">
   {% for post in site.posts %}
     {% if post.categories.first == "diary"  %}
       <li>

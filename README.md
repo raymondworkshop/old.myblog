@@ -1,4 +1,4 @@
-The blog is based on jekyll (some is borrowed from fleuria).
+The blog is based on jekyll (some is borrowed from karpathy).
 
 TODO:
 rake n[title]
