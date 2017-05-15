@@ -4,7 +4,7 @@ description: "everyday explorer"
 baseurl:     ""
 url: "http://muyun.github.io"
 author_name: wenlong
-github_username:  muyun
+github_username:  wenlong
 disqus: muyun
 
 permalink: /:categories/:title.html
