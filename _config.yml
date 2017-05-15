@@ -3,8 +3,8 @@ email: wenlzhao@gmail.com
 description: "everyday explorer"
 baseurl:     ""
 url: "http://muyun.github.io"
-author_name: wenlong
-github_username:  wenlong
+author_name: zhaowenlong
+github_username:  muyun
 disqus: muyun
 
 permalink: /:categories/:title.html
