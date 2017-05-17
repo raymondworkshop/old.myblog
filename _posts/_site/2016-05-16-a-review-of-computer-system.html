@@ -1,0 +1,144 @@
+<h4 id="optimizing-program-performance-ch5">Optimizing Program Performance [ch5]</h4>
+<ul>
+  <li><strong>trade-off between how easy a program is to implement and maintain, and how fast it runs</strong>
+    <ul>
+      <li>Select an appropriate set of algorithms and data structures</li>
+      <li>make the compiler optimize the code effectively</li>
+    </ul>
+  </li>
+  <li>The limitations of optimizing compilers -
+    <ul>
+      <li>reducing excessive function calls</li>
+      <li>eliminating unneeded memory references - introduce temp variables to hold intermediate rsults</li>
+    </ul>
+  </li>
+  <li>
+    <p>program profiling</p>
+  </li>
+  <li>Amdahl’s Law
+    <ul>
+      <li>The performance gain depends both on <strong>xhow much we improve this part</strong>
+and <strong>how large a fraction</strong> of the overall time this part originally required</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="the-memory-hierarchy-ch6">The Memory Hierarchy [ch6]</h4>
+<ul>
+  <li>Storage Technologies - <strong>trade-off between price and performance (access times)</strong>
+    <ul>
+      <li>Static Random-Access memory(SRAM) - stable - cache memory</li>
+      <li>Dynamic RAM - sensitive to any disturbance - main memory</li>
+      <li>Solid state dist (SSD)</li>
+      <li>rotating disk</li>
+    </ul>
+  </li>
+  <li>DRAM and disk access times are much larger than CPU CYCLE TIMES
+    <ul>
+      <li>So systems bridge the gaps by organizing memory as a hierarchy of storage devices</li>
+      <li><strong>locality - try to bridge the processor-memory gap</strong></li>
+      <li>
+        <p>temporal locality - locate same data objects multiple time</p>
+      </li>
+      <li>spatial locality - nearby memory location</li>
+    </ul>
+  </li>
+  <li>programs with good locality access most of their data from fast cache memories
+    <ul>
+      <li>Exploiting SRAM-based cache memories
+        <ul>
+          <li>programs that fetch data primarily from cache memories can run much faster than ones that fetch data primarily
+from memory</li>
+        </ul>
+      </li>
+      <li>temporal locality -  using a data object as often as possible once it has been read from memory</li>
+      <li>spatial locality - by reading data objects sequentially, with stride 1, in the order they are stored in memory</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="linking-ch7---enable-separate-compilation-just-only-recompile-one-source-and-relink-">Linking [ch7] - enable separate compilation (just only recompile one source and relink )</h4>
+<ul>
+  <li>Linking - concatenates blocks together, and decides on <strong>run-time locations</strong> for the concatenated blocks
+    <ul>
+      <li>symbol resolution step -  symbol table in .symtab
+        <ul>
+          <li>associate each global symbol (functions and global variables) reference with a <strong>unique</strong> symbol definition</li>
+        </ul>
+      </li>
+      <li>relocation - associate <strong>a memory location with each symbol</strong> definition, and then make them point to the memory
+location
+        <ul>
+          <li>meger all sections of the same type into a new aggregate section</li>
+          <li>relocate symbol references so that they point to the correct run-time addresses</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>linking with static libraries
+    <ul>
+      <li>
+        <p>related functions can be compiled into separate object modules and then packaged in a single static library file;
+At link time, the linker will <strong>copy only the object modules</strong>(symbol resolution) that are referenced by the program.</p>
+      </li>
+      <li>
+        <p>advantages</p>
+        <ul>
+          <li>need to maintain and update the static libraries periodically</li>
+          <li>At run time, the code of the functions like I/O functions is duplicated in the text segment of each running process</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>dynamic linking with shared libraries
+    <ul>
+      <li>a single copy of the .text section of a shared libray in memory can be <strong>shared</strong> by different running</li>
+      <li>the basic idea is to <strong>link the relocation and symbol table info</strong> when the executable file is created, and then
+complete the linking process (<strong>code and data</strong> ) dynamically when the program is loaded</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="exceptional-control-flow-ecf-ch8">Exceptional Control Flow (ECF) [ch8]</h4>
+<ul>
+  <li>control flow (a sequence of control transfer) of the processor
+    <ul>
+      <li>control transfer - from the address ak to ak+1</li>
+    </ul>
+  </li>
+  <li>Exception - a change in the processor’s state (event) triggers an abrupt control tansfer (an exception)
+    <ul>
+      <li><strong>an abrupt change in the control flow</strong> in response to some change in the processor’s state</li>
+      <li>
+        <p><strong>The change in processor’s state</strong> is known as an event</p>
+      </li>
+      <li>interrupt handling - occurs as a result of events in I/O device</li>
+      <li>traps handling - a procedure-like interface between user programs and the kernel known as a system call</li>
+      <li>fault handling - result from error conditions</li>
+      <li>abort handling</li>
+    </ul>
+  </li>
+  <li>process -
+    <ul>
+      <li>an independent logical control flow</li>
+      <li>
+        <p>a private address space</p>
+      </li>
+      <li>concurrent flows - a logical flow whose execution overlaps in time with another</li>
+      <li>signals</li>
+      <li>[TODO]</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="virtual-memory-ch9">Virtual Memory [ch9]</h4>
+
+<h4 id="network-programming">Network programming</h4>
+
+<h4 id="concurrent-programming">concurrent programming</h4>
+
+<h4 id="reference">reference</h4>
+<ul>
+  <li><a href="http://csapp.cs.cmu.edu/public/code.html">Computer Systems: A Programmer’s Perspective, 2/E</a></li>
+  <li><a href="http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Memory/introCache.html">Introduction to Caches</a></li>
+</ul>

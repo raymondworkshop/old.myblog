@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Computer Systems: A Programmer's Perspective</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="everyday explorer">
+    <link rel="canonical" href="http://muyun.github.io/technology/system/2016/05/16/a-review-of-computer-system/">
+    <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="情書 posts" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-3698471-23', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+</head>
+
+    <body>
+
+    <header class="site-header">
+
+  <div class="wrap">
+    <!--
+    <div style="float:left; margin-top:10px; margin-right:10px;">
+    <a href="/feed.xml">
+      <img src="/assets/rssicon.svg" width="40">
+    </a>
+    </div>
+    -->
+ 
+    <a class="site-title" href="/">情書</a>
+    
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+          
+            
+               
+                 
+                  
+                <a class="page-link" href="/about/">About</a>
+                   
+                  
+               
+            
+          
+        
+          
+            
+          
+        
+          
+        
+          
+            
+               
+                 
+               
+            
+          
+        
+          
+            
+               
+                 
+                  
+                  
+               
+            
+          
+        
+          
+            
+               
+                 
+                  
+                <a class="page-link" href="/notes/">Notes</a>
+                   
+                  
+               
+            
+          
+        
+          
+            
+               
+                 
+                  
+                <a class="page-link" href="/research/">Research</a>
+                   
+                  
+               
+            
+          
+        
+          
+        
+      </div>
+    </nav>
+  </div>
+
+</header>
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>Computer Systems: A Programmer's Perspective</h1>
+    <p class="meta">May 16, 2016</p>
+  </header>
+
+  <article class="post-content">
+  <h4 id="optimizing-program-performance-ch5">Optimizing Program Performance [ch5]</h4>
+<ul>
+  <li><strong>trade-off between how easy a program is to implement and maintain, and how fast it runs</strong>
+    <ul>
+      <li>Select an appropriate set of algorithms and data structures</li>
+      <li>make the compiler optimize the code effectively</li>
+    </ul>
+  </li>
+  <li>The limitations of optimizing compilers -
+    <ul>
+      <li>reducing excessive function calls</li>
+      <li>eliminating unneeded memory references - introduce temp variables to hold intermediate rsults</li>
+    </ul>
+  </li>
+  <li>
+    <p>program profiling</p>
+  </li>
+  <li>Amdahl’s Law
+    <ul>
+      <li>The performance gain depends both on <strong>xhow much we improve this part</strong><br />
+and <strong>how large a fraction</strong> of the overall time this part originally required</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="the-memory-hierarchy-ch6">The Memory Hierarchy [ch6]</h4>
+<ul>
+  <li>Storage Technologies - <strong>trade-off between price and performance (access times)</strong>
+    <ul>
+      <li>Static Random-Access memory(SRAM) - stable - cache memory</li>
+      <li>Dynamic RAM - sensitive to any disturbance - main memory</li>
+      <li>Solid state dist (SSD)</li>
+      <li>rotating disk</li>
+    </ul>
+  </li>
+  <li>DRAM and disk access times are much larger than CPU CYCLE TIMES
+    <ul>
+      <li>So systems bridge the gaps by organizing memory as a hierarchy of storage devices</li>
+      <li><strong>locality - try to bridge the processor-memory gap</strong></li>
+      <li>
+        <p>temporal locality - locate same data objects multiple time</p>
+      </li>
+      <li>spatial locality - nearby memory location</li>
+    </ul>
+  </li>
+  <li>programs with good locality access most of their data from fast cache memories
+    <ul>
+      <li>Exploiting SRAM-based cache memories
+        <ul>
+          <li>programs that fetch data primarily from cache memories can run much faster than ones that fetch data primarily<br />
+from memory</li>
+        </ul>
+      </li>
+      <li>temporal locality -  using a data object as often as possible once it has been read from memory</li>
+      <li>spatial locality - by reading data objects sequentially, with stride 1, in the order they are stored in memory</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="linking-ch7---enable-separate-compilation-just-only-recompile-one-source-and-relink-">Linking [ch7] - enable separate compilation (just only recompile one source and relink )</h4>
+<ul>
+  <li>Linking - concatenates blocks together, and decides on <strong>run-time locations</strong> for the concatenated blocks
+    <ul>
+      <li>symbol resolution step -  symbol table in .symtab
+        <ul>
+          <li>associate each global symbol (functions and global variables) reference with a <strong>unique</strong> symbol definition</li>
+        </ul>
+      </li>
+      <li>relocation - associate <strong>a memory location with each symbol</strong> definition, and then make them point to the memory<br />
+location
+        <ul>
+          <li>meger all sections of the same type into a new aggregate section</li>
+          <li>relocate symbol references so that they point to the correct run-time addresses</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>linking with static libraries
+    <ul>
+      <li>
+        <p>related functions can be compiled into separate object modules and then packaged in a single static library file;<br />
+At link time, the linker will <strong>copy only the object modules</strong>(symbol resolution) that are referenced by the program.</p>
+      </li>
+      <li>
+        <p>advantages</p>
+        <ul>
+          <li>need to maintain and update the static libraries periodically</li>
+          <li>At run time, the code of the functions like I/O functions is duplicated in the text segment of each running process</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>dynamic linking with shared libraries
+    <ul>
+      <li>a single copy of the .text section of a shared libray in memory can be <strong>shared</strong> by different running</li>
+      <li>the basic idea is to <strong>link the relocation and symbol table info</strong> when the executable file is created, and then<br />
+complete the linking process (<strong>code and data</strong> ) dynamically when the program is loaded</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="exceptional-control-flow-ecf-ch8">Exceptional Control Flow (ECF) [ch8]</h4>
+<ul>
+  <li>control flow (a sequence of control transfer) of the processor
+    <ul>
+      <li>control transfer - from the address ak to ak+1</li>
+    </ul>
+  </li>
+  <li>Exception - a change in the processor’s state (event) triggers an abrupt control tansfer (an exception)
+    <ul>
+      <li><strong>an abrupt change in the control flow</strong> in response to some change in the processor’s state</li>
+      <li>
+        <p><strong>The change in processor’s state</strong> is known as an event</p>
+      </li>
+      <li>interrupt handling - occurs as a result of events in I/O device</li>
+      <li>traps handling - a procedure-like interface between user programs and the kernel known as a system call</li>
+      <li>fault handling - result from error conditions</li>
+      <li>abort handling</li>
+    </ul>
+  </li>
+  <li>process -
+    <ul>
+      <li>an independent logical control flow</li>
+      <li>
+        <p>a private address space</p>
+      </li>
+      <li>concurrent flows - a logical flow whose execution overlaps in time with another</li>
+      <li>signals</li>
+      <li>[TODO]</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="virtual-memory-ch9">Virtual Memory [ch9]</h4>
+
+<h4 id="network-programming">Network programming</h4>
+
+<h4 id="concurrent-programming">concurrent programming</h4>
+
+<h4 id="reference">reference</h4>
+<ul>
+  <li><a href="http://csapp.cs.cmu.edu/public/code.html">Computer Systems: A Programmer’s Perspective, 2/E</a></li>
+  <li><a href="http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Memory/introCache.html">Introduction to Caches</a></li>
+</ul>
+
+  </article>
+
+  <!-- mathjax -->
+  
+  
+  <!-- disqus comments -->
+
+ <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'muyun'; // required: replace example with your forum shortname
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  
+  
+</div>
+
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <!-- <h2 class="footer-heading">情書</h2> -->
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li>&copy zhaowenlong </li>
+        <!-- <li><a href="mailto:wenlzhao@gmail.com">wenlzhao@gmail.com</a></li> -->
+      </ul>
+    </div>
+
+    <div class="footer-col-2 column">
+      <ul>
+        <li>
+          <a href="https://github.com/muyun">
+            <span class="icon github">
+              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            <span class="username">muyun</span>
+          </a>
+        </li>
+        <!--
+        
+        -->
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">everyday explorer</p>
+    </div>
+
+  </div>
+
+</footer>
+
+    </body>
+</html>
