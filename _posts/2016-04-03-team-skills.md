@@ -3,7 +3,7 @@ layout: post
 title: "Team-skills"
 date: 2016-04-03
 comments: true
-categories: [summary,diary]
+categories: [diary]
 ---
 #### [Updating] 
 * have a good relationship with your boss

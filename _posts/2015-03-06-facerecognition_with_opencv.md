@@ -3,7 +3,7 @@ layout: post
 title: "A basic SUMMARY of Face Recognition with OpenCV"
 date: 2015-03-06 22:05
 comments: true
-categories: [notes, technology, algorithms]
+categories: [technology, algorithms]
 abstract: "This is a basic SUMMARY of Face Recognition with OpenCV"
 ---
 #### This is a basic SUMMARY of Face Recognition with OpenCV ####

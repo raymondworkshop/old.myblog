@@ -3,7 +3,7 @@ layout: post
 title: "生活的藝術"
 date: 2016-01-03
 comments: true
-categories: [culture]
+categories: [writing]
 abstract: '总结自 林語堂先生的<a href="http://book.douban.com/subject/1017626/">[生活的藝術]</a>, 其中主要分享了先生自己的思想和生活所得的经验'
 ---
 林語堂先生的[《生活的藝術》](http://book.douban.com/subject/1017626/)主要分享了先生自己的思想和生活所得的经验。 

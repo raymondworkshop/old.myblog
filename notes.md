@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Writing
+title: Notes
 ---
 <div >
   <ul class="posts">
   {% for post in site.posts %}
-    {% if post.categories.first == "writing"  %}
+    {% if post.categories.first == "notes"  %}
       <li>
       
       <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>

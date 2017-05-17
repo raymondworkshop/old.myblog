@@ -3,7 +3,7 @@ layout: post
 title: "透视中国政治"
 date: 2016-03-12
 comments: true
-categories: [writing]
+categories: [notes]
 abstract: '总结自 《透视中国政治》 '
 ---
 总结自<透视中国政治>  
