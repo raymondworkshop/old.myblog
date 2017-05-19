@@ -25,7 +25,12 @@ categories: [language]
   - [v] -> *very* 
   - [θ, ð] -> **舌尖伸出来**
  
-  - ** [s, z] -> **sea**; θ, s, d, 
+  - ** [s, z]** -> **sea**; θ, s, d, 
+  - **/∫/** -> 嘴唇稍前伸，呈圆形, 送气; **sheets**， **shell**， **sheep**
+  - **/tʃ, dr/** -> 不卷舌， 唇法
+  - /n/ 舌尖抵触齿龈
+  - **/ŋ/** -> **thing**
+
   - [au]
   - [i, e]
   - [English Pronunciation Lessons for Chinese English Language Learners](http://www.elementalenglish.com/english-pronunciation-lessons-for-chinese-speakers/)
