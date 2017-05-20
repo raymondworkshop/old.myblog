@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning
+title: learning
 ---
 Courses
 
@@ -16,8 +16,10 @@ Courses
   - [Understanding Research Methods](https://www.coursera.org/learn/research-methods/home/welcome)
 
 * programming
-  - [Programming Languages, A](https://www.coursera.org/learn/programming-languages/home/welcome)
-
+  - [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages/home/welcome)
+  - [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b/home/welcome)
+  - [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c/home/welcome)
+  - [CSE341: Programming Languages, Spring 2017](http://courses.cs.washington.edu/courses/cse341/17sp/#lectures)
 * others
   - [Business English: Networking](https://www.coursera.org/learn/business-english-intro/home/welcome)
   
