@@ -16,23 +16,34 @@ categories: [language]
   - [oʊ/əʊ](http://www.bilibili.com/video/av2681140/index_8.html#page=9) 
   - [u:, u](http://www.bilibili.com/video/av2681140/index_10.html) the tough is a bit tight and forward
   - [p](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
-  - [p, b] -> 是否送气
+  - **[p, b]** -> 是否送气， **爆破的準備**
   - [t, d] -> 是否送气
   - [k, g](http://soundsofspeech.uiowa.edu/english/english.html) 
   - [k] -> 舌根轻触软腭，爆破,送气 *clean, clock*
   - [g] -> 爆破 *girl*
-  - [f] -> 没有爆破 *coffee* 
+  - [f] -> 上齒咬下唇，没有爆破 *coffee* 
   - [v] -> *very* 
   - [θ, ð] -> **舌尖伸出来**
+  - [l,n] -> 舌尖接触上齿龈， 一个鼻音
  
   - ** [s, z]** -> **sea**; θ, s, d, 
-  - **/∫/** -> 嘴唇稍前伸，呈圆形, 送气; **sheets**， **shell**， **sheep**
+  - **/∫，ʒ/** -> 嘴唇稍前伸，呈圆形, 送气; **sheets**， **shell**， **sheep**
   - **/tʃ, dr/** -> 不卷舌， 唇法
   - /n/ 舌尖抵触齿龈
   - **/ŋ/** -> **thing**
+  - [r] -> 舌尖上翘，口型成圆形 **three**
+  - 
+  - {舌高低}x{舌前后}x{唇圆展}
+  - i: -> e -> æ   舌头从高到低（嘴巴张开从小到大）
+  - 舌头的最高位置从前到后
+  - 唇從展开到圆型 （从左到右）
+    + i: 衣；  **eat**, 展唇,舌头高，舌前
+    + æ： 嘴巴开口大（舌头低）， 舌头最高位位前，唇展开
+
+    + **sit**  **sleep** *spell* **shade**
 
   - [au]
-  - [i, e]
+  - [i, ei]
   - [English Pronunciation Lessons for Chinese English Language Learners](http://www.elementalenglish.com/english-pronunciation-lessons-for-chinese-speakers/)
 
   - [n, ŋ](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/otherconst3)
