@@ -8,7 +8,7 @@ categories: [language]
 
 ### pronunciation
 
-* The sounds
+* 副音
   - [l](http://www.bilibili.com/video/av2681140/index_5.html)
   - [h](http://www.bilibili.com/video/av2681140/index_7.html)
   - [k, g](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/vlessconst4)
@@ -33,6 +33,7 @@ categories: [language]
   - **/ŋ/** -> **thing**
   - [r] -> 舌尖上翘，口型成圆形 **three**
   - 
+* [元音](http://www.yorku.ca/earmstro/ipa/vowels.html) 
   - {舌高低}x{舌前后}x{唇圆展}
   - i: -> e -> æ   舌头从高到低（嘴巴张开从小到大）
   - 舌头的最高位置从前到后
