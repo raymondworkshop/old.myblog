@@ -43,6 +43,12 @@ categories: [language]
 
     + **sit**  **sleep** *spell* **shade**
 
+    + /ə/ **tomatoes** , **letter**, **onion**, **question**
+    + /ər/ - 卷舌， waiter, doctor, reporter
+    + movie
+    + /a/  嘴张比æ大， 展唇
+    + /ɔ/， 圆唇
+
   - [au]
   - [i, ei]
   - [English Pronunciation Lessons for Chinese English Language Learners](http://www.elementalenglish.com/english-pronunciation-lessons-for-chinese-speakers/)
