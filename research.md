@@ -6,7 +6,7 @@ title: Research
   Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka, Japan .
 
 
-#### A privacy-preserving Nearest Neighbour search  
+#### Privacy-preserving Similar Search  
   [Nearest Neighbour search](https://drive.google.com/file/d/0B8JbPdkDj7JZR2NQemVEQUNrZVU/view?usp=sharing) refers to finding objects (i.e. face in biometric) that have similar characteristics to the query object .
 
 
@@ -20,9 +20,6 @@ title: Research
   The [Online learning](https://drive.google.com/file/d/0B8JbPdkDj7JZZ3hTYXNlbDhSU1U/view?usp=sharing) summary presents an introduction about the latest progress in terms of online student behavior and skills, online assessment, course materials and online forums.
 
   Online learning is bringing about dramatic changes in higher education, and a number of successful large­scale Massive Open Online Courses (MOOCs) platforms such as edX, Coursera, and Udacity have been developed. This revolution raises a series of challenges and possibilities in technology and education fields. 
-
-#### Privacy-preserving Similar Search
-  This [paper](https://drive.google.com/file/d/0B8JbPdkDj7JZR2NQemVEQUNrZVU/view?usp=sharing) refers to finding objects (i.e. face) that have similar characteristics to the query object.
 
 #### An Instruction about incremental 3D reconstruction using Bayesian learning
   The [essay](https://drive.google.com/open?id=0B8JbPdkDj7JZNjdXZE5GMVc4bGc) mainly presents an algorithm for 3D reconstruction. 
