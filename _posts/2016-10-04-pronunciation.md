@@ -22,16 +22,16 @@ categories: [language]
   - [k] -> 舌根轻触软腭，爆破,送气 *clean, clock*
   - [g] -> 爆破 *girl*
   - [f] -> 上齒咬下唇，没有爆破 *coffee* 
-  - [v] -> *very* 
+  - **[v]** -> *very* 
   - [θ, ð] -> **舌尖伸出来**
-  - [l,n] -> 舌尖接触上齿龈， 一个鼻音
+  - [l,n] -> light l （such as like） 是在嘴的前面发音，Dark l（在后面 like apple, special）舌尖接触上齿龈； 一个鼻音
  
   - ** [s, z]** -> **sea**; θ, s, d, 
   - **/∫，ʒ/** -> 嘴唇稍前伸，呈圆形, 送气; **sheets**， **shell**， **sheep**
   - **/tʃ, dr/** -> 不卷舌， 唇法
   - /n/ 舌尖抵触齿龈
   - **/ŋ/** -> **thing**
-  - [r] -> 舌尖上翘，口型成圆形 **three**
+  - **[r]** -> 舌尖上翘，口型成圆形 **three**
   - 
 * [元音](http://www.yorku.ca/earmstro/ipa/vowels.html) 
   - {舌高低}x{舌前后}x{唇圆展}
@@ -46,8 +46,15 @@ categories: [language]
     + /ə/ **tomatoes** , **letter**, **onion**, **question**
     + /ər/ - 卷舌， waiter, doctor, reporter
     + movie
-    + /a/  嘴张比æ大， 展唇
+    + /a:/  嘴张比æ大， 稍微比ʌ圆唇
     + /ɔ/， 圆唇
+
+* 双元音 
+    + /e/ 美音里的， 和英音里的/ei/ 一样
+    + /o/ /ɔu/, 和美式的/ɔ/类似，但是嘴稍微闭上一些, from /ɔ/ to /u/,  有点类似英式的/əu/,  bowl， woke
+    + /ai/
+    + /au/, from /a/ to /u/
+    + /ɔi/, point， 不能吞掉／i/
 
   - [au]
   - [i, ei]
