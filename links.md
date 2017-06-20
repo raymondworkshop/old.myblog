@@ -9,6 +9,7 @@ title: links
 * [Bret Taylor](https://backchannel.org/)
 * [Bryan O'Sullivan](http://www.serpentine.com/blog/)
 * [Julia Evans](http://jvns.ca/)
+* [Rein](http://reinvanderwoerd.nl/index.html)
 * [Fernanda B. Viégas](http://fernandaviegas.com/index.html)
 * [Martin Wattenberg](http://www.bewitched.com/)
 * [W. Richard Stevens](http://www.kohala.com/start/)
