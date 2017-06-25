@@ -98,3 +98,4 @@ abstract: "A summary of Computer Systems from A Programmer's Perspective"
  * [CSE351: The Hardware/Software Interface](http://courses.cs.washington.edu/courses/cse351/)
  * [Computer Systems: A Programmer's Perspective, 2/E](http://csapp.cs.cmu.edu/public/code.html)
  * [Introduction to Caches](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Memory/introCache.html)
+ * [Operating Systems:Principles and Practice](https://book.douban.com/subject/25984145/)

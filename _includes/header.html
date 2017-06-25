@@ -27,7 +27,6 @@
         {% for page in site.pages %}
           {% if page.title %}
             {% if (page.title != "diary") and 
-                  (page.title != "story") and 
                   (page.title != "language") and 
                   (page.title != "links") and
                   (page.title != "learning") 
@@ -37,6 +36,7 @@
             {% endif %}
           {% endif %}
         {% endfor %}
+
       </div>
     </nav>
   </div>

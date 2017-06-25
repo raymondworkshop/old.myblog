@@ -33,6 +33,15 @@ categories: [language]
   - **/ŋ/** -> **thing**
   - **[r]** -> 舌尖上翘，口型成圆形 **three**
   - 
+
+  - [b, p](http://rachelsenglish.com/english-pronounce-b-p-consonants/)
+  -> a stop of the airflow, and a release  
+    -> Stop consonants at the ends of words or syllables are sometimes not released.
+  - [k, g](http://rachelsenglish.com/english-pronounce-g-k-consonants/)
+
+
+
+
 * [元音](http://www.yorku.ca/earmstro/ipa/vowels.html) 
   - {舌高低}x{舌前后}x{唇圆展}
   - i: -> e -> æ   舌头从高到低（嘴巴张开从小到大）

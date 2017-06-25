@@ -3,7 +3,7 @@ layout: post
 title: "寻路中国"
 date: 2014-12-05 22:42
 comments: true
-categories: [writing]
+categories: [notes]
 abstract: '总结自 彼得·海斯勒的<a href="http://book.douban.com/subject/5414391">[寻路中国(Country Driving)]</a>'
 ---
 断断续续的看完了彼得·海斯勒的[<寻路中国(Country Driving)>] [1],才意识到对这快速发展,魔幻现实的国度失去了太多感觉, 要是早些看到就好了。
