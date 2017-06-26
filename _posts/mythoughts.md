@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "My thoughts"
+title: My thoughts
 comments: true
-categories: [diary]
+categories:
+  - diary
+published: true
 ---
 
-#### My thoughts 
-
-
+#### My thoughts
+- This is a test for the publish
