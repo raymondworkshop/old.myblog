@@ -6,3 +6,4 @@ categories: [diary]
 ---
 
 #### Daily thoughts 
+* This is a test
