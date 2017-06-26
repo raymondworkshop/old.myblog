@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Daily thoughts"
+title: Daily thoughts
 comments: true
-categories: [diary]
+categories:
+  - diary
+published: true
 ---
 
 #### Daily thoughts 
-* This is a test
+* This is a test for the publish
