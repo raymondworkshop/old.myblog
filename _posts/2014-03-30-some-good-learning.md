@@ -8,7 +8,7 @@ categories:
 published: true
 ---
 
-#### [Update](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2014-03-30-some-good-learning.md)
+#### [Update](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2014-03-30-some-good-learning.md) 
 
 + 在拥有足够智商的前提下,人与人之间的差距更多取决于**随时独力思考的习惯,勤勉的学习工作态度,坚韧不拔克服困难的能力**
 

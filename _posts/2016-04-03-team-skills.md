@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Team-skills
-date: {}
+date: '2016-04-03 '
 comments: true
 categories:
   - diary
 published: true
 ---
-#### [Updating](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2016-04-03-team-skills.md) 
+#### [Updating](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2016-04-03-team-skills.md)
+
 * have a good relationship with your boss
   - on time
   - know your manager's communication style and methods

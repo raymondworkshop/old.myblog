@@ -1,12 +1,14 @@
 ---
 layout: post
 title: My Daily thoughts
+date: '2017-06-26'
 comments: true
-categories:[diary]
+categories:
+  - diary
 published: true
 ---
 
-#### [Add the lists](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2017-06-26-mythoughts.md)
+#### [Add the lists](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2017-06-26-mythoughts.md)  
 
 * you should get up earlier, not at 14:00 on 2017-06-26
 
