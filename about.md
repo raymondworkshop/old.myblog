@@ -2,5 +2,6 @@
 layout: default
 title: About
 ---
+A computer programmer: email/g: wenlzhao@gmail.com 
 
-A computer programmer: email/g: wenlzhao@gmail.com; I like reading and travelling.
+Computer Science is an art. I like problem solving, reading and travelling.
