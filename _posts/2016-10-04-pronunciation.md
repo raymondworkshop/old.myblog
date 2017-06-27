@@ -12,35 +12,40 @@ categories: [language]
   - [l](http://www.bilibili.com/video/av2681140/index_5.html)
   - [h](http://www.bilibili.com/video/av2681140/index_7.html)
   - [k, g](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/vlessconst4)
-  - [i, i:](http://www.bilibili.com/video/av2681140/index_8.html)
   - [oʊ/əʊ](http://www.bilibili.com/video/av2681140/index_8.html#page=9) 
-  - [u:, u](http://www.bilibili.com/video/av2681140/index_10.html) the tough is a bit tight and forward
-  - [p](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
-  - **[p, b]** -> 是否送气， **爆破的準備**
-  - [t, d] -> 是否送气
-  - [k, g](http://soundsofspeech.uiowa.edu/english/english.html) 
-  - [k] -> 舌根轻触软腭，爆破,送气 *clean, clock*
-  - [g] -> 爆破 *girl*
+
+  - [b, p](http://rachelsenglish.com/english-pronounce-b-p-consonants/)
+    + a stop of the airflow, and a release  
+    + Stop consonants at the ends of words or syllables are sometimes not released.
+    + book
+
+  - **[t, d](https://www.youtube.com/watch?v=zeNsaBwuojg&index=28&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2&spfreload=10)**
+    + 舌尖抵住上齿龈，然后将舌头摊弹开； 词尾不发出声， 只舌尖抵住上齿龈再憋气即可  
+     **two**
+
+  - **[k, g](https://www.youtube.com/watch?v=tXJlmLYFzfs&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2&index=30)**
+    + 双唇微开，**舌后跟轻触口腔软腭**，把气往前推
+    + *girl*， *clean, clock*
+ 
   - [f] -> 上齒咬下唇，没有爆破 *coffee* 
   - **[v]** -> *very* 
   - [θ, ð] -> **舌尖伸出来**
-  - [l,n] -> light l （such as like） 是在嘴的前面发音，Dark l（在后面 like apple, special）舌尖接触上齿龈； 一个鼻音
+  - **[l](https://www.youtube.com/watch?v=hvvMmlbs2KI&index=44&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2)** 
+    + 舌尖上扬抵住上齿龈
+    + light l （such as like） 是在嘴的前面发音 
+    + Dark l（在后面 like apple, special）**舌尖接触上齿龈**
+
+  - **/n/** 舌尖抵触齿龈， 鼻音
  
   - ** [s, z]** -> **sea**; θ, s, d, 
+
   - **/∫，ʒ/** -> 嘴唇稍前伸，呈圆形, 送气; **sheets**， **shell**， **sheep**
   - **/tʃ, dr/** -> 不卷舌， 唇法
-  - /n/ 舌尖抵触齿龈
+
   - **/ŋ/** -> **thing**
+
   - **[r]** -> 舌尖上翘，口型成圆形 **three**
   - 
-
-  - [b, p](http://rachelsenglish.com/english-pronounce-b-p-consonants/)
-  -> a stop of the airflow, and a release  
-    -> Stop consonants at the ends of words or syllables are sometimes not released.
-  - [k, g](http://rachelsenglish.com/english-pronounce-g-k-consonants/)
-
-
-
 
 * [元音](http://www.yorku.ca/earmstro/ipa/vowels.html) 
   - {舌高低}x{舌前后}x{唇圆展}
@@ -48,6 +53,9 @@ categories: [language]
   - 舌头的最高位置从前到后
   - 唇從展开到圆型 （从左到右）
     + i: 衣；  **eat**, 展唇,舌头高，舌前
+    + **[i, i:](http://www.bilibili.com/video/av2681140/index_8.html)**
+    + **[i](https://www.youtube.com/watch?v=fEy96ft6hoM&index=4&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2)**
+
     + æ： 嘴巴开口大（舌头低）， 舌头最高位位前，唇展开
 
     + **sit**  **sleep** *spell* **shade**
@@ -57,6 +65,12 @@ categories: [language]
     + movie
     + /a:/  嘴张比æ大， 稍微比ʌ圆唇
     + /ɔ/， 圆唇
+  
+    + 
+    + **[u:, u](http://www.bilibili.com/video/av2681140/index_10.html)**  
+      - make the lips a bit **tight and forward**
+    + **[u](https://www.youtube.com/watch?v=-GyFaHLkYy4&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2&index=15)**
+
 
 * 双元音 
     + /e/ 美音里的， 和英音里的/ei/ 一样
