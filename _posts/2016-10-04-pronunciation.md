@@ -9,9 +9,7 @@ categories: [language]
 ### pronunciation
 
 * 副音
-  - [l](http://www.bilibili.com/video/av2681140/index_5.html)
   - [h](http://www.bilibili.com/video/av2681140/index_7.html)
-  - [k, g](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/vlessconst4)
   - [oʊ/əʊ](http://www.bilibili.com/video/av2681140/index_8.html#page=9) 
 
   - [b, p](http://rachelsenglish.com/english-pronounce-b-p-consonants/)
@@ -30,6 +28,7 @@ categories: [language]
   - [f] -> 上齒咬下唇，没有爆破 *coffee* 
   - **[v]** -> *very* 
   - [θ, ð] -> **舌尖伸出来**
+
   - **[l](https://www.youtube.com/watch?v=hvvMmlbs2KI&index=44&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2)** 
     + 舌尖上扬抵住上齿龈
     + light l （such as like） 是在嘴的前面发音 
@@ -37,7 +36,7 @@ categories: [language]
 
   - **/n/** 舌尖抵触齿龈， 鼻音
  
-  - ** [s, z]** -> **sea**; θ, s, d, 
+  - **/s, z/** -> **sea**; θ, s, d, 
 
   - **/∫，ʒ/** -> 嘴唇稍前伸，呈圆形, 送气; **sheets**， **shell**， **sheep**
   - **/tʃ, dr/** -> 不卷舌， 唇法
@@ -109,6 +108,7 @@ categories: [language]
   - [Cantonese speaking](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/tm_introduction.html)
 
 #### refereence
+  - [Pronunciation Workshop Video Training Program](http://www.bilibili.com/video/av2681140/)
   - [cuhk](https://www.ilc.cuhk.edu.hk/EN/ENResources/Speaking_Pronun.aspx)
   - [HKUST](http://ilang.cle.ust.hk/pronunciation/)
   - [Effective Communication](https://www.coursera.org/learn/effective-intercultural-communication/home/welcome)
