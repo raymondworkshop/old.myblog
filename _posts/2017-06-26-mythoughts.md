@@ -10,6 +10,10 @@ published: true
 
 #### [Add the lists](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2017-06-26-mythoughts.md)  
 
+* on 07-02
+  - 现在变成每天中午起床
+   - 10点以后回家，12点以前睡觉
+
 * you should get up earlier, not at 14:00 on 2017-06-26
 
 * on 2017-06-20
@@ -35,4 +39,3 @@ published: true
     - 稍微好些了， 以后尽量 9:30 之前起床
     - 鍛鍊身體
     - 每天学习语言
-    
