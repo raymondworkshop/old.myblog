@@ -29,3 +29,4 @@ title: links
 * [Antique](http://vieplivee.wordpress.com/)
 * [木遥的窗子](http://blog.farmostwood.net/)
 * [DAVID PABLO COHN](https://davidpablocohn.com/)
+* [SYARU SHIRLEY LIN 林夏如](http://www.shirleylin.net/)
