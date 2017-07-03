@@ -23,6 +23,12 @@ categories: [language]
   - her -> /ər/
   - it's okay -> /tsou 'kei/
 
+* study linking
+
+* native speech
+
+* write what you hear
+
 * 
 
 ### reference
