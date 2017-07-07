@@ -22,6 +22,29 @@ categories: [language]
   - at the -> /ət| ðə/
   - her -> /ər/
   - it's okay -> /tsou 'kei/
+  -
+  - [WHAT DID Reduction](http://rachelsenglish.com/reduction-2/)
+     + what did -> /'wʌt| did/ or /wʌd/
+     + what did he -> /'wʌd i/
+     + what did you -> /wʌdʒ ə/
+  - [helping verb](http://rachelsenglish.com/reduction/)
+     + do -> /də/
+     + does -> /dəz/
+  - [should, would, could](http://rachelsenglish.com/pronounce-reduce-link/)
+     + should -> /∫əd/ or /∫ə/
+     + would -> /wəd/
+     + could -> /kəd/ or /kə/
+  - [shoulda,coulda,woulda ](http://rachelsenglish.com/shoulda-woulda-coulda/)
+     + should have -> /∫ud ə/
+     + should not have -> /∫ud ən ə/
+     + could have -> /kud ə/
+     + would have -> /wəd ə/
+  - [can, cann't](http://rachelsenglish.com/pronounce-can-vs-cant/)
+     + can -> /kən/
+     + cannot -> /kænt/
+  - [are]()
+     + are -> /ər/
+     + were -> /wər/
 
 * study linking
 
