@@ -32,7 +32,8 @@ categories: [language]
   - **[l](https://www.youtube.com/watch?v=hvvMmlbs2KI&index=44&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2)** 
     + 舌尖上扬抵住上齿龈
     + light l （such as like） 是在嘴的前面发音 
-    + Dark l（在后面 like apple, special）**舌尖接触上齿龈**
+    + [Dark l](http://www.bilibili.com/video/av6105330/?from=search&seid=16976209166632165449)
+      - **Dark l（在后面 like apple, special）** **舌尖接触上齿龈**
 
   - **/n/** 舌尖抵触齿龈， 鼻音
  
@@ -69,6 +70,8 @@ categories: [language]
     + **[u:, u](http://www.bilibili.com/video/av2681140/index_10.html)**  
       - make the lips a bit **tight and forward**
     + **[u](https://www.youtube.com/watch?v=-GyFaHLkYy4&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2&index=15)**
+      - foot,took, cook, shook, stood, good, look, book,wool, swoosh
+      - wood
 
 
 * 双元音 
