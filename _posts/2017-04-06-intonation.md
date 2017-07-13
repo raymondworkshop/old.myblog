@@ -22,6 +22,8 @@ categories: [language]
   - at the -> /ət| ðə/
   - her -> /ər/
   - it's okay -> /tsou 'kei/
+  - as -> /əz/ as tall as
+  - was -> /wəz/
   -
   - [WHAT DID Reduction](http://rachelsenglish.com/reduction-2/)
      + what did -> /'wʌt| did/ or /wʌd/
