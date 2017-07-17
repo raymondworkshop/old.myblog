@@ -47,6 +47,8 @@ categories: [language]
   - [are]()
      + are -> /ər/
      + were -> /wər/
+  -  [what](http://rachelsenglish.com/ways-to-say-what/)
+     + /wʌt|/
 
 * study linking
 
@@ -55,6 +57,14 @@ categories: [language]
 * write what you hear
 
 * 
+
+#### improve listening
+  - study reducation
+  - study linking
+    + he always /hi(y) 'ɔl weiz/
+  - study native speech
+  - write what you hear
+  - try Youglish -> YouGlish
 
 ### reference
 * [Improve Your Pronunciation By 'Shadowing' Others](https://learningenglish.voanews.com/a/improve-your-english-pronunciation-shadowing-others/3339007.html)
