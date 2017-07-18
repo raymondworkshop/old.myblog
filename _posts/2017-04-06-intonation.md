@@ -25,6 +25,8 @@ categories: [language]
   - as -> /əz/ as tall as
   - was -> /wəz/
   -
+  - You're welcome /jər' wel kəm/
+  - 
   - [WHAT DID Reduction](http://rachelsenglish.com/reduction-2/)
      + what did -> /'wʌt| did/ or /wʌd/
      + what did he -> /'wʌd i/
@@ -47,8 +49,13 @@ categories: [language]
   - [are]()
      + are -> /ər/
      + were -> /wər/
-  -  [what](http://rachelsenglish.com/ways-to-say-what/)
+  - [what](http://rachelsenglish.com/ways-to-say-what/)
      + /wʌt|/
+
+  - **[the](http://rachelsenglish.com/english-phrases-with-the/)**
+     + at the -> /ət | ðə/
+     + is the -> tongue pushes on back of the teeth
+     + with the -> /wiθ ð|ə/
 
 * study linking
 

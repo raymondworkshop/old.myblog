@@ -26,23 +26,25 @@ categories: [language]
     + *girl*， *clean, clock*
  
   - [f] -> 上齒咬下唇，没有爆破 *coffee* 
-  - **[v]** -> *very* 
+  - [v] -> *very* 
   - [θ, ð] -> **舌尖伸出来**
 
   - **[l](https://www.youtube.com/watch?v=hvvMmlbs2KI&index=44&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2)** 
     + 舌尖上扬抵住上齿龈
     + light l （such as like） 是在嘴的前面发音 
-    + [Dark l](http://www.bilibili.com/video/av6105330/?from=search&seid=16976209166632165449)
+    + [Dark l](http://rachelsenglish.com/dark-l-vs-oh-email-vs-emai-oh/)
+      - made at the back of the mouth; the back part of the tongue moves back
+      - the tongue pulls back, and might even press down a bit in the back
       - **Dark l（在后面 like apple, special）** **舌尖接触上齿龈**
 
   - **/n/** 舌尖抵触齿龈， 鼻音
  
-  - **/s, z/** -> **sea**; θ, s, d, 
+  - /s, z/ -> **sea**; θ, s, d, 
 
   - **/∫，ʒ/** -> 嘴唇稍前伸，呈圆形, 送气; **sheets**， **shell**， **sheep**
   - **/tʃ, dr/** -> 不卷舌， 唇法
 
-  - **/ŋ/** -> **thing**
+  - /ŋ/ -> **thing**
 
   - **[r]** -> 舌尖上翘，口型成圆形 **three**
   - 
