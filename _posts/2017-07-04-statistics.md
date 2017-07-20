@@ -41,3 +41,4 @@ abstract: "统计推断问题"
     
 #### reference
 * [统计学浅谈](http://episte.math.ntu.edu.tw/articles/mm/mm_03_3_07/index.html)
+*  陈希孺的《概率论与数理统计》
