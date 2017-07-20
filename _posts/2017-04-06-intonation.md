@@ -57,6 +57,9 @@ categories: [language]
      + is the -> tongue pushes on back of the teeth
      + with the -> /wiθ ð|ə/
 
+  - []()
+     + what do you think ? -> /wʌ də jə/
+
 * study linking
 
 * native speech
