@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "统计推断问题"
+title: "Statistical Inference"
 date: 2017-05-19
 comments: true
 categories: [notes, technology]
-abstract: "统计推断问题"
+abstract: "Summary about Statistical Inference"
 ---
 
 #### 统计推断问题
