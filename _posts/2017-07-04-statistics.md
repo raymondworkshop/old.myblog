@@ -32,8 +32,7 @@ abstract: "Summary about Statistical Inference"
      
      我们要似然程度最大, 即“极大似然估计 ”：
     $$ \hat{θ}_{MLE} \\
-       =arg max \sum_{i=1}^n {\log(f(X_i|θ))}  \\
-       =arg max \log(f(X|θ))  \\ 
+       =\operatorname*{arg\,max}_\theta \sum_{i=1}^n {\log(f(X_i|θ))}  \\
     $$<br/><br/>   
     
 
