@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[Draft] American Intonation"
+title: "American Intonation"
 date: 2016-10-04
 comments: true
-categories: [language]
+categories: [notes, language]
 ---
 #### Intonation, Linking, Rhythm, and Stress
 * [The shape of stress](http://rachelsenglish.com/stress-syllable-shape-stress/)
