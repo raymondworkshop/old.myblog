@@ -1,6 +1,6 @@
 <h4 id="clustering---divide-a-set-of-objects-into-meaningful-groups">Clustering - divide a set of objects into meaningful groups</h4>
 
-<h5 id="centroid-based-partitioning">Centroid-based partitioning</h5>
+<h4 id="centroid-based-partitioning">Centroid-based partitioning</h4>
 <ul>
   <li>
     <p>Objects in the same cluster should be similar to each other, while in different clusters should be dissimilar.</p>
@@ -10,7 +10,7 @@
 
     <ul>
       <li>NP-hard</li>
-      <li>an optimal k-circle: a 2-approximate k circle cover <a href="http://www.cse.cuhk.edu.hk/~taoyf/course/cmsc5724/spr15/cmsc5724.html" title="Data Mining and Knowledge Discovery">1</a>
+      <li>an optimal k-circle: a 2-approximate k circle cover [1]
         <ul>
           <li>
             <p>returning a k-center set with radius at most 2r*</p>
@@ -37,7 +37,7 @@
               <li>after each round, the cost (the distance) of the centroid set is strictly lower than that of the old centroid set</li>
             </ul>
           </li>
-          <li>the accuracy guarantee <a href="http://www.cse.cuhk.edu.hk/~taoyf/course/cmsc5724/spr15/cmsc5724.html" title="Data Mining and Knowledge Discovery">1</a>
+          <li>the accuracy guarantee [1]
             <ul>
               <li>
                 <p>k-seeding : the seed choice (David Arthur, Sergei Vassilvitskii: k-means++: the advantages of careful seeding. SODA
@@ -64,7 +64,7 @@ By doing so more carefully, we can significantly improve the approximation ratio
   </li>
 </ul>
 
-<h5 id="hierarchical-methods">Hierarchical Methods</h5>
+<h4 id="hierarchical-methods">Hierarchical Methods</h4>
 <ul>
   <li>Why
     <ul>
@@ -96,8 +96,13 @@ By doing so more carefully, we can significantly improve the approximation ratio
   </li>
 </ul>
 
-<h5 id="density-based">Density-based</h5>
+<h4 id="density-based">Density-based</h4>
 <ul>
   <li>TODO</li>
 </ul>
 
+<h4 id="reference">reference</h4>
+<ul>
+  <li><a href="http://www.cse.cuhk.edu.hk/~taoyf/course/cmsc5724/spr15/cmsc5724.html">Data Mining and Knowledge Discovery</a></li>
+  <li><a href="http://www.cs.ubc.ca/research/flann/">FLANN lib</a></li>
+</ul>
