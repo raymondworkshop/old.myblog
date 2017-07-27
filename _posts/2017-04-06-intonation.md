@@ -4,6 +4,7 @@ title: "American Intonation"
 date: 2016-10-04
 comments: true
 categories: [notes, language]
+abstract: "Summary about the American Intonation"
 ---
 #### Intonation, Linking, Rhythm, and Stress
 * [The shape of stress](http://rachelsenglish.com/stress-syllable-shape-stress/)
@@ -23,9 +24,9 @@ categories: [notes, language]
   - her -> /ər/
   - it's okay -> /tsou 'kei/
   - as -> /əz/ as tall as
-  - was -> /wəz/
+  - was -> /wəz/ 
   -
-  - You're welcome /jər' wel kəm/
+  - You're welcome /jər' wel kəm/ 
   - 
   - [WHAT DID Reduction](http://rachelsenglish.com/reduction-2/)
      + what did -> /'wʌt| did/ or /wʌd/
