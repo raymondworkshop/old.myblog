@@ -25,7 +25,7 @@ abstract: "Summary about the American Intonation"
   - it's okay -> /tsou 'kei/
   - as -> /əz/ as tall as
   - was -> /wəz/ 
-  -
+  -  
   - You're welcome /jər' wel kəm/ 
   - 
   - [WHAT DID Reduction](http://rachelsenglish.com/reduction-2/)
