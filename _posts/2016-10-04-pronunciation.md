@@ -102,7 +102,7 @@ categories: [language]
 
 
 #### English
-  - [*English Lessons](http://www.elementalenglish.com/category/1-english-lessons/)
+  - [English Lessons](http://www.elementalenglish.com/category/1-english-lessons/)
   - [English speaking](http://elss.elc.cityu.edu.hk/ELSS/activities.aspx)
   - [speaking](http://www.weibo.com/ttarticle/p/show?id=2309404005596264270260#_0)
   - [Friends](http://8drama.com/33506/)
