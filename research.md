@@ -4,7 +4,7 @@ title: Research
 ---
 #### Paper reviewing 
 
-#### Text simplification system based on Flask (a Python Microframework)
+#### Text simplification
   Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka, Japan .
 
 
@@ -13,13 +13,13 @@ title: Research
 
 
 #### Peer-to-Peer Session Initiation Protocol (P2PSIP)    
-  The [P2PSIP](https://drive.google.com/file/d/0B8JbPdkDj7JZQVpqbkwzeDM3bDQ/view?usp=sharing) presents an introduction of P2PSIP system and Distributed Hash tables (DHTs) algorithms, which are used to organize the P2PSIP overlay.
+  The [P2PSIP](https://drive.google.com/file/d/0B8JbPdkDj7JZQVpqbkwzeDM3bDQ/view?usp=sharing) presents a P2PSIP system and Distributed Hash tables (DHTs) algorithms, which are used to organize the P2PSIP overlay.
 
   P2PSIP is a new technology currently being standardized in the P2PSIP working group of the IETF. A P2PSIP network is consisted of a collection of nodes organized in a peer-to-peer fashion for the purpose of enabling real-time communication using the Session Initiation Protocol (SIP). 
 
 
 #### Online learning
-  The [Online learning](https://drive.google.com/file/d/0B8JbPdkDj7JZZ3hTYXNlbDhSU1U/view?usp=sharing) summary presents an introduction about the latest progress in terms of online student behavior and skills, online assessment, course materials and online forums.
+  The [Online learning](https://drive.google.com/file/d/0B8JbPdkDj7JZZ3hTYXNlbDhSU1U/view?usp=sharing) summary presents an overview about the latest progress in terms of online student behavior and skills, online assessment, course materials and online forums, based on NIPS Workshop on Data Driven Education,2013.
 
   Online learning is bringing about dramatic changes in higher education, and a number of successful large­scale Massive Open Online Courses (MOOCs) platforms such as edX, Coursera, and Udacity have been developed. This revolution raises a series of challenges and possibilities in technology and education fields. 
 
