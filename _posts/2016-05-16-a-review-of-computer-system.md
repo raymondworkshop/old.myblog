@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[updating]Computer Systems: A Programmer's Perspective" 
+title: "Computer Systems: A Programmer's Perspective" 
 date: 2016-05-16
 comments: true
 categories: [technology, system]
