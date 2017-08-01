@@ -3,7 +3,7 @@ layout: post
 title: "Math is the Basis of Science"
 date: 2014-04-04 11:02
 comments: true
-categories:  [notes,technology]
+categories:  [technology]
 abstract: '总结自 <a href="http://book.douban.com/subject/1118984/">[給討厭數學的人]</a>'
 ---
 
