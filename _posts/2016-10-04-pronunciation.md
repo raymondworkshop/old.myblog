@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "English speaking - pronunciation"
+title: "English pronunciation"
 date: 2016-10-04
 comments: true
 categories: [notes,language]
+abstract: "Summary about the American pronunciation"
 ---
 
 ### pronunciation
