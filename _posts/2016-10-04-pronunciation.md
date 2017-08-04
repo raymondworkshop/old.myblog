@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[Draft] speaking - pronunciation"
+title: "English speaking - pronunciation"
 date: 2016-10-04
 comments: true
-categories: [language]
+categories: [notes,language]
 ---
 
 ### pronunciation
