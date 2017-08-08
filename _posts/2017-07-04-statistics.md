@@ -3,7 +3,7 @@ layout: post
 title: "Statistical Inference"
 date: 2017-05-19
 comments: true
-categories: [notes, technology]
+categories: [technology,notes]
 abstract: "Summary about Statistical Inference"
 ---
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "[Draft] English Writing"
+title: "English Writing"
 date: 2017-04-05
 comments: true
 categories: [notes, language]
 ---
 
-### writing in english
+#### writing in english
 
-### some sentences
 
 
 
