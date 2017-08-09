@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Statistical Inference"
+title: "Statistics"
 date: 2017-05-19
 comments: true
 categories: [technology,notes]
 abstract: "Summary about Statistical Inference"
 ---
 
-#### 统计推断问题
+#### Statistical Inference
   * 总体和样本
     - 总体分布是一个概率分布族(因为参数未知)
     - 非参数总体(假定总体有一定的概率分布而并不明确知其道数学形式) 
@@ -37,7 +37,7 @@ abstract: "Summary about Statistical Inference"
     
 
 
-####
+#### 
     
     
 #### reference
