@@ -59,6 +59,13 @@ abstract: "廣東話學習"
 意思 ji3 si1  
 成日->整天  seng4 jat6  
 
+#### [5](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j5_1vocab_sod.html)
+隨便 Ceoi4 bin2  
+錯  co3  
+介紹  gaai3 siu6  
+出名  ceot1 meng2  
+
+
 
 
 ### some sentences
