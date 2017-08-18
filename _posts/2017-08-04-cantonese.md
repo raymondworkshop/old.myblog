@@ -8,6 +8,44 @@ abstract: "廣東話學習"
 ---
 
 #### 新詞
+####
+搭 dab3  
+不如 bed1 yu4  
+顺路  sen6 lou6  
+岛 dou2  
+会 wu5  
+问 men6  
+如果 yu4 guo2  
+可以 ho2 yi5  
+西 sai1
+错 co3  
+地方  dei6 fong1  
+烧 xiu1  
+南北 nam4 bag1  
+打算  da2 sun3  
+专家  zun1 ga1  
+分析  fan1 sig1  
+道理  dou6 lei5  
+生意  sang1 yi3  
+合作  hab6 zog3  
+计划  gai3 wag6  
+其實  kei4 sad4  
+暗恋  ngem3 lun2  
+消息  siu1 sig1  
+瑕疵  ha4  qi1  
+证据  zing3 geu3  
+应该  ying1 goi1  
+仇  seo4  
+穷  kung4  
+表演  biu2 yin2  
+节假 zit3 ga3  
+发觉  fad3 gog3  
+网  mong5  
+特别  deg6 bid6  
+寂寞  zig6 mog6  
+事实  si6 sed6  
+
+
 #### [1](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j1_4passage_sod.html)   
 時候  si4 hau6  
 寫 se2   
@@ -64,6 +102,7 @@ abstract: "廣東話學習"
 錯  co3  
 介紹  gaai3 siu6  
 出名  ceot1 meng2  
+
 
 
 
