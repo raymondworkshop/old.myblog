@@ -4,9 +4,9 @@ title: "生活的藝術"
 date: 2016-01-03
 comments: true
 categories: [writing]
-abstract: '总结自 林語堂先生的<a href="http://book.douban.com/subject/1017626/">[生活的藝術]</a>, 其中主要分享了先生自己的思想和生活所得的经验'
+abstract: '總結自 林語堂先生的<a href="http://book.douban.com/subject/1017626/">[生活的藝術]</a>, 其中主要分享了先生自己的思想和生活所得的經驗'
 ---
-林語堂先生的[《生活的藝術》](http://book.douban.com/subject/1017626/)主要分享了先生自己的思想和生活所得的经验。 
+林語堂先生的[《生活的藝術》](http://book.douban.com/subject/1017626/)主要分享了先生自己的思想和生活所得的經驗。 
 
 #### 觉醒 － 中国人的哲学观，即我们的人生观和事务观
 
