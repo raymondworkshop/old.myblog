@@ -8,7 +8,7 @@ abstract: "廣東話學習"
 ---
 
 #### 新詞
-####
+#### [1]
 搭 dab3  
 不如 bed1 yu4  
 顺路  sen6 lou6  
@@ -44,6 +44,64 @@ abstract: "廣東話學習"
 特别  deg6 bid6  
 寂寞  zig6 mog6  
 事实  si6 sed6  
+
+#### [2]
+门 mun4  
+好彩->兴亏 hou2 coi2  
+订台->预定 deng6 toi2  
+望 mong6  
+开始 hoi1 qi2  
+耐烦 noi6 fan4  
+生意 sang1 yi3  
+吵 cou4  
+转左 zun3 zo2  
+伙计 fo2 gei3  
+自己 zi6 gei2  
+厨房 qu4 fong2  
+淋到 lem4 dou3  
+落汤鸡 log6 tong1 gei1  
+长 cəng4  
+阻 zo2
+亲密 can1 mad6  
+坐  co5  
+眼  ngan5  
+读  dug6  
+楼梯 lao4 tai1
+数  sou2  
+风景  fung1 ging2  
+忽然  fad1 yin4  
+自律  zi6 ləd6
+近  kan5  
+距离  kəu5 lei4  
+接近  zib3 gan6  
+题目  tai4 mug6  
+乱撞->瞎猜  lun2 zong6  
+面包  min6 bao1  
+选择  sun2  zag2
+整理 zing2 lei5  
+敏感 man5 gam2  
+眼鏡  ngan5 geng2  
+软糖  yun5 tong2  
+
+#### 【3】
+试身室->试衣间 si3 san1 sad1  
+出来  cəd1 lai4  
+右  yao6  
+觉得  gog3 deg1  
+新  san1  
+节目  zid3 mug6  
+队波-> 球队 dəu6 bo1  
+踢 teg3  
+输波->輸球 su1 bo1  
+安全带  on1 qun4 dai2  
+游客  yao4 hag3  
+机票  gei1 piu3  
+一齐  yad1 cai4  
+情况  qing4 fong3  
+畜生  cug1 sang1  
+分别  fan1 bid6  
+消失  siu1 sad1  
+拍拖  pag3 to1  
 
 
 #### [1](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j1_4passage_sod.html)   
