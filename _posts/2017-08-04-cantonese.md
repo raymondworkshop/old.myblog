@@ -4,7 +4,7 @@ title: "廣東話學習"
 date: 2017-08-04
 comments: true
 categories: [notes, language]
-abstract: "廣東話學習"
+abstract: "About Cantonese"
 ---
 
 #### 新詞
@@ -83,7 +83,7 @@ abstract: "廣東話學習"
 眼鏡  ngan5 geng2  
 软糖  yun5 tong2  
 
-#### 【3】
+#### [3]
 试身室->试衣间 si3 san1 sad1  
 出来  cəd1 lai4  
 右  yao6  
@@ -102,6 +102,26 @@ abstract: "廣東話學習"
 分别  fan1 bid6  
 消失  siu1 sad1  
 拍拖  pag3 to1  
+
+#### [8]
+成 seng4  
+扶住  fu4 ju6  
+连  lin4  
+跌低  sin3 dei1  
+石  sag6  
+提  tai4  
+责->压 zag3  
+醒  seng2  
+突然   dad6 yin4  
+膝頭->膝蓋 sad1 tao4  
+損-> 伤 xun2  
+被 pei5  
+蛋糕 dan6 gou1  
+舒服 su1 fug6  
+可能  ho2 neng4  
+免费  min5 fei3  
+
+
 
 
 #### [1](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j1_4passage_sod.html)   
