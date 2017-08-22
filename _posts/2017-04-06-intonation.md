@@ -61,6 +61,11 @@ abstract: "Summary about the American Intonation"
   - []()
      + what do you think ? -> /wʌ də jə/
 
+  - [Family Album USA 11--Ep04Act2](https://www.youtube.com/watch?v=P_sUb1rBlS4&list=PLDA003F3DB2768201&index=11&t=1s)
+     + what do you do ? -> /waddaya do?
+     + Did you hear me?  -> /didʒa/
+     + Don't you love it ? -> /Dont∫a/
+
 * study linking
 
 * native speech

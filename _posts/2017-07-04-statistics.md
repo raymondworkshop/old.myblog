@@ -41,5 +41,6 @@ abstract: "Summary about Statistical Inference"
     
     
 #### reference
+* [Some good "Statistics for programmers" resources](https://jvns.ca/blog/2017/04/17/statistics-for-programmers/)
 * [统计学浅谈](http://episte.math.ntu.edu.tw/articles/mm/mm_03_3_07/index.html)
 *  陈希孺的《概率论与数理统计》

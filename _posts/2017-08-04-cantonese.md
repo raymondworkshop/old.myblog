@@ -8,6 +8,21 @@ abstract: "About Cantonese"
 ---
 
 #### 新詞
+#### others
+压 aat3  
+雷 leoi4  
+灰 fui1  
+陪 pui4  
+色 sik1  
+拒 keoi5  
+
+开 hoi1  
+戏 hei3  
+特别 dak6 bit6  
+近 gan6  
+象  zoeng6  
+
+
 #### [1]
 搭 dab3  
 不如 bed1 yu4  
@@ -107,7 +122,7 @@ abstract: "About Cantonese"
 成 seng4  
 扶住  fu4 ju6  
 连  lin4  
-跌低  sin3 dei1  
+跌低  dit3 dei1  
 石  sag6  
 提  tai4  
 责->压 zag3  
