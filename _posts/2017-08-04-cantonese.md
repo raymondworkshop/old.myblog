@@ -21,6 +21,10 @@ abstract: "About Cantonese"
 特别 dak6 bit6  
 近 gan6  
 象  zoeng6  
+猜 caai1  
+希  hei1  
+哄  hung6  
+气 hei3  
 
 
 #### [1]
