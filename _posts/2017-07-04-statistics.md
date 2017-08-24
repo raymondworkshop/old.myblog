@@ -4,7 +4,7 @@ title: "Statistics"
 date: 2017-05-19
 comments: true
 categories: [technology,notes]
-abstract: "Summary about Statistical Inference"
+abstract: "Summary about Statistics"
 ---
 
 #### Statistical Inference
@@ -37,10 +37,10 @@ abstract: "Summary about Statistical Inference"
     
 #### Nonparametric statistics
 One of the biggest problems with tests like the chi-squared test is that they make a lot 
-of assumptions about how your data was generated. Often we could figure out that we need not 
-without havign to make a bunch of assumptions .
+of assumptions about how your data was generated. Often we could figure out that this is 
+without having to make a bunch of assumptions .  
 
-
+TODO  
 
 
 
