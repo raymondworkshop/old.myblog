@@ -9,12 +9,27 @@ abstract: "About Cantonese"
 
 #### 新詞
 #### others
+
+礼物 lai5 mat6  
+老婆 lou5 po4  
+項鍊 hong6 lin6  
+形  jing4  
+成熟 sing4 suk6  
+
+
+
+娘 noeng4  
+閉 bai3  
+酒 zau2  
+吃  hek3  
+辛苦  san1 fu2  
+人 yan4  
 压 aat3  
 雷 leoi4  
 灰 fui1  
 陪 pui4  
 色 sik1  
-拒 keoi5  
+拒绝 keoi5 zyut6  
 
 开 hoi1  
 戏 hei3  
@@ -25,6 +40,29 @@ abstract: "About Cantonese"
 希  hei1  
 哄  hung6  
 气 hei3  
+
+稱呼 cing1 fu1  
+得闲  dak1 haan4  
+你最近點呀？ -> 最近怎么样？ nei5 zeoi3 gan6 dim2 aa3?  
+即係點呀？  -> what do you mean? zik1 hai6 dim2 aa3?  
+迟的见 -> see u later . ci4 di1 gin3 
+
+
+全部 cyun4 bou6  
+除了 ceoi4 zo2  
+其他 kei4 taa1   
+语言  jyu5 yin4  
+字幕  zi6 mok6  
+记 gei3  
+生字  saang1 zi6  
+得意 -> 有趣, dak1 yi3  
+之内 zi1 noi6  
+流利  lau4 lei6  
+完全  jyun4 cyun4  
+母语  mou5 jyu5  
+已经  yi5 ging1  
+
+
 
 
 #### [1]
@@ -168,6 +206,7 @@ abstract: "About Cantonese"
 
 #### [3](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j2_2dialogue_sod.html)
 真 zan1  
+假  gaa2  
 姓  sing3  
 原先  jyun4 sin1  
 約  joek3  
