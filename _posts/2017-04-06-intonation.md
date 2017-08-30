@@ -3,7 +3,7 @@ layout: post
 title: "American Intonation"
 date: 2016-10-04
 comments: true
-categories: [notes, language]
+categories: [language]
 abstract: "Summary about the American Intonation"
 ---
 #### Intonation, Linking, Rhythm, and Stress

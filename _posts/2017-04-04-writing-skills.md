@@ -3,7 +3,7 @@ layout: post
 title: "English Writing"
 date: 2017-04-05
 comments: true
-categories: [notes, language]
+categories: [language]
 ---
 
 #### writing in english
