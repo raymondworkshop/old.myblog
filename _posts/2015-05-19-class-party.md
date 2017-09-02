@@ -3,7 +3,7 @@ layout: post
 title: "大学聚会"
 date: 2015-05-19 01:32
 comments: true
-categories: [notes, diary]
+categories: [diary, notes]
 abstract: "纪念我的大学聚会"
 ---
 上周五（5月15号）和深圳的几个同学北上武汉参加大学聚会，好久没这么欢乐了。
