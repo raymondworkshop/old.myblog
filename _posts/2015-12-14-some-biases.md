@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "quote some biases"
+title: "Quote some biases"
 date: 2015-12-14
 comments: true
 categories: [diary, notes]

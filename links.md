@@ -5,6 +5,7 @@ title: links
 * [Niniane](http://niniane.blogspot.hk/)
 * [Aaron Swartz](http://www.aaronsw.com/)
 * [Andrej Karpathy blog](http://karpathy.github.io/)
+* [programming in the twenty-first century](http://prog21.dadgum.com/)
 * [Peter Norvig](http://norvig.com/)
 * [Bret Taylor](https://backchannel.org/)
 * [Bryan O'Sullivan](http://www.serpentine.com/blog/)
