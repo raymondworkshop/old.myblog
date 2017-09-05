@@ -3,7 +3,7 @@ layout: post
 title: "廣東話學習"
 date: 2017-08-04
 comments: true
-categories: [notes, language]
+categories: [language,notes]
 abstract: "About Cantonese"
 ---
 

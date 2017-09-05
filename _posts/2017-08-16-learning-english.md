@@ -3,7 +3,7 @@ layout: post
 title: "Learning English"
 date: 2017-08-16
 comments: true
-categories: [language]
+categories: [language,notes]
 abstract: "Learning English"
 ---
 
