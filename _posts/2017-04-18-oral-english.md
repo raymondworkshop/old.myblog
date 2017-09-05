@@ -3,7 +3,7 @@ layout: post
 title: "Oral English"
 date: 2017-08-04
 comments: true
-categories: [notes, language]
+categories: [language, notes]
 abstract: "Oral English"
 ---
 - [Family Album USA 11--Ep04Act2](https://www.youtube.com/watch?v=P_sUb1rBlS4&list=PLDA003F3DB2768201&index=11&t=1s)
