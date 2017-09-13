@@ -10,13 +10,14 @@ abstract: "About Cantonese"
 #### 新詞
 #### others
 
+机会 gei1 wui6  
+练习 lin6 zaap6  
+
 礼物 lai5 mat6  
 老婆 lou5 po4  
 項鍊 hong6 lin6  
 形  jing4  
 成熟 sing4 suk6  
-
-
 
 娘 noeng4  
 閉 bai3  
