@@ -9,6 +9,7 @@ abstract: "About Cantonese"
 
 #### 新詞
 #### others
+运动场  wan6 dung6 coeng4  
 
 机会 gei1 wui6  
 练习 lin6 zaap6  
@@ -62,8 +63,6 @@ abstract: "About Cantonese"
 完全  jyun4 cyun4  
 母语  mou5 jyu5  
 已经  yi5 ging1  
-
-
 
 
 #### [1]
@@ -180,8 +179,6 @@ abstract: "About Cantonese"
 免费  min5 fei3  
 
 
-
-
 #### [1](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j1_4passage_sod.html)   
 時候  si4 hau6  
 寫 se2   
@@ -231,20 +228,17 @@ abstract: "About Cantonese"
 爭  zaang1  
 知  zi1  
 原來  Jyun4 loi4  
-意思 ji3 si1  
 成日->整天  seng4 jat6  
 
 #### [5](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j5_1vocab_sod.html)
-隨便 Ceoi4 bin2  
+隨便 ceoi4 bin2  
 錯  co3  
 介紹  gaai3 siu6  
 出名  ceot1 meng2  
 
 
 
-
-
-### some sentences
+#### some sentences
 
 #### reference
   - [Cantonese speaking](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/tm_introduction.html)
