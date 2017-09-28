@@ -178,6 +178,50 @@ abstract: "About Cantonese"
 可能  ho2 neng4  
 免费  min5 fei3  
 
+#### [购物](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j3_1vocab_sod.html#)
+優惠 jau1 wai6  
+牌子 pai4 zi2  
+現金  jin6 gam1  
+信用卡 seon3 jung6 kaat1  
+樓  lau2  
+黑  hak1  
+白  baak6  
+去过 heoi3 gwo3  
+有间  jau5 gaan1  
+東西 ->嘢  je5  
+不要緊 -> 唔緊要 M4 gan5 jiu3  
+反正->橫掂 waang4 dim6 
+鞋 haan4 
+一會兒 -> 陣間 zan6 gan1  
+門口 mun4 hou2 
+
+颜色 ngaan4 sik1  
+藍  laam4  
+比較適合->啱  ngaam1 
+听音乐  teng1 jam1 ngok6  
+可以 ho2 ji5 
+已經 ji5 ging1  
+支  zek3  
+耳机 ji5 gei1  
+就要 zau6 jiu3  
+再来 zoi3 lai4  
+
+女装 neoi5 zong1  
+穿-> 著 zeok3  
+
+好像 hou2 ci5  
+緊  gan2  
+舒服  Syu1 fuk6  
+
+老师 lou5 si1  
+最近->近排 gan6 paai2  
+完全 jyun4  cyun4  
+知道  zi1 dou6  
+叻->聰明能幹 lek1  
+最後  zeoi3 hou6 
+整 Seng4   
+
+
 
 #### [1](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j1_4passage_sod.html)   
 時候  si4 hau6  
