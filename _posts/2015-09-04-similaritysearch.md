@@ -3,7 +3,7 @@ layout: post
 title: "Similarity Search"
 date: 2015-09-04
 comments: true
-categories: [notes, algorithms]
+categories: [home,notes, algorithms]
 abstract: "Similarity search refers to finding objects that have similar characteristics to the query object."
 ---
 #### Similarity Search [^1]
