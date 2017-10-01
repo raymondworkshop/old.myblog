@@ -5,7 +5,7 @@ title: Notes
 <div >
   <ul class="posts">
   {% for post in site.posts %}
-    {% if post.categories.first == "notes"  %}
+    {% if post.categories contains 'notes'  %}
       <li>
       
       <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>

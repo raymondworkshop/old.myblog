@@ -3,8 +3,7 @@ layout: post
 title: 一些好的摘录
 date: '2014-03-30 22:14'
 comments: true
-categories:
-  - diary
+categories:  [diary]
 published: true
 ---
 

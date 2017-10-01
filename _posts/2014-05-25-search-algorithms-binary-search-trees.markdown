@@ -3,7 +3,7 @@ layout: post
 title: "Search Algorithms: Binary Search Trees"
 date: 2014-05-25 22:20
 comments: true
-categories: [technology, algorithms]
+categories: [home, algorithms]
 abstract: "Binary search trees (BST) combines the flexibility of insertion in a
 linked list with the efficiency of search in an ordered array."
 ---

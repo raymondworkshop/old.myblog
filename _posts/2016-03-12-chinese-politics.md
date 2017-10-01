@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "透视中国政治"
-date: 2016-03-12
+date: 2016-01-03
 comments: true
-categories: [writing,diary]
+categories: [writing]
 abstract: '总结自 《透视中国政治》 '
 ---
 总结自<透视中国政治>  

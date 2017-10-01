@@ -2,7 +2,7 @@
 layout: post
 title: "Clustering"
 date: 2015-07-29
-categories: [notes,technology, machinelearning]
+categories: [home,notes,machinelearning]
 abstract: "A summary of Clustering Algorithms"
 ---
 

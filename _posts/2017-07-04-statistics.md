@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Statistics"
-date: 2017-05-19
+date: 2017-06-04
 comments: true
-categories: [notes,technology]
+categories: [home,notes,algorithms]
 abstract: "Summary about Statistics"
 ---
 

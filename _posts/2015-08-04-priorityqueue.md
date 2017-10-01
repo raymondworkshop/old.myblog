@@ -2,7 +2,7 @@
 layout: post
 title: "Priority Queue"
 date: 2015-08-04
-categories: [notes,technology, algorithms]
+categories: [notes, algorithms]
 abstract: "About Priority Queue"
 ---
 #### Stack: FILO (first in, last out) [1]

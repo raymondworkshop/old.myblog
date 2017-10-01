@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Oral English"
-date: 2017-08-04
+date: 2017-09-04
 comments: true
-categories: [language, notes]
+categories: [language]
 abstract: "Oral English"
 ---
 #### 08

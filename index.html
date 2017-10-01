@@ -6,7 +6,7 @@ layout: default
   
   <ul class="posts">
     {% for post in site.posts %}
-      {% if (post.categories.first == "technology" ) or (post.categories.first == "writing") %}
+      {% if post.categories contains 'home' %}
       <li>
       
       <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>
