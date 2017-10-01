@@ -221,6 +221,39 @@ abstract: "About Cantonese"
 最後  zeoi3 hou6 
 整 Seng4   
 
+#### [天气](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch8/ch_j8_1vocab_sod.html)
+云  wan4 
+驟雨  zaau6 jyu5  
+阴   jam1  
+气温  hei3 wan1  
+紫外线  Zi2 ngoi6 sin6  
+强  koeng4  
+弱  joek6  
+吹  Ceoi1  
+风 fung1  
+西 sai1  
+阳光 joeng4 gwong1 
+摄氏 Sip3 si6  
+凉爽 loeng4 song2   
+冷空气 laang5 hung1 hei3
+骤降  zaau6 gong3 
+低 dai1  
+空气 hung1 hei3 
+清新 cing1 san1  
+四季 sei3 gwai3 
+雪 syut5 
+
+
+说->话 waa6   
+頭先->剛才  tau4 sin1 
+幸好-> 好彩 Hou2 coi2  
+未来 mei6 loi4 
+相對 soeng1 deoi3  
+小时 siu2 si4  
+平均 ping4 gwan1
+大概 Daai6 koi3     
+
+
 
 
 #### [1](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j1_4passage_sod.html)   
