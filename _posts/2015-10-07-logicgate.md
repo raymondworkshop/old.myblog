@@ -3,7 +3,7 @@ layout: post
 title: "Logic Gate"
 date: 2015-10-07
 comments: true
-categories: [technology]
+categories: [notes,technology]
 abstract: "XOR"
 ---
 

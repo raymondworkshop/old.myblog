@@ -3,7 +3,7 @@ layout: post
 title: "Statistics"
 date: 2017-05-19
 comments: true
-categories: [technology,notes]
+categories: [notes,technology]
 abstract: "Summary about Statistics"
 ---
 
