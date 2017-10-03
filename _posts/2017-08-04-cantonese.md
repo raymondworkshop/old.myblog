@@ -8,33 +8,39 @@ abstract: "About Cantonese"
 ---
 
 #### 新詞
-#### others
-运动场  wan6 dung6 coeng4  
-
+除了 ceoi4 zo2  
 机会 gei1 wui6  
-练习 lin6 zaap6  
+完全  jyun4 cyun4  
+已经  yi5 ging1  
+好像 hou2 ci5  
+最後  zeoi3 hou6 
+大概 daai6 koi3     
+
+
+#### others
+<del>运动场  wan6 dung6 coeng4  </del>
+<del>练习 lin6 zaap6   </del>
 
 礼物 lai5 mat6  
 老婆 lou5 po4  
 項鍊 hong6 lin6  
 形  jing4  
-成熟 sing4 suk6  
+成熟 sing4 suk6 
+
 
 娘 noeng4  
 閉 bai3  
 酒 zau2  
-吃  hek3  
+<del>吃  hek3  </del>
 辛苦  san1 fu2  
-人 yan4  
+<del>人 yan4  </del>
 压 aat3  
-雷 leoi4  
-灰 fui1  
+雷 leoi4    
 陪 pui4  
-色 sik1  
+<del>灰色 fui1 sik1 </del> 
 拒绝 keoi5 zyut6  
 
-开 hoi1  
-戏 hei3  
+<del>开 hoi1  </del>
 特别 dak6 bit6  
 近 gan6  
 象  zoeng6  
@@ -44,14 +50,12 @@ abstract: "About Cantonese"
 气 hei3  
 
 稱呼 cing1 fu1  
-得闲  dak1 haan4  
+<del>得闲  dak1 haan4  </del>
 你最近點呀？ -> 最近怎么样？ nei5 zeoi3 gan6 dim2 aa3?  
 即係點呀？  -> what do you mean? zik1 hai6 dim2 aa3?  
 迟的见 -> see u later . ci4 di1 gin3 
 
-
 全部 cyun4 bou6  
-除了 ceoi4 zo2  
 其他 kei4 taa1   
 语言  jyu5 yin4  
 字幕  zi6 mok6  
@@ -60,9 +64,7 @@ abstract: "About Cantonese"
 得意 -> 有趣, dak1 yi3  
 之内 zi1 noi6  
 流利  lau4 lei6  
-完全  jyun4 cyun4  
 母语  mou5 jyu5  
-已经  yi5 ging1  
 
 
 #### [1]
@@ -74,7 +76,6 @@ abstract: "About Cantonese"
 问 men6  
 如果 yu4 guo2  
 可以 ho2 yi5  
-西 sai1
 错 co3  
 地方  dei6 fong1  
 烧 xiu1  
@@ -121,7 +122,7 @@ abstract: "About Cantonese"
 阻 zo2
 亲密 can1 mad6  
 坐  co5  
-眼  ngan5  
+<del>眼  ngan5 </del> 
 读  dug6  
 楼梯 lao4 tai1
 数  sou2  
@@ -144,7 +145,7 @@ abstract: "About Cantonese"
 试身室->试衣间 si3 san1 sad1  
 出来  cəd1 lai4  
 右  yao6  
-觉得  gog3 deg1  
+<del>觉得  gog3 deg1  </del>
 新  san1  
 节目  zid3 mug6  
 队波-> 球队 dəu6 bo1  
@@ -188,7 +189,6 @@ abstract: "About Cantonese"
 白  baak6  
 去过 heoi3 gwo3  
 有间  jau5 gaan1  
-東西 ->嘢  je5  
 不要緊 -> 唔緊要 M4 gan5 jiu3  
 反正->橫掂 waang4 dim6 
 鞋 haan4 
@@ -198,7 +198,7 @@ abstract: "About Cantonese"
 颜色 ngaan4 sik1  
 藍  laam4  
 比較適合->啱  ngaam1 
-听音乐  teng1 jam1 ngok6  
+<del>听音乐  teng1 jam1 ngok6  </del>
 可以 ho2 ji5 
 已經 ji5 ging1  
 支  zek3  
@@ -209,7 +209,6 @@ abstract: "About Cantonese"
 女装 neoi5 zong1  
 穿-> 著 zeok3  
 
-好像 hou2 ci5  
 緊  gan2  
 舒服  Syu1 fuk6  
 
@@ -218,7 +217,6 @@ abstract: "About Cantonese"
 完全 jyun4  cyun4  
 知道  zi1 dou6  
 叻->聰明能幹 lek1  
-最後  zeoi3 hou6 
 整 Seng4   
 
 #### [天气](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch8/ch_j8_1vocab_sod.html)
@@ -226,14 +224,14 @@ abstract: "About Cantonese"
 驟雨  zaau6 jyu5  
 阴   jam1  
 气温  hei3 wan1  
-紫外线  Zi2 ngoi6 sin6  
+紫外线  zi2 ngoi6 sin6  
 强  koeng4  
 弱  joek6  
-吹  Ceoi1  
+吹  ceoi1  
 风 fung1  
-西 sai1  
+<del>西 sai1</del>  
 阳光 joeng4 gwong1 
-摄氏 Sip3 si6  
+摄氏 sip3 si6  
 凉爽 loeng4 song2   
 冷空气 laang5 hung1 hei3
 骤降  zaau6 gong3 
@@ -252,8 +250,6 @@ abstract: "About Cantonese"
 小时 siu2 si4  
 平均 ping4 gwan1
 大概 Daai6 koi3     
-
-
 
 
 #### [1](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j1_4passage_sod.html)   
@@ -304,7 +300,7 @@ abstract: "About Cantonese"
 嬲->生氣  nau1  
 爭  zaang1  
 知  zi1  
-原來  Jyun4 loi4  
+原來  jyun4 loi4  
 成日->整天  seng4 jat6  
 
 #### [5](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j5_1vocab_sod.html)
@@ -312,7 +308,6 @@ abstract: "About Cantonese"
 錯  co3  
 介紹  gaai3 siu6  
 出名  ceot1 meng2  
-
 
 
 #### some sentences
