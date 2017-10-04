@@ -251,6 +251,21 @@ abstract: "About Cantonese"
 平均 ping4 gwan1
 大概 Daai6 koi3     
 
+位置  wai6 zi3  
+亞熱帶 aa3 jit6 daai3  
+特點  dak6 dim2  
+時間  si4 gaan3  
+室內  Sat1 noi6  
+室外  sat1 ngoi6   
+溫度   wan1 dou6  
+唥衫->毛衣 laang1 saam1  
+不过 Bat1 gwo3  
+多 do1  
+每年 mui5 nin4  
+惡劣  ok3 lyut6  
+提醒 tai4 seng2 
+比如 Pei3 jyu4 
+
 
 #### [1](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j1_4passage_sod.html)   
 時候  si4 hau6  
