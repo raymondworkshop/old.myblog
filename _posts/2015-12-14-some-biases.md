@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quote some biases"
-date: 2015-12-14
+date: 2017-2-14
 comments: true
 categories: [diary]
 abstract: "quote some biases"
