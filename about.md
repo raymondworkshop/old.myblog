@@ -13,3 +13,9 @@ You can find my programming projects at my [github](https://github.com/muyun) an
 <br>
 
 email/g: wenlzhao@gmail.com .   
+<br>
+
+Interesting Personal Reminders:
+ - "Alwyas do your best; never do anything half-hearted (either get into it or get out of it)"
+ - "Always strive for excellence - there is no substitute for it" 
+ - "Never do anything for which you'll be ashamed later" 
