@@ -8,6 +8,13 @@ abstract: "About Cantonese"
 ---
 
 #### 新詞
+勤力 kan4 lik6  
+文职 zik1  
+潮湿 ciu4 sap1  
+意识 ji3 sik1  
+极端 gik6 dyun1  
+
+
 除了 ceoi4 zo2  
 机会 gei1 wui6  
 完全  jyun4 cyun4  
