@@ -55,13 +55,18 @@ abstract: "Summary about the American pronunciation"
   - i: -> e -> æ   舌头从高到低（嘴巴张开从小到大）
   - 舌头的最高位置从前到后
   - 唇從展开到圆型 （从左到右）
-    + i: 衣；  **eat**, 展唇,舌头高，舌前
+    + i: 衣；  **eat**, **展唇(stretch your lips back more - smile)**,舌头高，舌前
     + **[i, i:](http://www.bilibili.com/video/av2681140/index_8.html)**
     + **[i](https://www.youtube.com/watch?v=fEy96ft6hoM&index=4&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2)**
-
+    + /i:/ ->
+    + /i/ -> not stretched into a smile 
+    
     + æ： 嘴巴开口大（舌头低）， 舌头最高位位前，唇展开
 
     + **sit**  **sleep** *spell* **shade**
+
+    + /e/ -> lips = slightly open, mostly relaxed, tongue = bottom of mouth  
+      /æ/ -> open your mouth; lips = a little tighter, tongue = bottom of mouth  
 
     + /ə/ **tomatoes** , **letter**, **onion**, **question**
     + /ər/ - 卷舌， waiter, doctor, reporter
@@ -86,6 +91,8 @@ abstract: "Summary about the American pronunciation"
 
   - [au]
   - [i, ei]
+    + /ei/ -> pull your lips back and push top/back of the tongue
+
   - [English Pronunciation Lessons for Chinese English Language Learners](http://www.elementalenglish.com/english-pronunciation-lessons-for-chinese-speakers/)
 
   - [n, ŋ](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/otherconst3)

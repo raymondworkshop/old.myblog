@@ -6,7 +6,12 @@ comments: true
 categories: [language]
 abstract: "Summary about the American Intonation"
 ---
-#### Intonation, Linking, Rhythm, and Stress
+#### Stress - longer, louder, and higher 
+* verb, adj, and noun 
+* de-stress: relaxed and short -> function word
+
+#### Intonation, Linking, Rhythm
+*
 * [The shape of stress](http://rachelsenglish.com/stress-syllable-shape-stress/)
 * [stress-timed language](http://rachelsenglish.com/english-stress-timed-language/)
   - to -> /tə/ or /də/ 
@@ -43,7 +48,7 @@ abstract: "Summary about the American Intonation"
      + should have -> /∫ud ə/
      + should not have -> /∫ud ən ə/
      + could have -> /kud ə/
-     + would have -> /wəd ə/
+     + would have -> /wu dəv/
   - [can, cann't](http://rachelsenglish.com/pronounce-can-vs-cant/)
      + can -> /kən/
      + cannot -> /kænt/
@@ -58,18 +63,27 @@ abstract: "Summary about the American Intonation"
      + is the -> tongue pushes on back of the teeth
      + with the -> /wiθ ð|ə/
 
-  - []()
+  - [?]()
      + what do you think ? -> /wʌ də jə/
 
+#### Connected speech 
+* [Change vibration] [7]
+  - [t] + [y] -> **[t∫]**
+     + I got you? -> /ai GAt∫yə/
+
+* h-deletion
+  - "he" -> /iy/
+  - "him" -> /im/
+  - "his" -> /iz/
+  - "her" -> /ər/
+  - "has" -> /æz/
+  - "have" -> /æv/ /əv/
+     + Did he get it? -> /Di-diy Ge-dit/
+     + Did he get the new car? -> /DId hiy/ -> /DI-diy/
 
 
-* study linking
+#### write what you hear
 
-* native speech
-
-* write what you hear
-
-* 
 
 #### improve listening
   - study reducation
@@ -80,9 +94,10 @@ abstract: "Summary about the American Intonation"
   - try Youglish -> YouGlish
 
 ### reference
-* [Improve Your Pronunciation By 'Shadowing' Others](https://learningenglish.voanews.com/a/improve-your-english-pronunciation-shadowing-others/3339007.html)
-* [Intonation](http://rachelsenglish.com/video-categories/#consonants)
-* [CHINESE PRONUNCIATION PROBLEMS IN ENGLISH](http://englishspeaklikenative.com/resources/common-pronunciation-problems/chinese-pronunciation-problems/#error4)
-* [英语口语](http://www.weibo.com/ttarticle/p/show?id=2309404005596264270260)
-* [斷句和語調](http://tw.blog.voicetube.com/archives/12275)
-* [Intonation](http://www.bilibili.com/video/av2681140/index_13.html)
+[1]: "https://learningenglish.voanews.com/a/improve-your-english-pronunciation-shadowing-others/3339007.html" "Improve Your Pronunciation By 'Shadowing' Others"
+[2]: "http://rachelsenglish.com/video-categories/#consonants" "Intonation"
+[3]: "http://englishspeaklikenative.com/resources/common-pronunciation-problems/chinese-pronunciation-problems/#error4" "CHINESE PRONUNCIATION PROBLEMS IN ENGLISH"
+[4]: "http://www.weibo.com/ttarticle/p/show?id=2309404005596264270260" "英语口语"
+[5]: "http://tw.blog.voicetube.com/archives/12275" "斷句和語調"
+[6]: "http://www.bilibili.com/video/av2681140/index_13.html" "Intonation"
+[7]: "https://www.youtube.com/watch?v=OTZV3zHohdc" "vibration-change"
