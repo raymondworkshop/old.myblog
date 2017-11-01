@@ -15,7 +15,8 @@ You can find my programming projects at my [github](https://github.com/muyun) an
 email/g: wenlzhao@gmail.com .   
 <br>
 
-Interesting Personal Reminders:
+Interesting Personal Reminders from Arnold O. Beckman:
  - "Alwyas do your best; never do anything half-hearted (either get into it or get out of it)"
- - "Always strive for excellence - there is no substitute for it" 
- - "Never do anything for which you'll be ashamed later" 
+ - "Always strive for excellence - there is no substitute for it." 
+ - "Never do anything for which you'll be ashamed later." 
+ - "Maintain integrity at all time."
