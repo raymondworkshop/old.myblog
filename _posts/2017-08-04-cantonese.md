@@ -186,6 +186,25 @@ abstract: "About Cantonese"
 可能  ho2 neng4  
 免费  min5 fei3  
 
+
+#### [出行](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j4_1vocab_sod.html)
+問  man6  
+图书馆  tou4 syu1 gun2  
+最 zeoi3  
+坐  co5  
+左手 zo2 sau2 
+右手 jau6 sau2 
+让 ngaai3  
+研究 jin4 gau3  
+计划  gai3 waak6  
+出 ceot1  
+跟住->接着 gan1 zyu6  
+楼 lau2  
+面 min6  
+叫做 giu3  zou6  
+寸金尺土 cyun3 gam1 cek3 tou2  
+
+
 #### [购物](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j3_1vocab_sod.html#)
 優惠 jau1 wai6  
 牌子 pai4 zi2  
