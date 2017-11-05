@@ -23,6 +23,14 @@ I can't wait to see her
 #### 10
 I'd like to come to the ten o'clock advanced class
 
+#### 13
+Can I help ?  
+maybe we can spend some time together next weekend  
+
+how's work?
+The usual problems 
+you're working pretty hard these days
+
 
 - [Family Album USA 11--Ep04Act2](https://www.youtube.com/watch?v=P_sUb1rBlS4&list=PLDA003F3DB2768201&index=11&t=1s)
      + what do you do ? -> /waddaya do?

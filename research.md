@@ -36,9 +36,9 @@ title: Research
   This report is based on the existence of homophily to measure the influence of users in micro-blogging. The algorithm TwitterRank is used because it takes the topical similarity between users and the link structure into account.  
 
 #### Reference:
-  * [Simon Peyton Jones's "how-to" slides](http://classes.engr.oregonstate.edu/eecs/spring2016/cs519-001/how-to-paper-talk-OSU.pdf)
   * [SCI-HUB](http://sci-hub.cc/)
   * [ACL Anthology](http://aclweb.org/anthology/index.html)
   * [The morning paper](http://blog.acolyer.org)
   * [Paper Trail](http://the-paper-trail.org/blog/)
   * [arXiv](http://arxiv.org/)
+  * [Simon Peyton Jones's "how-to" slides](http://classes.engr.oregonstate.edu/eecs/spring2016/cs519-001/how-to-paper-talk-OSU.pdf)

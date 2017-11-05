@@ -3,7 +3,7 @@ layout: post
 title: "personal skills"
 date: 2016-07-31
 comments: true
-categories: [summary]
+categories: [diary]
 ---
 #### being trusted
 You must be trustworthy. You must also be visible. If no one knows about you, no trust will be invested in you.
@@ -49,7 +49,7 @@ most of what they wanted.</font>**  **<font color="#800080">A solution is merely
   -  人际交往， 基于长久积累的信任；
      如果我们能够在自己力所能及的情况下，不计回报地给别人提供一些帮助
 
-  - Invest in people over things but be extremely selective with the peoplesurround yourself with
+  - Invest in people over things but be extremely selective with the people surround yourself with
 
   - 
 
