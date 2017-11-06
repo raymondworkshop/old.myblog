@@ -9,7 +9,7 @@ and life-long student.
 I like problem solving, reading and travelling.  
 <br>
   
-You can find my side projects at my [github](https://github.com/muyun) and my research [here](http://muyun.github.io/research/) .
+You can find my projects at my [github](https://github.com/muyun) and my research [here](http://muyun.github.io/research/) .
 <br>
 
 email/g: wenlzhao@gmail.com .   
