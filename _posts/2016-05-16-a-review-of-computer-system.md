@@ -85,6 +85,9 @@ abstract: "[updating] A summary of Computer Systems from A Programmer's Perspect
    - a private address space
 
    - concurrent flows - a logical flow whose execution overlaps in time with another
+   
+   - The fork function runs the same program (a collection of code and data) in a new child process that is a duplicate of the parent.  The execve function loads and runs a new program in the context of the current process. ? 
+
    - signals  
    - [TODO]
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "American Intonation"
-date: 2016-10-04
+date: 2017-10-04
 comments: true
 categories: [language]
 abstract: "Summary about the American Intonation"
@@ -11,7 +11,6 @@ abstract: "Summary about the American Intonation"
 * de-stress: relaxed and short -> function word
 
 #### Intonation, Linking, Rhythm
-*
 * [The shape of stress](http://rachelsenglish.com/stress-syllable-shape-stress/)
 * [stress-timed language](http://rachelsenglish.com/english-stress-timed-language/)
   - to -> /tə/ or /də/ 
