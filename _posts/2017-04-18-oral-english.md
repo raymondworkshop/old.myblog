@@ -112,6 +112,17 @@ you're working pretty hard these days
    > Can I ...
    > May I ...
 
+### Asking a favor
+ - Could/Would you please do me a favor?
+ - Could you possibly + verb?
+ - Would you mind + verbing?
+ - May I + verb?
+
+ - Sure.
+ - I'm afraid I can't.
+ - Unfortunately, I'm not able to do that .
+ 
+
 ### Expressing Opinions
  
 
