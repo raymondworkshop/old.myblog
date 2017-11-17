@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning
+title: learning
 ---
 ## [learning]({{page.title}})
 <!--

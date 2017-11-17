@@ -63,7 +63,12 @@ abstract: "Summary about the American Intonation"
      + with the -> /wiθ ð|ə/
 
   - [?]()
-     + what do you think ? -> /wʌ də jə/
+     + what do you think ? -> /wʌ də jə/  
+
+  - ** whaddya /wa:dəyə/ **
+     + What do you ... ? -> 
+  - 
+
 
 #### Connected speech 
 * [Change vibration] [7]

@@ -3,6 +3,7 @@ layout: post
 title: links
 ---
 * [Niniane](http://niniane.blogspot.hk/)
+* [Kate Matsudaira](http://katemats.com/about/)
 * [Aaron Swartz](http://www.aaronsw.com/)
 * [Andrej Karpathy blog](http://karpathy.github.io/)
 * [programming in the twenty-first century](http://prog21.dadgum.com/)
@@ -27,6 +28,10 @@ title: links
 * [云风的BLOG](http://blog.codingnow.com/)
 * [土摩托日记](http://www.immusoul.com/)
 * [刘瑜](http://www.aisixiang.com/thinktank/liuyu.html)
+* [资中筠](http://www.aisixiang.com/thinktank/zizhongyun.html)
+* [赵鼎新](http://www.aisixiang.com/thinktank/zhaodingxin.html)
+* [丁学良](http://www.aisixiang.com/thinktank/dingxueliang.html)
+* [葛剑雄](http://www.aisixiang.com/thinktank/gejianxiong.html)
 * [Antique](http://vieplivee.wordpress.com/)
 * [木遥的窗子](http://blog.farmostwood.net/)
 * [DAVID PABLO COHN](https://davidpablocohn.com/)

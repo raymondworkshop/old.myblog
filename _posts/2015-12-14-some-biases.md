@@ -6,6 +6,8 @@ comments: true
 categories: [diary]
 abstract: "quote some biases"
 ---
+> <font color="#800080"><small>不要把好的学校挂在嘴边,那只是第一份工作的敲门砖</small></font> 
+
 > <font color="#800080"><small>唯一能让你真正保持生机的办法，就是深入挖掘你痴迷的东西</small></font>  
 
 > <small>传统中国重视思想却不重视理论，而且不重视逻辑训练 </small>
