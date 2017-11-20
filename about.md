@@ -9,7 +9,7 @@ and life-long student.
 I like problem solving, reading and travelling.  
 <br>
   
-There are my projects at my [github](https://github.com/muyun) and my research [here](http://muyun.github.io/research/) .
+My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/) .
 <br>
 
 email/g: wenlzhao@gmail.com .   
