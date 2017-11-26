@@ -3,7 +3,7 @@ layout: post
 title: "廣東話學習"
 date: 2017-08-04
 comments: true
-categories: [notes,language]
+categories: [language]
 abstract: "About Cantonese"
 ---
 
@@ -14,7 +14,6 @@ abstract: "About Cantonese"
 意识 ji3 sik1  
 极端 gik6 dyun1  
 
-
 除了 ceoi4 zo2  
 机会 gei1 wui6  
 完全  jyun4 cyun4  
@@ -22,6 +21,42 @@ abstract: "About Cantonese"
 好像 hou2 ci5  
 最後  zeoi3 hou6 
 大概 daai6 koi3     
+
+
+#### [用餐](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j5_1vocab_sod.html)
+以前 ji5 cin4  
+會議展覽 Wui6 ji5 zin2 laam5  
+中心 zung1 sam1 
+廣場 gwong2 coeng4 
+幫襯->光顧 bong1 can3  
+肯定 hang2 ding6  
+嗌嘢食啦->叫東西吃 ngaai3 je5 sik6 
+餐牌->菜單 caan1 paai2  
+唔使點->不用點 m4 sai2 dim2  
+驚->怕 geng1 
+食 sik6  
+花生粥 faa1 sang1 zuk1  
+
+糕 gou1 
+烧味 siu1 mei2  
+不过 Bat1 gwo3
+烧鹅 siu1 ngo5
+烧鸭 siu1 aap2 
+味道 mei6 dou6  
+海鮮 hoi2 sin1  
+南丫島 Naam4 aa1 dou2 
+小食 siu2 sik6
+更加  gang3 gaa1 
+外面 ngoi6 bin6
+真不愧 zan1 bat1 kwai5 
+口福 hau2 fuk1  
+
+
+細路->小孩 sai3 lou6 
+白兔 baak6 tou3 
+动物 dung6 mat6  
+头 tau4  
+狐狸精 wu4 lei4 zing1  
 
 
 #### others
@@ -185,6 +220,7 @@ abstract: "About Cantonese"
 舒服 su1 fug6  
 可能  ho2 neng4  
 免费  min5 fei3  
+
 
 
 #### [出行](https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j4_1vocab_sod.html)
