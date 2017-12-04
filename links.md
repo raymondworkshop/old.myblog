@@ -3,6 +3,7 @@ layout: post
 title: links
 ---
 * [Niniane](http://niniane.blogspot.hk/)
+* [Study Hacks Blog](http://calnewport.com/blog/)
 * [Kate Matsudaira](http://katemats.com/about/)
 * [Aaron Swartz](http://www.aaronsw.com/)
 * [Andrej Karpathy blog](http://karpathy.github.io/)

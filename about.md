@@ -5,6 +5,8 @@ title: About
 I am Raymond ZHAO Wenlong, a computer Engineer and Researcher, improver of things,
 and life-long student.  
 <br>
+email/g: wenlzhao@gmail.com .   
+<br>
 
 I like problem solving, reading and travelling.  
 <br>
@@ -12,8 +14,6 @@ I like problem solving, reading and travelling.
 My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/) .
 <br>
 
-email/g: wenlzhao@gmail.com .   
-<br>
 
 Interesting Personal Reminders from Arnold O. Beckman:
  - "Alwyas do your best; never do anything half-hearted (either get into it or get out of it)"

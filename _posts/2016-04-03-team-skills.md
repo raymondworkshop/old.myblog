@@ -63,7 +63,11 @@ published: true
 
    I was always an introvert, and on top of that, I was raised to be very reserved. So maybe I appear to be not compassionate enough. But deep down inside, I am really grateful for what you did, and I am really eager to do something for you in return. Please do let me know if there is anything I can do for you. "  
 
-
+* 多核对和澄清，不要话中带话
+  - “Let me make sure I heard you right. What you mean is ..."
+  - "Let me put it another way"
+  - "Did I make myself clear?"
    
 #### reference
 - [好的人际关系](http://www.weibo.com/ttwenda/p/show?id=2310684096786611478970#_0)
+- [6个技巧帮你快速听出“画外音”](http://likaifu.blog.caixin.com/archives/171679)

@@ -22,7 +22,7 @@ categories: [diary]
      + 影响 -> the concrete outcomes of your work
      + 精通程度 -> something you love to do 
      + 自由  -> the lifestyle you want
-     + 认同感 -> whether you feel like you belong
+     + 认同感 -> whether you feel like you belong to
 
 #### 
 
