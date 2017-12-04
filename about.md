@@ -4,7 +4,6 @@ title: About
 ---
 I am Raymond ZHAO Wenlong, a computer Engineer and Researcher, improver of things,
 and life-long student.  
-<br>
 email/g: wenlzhao@gmail.com .   
 <br>
 
