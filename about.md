@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 I am Raymond ZHAO Wenlong, a computer Engineer and Researcher, improver of things,
-and life-long student.  
+and life-long student.   
 email/g: wenlzhao@gmail.com .   
 <br>
 
@@ -14,8 +14,11 @@ My projects are at [github](https://github.com/muyun) and my research is [here](
 <br>
 
 
-Interesting Personal Reminders from Arnold O. Beckman:
- - "Alwyas do your best; never do anything half-hearted (either get into it or get out of it)"
- - "Always strive for excellence - there is no substitute for it." 
- - "Never do anything for which you'll be ashamed later." 
- - "Maintain integrity."
+#### Interesting Personal Reminders from Arnold O. Beckman:  
+ Always do your best; never do anything half-hearted (either get into it or get out of it).
+
+ Always strive for excellence - there is no substitute for it. 
+
+ Never do anything for which you'll be ashamed later.  
+
+ Maintain integrity.
