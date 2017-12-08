@@ -57,9 +57,10 @@ abstract: "Summary about the American pronunciation"
   - 唇從展开到圆型 （从左到右）
     + i: 衣；  **eat**, **展唇(stretch your lips back more - smile)**,舌头高，舌前
     + **[i, i:](http://www.bilibili.com/video/av2681140/index_8.html)**
-    + **[i](https://www.youtube.com/watch?v=fEy96ft6hoM&index=4&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2)**
-    + /i:/ ->
-    + /i/ -> not stretched into a smile 
+    + **[i](http://rachelsenglish.com/pronounce-ee-vs-ih-leave-vs-live/)**
+    + /i:/ -> **the tongue stretches up more towards the roof of the mouth.**
+    + /i/ -> **the tongue is bit more relaxed, the jaw does drop a little bit more**
+    not stretched into a smile 
     
     + æ： 嘴巴开口大（舌头低）， 舌头最高位位前，唇展开
 
@@ -77,7 +78,8 @@ abstract: "Summary about the American pronunciation"
     + 
     + **[u:, u](http://www.bilibili.com/video/av2681140/index_10.html)**  
       - make the lips a bit **tight and forward**
-    + **[u](https://www.youtube.com/watch?v=-GyFaHLkYy4&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2&index=15)**
+    + **[u](http://rachelsenglish.com/english-pronounce-uh-push-vowel/)**
+      - **The back of the tongue lifts towards the back of the roof of the mouth.The front of the tongue remains down, but it might be pulled slightly back** .
       - foot,took, cook, shook, stood, good, look, book,wool, swoosh
       - wood
 
