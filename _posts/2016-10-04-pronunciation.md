@@ -72,7 +72,7 @@ abstract: "Summary about the American pronunciation"
     + /ə/ **tomatoes** , **letter**, **onion**, **question**
     + /ər/ - 卷舌， waiter, doctor, reporter
     + movie
-    + /a:/  嘴张比æ大， 稍微比ʌ圆唇
+    + /a:/  /ʌ/ 嘴张比æ大， 稍微比ʌ圆唇 -> [a, ʌ](http://rachelsenglish.com/pronounce-ah-vs-uh/)
     + /ɔ/， 圆唇
   
     + 
