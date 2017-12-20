@@ -4,6 +4,7 @@ title: "personal skills"
 date: 2016-07-31
 comments: true
 categories: [learning]
+abstract: ""
 ---
 #### being trusted
 You must be trustworthy. You must also be visible. If no one knows about you, no trust will be invested in you.
