@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Quote some biases"
-date: 2017-2-14
+date: 2015-12-14
 comments: true
-categories: [diary]
+categories: [learning]
 abstract: "quote some biases"
 ---
 > <font color="#800080"><small>不要把好的学校挂在嘴边,那只是第一份工作的敲门砖</small></font> 

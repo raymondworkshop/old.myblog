@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Team-skills
-date: '2017-04-03 '
+title: Team skills
+date: '2016-04-03 '
 comments: true
-categories:
-  - diary
-published: true
+categories: [learning]
+abstract: "some lessons about team skills"
 ---
 #### [Updating](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2016-04-03-team-skills.md)
 

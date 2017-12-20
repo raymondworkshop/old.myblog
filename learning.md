@@ -1,8 +1,8 @@
 ---
 layout: default
-title: learning
+title: Learning
 ---
-## [learning]({{page.title}})
+## [Learning]({{page.title}})
 <!--
 <ul class="archive">
     //    
@@ -16,10 +16,7 @@ title: learning
   {% for post in site.posts %}
     {% if post.categories.first == "learning"  %}
       <li>
-      <a href="{{ post.url }}"> {{ post.title }}</a>
-      <!--
-      <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
-      -->
+      <a href="{{ post.url }}"> {{ post.title }}</a> - {{ post.date | date: "%b %d, %Y"}}
       </li>
     {% endif %}
   {% endfor %}
