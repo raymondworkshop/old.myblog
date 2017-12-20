@@ -47,7 +47,9 @@ abstract: "Summary about the American pronunciation"
 
   - /ŋ/ -> **thing**
 
-  - **[r]** -> 舌尖上翘，口型成圆形 **three**
+  - **[r]** -> the middle part of the tongue lifts up to towards the roof of the mouth .
+  the front part of the tongue is hanging in the middle of the mouth, not touching anything.
+  -> 舌尖上翘，口型成圆形 **three** [r](http://rachelsenglish.com/r-consonant/)
   - 
 
 * [元音](http://www.yorku.ca/earmstro/ipa/vowels.html) 
@@ -72,7 +74,7 @@ abstract: "Summary about the American pronunciation"
     + /ə/ **tomatoes** , **letter**, **onion**, **question**
     + /ər/ - 卷舌， waiter, doctor, reporter
     + movie
-    + /a:/  /ʌ/ 嘴张比æ大， 稍微比ʌ圆唇 -> [a, ʌ](http://rachelsenglish.com/pronounce-ah-vs-uh/)
+    + /a:/  **/ʌ/ 嘴张比æ大， 稍微比ʌ圆唇** -> [a, ʌ](http://rachelsenglish.com/pronounce-ah-vs-uh/)
     + /ɔ/， 圆唇
   
     + 

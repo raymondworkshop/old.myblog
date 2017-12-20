@@ -6,6 +6,9 @@ comments: true
 categories: [diary]
 abstract: "Some insights about the world"
 ---
+#### 
+  * **对外部世界的不信任感和独立意识极强，缺少合作意识**
+  
 #### 中国人群体性格
   * 中国人的自我为中心，封闭，排他性认可 -> 十月革命
     - 思想上没办法融入当地社会

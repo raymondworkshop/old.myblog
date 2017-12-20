@@ -80,7 +80,7 @@ abstract: "[updating] A summary of Computer Systems from A Programmer's Perspect
    - fault handling - result from error conditions
    - abort handling
 
- * process -
+ * process - take turns using the processor
    - an independent logical control flow
    - a private address space
 
@@ -95,7 +95,10 @@ abstract: "[updating] A summary of Computer Systems from A Programmer's Perspect
 
 #### Network programming
 
-#### concurrent programming
+#### **Concurrent programs** if they overlap in time
+
+
+
 
 #### reference
  * [CSE351: The Hardware/Software Interface](http://courses.cs.washington.edu/courses/cse351/)
