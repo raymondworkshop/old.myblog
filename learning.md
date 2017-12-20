@@ -1,18 +1,11 @@
 ---
 layout: default
-title: Learning
+title: learning
 ---
-## [Learning]({{page.title}})
-<!--
-<ul class="archive">
-    //    
-     //   <li><a href="{{ item.link }}" title="{{ item.description }}" rel="external">{{ item.title }}</a></li>
-    //   
-</ul>
--->
+## [Learning]({{title}})
 
 <div>
-  <ul class="archive">
+  <ul class="posts">
   {% for post in site.posts %}
     {% if post.categories.first == "learning"  %}
       <li>
@@ -22,4 +15,3 @@ title: Learning
   {% endfor %}
   </ul>
 </div>
-

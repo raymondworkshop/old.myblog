@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Open-source community"
-date: 2017-11-07
+title: "The Practice of Programming"
+date: 2017-12-20
 comments: true
-categories: [draft]
-abstract: "The Open-source community"
+categories: [learning]
+abstract: "The Practice of Programming"
 ---

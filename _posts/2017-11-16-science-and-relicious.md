@@ -3,7 +3,7 @@ layout: post
 title: "Science and Religious"
 date: 2017-11-16
 comments: true
-categories: [draft]
+categories: [learning]
 abstract: ""
 ---
 
