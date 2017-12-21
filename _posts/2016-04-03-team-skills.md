@@ -9,6 +9,10 @@ abstract: "Some lessons about team skills"
 #### [Updating](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2016-04-03-team-skills.md)
 
 * have a good relationship with your boss
+  - the clues in the submitter’s style and communications behaviour instead - indications that the person has been in their shoes
+
+  - The right attitude is helpful, respectful of the maintainer’s time, quietly confident but unassuming 
+  
   - on time
   - know your manager's communication style and methods
     + ask his preferred way of communication and delivery of requirements
