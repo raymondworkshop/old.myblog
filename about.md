@@ -9,7 +9,7 @@ email/g: wenlzhao@gmail.com .
 I like problem solving, reading, music and travelling.  
 <br>
   
-My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/) .
+My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  
 <br>
 
 #### Interesting Personal Reminders from Arnold O. Beckman:  
