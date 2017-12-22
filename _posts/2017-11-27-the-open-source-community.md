@@ -7,26 +7,26 @@ categories: [notes]
 abstract: "Notes on The Open-Source Community"
 ---
 
-#### Unix standards 
+#### Unix Standards 
 
-Unix standards originally developed to reconcile the APIs of the different branches of the family tree.  
+Unix standards originally developed to reconcile the APIs of the different branches of the family tree. 
 
-During the Unix wars, **technical standardization** became something that cooperating technical people pushed for and most product managers accepted grudgingly or actively resisted.
+Later, during the Unix wars, **technical standardization** became something that cooperating technical people pushed for and most product managers accepted grudgingly or actively resisted.
 
-In fact, on the the newer open-source Unixes (such as Linux) it is common for operating- system features to have been engineered **using published standards as the specification**.
-
-
-#### RFC (A Request for Comments ) standard
-
-* **The IETF (The Internet Engineering Task Force)** Standards process:
-Internet-Drafts (focal points for discussion in a working group)
--> RFC (correct field experience with the specification) 
--> Proposed Standards (the specification must be stable, peer-reviewed, and significants interests) 
--> Draft Standard (the specification is mature and will be useful) 
--> Internet standard 
+In fact, on the the newer open-source Unixes (such as Linux) it is common for operating system features to have been engineered **using published standards as the specification**.
 
 
-* The IETF standards process is designed to encourage standarization **driven by practice rather than theory**, and to ensure that standard protocols have undergine **rigorous peer review and testing**.
+#### RFC (A Request for Comments ) Standard
+
+The IETF Standards process is designed to encourage standarization **driven by practice rather than theory**, and to ensure that standard protocols have undergine **rigorous peer review and testing**.
+
+**The IETF (The Internet Engineering Task Force)** Standards Process: 
+> Internet-Drafts (focal points for discussion in a working group) 
+> -> RFC (correct field experience with the specification)  
+> -> Proposed Standards (the specification must be stable, peer-reviewed, and significants interests)  
+> -> Draft Standard (the specification is mature and will be useful)  
+> -> Internet Standard  
+
 
 #### Specifications as DNA, code as RNA
 
@@ -48,10 +48,7 @@ Practice defensive design - build on open source.
 
 #### Open Source - Programming in the Unix Community 
 
-**Process transparency and peer review** are the crucial stepS in the open-source development.
-
-Most contributors in Open-source development are **volunteers contributing** in order to be **rewarded by the increased usefulness of the software to them**, and by **reputation incetives**. 
-
+Most contributors in Open-source development are **volunteers contributing** in order to be **rewarded by the increased usefulness of the software to them**, and by **reputation incetives**, thus **Process transparency and peer review** are the crucial steps in the open-source development.
 
 
 #### reference
