@@ -12,7 +12,6 @@ I like problem solving, reading, music and travelling.
 My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/) .
 <br>
 
-
 #### Interesting Personal Reminders from Arnold O. Beckman:  
  Always do your best; never do anything half-hearted (either get into it or get out of it).
 
