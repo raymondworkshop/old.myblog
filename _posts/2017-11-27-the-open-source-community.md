@@ -21,7 +21,7 @@ In fact, on the the newer open-source Unixes (such as Linux) it is common for op
 The IETF Standards process is designed to encourage standarization **driven by practice rather than theory**, and to ensure that standard protocols have undergine **rigorous peer review and testing**.
 
 **The IETF (The Internet Engineering Task Force)** Standards Process: 
-> Internet-Drafts (focal points for discussion in a working group) 
+> Internet-Drafts (focal points for discussion in a working group)  
 > -> RFC (correct field experience with the specification)  
 > -> Proposed Standards (the specification must be stable, peer-reviewed, and significants interests)  
 > -> Draft Standard (the specification is mature and will be useful)  
