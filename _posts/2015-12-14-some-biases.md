@@ -6,6 +6,10 @@ comments: true
 categories: [learning]
 abstract: "quote some biases"
 ---
+> <font color="#800080">桑德伯格认同谷歌的使命， 并且不计较职位，于是得到了这个机会。 </font>
+
+> <font color="#800080">未来属于仍然愿意弄脏双手的人。 不要再时时怀念那些逝去的“优越感”。 </font>
+
 > <font color="#800080"><small>不要把好的学校挂在嘴边,那只是第一份工作的敲门砖</small></font> 
 
 > <font color="#800080"><small>唯一能让你真正保持生机的办法，就是深入挖掘你痴迷的东西</small></font>  
