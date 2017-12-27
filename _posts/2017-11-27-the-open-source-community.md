@@ -53,4 +53,5 @@ Most contributors in Open-source development are **volunteers contributing** in 
 
 #### reference
 * The Art of Unix Programming 
+* [Figuring out how to contribute to open source](https://jvns.ca/blog/2017/08/06/contributing-to-open-source/)
 

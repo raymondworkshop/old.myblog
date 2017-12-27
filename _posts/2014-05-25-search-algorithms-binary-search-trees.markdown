@@ -7,7 +7,8 @@ categories: [home, notes, algorithms]
 abstract: "Binary search trees (BST) combines the flexibility of insertion in a
 linked list with the efficiency of search in an ordered array."
 ---
-#### Introduction
+
+#### Searching Algorithm - BST 
 Binary search trees (BST) combines the flexibility of insertion in a
 linked list (using two links per node leads to an efficient
 implementation) with the efficiency of search in an ordered array.
@@ -78,7 +79,7 @@ private Node put(Node x, Key key, Value val){
     return x;
 }
 ~~~
-####Performance Analysis:
+#### Performance Analysis:
 
 The running times depend on the shapes of the trees, which depends on the **order in which the
 keys come in (insert)**.  (If the key is inserted in natural order, this is no difference from
@@ -96,6 +97,11 @@ search/insert is **~2lnN(about 1.39lgN) on the average** .
 But there's problem that the actual worst
 case height if the keys come in in order and reverse order and other
 natural orders (the worst tree shape), that the time could be proportional to ~N .
+
+#### Searching Algorithm - red-black BST 
+
+#### Searching Algorithm - hash table
+
 
 * References:
   - [Binary Search Trees](http://algs4.cs.princeton.edu/32bst/)
