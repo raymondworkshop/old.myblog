@@ -2,11 +2,11 @@
 layout: default
 title: About
 ---
-I am Raymond ZHAO Wenlong, a computer Engineer, researcher on NLP, improver of things, and life-long student.   
+I am Raymond ZHAO Wenlong, a computer Engineer and researcher, improver of things, and life-long student.   
 email/g: wenlzhao@gmail.com .   
 <br>
 
-I like problem solving, reading, sociology, music and travelling.  
+I like problem solving, reading, travelling.  
 <br>
   
 My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  
