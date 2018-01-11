@@ -8,6 +8,33 @@ abstract: "About Cantonese"
 ---
 
 #### 新詞
+老师 lou5 si1   
+游戏 jau4 hei3   
+教  gaau3   
+
+编剧 pin3 kek6   
+历史 lik6 si2   
+开放 hoi1 fong3   
+
+世界  sai3 gaai3  
+清楚 cing1 co2  
+北京  bak1 ging1  
+轻松  hing1 cung4  
+表示 biu2 si6  
+拘谨 keoi1 gan2  
+沟通  kau1 tung1  
+
+业绩 jip6 zik1  
+商量 soeng1 loeng4  
+关键 gwaan1 gin6   
+休息 jau1 sik1  
+简单 gaan2 daan1  
+换车 wun6 ce2  
+经理 ging1 lei5  
+厨房 ceoi4 fong4  
+医院 ji1 jyun2  
+
+
 勤力 kan4 lik6  
 文职 zik1  
 潮湿 ciu4 sap1  
