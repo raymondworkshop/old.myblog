@@ -6,7 +6,7 @@ I am Raymond ZHAO Wenlong, a computer Engineer and researcher, improver of thing
 email/g: wenlzhao@gmail.com .   
 <br>
 
-I like problem solving, reading, travelling.  
+I like problem solving, reading and music.  
 <br>
   
 My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  
