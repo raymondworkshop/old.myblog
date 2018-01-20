@@ -3,7 +3,7 @@ layout: post
 title: "魔鬼老大，天使老二"
 date: 2017-12-20
 comments: true
-categories: [notes]
+categories: [writing]
 abstract: "摘錄自《魔鬼老大，天使老二》"
 ---
 
