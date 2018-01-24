@@ -1,4 +1,4 @@
-<h4 id="introduction">Introduction</h4>
+<h4 id="searching-algorithm---bst">Searching Algorithm - BST</h4>
 <p>Binary search trees (BST) combines the flexibility of insertion in a
 linked list (using two links per node leads to an efficient
 implementation) with the efficiency of search in an ordered array.</p>
@@ -66,7 +66,7 @@ private Node put(Node x, Key key, Value val){
     return x;
 }
 </code></pre>
-<p>####Performance Analysis:</p>
+<p>#### Performance Analysis:</p>
 
 <p>The running times depend on the shapes of the trees, which depends on the <strong>order in which the
 keys come in (insert)</strong>.  (If the key is inserted in natural order, this is no difference from
@@ -84,6 +84,10 @@ search/insert is <strong>~2lnN(about 1.39lgN) on the average</strong> .</p>
 <p>But there’s problem that the actual worst
 case height if the keys come in in order and reverse order and other
 natural orders (the worst tree shape), that the time could be proportional to ~N .</p>
+
+<h4 id="searching-algorithm---red-black-bst">Searching Algorithm - red-black BST</h4>
+
+<h4 id="searching-algorithm---hash-table">Searching Algorithm - hash table</h4>
 
 <ul>
   <li>References:
