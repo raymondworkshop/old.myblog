@@ -2,9 +2,9 @@
 layout: post
 title: links
 ---
+* [Kate Matsudaira](http://katemats.com/about/)
 * [Niniane](http://niniane.blogspot.hk/)
 * [Study Hacks Blog](http://calnewport.com/blog/)
-* [Kate Matsudaira](http://katemats.com/about/)
 * [Tracy Chou's blog](https://triketora.com/)
 * [Aaron Swartz](http://www.aaronsw.com/)
 * [Andrej Karpathy blog](http://karpathy.github.io/)
