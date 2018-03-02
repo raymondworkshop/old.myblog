@@ -3,7 +3,7 @@ layout: post
 title: "十年一觉电影梦"
 date: 2017-09-04
 comments: true
-categories: [notes]
+categories: [home,notes]
 abstract: "摘錄自李安的《十年一觉电影梦》"
 ---
 
