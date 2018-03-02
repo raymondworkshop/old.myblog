@@ -3,7 +3,7 @@ layout: post
 title: "Notes on The Open-Source Community"
 date: 2017-11-07
 comments: true
-categories: [notes]
+categories: [home,notes]
 abstract: "Notes on The Open-Source Community"
 ---
 

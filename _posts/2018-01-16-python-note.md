@@ -14,7 +14,10 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 #### Data Sturctures
   * sequences
-  Python sequences are often categorized as **mutalbe or immutable**, and also could be considered as **flat sequences and container sequences**. 
+  Python sequences are often categorized as **mutalbe or immutable**, and also could be considered as **flat sequences and container sequences**.
+    - container sequences -> hold **references** to the objects
+    - flat sequences -> more compact because of the physically store the value
+    -
     - list -> mutable and mixed-type
     - array
   
