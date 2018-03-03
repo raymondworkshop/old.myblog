@@ -4,10 +4,9 @@ title: "十年一觉电影梦"
 date: 2017-09-04
 comments: true
 categories: [home,notes]
-abstract: "摘錄自李安的《十年一觉电影梦》"
+abstract: "总结自李安的《十年一觉电影梦》"
 ---
 
-Annotation summary:  
 
 #### 快乐的童年  
 这是老式日本教育的方式， **打你才尽责，爱你才管你**。  
