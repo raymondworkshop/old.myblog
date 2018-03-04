@@ -13,7 +13,7 @@ Python interpreter invokes special methods to perform basic object operations.
 By using and implementing **special methods of Python Data Model** in your objects, your objects can **behave like the built-in types**, enabling the expressive coding style **Pythonic**.
 
 #### Data Sturctures
-  * Sequences - Python sequences are often categorized as **mutalbe or immutable**, and also could be considered as **flat sequences and container sequences**.
+  * sequences - Python sequences are often categorized as **mutalbe or immutable**, and also could be considered as **flat sequences and container sequences**.
     + container sequences -> hold **references** to the objects
     + flat sequences (like str, bytes) -> more compact because of the physically store the value
     + 
@@ -28,9 +28,10 @@ By using and implementing **special methods of Python Data Model** in your objec
       - for large sequences of numbers, this saves a lot of memory
       - NumPy lib
   
-  * Dictionaries
+  * dict and set
+    + **hash tables** are the engines for the high performance dicts
+    + hash tables must be sparse to work, they are **not space efficient**
   
-  * sets
   * str versus bytes
   
 #### Object Oriented
