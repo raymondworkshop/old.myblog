@@ -3,7 +3,7 @@ layout: post
 title: "notes on the Softwre Architecutres"
 date: 2018-03-11
 comments: true
-categories: [diary]
+categories: [draft]
 ---
 
 #### lessons
