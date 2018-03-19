@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Notes on the Python Programming"
+title: "Notes on the Programming languages"
 date: 2018-01-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] About Python Programming"
+abstract: "[Updating] About Python, lisp and scala Programming"
 ---
-#### Python Data Model -> A Framework/API for core language constructs
+### LISP -
+
+### Python Data Model -> A Framework/API for core language constructs
 
 Python interpreter invokes special methods to perform basic object operations.
 
@@ -21,10 +23,10 @@ By using and implementing **special methods of Python Data Model** in your objec
       - list comprehensions and generator expression
 
     + **tuples** -> immutable lists
-      - tuples hold records
+      - tuples can hold records
       - tuple unpacking -> parallel assignment
 
-    + array -> efficient because of only the packed bytes for **numeric data**
+    + array -> efficient because of only **the packed bytes for numeric data**
       - for large sequences of numbers, this saves a lot of memory
       - NumPy lib
   
@@ -33,11 +35,14 @@ By using and implementing **special methods of Python Data Model** in your objec
     + hash tables must be sparse to work, they are **not space efficient**
   
   * str versus bytes
-  
-#### Object Oriented
-
 
 #### Functions as objects
+  * Functions, like integers, strings, and dictionaries, also can be a **program entity**, this enables programming in a **functional style**.
+
+
+
+  
+#### Object Oriented
 
 
 #### Control flow  
@@ -47,8 +52,9 @@ By using and implementing **special methods of Python Data Model** in your objec
 #### Metaprogramming 
 
 
-#### notes
-#### Notes
+### Scala language
+
+### Notes
  * Reload modules problem in Emacs Python Shell
    - use importlib to reload(models) 
    - or use ipython and  %autoreload
