@@ -2,24 +2,14 @@
 layout: default
 title: language
 ---
-## [Language]({{page.title}})
-<!--
-<ul class="archive">
-    //    
-     //   <li><a href="{{ item.link }}" title="{{ item.description }}" rel="external">{{ item.title }}</a></li>
-    //   
-</ul>
--->
+## [Language]({{title}})
 
 <div>
-  <ul class="archive">
+  <ul class="posts">
   {% for post in site.posts %}
     {% if post.categories.first == "language"  %}
       <li>
-      <a href="{{ post.url }}"> {{ post.title }}</a>
-      <!--
-      <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
-      -->
+      <a href="{{ post.url }}"> {{ post.title }}</a> - {{ post.date | date: "%b %d, %Y"}}
       </li>
     {% endif %}
   {% endfor %}

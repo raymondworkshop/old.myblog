@@ -10,7 +10,7 @@ title: learning
     {% if post.categories.first == "learning"  %}
       <li>
       <a href="{{ post.url }}"> {{ post.title }}</a> - {{ post.date | date: "%b %d, %Y"}}
-      </li>
+      </li> 
     {% endif %}
   {% endfor %}
   </ul>
