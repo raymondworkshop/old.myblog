@@ -2,7 +2,7 @@
 layout: default
 title: learning
 ---
-## [Learning]({{title}})
+## [Learnings]({{title}})
 
 <div>
   <ul class="posts">

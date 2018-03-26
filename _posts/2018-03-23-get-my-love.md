@@ -3,8 +3,10 @@ layout: post
 title: "Get my love"
 date: 2018-03-23
 comments: true
-categories: [diary]
+categories: [learning]
 ---
+
+### how to get the love 
 
 #### 女生
   * 用心 
