@@ -8,6 +8,10 @@ abstract: "About Cantonese"
 ---
 
 #### 新詞
+认识  jing6 sik1 
+
+
+
 老师 lou5 si1   
 游戏 jau4 hei3   
 教  gaau3   

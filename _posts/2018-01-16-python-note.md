@@ -37,6 +37,9 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 #### Functions as objects
   * Functions, like integers, strings, and dictionaries, also can be a **program entity**, this enables programming in a **functional style**.
+  
+  * Function decorators - A decorator takes the function as argument  
+    + Most decorators **change the decorted function** by defining an inner function and returning it to replace the decorated function.
 
 
 
@@ -53,10 +56,17 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 ### LISP -
 
-### Notes
+### Notes on problems
  * Reload modules problem in Emacs Python Shell
    - use importlib to reload(models) 
    - or use ipython and  %autoreload
+
+ * Work on a virtual environment 
+   - mkvirtualenv howdoi
+   - pip install -r requirements.txt
+   - 
+   - deactivate 
+   - rmvirtualenv venv 
 
  * virtualenvs setup for python3 -> pipenv
    - New a project: >pipenv --python 3.6
