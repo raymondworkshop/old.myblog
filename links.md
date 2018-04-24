@@ -10,7 +10,9 @@ title: links
 * [Julia Evans](http://jvns.ca/)
 * [Peter Norvig](http://norvig.com/)
 * [vgod's blog](http://blog.vgod.tw/)
-* [Programming](http://www.cnblogs.com/weidagang2046)
+* [Programming](http://www.cnblogs.com/weidagang2046) 
+* [programming in the twenty-first century](http://prog21.dadgum.com/)
+
 
 
 #### skills
@@ -19,7 +21,6 @@ title: links
 * [Tracy Chou's blog](https://triketora.com/)
 * [Aaron Swartz](http://www.aaronsw.com/)
 * [Andrej Karpathy blog](http://karpathy.github.io/)
-* [programming in the twenty-first century](http://prog21.dadgum.com/)
 * [Bret Taylor](https://backchannel.org/)
 * [Bryan O'Sullivan](http://www.serpentine.com/blog/)
 * [Rein](http://reinvanderwoerd.nl/index.html)
@@ -35,7 +36,7 @@ title: links
 * [Philip J. Guo](http://www.pgbovine.net/)
 * [云风的BLOG](http://blog.codingnow.com/)
 
-#### interestings
+#### funs
 * [Paul Graham](http://www.paulgraham.com/articles.html)
 * [土摩托日记](http://www.immusoul.com/)
 * [刘瑜](http://www.aisixiang.com/thinktank/liuyu.html)
@@ -47,3 +48,4 @@ title: links
 * [木遥的窗子](http://blog.farmostwood.net/)
 * [DAVID PABLO COHN](https://davidpablocohn.com/)
 * [SYARU SHIRLEY LIN 林夏如](http://www.shirleylin.net/)
+* [Connie Chan's sharing cross-border](http://www.conniechan.com/) 

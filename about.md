@@ -2,11 +2,13 @@
 layout: default
 title: About
 ---
-Hello! I'm Raymond ZHAO Wenlong, a Software Engineer, improver of things, and life-long student. 
+Hello! I'm Raymond ZHAO Wenlong, a Software Engineer in Hong Kong, improver of things, and life-long student. 
+
+Recently I mainly focus on NLP and ML, and I also build Software System. 
 email/g: wenlzhao@gmail.com .   
 <br>
 
-I like problem solving and reading . 
+I like problem solving, reading and travelling.  
 <br>  
   
 My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  

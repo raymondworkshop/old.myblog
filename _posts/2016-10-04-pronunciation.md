@@ -81,7 +81,7 @@ abstract: "Summary about the American pronunciation"
     + 
     + **[u:, u](http://www.bilibili.com/video/av2681140/index_10.html)**  
       - make the lips a bit **tight and forward**
-    + **[u](http://rachelsenglish.com/english-pronounce-uh-push-vowel/)**
+    + **[ʊ](http://rachelsenglish.com/english-pronounce-uh-push-vowel/)**
       - **The back of the tongue lifts towards the back of the roof of the mouth.The front of the tongue remains down, but it might be pulled slightly back** .
       - foot,took, cook, shook, stood, good, look, book,wool, swoosh
       - wood

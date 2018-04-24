@@ -2,7 +2,7 @@
 layout: post
 title: Research
 ---
-#### paper reviewing #2017
+#### paper reviewing #ACL#2018
 
 #### Text simplification
   Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka, Japan .
