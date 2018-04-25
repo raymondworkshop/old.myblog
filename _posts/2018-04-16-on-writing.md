@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Soft Skills - communications"
-date: 2017-12-20
+title: "On Writing"
+date: 2018-04-25
 comments: true
 categories: [learning]
-abstract: "关于沟通"
+abstract: "On Writing"
 --- 
