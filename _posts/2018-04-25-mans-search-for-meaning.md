@@ -4,8 +4,8 @@ title: "Man's search for meaning"
 date: 2018-03-25
 comments: true
 categories: [writing]
+abstract: "This is a summay from the book <Man's search for meaning> by Viktor E. Frankl ."
 ---
-This is a summay from <Man's search for meaning> by Viktor E. Frankl .  
 
 Man's search for **meaning** always is the primary motivation in his life. This meaning is unique and specific in that it must and can be fulfilled by **him alone**.  
 
