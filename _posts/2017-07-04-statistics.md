@@ -6,6 +6,7 @@ comments: true
 categories: [home,notes,algorithms]
 abstract: "[updating] Summary about Statistics"
 ---
+> <small>[updating] A Summary about Statistics </small>
 
 #### Statistical Inference
   * 总体和样本

@@ -5,6 +5,7 @@ date: 2015-07-29
 categories: [home,notes,machinelearning]
 abstract: "A summary of Clustering Algorithms"
 ---
+> <small>A summary of Clustering Algorithms </small>
 
 #### Clustering - divide a set of objects into meaningful groups
 

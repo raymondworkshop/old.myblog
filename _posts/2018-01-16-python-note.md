@@ -4,7 +4,7 @@ title: "Notes on the Programming languages"
 date: 2018-01-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] About Python Programming"
+abstract: "[Updating] About Python and Scala Programming"
 ---
 
 ### Python Data Model -> A Framework/API for core language constructs
@@ -54,7 +54,7 @@ By using and implementing **special methods of Python Data Model** in your objec
 #### Metaprogramming 
 
 
-### LISP -
+### Scala -
 
 ### Notes on problems
  * Reload modules problem in Emacs Python Shell

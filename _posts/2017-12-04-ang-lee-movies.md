@@ -6,7 +6,7 @@ comments: true
 categories: [notes]
 abstract: "总结自李安的《十年一觉电影梦》"
 ---
-
+> <small>总结自李安的《十年一觉电影梦》</small>
 
 #### 快乐的童年  
 这是老式日本教育的方式， **打你才尽责，爱你才管你**。  

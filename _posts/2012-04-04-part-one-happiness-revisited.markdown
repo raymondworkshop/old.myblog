@@ -6,6 +6,7 @@ comments: true
 categories: [writing]
 abstract: 'This is a summary from the book <a href="https://www.goodreads.com/book/show/66354.Flow?ac=1&from_search=true">[Flow]</a>, which mainly presents concrete examples and general principles to transform boring and meaningless lives into ones full of enjoyment. '
 ---
+> <small>This is a summary from the book [Flow], which mainly presents concrete examples and general principles to transform boring and meaningless lives into ones full of enjoyment. </small>
 
 ###Content
 We often ask ourselves the similar questions like:<font color="#800080">How could we have more enjoyable life? When do we feel most happy? </font>

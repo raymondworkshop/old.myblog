@@ -6,6 +6,8 @@ comments: true
 categories: [notes,technology]
 abstract: "A share about Android NDK - build c/c++ code into shared lib app uses"
 ---
+><small> A share about Android NDK - build c/c++ code into shared lib app uses </small>
+
 #### Android NDK  - build c/c++ code into shared lib app uses
   
   *  Android.mk - glue the c/c++ code to the Android NDK

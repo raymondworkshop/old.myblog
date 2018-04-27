@@ -6,6 +6,8 @@ comments: true
 categories: [home,notes, algorithms]
 abstract: "Similarity search refers to finding objects that have similar characteristics to the query object."
 ---
+><small> Similarity search refers to finding objects that have similar characteristics to the query object. </small>
+
 #### Similarity Search [^1]
    * Similarity Search in high-dimensional spaces becomes increasingly important in databases, data mining, and search engines,particularly for content-based search of feature-rich data such as audio recordings, digital photos, digital videos and other sensor data. Since feature-rich data objects are typically represented as high-dimensional feature vectors.
 

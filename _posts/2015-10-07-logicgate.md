@@ -6,6 +6,7 @@ comments: true
 categories: [notes,algorithms]
 abstract: "XOR"
 ---
+> <small>What is XOR? </small>
 
 ####  exclusive or (XOR)  [1] , [2] 
   * used in cryptography because it let's us **'flip' the bits** using a mask in a reversable operations
