@@ -3,7 +3,7 @@ layout: post
 title: "The Paradoxical Commandments by Kent M. Keith"
 date: 2017-10-05
 comments: true
-categories: [notes]
+categories: [diary]
 abstract: "The Paradoxical Commandments by Kent M. Keith"
 ---
 
