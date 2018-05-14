@@ -10,6 +10,19 @@ abstract: "Summary about the American pronunciation"
 
 ### pronunciation
 
+* correct the misakes 
+  - m -> some 放在单词结尾时， 嘴巴闭上后，**喉咙要震动** 
+  - n -> none 放在单词结尾时，舌头还保留再前鄂原位置
+  - l -> milk 
+  - v -> victor 上牙輕咬下嘴唇
+  - s -> 嘴型 稍微大
+  - ɔ -> 喉咙 张开，
+  - a: -> 喉咙发音
+  - e, æ -> 后面喉咙, æ 更靠后
+  - ei, ai -> 不能漏掉 /i/
+  - au -> 不能漏掉 /u/
+  - t p d k -> 
+
 * 副音
   - [h](http://www.bilibili.com/video/av2681140/index_7.html)
   - [oʊ/əʊ](http://www.bilibili.com/video/av2681140/index_8.html#page=9) 
@@ -22,6 +35,7 @@ abstract: "Summary about the American pronunciation"
   - **[t, d](https://www.youtube.com/watch?v=zeNsaBwuojg&index=28&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2&spfreload=10)**
     + 舌尖抵住上齿龈，然后将舌头摊弹开； 词尾不发出声， 只舌尖抵住上齿龈再憋气即可  
      **two**
+     
 
   - **[k, g](https://www.youtube.com/watch?v=tXJlmLYFzfs&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2&index=30)**
     + 双唇微开，**舌后跟轻触口腔软腭**，把气往前推
