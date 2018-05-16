@@ -3,7 +3,7 @@ layout: post
 title: "On Writing"
 date: 2018-04-25
 comments: true
-categories: [writing, notes]
+categories: [learning]
 abstract: "On Writing"
 --- 
 

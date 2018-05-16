@@ -3,7 +3,7 @@ layout: post
 title: "Man's search for meaning"
 date: 2018-03-25
 comments: true
-categories: [writing]
+categories: [diary]
 abstract: "尼采有句名言：“知道为什么而活的人，便能生存。” 维克多·弗兰克尔的意义疗法给出了三种不同的方式来发现生命之意义： 1. 创立某项成就或从事某种事业 2. 体验某种事情 -如真善美 - 体验自然和文化或体验另一个人的独特性-就是去爱某个人 3.在忍受不可避免的苦难时采用某种态度"
 ---
 > <small>尼采有句名言：“知道为什么而活的人，便能生存”。</small> <br/>
