@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Notes on Python Programming"
+title: "Notes on Programming languages"
 date: 2018-01-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] About Python Programming"
+abstract: "[Updating] About Python and Rust Programming"
 ---
 > <small>Notes on Python Programming </small>
 
-### Python Data Model -> A Framework/API for core language constructs
+###Python Data Model -> A Framework/API for core language constructs
 
 Python interpreter invokes special methods to perform basic object operations.
 
@@ -37,11 +37,12 @@ By using and implementing **special methods of Python Data Model** in your objec
   * str versus bytes
 
 #### Functions as objects
-  * Functions, like integers, strings, and dictionaries, also can be a **program entity**, this enables programming in a **functional style**.
-
-
-
+  * Functions, like integers, strings, and dictionaries, also can be a **program entity**, this enables programming in a **functional style**. 
+    - The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.
+    
+  * function decorators and closures
   
+    
 #### Object Oriented
 
 
@@ -52,7 +53,7 @@ By using and implementing **special methods of Python Data Model** in your objec
 #### Metaprogramming 
 
 
-### Rust language
+## Rust language
 
 ### Notes
  * Reload modules problem in Emacs Python Shell
