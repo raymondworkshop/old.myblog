@@ -6,31 +6,30 @@ comments: true
 categories: [language]
 abstract: "Oral English"
 ---
-### Family Album USA
-#### 08
-Let me help you with this
 
-ok,lady, take your time
+#### 15
+how can I thank all of you?  
+I'm very grateful.  
 
-It's too early to know for sure, I am pretty independent
+I probably mean ...  
 
-#### 09
-I'm ready grandpa you name the day
+did it spoil your fun?  
 
-This one really bring back memoreis
+ - suggestion 
+  + **maybe** we can  
+  + **what do you say** we get back to our finshing  
+  + **why don't we** do it again  
 
-I can't wait to see her
+#### 14  
+first ... next ... after that ... later on ... finally ...
 
-#### 10
-I'd like to come to the ten o'clock advanced class
-
-#### 13
+#### 13  
 Can I help ?  
 maybe we can spend some time together next weekend  
 
-how's work?
+how's work?  
 The usual problems 
-you're working pretty hard these days
+you're working pretty hard these days  
 
 
 - [Family Album USA 11--Ep04Act2](https://www.youtube.com/watch?v=P_sUb1rBlS4&list=PLDA003F3DB2768201&index=11&t=1s)
@@ -43,10 +42,31 @@ you're working pretty hard these days
     I made enough for an army .
 
   + Maybe you can teach me how to work on a computer 
-  + What are you doing tomorrow ? Nothing much
-  + I've got to run/go .
+  + What are you doing tomorrow ? Nothing much  
+  + I've got to run/go .  
 
   + 
+  
+#### 10
+I'd like to come to the ten o'clock advanced class
+
+
+#### 09
+I'm ready grandpa you name the day
+
+This one really bring back memoreis
+
+I can't wait to see her
+
+
+### Family Album USA
+#### 08
+Let me help you with this
+
+ok,lady, take your time
+
+It's too early to know for sure, I am pretty independent
+
 
 ### Discussion language and strategies
  * Start a discussion
@@ -84,22 +104,22 @@ you're working pretty hard these days
 
 ### Discussion
  - start a discussion
-   > It's chilly today, isn't it?
+   > It's chilly today, isn't it?  
    > Did you read the news about ... ?  
 
  - keep the discussion going
-   > ask questions -> Did you mean ... ?
-   > invite others opinions -> What do you feel ... ?
-   > Positive comment ->  You're right . I also think that ...
+   > ask questions -> Did you mean ... ?  
+   > invite others opinions -> What do you feel ... ?  
+   > Positive comment ->  You're right . I also think that ...  
    > after your views -> What do you think?  
 
- - when and how is it appropriate to interrupt others?
+ - when and how is it appropriate to interrupt others?  
 
 ### be polite
  - Asking for permission
-   > Do you mind if ...
-   > Would it be a problem if ...
-   > I was wondering if I could ...
+   > Do you mind if ...  
+   > Would it be a problem if ...  
+   > I was wondering if I could ...  
  - Disagreeing
    > I see what you're saying, but I think ...
    > You could be right, but don't forget that ...

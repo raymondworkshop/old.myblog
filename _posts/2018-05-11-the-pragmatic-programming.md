@@ -7,7 +7,8 @@ categories: [learning]
 abstract: "The Pragmatic Programming"
 ---
 
-#### The Pragmatic Approach
+#### The Pragmatic Approach 
+
 
 #### The basic tools  - **tools** amplify your talent
     * Invest in your own basic toolbox
