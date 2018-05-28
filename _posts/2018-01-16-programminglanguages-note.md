@@ -4,7 +4,7 @@ title: "Notes on Programming languages"
 date: 2018-01-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] About Python and Rust Programming"
+abstract: "[Updating] About Python Programming"
 ---
 > <small>Notes on Python Programming </small>
 
@@ -53,7 +53,7 @@ By using and implementing **special methods of Python Data Model** in your objec
 #### Metaprogramming 
 
 
-## Rust language
+### rust/scala/swift language ?
 
 ### Notes
  * Reload modules problem in Emacs Python Shell
