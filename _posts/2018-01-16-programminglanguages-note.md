@@ -53,7 +53,7 @@ By using and implementing **special methods of Python Data Model** in your objec
 #### Metaprogramming 
 
 
-### rust/scala/swift language ?
+### Rust/swift language ?
 
 ### Notes
  * Reload modules problem in Emacs Python Shell
@@ -74,3 +74,4 @@ This doesn't work with Python 3 for obvious reasons. To remove it:
 
 #### reference
 * Fluent python
+* [win2018- CS140e Operating Systems](https://web.stanford.edu/class/cs140e/)
