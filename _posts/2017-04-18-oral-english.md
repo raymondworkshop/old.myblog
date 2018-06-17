@@ -7,6 +7,27 @@ categories: [language]
 abstract: "Oral English"
 ---
 
+#### 16 
+**what's this for?** Just because (/no reason)  
+
+I have to work late.   
+
+
+If you had your choice of all the   
+where would you choose to spend ...?  
+
+**Isn't that** too much to ask of your mother?  
+
+
+That sounds tempting (interesting).  
+
+we've earned it. (我们该这样做)  
+
+**we'd like** to make a reservation for this wekend.  
+
+
+what's the daily rate (房费)?  
+
 #### 15
 how can I thank all of you?  
 I'm very grateful.  
