@@ -28,6 +28,25 @@ we've earned it. (我们该这样做)
 
 what's the daily rate (房费)?  
 
+It is for me but I wanted this weekend to **be special for you**.  
+
+- comfort sb  
+  + Why should you be sorry? Stop blaming yourself.  
+
+  + it really isn't that bad.  
+
+
+It's **exactly as it was** .  
+The house is exactly the same as it was 20y ago. 
+
+
+Would a professional photographer be without a picture?  
+
+**I took the liberty of** ordering some breakfast for you. (自作主张)  
+
+The book was presented to me with the author's **compliments**. (免费赠送)  
+
+
 #### 15
 how can I thank all of you?  
 I'm very grateful.  
