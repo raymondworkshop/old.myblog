@@ -8,6 +8,11 @@ abstract: "About Cantonese"
 ---
 
 #### 新詞
+能量饮品  nang4 loeng6 jam2 ban2  
+植物 zik6 mat6 
+床 cong4  
+
+
 认识  jing6 sik1 
 
 
