@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-I'm Raymond ZHAO Wenlong, a Software Engineer and Researcher.   
+I'm Raymond ZHAO Wenlong, a Software Engineer and Researcher, improver of things, and life-long student.   
 email/g: wenlzhao@gmail.com .   
 <br> 
   
