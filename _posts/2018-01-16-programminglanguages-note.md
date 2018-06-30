@@ -4,9 +4,9 @@ title: "Notes on Programming languages"
 date: 2018-01-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] About Python Programming"
+abstract: "[Updating] About Python and Rust"
 ---
-> <small>Notes on Python Programming </small>
+> <small>Notes on Python and Rust Programming </small>
 
 ###Python Data Model -> A Framework/API for core language constructs
 
@@ -53,7 +53,8 @@ By using and implementing **special methods of Python Data Model** in your objec
 #### Metaprogramming 
 
 
-### Rust/swift language ?
+### Rust language 
+
 
 ### Notes
  * Reload modules problem in Emacs Python Shell
@@ -75,3 +76,4 @@ This doesn't work with Python 3 for obvious reasons. To remove it:
 #### reference
 * Fluent python
 * [win2018- CS140e Operating Systems](https://web.stanford.edu/class/cs140e/)
+* [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/)
