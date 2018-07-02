@@ -8,6 +8,33 @@ abstract: "Oral English"
 ---
 
 #### 17  
+Does the name Harvey Carlson **rings a bell** (听着耳熟)?    
+
+**Now that (since)** you come, why don't you stay?  
+
+I'd like to **make an appointment** with him.  
+
+set up an appointment  
+
+what do u think you're gonna do?  
+
+
+Mr. Carlson **will be with you** shortly. (will see u) 
+
+he's **ready for you** (is ready to see you).    
+
+**I'm here to see** Mr. Carlson .
+
+this is a crasy/wild/busy morning .  
+
+Thank you for seeing me on **such short notice** (without much time to prepare).  
+
+
+i'm glad you like it.  
+
+You won't be disappointed.  
+Do u mean what you say? I say what I mean (算数) .   
+
 
 
 #### 16 
