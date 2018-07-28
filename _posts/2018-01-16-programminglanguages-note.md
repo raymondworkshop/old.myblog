@@ -6,7 +6,7 @@ comments: true
 categories: [home,notes]
 abstract: "[Updating] About Python and Rust"
 ---
-> <small>Notes on Python and Rust Programming </small>
+> <small>Notes on Programming </small>
 
 ###Python Data Model -> A Framework/API for core language constructs
 
@@ -51,6 +51,8 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 
 #### Metaprogramming 
+
+### Scala language
 
 
 ### Rust language 

@@ -8,6 +8,7 @@ abstract: "The Pragmatic Programming"
 ---
 
 #### The Pragmatic Approach 
+    * The evails of duplication adn othrogonality
 
 
 #### The basic tools  - **tools** amplify your talent
