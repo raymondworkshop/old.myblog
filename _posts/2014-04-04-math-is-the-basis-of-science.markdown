@@ -6,6 +6,8 @@ comments: true
 categories:  [home,writing]
 abstract: '总结自 <a href="http://book.douban.com/subject/1118984/">[給討厭數學的人]</a>'
 ---
+> <small>总结自[《給討厭數學的人》](http://book.douban.com/subject/1118984/) </small>
+
 
 - 古以色列人的宗教的**基本教义就是与唯一绝对的人格神所订的契约**，神会不时地判断他们有没有背弃这个契约。如果没有坚守这个契约，他们就会被全部消灭。这促使以色列人不得不心惊胆战地把思考推往逻辑的方向。    
 -  

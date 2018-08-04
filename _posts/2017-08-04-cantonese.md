@@ -7,7 +7,27 @@ categories: [notes,language]
 abstract: "About Cantonese"
 ---
 
+#### [兒童故事粵語](https://www.youtube.com/watch?v=Ag1tAlJmedQ)
+礼物
+
+
 #### 新詞
+
+冷静 laang5 zing6  
+急救 gap1 gau3  
+笑 siu3 
+震撼 zan3 ham6  
+肯定 hang2 ding6 
+环保 waan4 bou2  
+甜  
+苦   fu2 
+惭愧  caam4 kwai3 
+敏感  man5 gam2 
+
+
+
+
+
 能量饮品  nang4 loeng6 jam2 ban2  
 植物 zik6 mat6 
 床 cong4  

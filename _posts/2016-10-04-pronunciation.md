@@ -8,7 +8,21 @@ abstract: "Summary about the American pronunciation"
 ---
 ### ELP: English Listening and Pronunciation
 
+### intonation  
+* melody - music
+* stress  
+   - the content words 
+
+* Rhythm  
+
 ### pronunciation
+
+* Language has its 
+  - hear the music in your language
+  - English is a beat-driven language
+  - how how to beat the rhythms
+  -  
+  - imitate
 
 * correct the misakes 
   - m -> some 放在单词结尾时， 嘴巴闭上后，**喉咙要震动** 
@@ -118,6 +132,7 @@ abstract: "Summary about the American pronunciation"
   - [ai](http://www.bbc.co.uk/learningenglish/english/features/pronunciation/diphthongs3)
   
   - [æ, a:](http://www.clarityenglish.com/area1/ClearPronunciation/Start.php?prefix=CITY)
+  - [æ](https://v.qq.com/x/page/r0127l1hvtn.html?__t=1&ptag=1.sina&_out=1)
 
 * Pronunciation workshop
   - [practice](http://www.bilibili.com/video/av2681140/)
