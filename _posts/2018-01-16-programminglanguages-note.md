@@ -4,11 +4,11 @@ title: "Notes on Programming languages"
 date: 2018-01-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] About Python and Rust"
+abstract: "[Updating] About Python, Rust and Scala programming"
 ---
-> <small>Notes on Programming </small>
+>[Updating]  Notes on Python, Rust and Scala programming
 
-###Python Data Model -> A Framework/API for core language constructs
+### Python Data Model -> A Framework/API for core language constructs
 
 Python interpreter invokes special methods to perform basic object operations.
 
