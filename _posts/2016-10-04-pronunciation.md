@@ -47,8 +47,9 @@ abstract: "Summary about the American pronunciation"
     + book
 
   - **[t, d](https://www.youtube.com/watch?v=zeNsaBwuojg&index=28&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2&spfreload=10)**
-    + 舌尖抵住上齿龈，然后将舌头摊弹开； 词尾不发出声， 只舌尖抵住上齿龈再憋气即可  
+    + 舌尖抵住上齿龈，然后将舌头摊弹开； **词尾不发出声**， 只舌尖抵住上齿龈再憋气即可  
      **two**
+    + it -a- could -a- be <- notice 
      
 
   - **[k, g](https://www.youtube.com/watch?v=tXJlmLYFzfs&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2&index=30)**
@@ -87,10 +88,10 @@ abstract: "Summary about the American pronunciation"
   - 舌头的最高位置从前到后
   - 唇從展开到圆型 （从左到右）
     + i: 衣；  **eat**, **展唇(stretch your lips back more - smile)**,舌头高，舌前
-    + **[i, i:](http://www.bilibili.com/video/av2681140/index_8.html)**
+    + **[i, i:](http://www.bilibili.com/video/av2681140/index_8.html)** 
     + **[i](http://rachelsenglish.com/pronounce-ee-vs-ih-leave-vs-live/)**
-    + /i:/ -> **the tongue stretches up more towards the roof of the mouth.**
-    + /i/ -> **the tongue is bit more relaxed, the jaw does drop a little bit more**
+    + /i:/ -> **the tongue stretches up more towards the roof of the mouth.** - open mouth widely 
+    + /i/ -> **the tongue is bit more relaxed, the jaw does drop a little bit more** - don't open mouth widely 
     not stretched into a smile 
     
     + æ： 嘴巴开口大（舌头低）， 舌头最高位位前，唇展开
@@ -144,6 +145,13 @@ abstract: "Summary about the American pronunciation"
 
 
 #### English
+  - **[Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome)** 
+  - **[English for Effective Business Speaking](https://www.coursera.org/learn/business-english-vocabulary/home/welcome)** 
+  - **[Business English for Cross-cultural Communication](https://www.coursera.org/learn/cross-cultural-communication-business/home/welcome) 
+  -  
+  - [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
+  - 
+
   - [English Lessons](http://www.elementalenglish.com/category/1-english-lessons/)
   - [English speaking](http://elss.elc.cityu.edu.hk/ELSS/activities.aspx)
   - [speaking](http://www.weibo.com/ttarticle/p/show?id=2309404005596264270260#_0)
