@@ -3,10 +3,11 @@ layout: post
 title: "Man's search for meaning"
 date: 2018-03-25
 comments: true
-categories: [learning]
-abstract: "尼采有句名言：“知道为什么而活的人，便能生存。” "
+categories: [writing]
+abstract: "弗里德里希·尼采有句名言：“知道为什么而活的人，便能生存。” "
 ---
-> <small>弗里德里希·尼采有一句名言：“知道为什么而活的人，便能生存”。</small> 
+> <small>There is much wisdom in the words of Nietzsche: "He who has **a why to live for** can bear almost any how."
+</small> 
 
 
 There is much wisdom in the words of Nietzsche: "He who has **a why to live for** can bear almost any how."

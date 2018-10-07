@@ -7,6 +7,28 @@ categories: [diary]
 ---
 ### 记录下每天的生活 - **真的需要更加努力了**  
 
+#### 2018-10-04 
+ * 
+
+#### 2018-10-03 
+ * 肝脏检查 
+
+ * TODO
+   - 洗牙 
+   - 
+ * to improve
+   - cantonese speaking
+   - English writing 
+   - 
+   - music 
+   - 驾车
+   - 游泳 
+
+
+#### 2018-09-26 
+ * meeting today
+
+
 #### 2018-09-21 
  * love
   - 干练的女性 
