@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-I'm Raymond ZHAO Wenlong, a Software Engineer and Researcher in Hong kong.   
+I'm Raymond ZHAO Wenlong, a Software Engineer and Researcher based in Hong kong.   
 email/g: wenlzhao@gmail.com .   
 <br> 
   
