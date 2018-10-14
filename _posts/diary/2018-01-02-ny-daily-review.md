@@ -7,6 +7,19 @@ categories: [diary]
 ---
 ### 记录下每天的生活 - **真的需要更加努力了**  
 
+#### 2
+
+#### 2018-10-12 
+ * self 
+  - 增肥 
+  - 最近睡眠老是不好 
+
+ * research 
+  - Conference: SIGIR, ICLR, NAACL, EMNLP, ACL 
+  - read the tutorial 
+  - metric: precision at N 
+ 
+
 #### 2018-10-04 
  * 
 
