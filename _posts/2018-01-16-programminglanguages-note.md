@@ -4,7 +4,7 @@ title: "Notes on Programming languages"
 date: 2018-05-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] About Python, Rust and Scala programming"
+abstract: "[Updating] About Python and Scala programming"
 ---
 >[Updating]  Notes on Python, Rust and Scala programming
 
@@ -55,7 +55,6 @@ By using and implementing **special methods of Python Data Model** in your objec
 ### Scala language
 
 
-### Rust language 
 
 
 ### Notes
