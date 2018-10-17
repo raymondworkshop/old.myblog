@@ -76,5 +76,5 @@ This doesn't work with Python 3 for obvious reasons. To remove it:
 
 #### reference
 * Fluent python
-* [win2018- CS140e Operating Systems](https://web.stanford.edu/class/cs140e/)
-* [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/)
+* <del>[win2018- CS140e Operating Systems](https://web.stanford.edu/class/cs140e/)</del>
+* <del>[Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/)</del>
