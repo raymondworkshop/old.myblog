@@ -5,7 +5,18 @@ date: 2017-12-07
 comments: true
 categories: [diary]
 ---
-### 记录下每天的生活 - **真的需要更加努力了**  
+### 记录下每天的生活 - **真的需要更加努力了** 
+
+#### 2018-10-19 
+ * 学习怎么和junior 的人打交道 
+
+#### 2018-10-18 
+ * debug the code 
+   - know more about TF and CNN 
+
+ * todo 
+   - spend more time on English 
+
 
 #### 2018-10-16 
  * 今天10：40 来到学校

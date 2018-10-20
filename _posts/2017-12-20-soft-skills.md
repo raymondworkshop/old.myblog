@@ -8,6 +8,11 @@ abstract: "关于沟通"
 --- 
 
 #### 沟通 - 得体 - 分寸合适  
+  * British culture 
+    - friendly smile and eye contact when you handshake 
+    - follow the host 
+    - greet first before asking any question 
+    - say "Excuse me", "please", "Sorry" 
 
 #### 如何处理和伯乐的关系 
   * 因为年龄，性别和阅历的差别，或者还没有见面的人，
