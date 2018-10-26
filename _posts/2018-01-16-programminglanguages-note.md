@@ -4,9 +4,9 @@ title: "Notes on Programming languages"
 date: 2018-05-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] About Python and Scala programming"
+abstract: "[Updating] About Python and Rust programming languages"
 ---
->[Updating]  Notes on Python, Rust and Scala programming
+>[Updating]  Notes on Python and Rustprogramming languages
 
 ### Python Data Model -> A Framework/API for core language constructs
 
@@ -51,9 +51,10 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 
 #### Metaprogramming 
+  * 
 
-### Scala language
-
+### Rust language
+  * 
 
 
 
@@ -76,5 +77,5 @@ This doesn't work with Python 3 for obvious reasons. To remove it:
 
 #### reference
 * Fluent python
-* <del>[win2018- CS140e Operating Systems](https://web.stanford.edu/class/cs140e/)</del>
+* [win2018- CS140e Operating Systems](https://web.stanford.edu/class/cs140e/)
 * <del>[Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/)</del>
