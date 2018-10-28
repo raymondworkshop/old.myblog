@@ -5,10 +5,10 @@ title: Research
 #### Paper reviewing #2018
 
 #### Word Embeddings 
-  Our paper "[Mapping Customer Needs in Natural Language to Product Specifications by Using Word Embeddings](https://drive.google.com/file/d/1pfpff9EWB2gOGllzh8DHIapp-fBGlC55/view?usp=sharing)" has been accepted for publication at apiems2018, HK.
+  Our paper "[Mapping Customer Needs in Natural Language to Product Specifications by Using Word Embeddings](https://drive.google.com/file/d/1pfpff9EWB2gOGllzh8DHIapp-fBGlC55/view?usp=sharing)" has been accepted for publication at APIEMS 2018,Hong Kong.
 
 #### Text simplification
-  Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka, Japan.
+  Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka,Japan.
 
 
 #### Privacy-preserving Similar Search  
