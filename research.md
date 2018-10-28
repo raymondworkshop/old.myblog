@@ -2,7 +2,7 @@
 layout: post
 title: Research
 ---
-#### Paper reviewing #2018
+#### Paper Reviewings
 
 #### Word Embeddings 
   Our paper "[Mapping Customer Needs in Natural Language to Product Specifications by Using Word Embeddings](https://drive.google.com/file/d/1pfpff9EWB2gOGllzh8DHIapp-fBGlC55/view?usp=sharing)" has been accepted for publication at APIEMS 2018,Hong Kong.
