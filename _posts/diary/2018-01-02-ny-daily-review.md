@@ -7,8 +7,15 @@ categories: [diary]
 ---
 ### 记录下每天的生活 - **真的需要更加努力了** 
 
+#### 2018-10-30
+ * hope to maintain the daily writing 
+ * how to maintain the relationships - softskills
+   - language improvement 
+   - 
+
 #### 2018-10-19 
  * 学习怎么和junior 的人打交道 
+
 
 #### 2018-10-18 
  * debug the code 
