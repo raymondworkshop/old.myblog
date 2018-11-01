@@ -7,6 +7,9 @@ categories: [diary]
 ---
 ### 记录下每天的生活 - **真的需要更加努力了** 
 
+#### 2018-10-31 
+ * 
+
 #### 2018-10-30
  * hope to maintain the daily writing 
  * how to maintain the relationships - softskills
