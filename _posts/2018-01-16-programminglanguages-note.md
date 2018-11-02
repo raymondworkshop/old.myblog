@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Notes on Python, Scala and Rust programming languages"
+title: "Notes on programming languages"
 date: 2018-05-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] Notes About Python, Scala and Rust programming languages"
+abstract: "[Updating] Notes mainly about Python and Scala programming languages"
 ---
->[Updating]  Notes on Python, Scala and Rust programming languages
+>[Updating]  Notes on programming languages
+
+#### Programming Languages 
 
 ### Python Data Model -> A Framework/API for core language constructs
 
@@ -56,7 +58,7 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 ### Scala 
 
-### Rust language
+### Julia ?
   * 
 
 
@@ -80,5 +82,5 @@ This doesn't work with Python 3 for obvious reasons. To remove it:
 
 #### reference
 * Fluent python
-* [win2018- CS140e Operating Systems](https://web.stanford.edu/class/cs140e/)
-* [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/)
+* <del>[win2018- CS140e Operating Systems](https://web.stanford.edu/class/cs140e/)</del>
+* <del>[Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/)</del>
