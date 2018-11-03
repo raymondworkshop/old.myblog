@@ -6,15 +6,13 @@ comments: true
 categories: [writing]
 abstract: "弗里德里希·尼采有句名言：“知道为什么而活的人，便能生存。” "
 ---
-> <small>There is much wisdom in the words of Nietzsche: "He who has **a why to live for** can bear almost any how."
+> <small>There is much wisdom in the words of Friedrich Nietzsche: "He who has **a why to live for** can bear almost any how."
 </small> 
 
 
-There is much wisdom in the words of Nietzsche: "He who has **a why to live for** can bear almost any how."
-
 Man's search for **meaning** always is the primary motivation in his life. This meaning is unique and specific in that it must and can be fulfilled by **him alone**.  
 
-Man should not ask what the meaning of his life is, but rather he must recognize that it is **he** who is asked. In a word, each man is questioned by life; and he can only answer to life by **answering for his own life**; to life he can only respond **by being responsible**. Logotherapy sees **in responsibleness** the very essence of human existence.  
+Man should not ask what the meaning of his life is, but rather he must recognize that it is **he** who is asked. In a word, each man is questioned by life; and he can only answer to life by **answering for his own life**; to life he can only respond **by being responsible**. The Author logotherapy sees **in responsibleness** the very essence of human existence.  
 
 According to logotherapy, this meaning in life could be discovered in three different ways: 1. **by creating a work or doing a deed**; 2. **by experiencing something or encountering someone**; and 3. **by the attitude we take toward unavoidable suffering**.
 
