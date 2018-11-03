@@ -6,10 +6,10 @@ I'm Raymond ZHAO Wenlong, a Software Engineer and Researcher based in Hong kong.
 email/g: wenlzhao@gmail.com .   
 <br> 
   
-Lover of words, music and food.  I like reading and problem solving.    
+I like reading and problem solving.  Lover of words, music and food.  
 <br> 
 
-Recently, I mainly focus on NLP/ML;  I also like to Construct Systems.  
+Recently, I mainly focus on NLP/ML.  I also like to Construct Systems.  
 My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  
 <br>
 
