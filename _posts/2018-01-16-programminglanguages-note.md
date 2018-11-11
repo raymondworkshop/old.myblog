@@ -4,7 +4,7 @@ title: "Notes on programming languages"
 date: 2018-05-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] Notes mainly about Python, Scala and Julia programming languages"
+abstract: "[Updating] Notes mainly about Python and Scala programming languages"
 ---
 >[Updating]  Notes on programming languages
 
@@ -58,8 +58,6 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 ### Scala 
 
-### Julia ?
-  * 
 
 
 

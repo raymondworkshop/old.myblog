@@ -7,6 +7,16 @@ categories: [diary]
 ---
 ### 记录下每天的生活 - **真的需要更加努力了** 
 
+#### 2018-11-09 
+ * 被人拒绝总是那么让人沮丧 
+  
+
+#### 2018-11-08 
+ * work 
+   - research 
+   - engineering / business 
+   - paper seminor 
+
 #### 2018-11-07 
  * check 
 
