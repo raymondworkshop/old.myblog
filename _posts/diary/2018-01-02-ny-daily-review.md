@@ -7,6 +7,14 @@ categories: [diary]
 ---
 ### 记录下每天的生活 - **真的需要更加努力了** 
 
+#### 2018-11-11 
+ * learning a new language
+   - immersion 
+     - sound, experess, act like a native
+   - **pronouncation** - imitate
+   - culture 
+   - use the words they use 
+
 #### 2018-11-09 
  * 被人拒绝总是那么让人沮丧 
   
