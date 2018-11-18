@@ -7,6 +7,15 @@ categories: [diary]
 ---
 ### 记录下每天的生活 - **真的需要更加努力了** 
 
+#### 2018-11-16 
+ * seminar 
+
+#### 2018-11-14 
+ * 
+
+#### 2018-11-13 
+ * 
+
 #### 2018-11-11 
  * learning a new language
    - immersion 
