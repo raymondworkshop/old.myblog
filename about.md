@@ -2,9 +2,12 @@
 layout: default
 title: About
 ---
-I'm Raymond ZHAO Wenlong, a Computer Engineer and Researcher.   
-email/g: wenlzhao@gmail.com .   
+I'm Raymond ZHAO Wenlong, a Computer Engineer and Researcher. 
+email/g: wenlzhao@gmail.com .
 <br> 
+
+I graduated from Wuhan University, China and The Chinese University of Hong Kong.   
+   
   
 I like reading and problem solving.  Lover of words, music and food.  
 <br> 
