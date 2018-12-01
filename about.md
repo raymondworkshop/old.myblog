@@ -8,8 +8,8 @@ email/g: wenlzhao@gmail.com .
 
 I graduated from Wuhan University, China and The Chinese University of Hong Kong.    
 <br>  
-   
-I like reading and problem solving.  Lover of words, music and food.    
+
+I like reading and problem solving.  Lover of words, music and food.     
 <br>  
 
 Recently, I mainly focus on NLP/ML.  I also like to Construct Systems.  
