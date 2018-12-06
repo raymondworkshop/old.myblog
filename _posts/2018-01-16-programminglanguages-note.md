@@ -4,7 +4,7 @@ title: "Notes on programming languages"
 date: 2018-05-16
 comments: true
 categories: [home,notes]
-abstract: "[Updating] Notes mainly about Python and Scala programming languages"
+abstract: "[Updating] Notes mainly about Python, Rust and Julia programming languages"
 ---
 >[Updating]  Notes on programming languages
 

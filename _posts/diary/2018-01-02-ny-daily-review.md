@@ -5,7 +5,41 @@ date: 2017-12-07
 comments: true
 categories: [diary]
 ---
-### 记录下每天的生活 - **真的需要更加努力了** 
+### 记录下每天的工作和生活 
+
+#### 2018-12-04 
+ * arrive at HSU around 10:30am
+   - a bit better, hope to arrive at HSU around 10:00, get up at 8:30, and sleep at 12:00pm 
+
+ * record the doing, thinking and todo every day 
+ * 
+ * 
+
+#### 2018-11-27 
+ * 以后都要来早点
+   - 争取8：30起床, 10点之前来公司
+
+ * TODO
+   - check A/B test 
+   
+
+#### 2018-11-22 
+ * 
+
+#### 2018-11-19 
+ * TODO
+   - LaTex 
+   - Bibtex 
+   - implement BP alg
+   - RNN
+
+
+#### 2018-11-19 
+ * 回头看，我还是感激港大的经历。 
+   因为它提供了一个独立生长的环境，校园生活迫使大家尽早独立思考和自主生长，文化上不爱抱团，互相影响比较少。  
+   招的又都是聪明人，认定了什么就去闯好了。 
+
+ 
 
 #### 2018-11-16 
  * seminar 

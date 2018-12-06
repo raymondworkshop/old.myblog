@@ -6,10 +6,10 @@ I'm Raymond ZHAO Wenlong, a Computer Engineer and Researcher.
 email/g: wenlzhao@gmail.com .  
 <br>  
 
-I graduated from Wuhan University, China and The Chinese University of Hong Kong.    
+I graduated from [Wuhan University](https://en.whu.edu.cn/) and [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
 <br>  
 
-I like reading.  Lover of words, music and food.     
+I like reading.  Lover of science and art.     
 <br>  
 
 Recently, I mainly focus on NLP/ML.  I also like to Construct Systems.  
