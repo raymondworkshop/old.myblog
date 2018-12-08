@@ -9,7 +9,7 @@ email/g: wenlzhao@gmail.com .
 I graduated from [Wuhan University](https://en.whu.edu.cn/) and [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
 <br>  
 
-I like reading.  Lover of science and art.     
+I like reading.  Lover of Philosophy, Science and Art.     
 <br>  
 
 Recently, I mainly focus on NLP/ML.  I also like to Construct Systems.  
