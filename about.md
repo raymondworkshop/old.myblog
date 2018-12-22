@@ -8,7 +8,7 @@ email/g: wenlzhao@gmail.com .
 <br>  
 
 
-I like reading.  Lover of Philosophy, Science and Art.     
+I like reading.  Lover of Science, Art and Philosophy.    
 <br>  
 
 Recently, I mainly focus on NLP/ML.  I also like to Construct Systems.  
