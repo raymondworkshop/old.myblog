@@ -25,16 +25,12 @@ abstract: "About Cantonese"
 敏感  man5 gam2 
 
 
-
-
-
 能量饮品  nang4 loeng6 jam2 ban2  
 植物 zik6 mat6 
 床 cong4  
 
 
 认识  jing6 sik1 
-
 
 
 老师 lou5 si1   
