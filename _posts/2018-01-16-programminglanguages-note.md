@@ -6,7 +6,7 @@ comments: true
 categories: [home,notes]
 abstract: "[Updating] Notes on programming languages"
 ---
->[Updating]  Notes on programming languages mainly about Lisp, Python and go programming languages
+>[Updating]  Notes on programming languages mainly aboutPython, Go and  Lisp  programming languages
 
 #### Programming Languages 
 
