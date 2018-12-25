@@ -3,7 +3,7 @@ layout: post
 title: "七爷"
 date: 2007-09-29 00:21
 comments: true
-categories: [writing]
+categories: [learning]
 abstract: '纪念我的七爷'
 ---
 想起给家个电话吧，这不，一个电话打过去，得到个消息：七爷去世了，今天葬的土。不由自主的想起了乡下的点点滴滴。
