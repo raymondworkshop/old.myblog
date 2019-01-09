@@ -7,9 +7,25 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-01-09
+ * You have to decide what to do NEXT
+   - 
+
+#### 2019-01-02 
+ * Summary the above years 
+
+ * TODO
+    + How to communicate with Junior
+    + 检察自己的说话习惯 
+
+
+#### 2018-12-27 
+ * 今天来的早了点 
+   - 明天9点之前起床 
+
 #### 2018-12-24 
  * 今天来的有些晚 
- 
+
 
 #### 2018-12-18 
  * 今天来的有些晚，11多到办公室 
