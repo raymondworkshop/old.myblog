@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "诺言课程"
-date: 2017-11-05
+title: "TODO-诺言课程"
+date: 2019-02-18
 comments: true
 categories: [learning]
 ---
-### 
+### 2019-02-18 
+
+### 2017-11-05
 #### #C1
   * 方法论 -  效能 -> 有自信 how to work
   * 思维方式 - 选择性 -> 自知 what to do 
