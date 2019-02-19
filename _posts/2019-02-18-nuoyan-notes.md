@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TODO-诺言课程"
+title: "DO-诺言课程"
 date: 2019-02-18
 comments: true
 categories: [learning]
