@@ -7,6 +7,32 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-02-22
+ * social 
+    - review the meeting with Vera
+      +  善解人意 
+      +  强求别人
+
+ * work
+    - research  -> NLP 
+    - system -> speech 
+    - business -> 
+
+ * reading
+
+
+#### 2019-02-21 
+ * speech - to improve English pronouncation <- a web system/demo not paper ?
+    - ASR
+    - tophonetics
+    - give a marker
+
+ * NLP 
+    - 哪些问题是纯数据驱动技术无法解决的
+    - 如常识和知识推理，复杂语境和跨模态理解，可解释智能，都还没有可行的解决方案，我个人也不看好数据驱动方法能够彻底解决。
+      更高层次的联想、创造、顿悟等认知能力，更是连边还没碰到
+
+ * 
 
 #### 2019-01-31 
  * todo  

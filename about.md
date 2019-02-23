@@ -12,7 +12,7 @@ My background is in technology and computer science.  More recently, I focus on 
 I like problem solving and reading.  Lover of science, philosophy and art. 
 <br> 
 
-I graduated from [Wuhan University](https://en.whu.edu.cn/),China and [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
+I graduated from [Wuhan University](https://en.whu.edu.cn/) and [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
 <br> 
  
 
