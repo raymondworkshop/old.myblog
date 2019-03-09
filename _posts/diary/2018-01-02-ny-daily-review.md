@@ -1,11 +1,125 @@
 ---
 layout: post
 title: "Everyday Review"
-date: 2017-12-07
+date: 2017-12-07 
 comments: true
 categories: [diary]
 ---
 ### 记录下每天的工作和生活 
+
+
+#### 2019-03-08
+
+  * Think more about how to do speech part ?
+  
+  * There is a basic idea 
+    - the ones educated from outside fit with me 
+  
+
+#### 2019-03-07 
+  * talk with 若伶
+    - I find that it is a bit easier to communicate than HK persons, 
+       + not only bias, but also cultures, the style 
+       + So the question is "Is it possible to become, and how to become" ?
+
+  * **搞关系** 
+    - 用关系网而为关系网所用 -> 不为关系网所累，却在关系网中获得自由 - **周围人都需要他，他不需要任何人** 
+    - 不是找对他有用的关系， 而是**把自己放在关系网中对人有用的位置** 
+    - 
+    - 怎么搭关系网 - 用结构洞理论梳理打造自己的关系网 
+       +  
+
+  *  work harder 
+  * 
+  *  management
+    - 负责智能或战略的部门总监-董事长
+    - 
+
+
+
+#### 2019-03-06 
+  * 忘记过去，向前看
+
+  * “把握可控的，留心可见的，不管其他。” 
+
+  * 
+
+
+#### 2019-03-05 
+  * work harder 
+
+  * 
+
+#### 2019-03-04 
+  * self
+    - 我需要更加自私一点 
+
+  * 怎么团结别人 - *最好是打仗的时候人多，分配的时候人少* 
+    - 名义支持者，实际支持者，制胜联盟 
+       + 制胜联盟越小越好 - *只要能打赢，分配的人越少*，也就越好控制 
+       + *名义支持者越多越好* - 这样 实际支持者和制胜联盟的可替代性就越强， 也就越听话 
+       + 控制关键资源 - 关键是 *钱* 
+       + 制胜联盟不能养得太饱 - 太饱不利于继续忠诚 
+       + *保持适度饥饿感* - 保证利益，绝对不能把他们的利益给别人
+
+  * 
+
+#### 2019-02-28 
+  * 
+
+#### 2019-02-27 
+  * TODO 
+    - NLP
+       + experiment - DCG, HAN alg
+       
+    - speech 
+
+    - HKO 
+       + 
+
+    - HOHCS 
+       + text mining
+       + predict the patterns, and predict the actions <- proposal 
+
+  * 
+  
+  * should be earlier than before 
+    - 
+
+  * group meeting with Haven of Hope Christian Service (HOHCS) 
+    - meet with Mr Calvin Chow 
+       + should learn his way to say his requirements 
+
+    - learn from Oscar 
+       + his communication 
+
+  * learning form "预备自己恋上你" 
+    - 努力表达自己对对方的关心 
+    - 愿意了解对方 
+    - 懂得感激，同情，支持，**安慰，鼓励，分担** 
+    - 如何回应 
+       + 同理心回应 - 同开心，同感受 
+       + “好棒，我也挺你开心” 
+       + 倾听，不要太快给意见 
+       + 让对方表达情绪 - 说你在意她  
+    - 慢慢磨合 
+       + 从情绪出发 - 性格，品格，潜质 
+
+
+#### 2019-02-26 
+  * work harder 
+    - get up before 8:30 
+
+  * be more active 
+    - 
+
+#### 2019-02-25 
+  * work harder
+    - should be earlier than before
+      + get up at 8:30, and go to bed at 12:00 
+    - 
+
+  * 
 
 #### 2019-02-22
  * social 

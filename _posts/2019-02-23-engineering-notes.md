@@ -13,3 +13,4 @@ categories: [learning]
 
 #### reference
 * [软件工程之美](https://time.geekbang.org/column/158)
+*  [梁宁产品思维30讲]
