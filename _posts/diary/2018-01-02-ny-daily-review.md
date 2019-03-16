@@ -7,10 +7,21 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-03-14 
+  * 
+
+#### 2019-03-13 
+  * should be earlier in the office 
+    - 10:00am, get up at 8:30 am, and go to bed before 12:00pm
+
+  * 
+
+#### 2019-03-12 
+
 #### 2019-03-11 
   * What do u want? 
     - 
-    
+
   * be on time 
      - go to bed before 12:00, and get up at 8:30 
 
