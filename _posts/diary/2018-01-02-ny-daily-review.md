@@ -7,6 +7,21 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-03-19 
+  * sleep badly yesterday
+    - 
+
+#### 2019-03-
+
+#### 2019-03-18 
+  * so nice chat in the cantonese meetup 
+    - chatting is nice 
+  
+  * 互相猜疑确实很消磨人了 
+    - 一个可信的团队确实非常重要 
+    - 长时间的磨合 
+
+
 #### 2019-03-14 
   * 
 
