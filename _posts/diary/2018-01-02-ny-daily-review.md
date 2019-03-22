@@ -7,10 +7,28 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 
+
+#### 2019-03-20 
+  * work
+    - know more the ASR system process 
+    - fix the audio code issue 
+
+  * direction
+    - self-practice at home
+      * get feedback on pronunciation, stress and intonation performance 
+      * Instant and precise feedbacks on every sound you make
+        Free interactive pronunciation dictionary 
+
+    - reference lib
+      * [ventib](https://github.com/cydrobolt/ventib)
+      * [dictate.js in real-time speech recognition](https://bark.phon.ioc.ee/dictate/about.html)
+
+
 #### 2019-03-19 
   * should be more open 
     - talk more 
-    
+
   * sleep badly yesterday
     - 
 
