@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-My name is Raymond ZHAO Wenlong, a Computer Engineer and Reseracher based in Hong Kong now.  
+My name is Raymond ZHAO Wenlong, a Computer Reseracher and Engineer based in Hong Kong now.  
 email/g: wenlzhao at gmail dot com.  
 <br> 
 
