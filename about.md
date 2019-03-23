@@ -6,10 +6,10 @@ My name is Raymond ZHAO Wenlong, a Computer Reseracher and Engineer based in Hon
 email/g: wenlzhao at gmail dot com.  
 <br> 
 
-My background is in technology and computer science.  More recently, I focus on NLP/ML.  I also like to construct systems.  My personal projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  
+My background is in Technology, Computer Science, and Communications and Information Science.  More recently, I focus on NLP/ML.  I also like to construct systems.  My personal projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  
 <br> 
 
-I like problem solving and reading.  Lover of technology/science, philosophy and arts. 
+I like problem solving and reading.  Lover of science/technology, philosophy and arts. 
 <br> 
 
 
