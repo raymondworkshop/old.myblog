@@ -7,7 +7,12 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
-#### 
+#### 2019-03-26 
+  * 
+
+#### 2019-03-25 
+  * experiences 
+    - 
 
 #### 2019-03-20 
   * work
@@ -254,6 +259,15 @@ categories: [diary]
  * 以后说话要注意点 
    - 说话有时候太冲动
 
+
+#### 2019-01-14  
+* how to be different from the current applications 
+
+* Think more
+    - do u wanna do this really?
+    - how to deal with the people here?
+
+* 不卑不亢才是正道 
 
 #### 2019-01-09
  * You have to decide what to do NEXT
