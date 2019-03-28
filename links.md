@@ -3,11 +3,14 @@ layout: post
 title: links
 ---
 
+#### reading 
+* [theoutline](https://theoutline.com/)
+
 #### links
-   - [Vedio lectures](http://videolectures.net/)
-   - [GRANTS in USA ](https://www.grants.gov/web/grants/search-grants.html)
-      + especailly in small business
-   - [NASA](https://www.nasa.gov/)
+* [Vedio lectures](http://videolectures.net/)
+* [GRANTS in USA ](https://www.grants.gov/web/grants/search-grants.html)
+   - especailly in small business
+* [NASA](https://www.nasa.gov/)
 
 #### tech
 * [Kate Matsudaira](http://katemats.com/about/)
