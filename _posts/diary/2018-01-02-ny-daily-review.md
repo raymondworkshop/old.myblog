@@ -7,12 +7,39 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
-#### 2019-03-28 
-  * english
-    - read at least one article every day 
+#### 2019-03-29 
+  * more efforts on princples of DL/ML 
+  * science 
+    - 大胆假设，小心求证 
+    - 科学坚持实证，强调实验结果的可重复性和可验证性 
+    - 科学是方法和过程， 是不断发展的 
 
-  * habit improving 
-    - 少用手机,尤其是休息的时候  
+#### 2019-03-28 
+  * 语言能力 
+    - english - read at least one article every day 
+    - 日文  
+      + [2019-10-Introductory Japanese](https://hkuspace.hku.hk/prog/introductory-japanese)
+
+  * to improve
+    - 协作能力 
+    - 
+
+  * todo
+    - habit improving -> 少用手机,尤其是休息的时候  
+    - 報名了 游泳課 
+
+    - 學車 
+      + 那我现在报名申请， 大概一个月后 （5月份）笔试， 然后大概9个月之后後考路試（明年1月份）， 那我大概10月份联系学车师傅（+852 9382 8438）開始學車 
+    
+    - 做飯 (maybe)  
+
+  * softskills 
+    - 把注意力放在倾听和理解别人身上 
+      + 告诉对方你能理解 
+      + 让说话人明白你绝对理解对方的意思 - 用“正是” 或 ”说的很清楚“ 
+      + 倾听是为了理解 
+
+    - 面对面交流 - 电话交流 - 短信交流
 
 #### 2019-03-27
   * softskills 
