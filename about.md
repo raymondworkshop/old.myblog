@@ -2,11 +2,11 @@
 layout: default
 title: About
 ---
-My name is Raymond ZHAO Wenlong, a Computer Scientist and Software Engineer based in Hong Kong now.  
+My name is Raymond ZHAO Wenlong, a Computer Scientist and Software Engineer based in Hong Kong NOW.  
 email/g: wenlzhao at gmail dot com.  
 <br> 
 
-My background is in Technology, Computer Science, Information Science, and Linguistics.  More recently, I focus on ML/NLP.  I also like to construct systems.  My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  
+My background is in Technology, Computer Science, Information Science, Networking and Internet applications, and Linguistics.  More recently, I focus on ML/NLP.  I also like to construct systems.  My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  
 <br> 
 
 Lover of science/technology, philosophy and arts.  
