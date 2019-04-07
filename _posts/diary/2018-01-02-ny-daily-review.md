@@ -7,6 +7,35 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-04-03 
+  * robot with emotional 
+
+#### 2019-04-02 
+  * TODO 
+    - 重新整理下自己2019年的新目标 
+    - 认真想想，自己到底想要怎样去过这一生
+
+  * 职业目标 - **自己领导一个团队做出一件世界级的产品** - 三级工程师 
+    - 计算机科学的本质 
+    - 每年的变化要掌握 
+    - 工具要用的随心所欲  
+    - 产品设计要有常识 
+    - 未知的问题要知道如何入手解决  
+    - 一个大问题知道如何分解交给下面的员工去做 
+
+#### 2019-04-01 
+  * 早上来的太晚 
+    - 
+  * cantonese courses in church
+    - friends there
+    - maybe jing li 
+
+  * date with veronica 
+    - it is a bit peaceful, helpful 
+
+  * hope it is a bit more active in weekends 
+
+
 #### 2019-03-29 
   * more efforts on princples of DL/ML 
   * science 

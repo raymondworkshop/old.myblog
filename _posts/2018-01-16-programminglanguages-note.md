@@ -6,7 +6,7 @@ comments: true
 categories: [home,notes]
 abstract: "[Updating] Notes on programming languages"
 ---
->[Updating]  Notes on programming languages mainly aboutPython, Go and  Lisp  programming languages
+>[Updating]  Notes on programming languages mainly about Python, Go and  Lisp  programming languages
 
 #### Programming Languages 
 
@@ -49,6 +49,8 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 
 #### Control flow  
+  * Generators - declare a function that behaves like an iterator 
+    - yield item 
   * Concurrency 
 
 
