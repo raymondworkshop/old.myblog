@@ -22,12 +22,19 @@ abstract: "On Interview"
   - 反向传播算法是用梯度方法, 用链式法则对参数求导 
   - 
   - 非线性激活函数是为了向网络中加入非线性因素,加强网络的表示能力 
+  - 
+  - dropout是CNN中防止过拟合提高效果的一个大杀器 
+  - 
+  - word2vec是“predictive”的模型 - 根据context预测中间的词汇，要么根据中间的词汇预测context 
+  而GloVe是“count-based”的模型 
 
 #### module 
 * 监督学习 - Y = f(X)
 
 #### social 
   - 請問我返呢份工之前，仲有乜嘢要準備／學習？ 
-  - System Analyst opportunity
+  - System Analyst /ə'næləsɪs/ opportunity 
+  - 
+  - lscm - in the logistics, supply chain, e-Commerce and related industries 
 
 #### reference
