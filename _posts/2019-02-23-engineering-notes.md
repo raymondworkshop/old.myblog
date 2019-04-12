@@ -6,11 +6,15 @@ comments: true
 categories: [learning]
 ---
 
-#### Notes on engineering
+#### notes on technology 
 
-#### Notes on producation
+#### notes on engineering
+
+#### notes on producation
 
 
-#### reference
-* [软件工程之美](https://time.geekbang.org/column/158)
-*  [梁宁产品思维30讲]
+#### reference 
+* [极客时间-许式伟的架构课] 
+* [星球-陈老师每日精华] 
+* [软件工程之美](https://time.geekbang.org/column/158) 
+*  [梁宁产品思维30讲] 
