@@ -7,6 +7,31 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-04-16 
+  * I find my feeling with Lai Jingli 
+  * doing research here 
+    - 
+
+#### 2019-04-15 
+  * work harder 
+  * 
+
+#### 2019-04-14 
+  * 對自己嘅能力有少少信心，**會更加aggressive去追尋機會，音樂、製作、做戲都希望做好啲**  
+  * 
+  * TODO 
+    + 更加主动追寻机会 
+      - research 能力 
+      - 系统, 编程能力 
+
+    + read more 
+
+    + 语言能力 
+    + 管理能力 
+    + social 能力 
+      - 交朋友的能力 
+      - 女朋友 
+
 #### 2019-04-12 
   * 
 
