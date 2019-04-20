@@ -12,7 +12,7 @@ My background is in Technology, Computer Science, Information Science, Networkin
 Lover of science/technology, philosophy and arts.  
 <br> 
 
-I have a B.Eng in Information Engineering from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s) and a M.S in Computer Science from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
+I graduated from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s) and [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
 <br> 
  
 

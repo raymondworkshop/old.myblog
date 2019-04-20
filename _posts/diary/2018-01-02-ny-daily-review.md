@@ -7,6 +7,9 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-04-18 
+  * 
+
 #### 2019-04-16 
   * I find my feeling with Lai Jingli 
   * doing research here 
