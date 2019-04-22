@@ -7,6 +7,8 @@ categories: [language]
 abstract: "Oral English"
 ---
 
+#### 18 
+
 #### 17  
 Does the name Harvey Carlson **rings a bell** (听着耳熟)?    
 
@@ -217,6 +219,7 @@ It's too early to know for sure, I am pretty independent
  
 
 #### reference
+* [Family Album U.S.A](https://www.bilibili.com/video/av11376675)
 * [Family Album USA](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Family Album USA 2 ](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Presentations: Speaking so that People Listen](https://www.coursera.org/learn/presentations-speaking-so-that-people-listen/home/welcome)
