@@ -6,9 +6,9 @@ comments: true
 categories: [home,notes]
 abstract: "[Updating] Notes on programming languages"
 ---
->[Updating]  Notes on programming languages mainly about Python, Go and  Lisp  programming languages
+>[Updating]  Notes on programming languages,  and Python, Go and  Lisp 
 
-#### Programming Languages 
+#### Programming Languages - ideas 
 
 ### Python Data Model -> A Framework/API for core language constructs
 
