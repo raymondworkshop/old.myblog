@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "notes about deep learning"
+title: "Notes about deep learning"
 date: 2019-04-30
 comments: true
-categories: [home]
-abstract: "notes about machine learning"
+categories: [home,notes]
+abstract: "[Updating] notes about machine learning"
 ---
-#### machine learning  
+#### deep learning  
