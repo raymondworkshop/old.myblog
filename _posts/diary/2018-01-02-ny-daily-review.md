@@ -7,6 +7,9 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-05-02 
+  * get up a bit earlier 
+
 #### 2019-04-25 
   * be in office at noon 
     - it is no so good 
