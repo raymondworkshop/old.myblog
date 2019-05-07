@@ -6,4 +6,9 @@ comments: true
 categories: [home,notes]
 abstract: "[Updating] notes about machine learning"
 ---
+
 #### deep learning  
+
+
+#### reference 
+* 
