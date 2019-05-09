@@ -7,6 +7,24 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-05-09 
+  * 增肥 
+    - 
+
+  * meetup yesterday 
+    - they are more relax, and more friendly 
+
+#### 2019-05-08 
+  * Think more about your following project 
+    - has a bit freedom 
+    - has more opportunities to do reading 
+    - has a connection with further work 
+    - 
+
+#### 2019-05-07 
+  * get up a bit earlier 
+
+
 #### 2019-05-02 
   * get up a bit earlier 
 
