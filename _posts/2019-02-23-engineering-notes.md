@@ -14,7 +14,7 @@ categories: [learning]
   - 在工业界，比起算法新奇度，**解决方案的 scalability 更重要**：能不能用到几个T的数据上，能不能当天内出结果，需要每天更新所有信息还是仅仅当天数据 
 
 #### notes on producation 
-
+  
 
 
 #### reference 

@@ -62,6 +62,8 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 ### Go  
 
+### Rust 
+
 
 
 
