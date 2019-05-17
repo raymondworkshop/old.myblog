@@ -10,7 +10,7 @@ abstract: "[Updating] Notes on programming languages"
 
 ### Programming Languages - ideas 
 
-#### Lisp 
+#### golang 
 
 ### Python Data Model -> A Framework/API for core language constructs
 
@@ -60,11 +60,9 @@ By using and implementing **special methods of Python Data Model** in your objec
   * 
 
 
-### Go  
+### Lisp   
 
 ### Rust 
-
-
 
 
 ### Notes

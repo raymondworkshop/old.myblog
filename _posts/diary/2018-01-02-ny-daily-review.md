@@ -7,6 +7,25 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-05-17 
+  * work late 
+    - 
+
+  * 以自我为主 
+    - startup  
+
+  * 拓荒者 
+    - 
+
+  * 增强锻炼 
+  * 增强自己的技术能力 
+
+
+#### 2019-05-15 
+  * do more programming 
+  * do more exercises 
+
+
 #### 2019-05-14 
   * 
 
