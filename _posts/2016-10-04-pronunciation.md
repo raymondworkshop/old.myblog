@@ -3,7 +3,7 @@ layout: post
 title: "English pronunciation"
 date: 2016-10-04
 comments: true
-categories: [english, learning]
+categories: [language, english]
 abstract: "Summary about the American pronunciation"
 ---
 ### ELP: English Listening and Pronunciation

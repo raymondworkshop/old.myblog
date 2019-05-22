@@ -7,6 +7,22 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-05-21  
+  * A good experience to play Tchoukball 
+    - 小团队合作（3-5人）还是很棒的体验了 
+    - 自己有大局观 
+   
+
+#### 2019-05-20 
+  * 昨天学游泳课的体验不太好 
+    - 发现自己进步不大， 而其他学员一学就会 
+
+  * 好好计划接下来的工作 
+    - 时间自由度很重要 
+    - programming skills 
+    - system skills 
+    - ML skills 
+
 #### 2019-05-17 
   * work late 
     - 
