@@ -7,13 +7,18 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-05-30 
+  * It's interesting to find some food stores 
+    - another relaxing way 
+  * 
+
 #### 2019-05-28 
   * 专业能力的加强 
     - programming each day 
     - system/alg 
-    - research 
+    - research skills 
 
-  * language
+  * language skills 
     - cantonese speaking 
     - English
 
