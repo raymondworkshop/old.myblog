@@ -7,17 +7,19 @@ categories: [home,notes]
 abstract: "[Updating] notes about machine learning"
 ---
 
-#### 特征工程 
+#### 特徵工程 
+  * 
 
-#### 模型评估 
+#### 模型評估  
 
-#### 经典算法 
+#### 經典算法  
 
-#### 神经网络  
+#### 神經網絡 deeplearning 
+  * 
 
 #### 生成式对抗网络 GAN 
 
 
 
 #### reference 
-* 
+  * 
