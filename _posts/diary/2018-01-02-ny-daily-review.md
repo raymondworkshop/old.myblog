@@ -7,6 +7,9 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-05-31 
+  * 
+
 #### 2019-05-30 
   * It's interesting to find some food stores 
     - another relaxing way 

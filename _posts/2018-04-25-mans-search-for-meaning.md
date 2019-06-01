@@ -3,7 +3,7 @@ layout: post
 title: "Man's search for meaning"
 date: 2018-03-25
 comments: true
-categories: [writing]
+categories: [learning]
 abstract: "There is much wisdom in the words of Friedrich Nietzsche: 'He who has **a why to live for** can bear almost any how.' "
 ---
 > <small>There is much wisdom in the words of Friedrich Nietzsche: "He who has **a why to live for** can bear almost any how."
