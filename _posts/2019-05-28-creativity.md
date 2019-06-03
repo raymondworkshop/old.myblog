@@ -7,6 +7,9 @@ categories: [learning]
 abstract: "About creativity"
 ---
 
+#### self 
+  * 不断问自己问题 
+
 #### teamwork 
 
 #### find your passion 

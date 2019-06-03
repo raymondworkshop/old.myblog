@@ -6,8 +6,6 @@ My name is Raymond ZHAO Wenlong, a Computer Scientist & Software Engineer based 
 email/g: wenlzhao at gmail dot com.  
 <br> 
 
-My background is in Technology, Computer Science, Electronic & Information Engineering, Networking and Internet applications, and Linguistics.   
-<br> 
 
 I like problem solving and reading. My projects are at [github](https://github.com/muyun) and my research is [here](http://muyun.github.io/research/).  
 <br> 
