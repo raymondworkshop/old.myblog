@@ -4,8 +4,21 @@ title: "American Intonation"
 date: 2017-10-04
 comments: true
 categories: [language]
-abstract: "Summary about the American Intonation"
+abstract: "Summary about the American Intonation" 
 ---
+
+#### pitch 
+* **raised the pitch** for the stress words, and **dropped it at the end**, and played with the level so every syllable was **a little higher or a little lower** than previous word . 
+
+* Intonation - emojis 
+  - understand the hidding meaning 
+  - 
+  - GPS or mapping 
+  - "that was good" - rise, fall, and rise 
+  - "that was good" - rise, **falling at then end** <- negative 
+  - 
+
+
 #### Stress - longer, louder, and higher 
 * verb, adj, and noun 
 * de-stress: relaxed and short -> function word
