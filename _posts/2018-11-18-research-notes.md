@@ -10,7 +10,11 @@ abstract: "[Updating] Notes on creativity, research and education"
 
 #### Notes on education  
    * 数学思维 
-      - 
+     +  
+     
+   * ideas 
+     + 最近经常看到有人留言“相关性不等于因果性”，这句话没错，
+     但是现在的大部分研究都是在论证相关性的，通过**研究相关性来寻找其背后的机制，这是是推导出因果的基础**,要直接论证因果性难度实在是太高，而且确定性的推论本来也不符合科学的要求。所以大家以后不要看到一篇研究相关性的论文就说它不科学 
 
 #### Notes on research - creative, thoughtful original engineering research 
    * idea
