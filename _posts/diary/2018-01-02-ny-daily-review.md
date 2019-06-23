@@ -7,6 +7,10 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-06-23 
+  * idea
+    - txt to speech 
+
 #### 2019-06-17 
   * it's so sad in this morning in the JA envent
     - I am a bit late 

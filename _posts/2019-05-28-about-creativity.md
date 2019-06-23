@@ -61,7 +61,7 @@ abstract: "About creativity"
     
   * 需求 - 连接感 
 
-#### system 
+#### System 
   * DRY + Orthogonality [ch2 - The pragmatic programmer] 
   * make it reversible - there are no **final decisions**  
     - rock on when it can, to roll with when it must 
