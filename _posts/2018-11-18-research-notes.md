@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "research"
+title: "About research"
 date: 2018-11-18
 comments: true 
 categories: [learning]
@@ -45,7 +45,7 @@ abstract: "[Updating] Notes on creativity, research and education"
 
      - The partial draft in a single four-page document (not counting references and contribution statement). This should essentially be a near-final draft of your paper (in NAACL 2018 style) with the results, analysis, and conclusion sections missing. It should contain a link to your public GitHub repo, which should show evidence that you have implemented everything you’ll need to be able to run your experiments. 
 
-    - The presentation. You will be asked to give a very short presentation (likely 3–5 minutes) on the last day of class explaining the key result of your paper.
+     - The presentation. You will be asked to give a very short presentation (likely 3–5 minutes) on the last day of class explaining the key result of your paper.
 
 
 #### social skills
@@ -62,7 +62,7 @@ abstract: "[Updating] Notes on creativity, research and education"
    * **即将**成为热门 - 影响重大 
    * 高风险 
 
-#### **Proposal** <- 确定的问题 <- 确定的方向 
+#### **Proposal** <-  确定的问题 <-  确定的方向 
 
   * source <- web of science and google scholar 
     - Conferences and journal 
@@ -84,17 +84,17 @@ abstract: "[Updating] Notes on creativity, research and education"
     - 
 
 
-#### problem solving <- 确定的思路 和 确定的方法 
+#### problem solving <-  确定的思路 和 确定的方法 
   * 思路新颖 
 
   * From proposal,  一定得到了两三种可行的方法 
   * 从这些筛选的方法， 找相关文献细读了 
     - 从最近的文献开始查找， 然后通过其引用找到更早的文献 -> 找到的文章一般都是引用数高的 
     - 不要停止文献搜索 
-    - 顶着文章的limitation去读，去想
-      -> 改进（或去掉）假设 ->适用性更广 
-      -> 改进方法 ->更快更准 
-      -> 每解决一个小问题，可能就是一篇paper 
+    - 顶着文章的limitation去读，去想 
+      + 改进（或去掉）假设 ->适用性更广 
+      + 改进方法 ->更快更准 
+      + 每解决一个小问题，可能就是一篇paper 
 
 
 #### paper - 将结果转化成论文 
