@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About research"
-date: 2018-11-18
+title: "Notes on creativity and  research"
+date: 2019-06-23
 comments: true 
 categories: [learning]
-abstract: "[Updating] Notes on creativity, research and education"
+abstract: "[Updating] Notes on creativity and  research"
 ---
 
 
