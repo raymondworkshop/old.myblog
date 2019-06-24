@@ -13,7 +13,6 @@ I like problem solving and reading. My projects are at [github](https://github.c
 
 I graduated from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s) and [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
 <br> 
+
+All opinions are my own.
  
-
-
-
