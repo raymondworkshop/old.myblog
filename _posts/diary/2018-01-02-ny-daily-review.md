@@ -7,8 +7,26 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-07-02
+ * you should work harder 
+
+#### 2019-06-26 
+  * 得仔细思考下未来 
+
+#### 2019-06-25 
+  * 
+  * attend the event yesterday's night
+    - improve your english 
+    - a bit tired 
+    - social 
+
+#### 2019-06-24 
+  * build **engines** 
+  * 
+  * 周末不是很有效率 
+
 #### 2019-06-23 
-  * idea
+  * ideas
     - txt to speech 
 
 #### 2019-06-17 
