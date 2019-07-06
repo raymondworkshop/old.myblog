@@ -7,7 +7,15 @@ categories: [language]
 abstract: "Oral English"
 ---
 
-#### 18 
+#### 18 - thanksgiving 
+* we should **get to work**, or we won't be finished by dinnertime .  
+
+* I'll **go down to** Henry's grocery. 
+
+* It's possbile ... 
+* I love/likes 
+  - is crazy about football 
+  - is fond of ... 
 
 #### 17  
 Does the name Harvey Carlson **rings a bell** (听着耳熟)?    
