@@ -7,6 +7,11 @@ categories: [language]
 abstract: "Oral English"
 ---
 
+#### 19 - Man's Best Friend 
+make yourself at home 
+
+
+
 #### 18 - thanksgiving 
 * we should **get to work**, or we won't be finished by dinnertime .  
 
