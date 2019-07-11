@@ -7,6 +7,11 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-07-08 
+  * work harder 
+  * begin to interview 
+  * improve you language skills 
+
 #### 2019-07-02
  * you should work harder 
 
