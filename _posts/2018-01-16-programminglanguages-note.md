@@ -7,12 +7,8 @@ categories: [home,notes]
 abstract: "[Updating] Notes on programming languages"
 ---
 >[Updating]  Notes on programming languages 
-### theory of Programming Languages 
-#### #ideas from Lisp 
 
-#### golang 
-
-##### #Go Concurrency Model 
+#### theory of Programming Languages 
 
 #### Python Data Model -> A Framework/API for core language constructs
 
@@ -62,10 +58,9 @@ By using and implementing **special methods of Python Data Model** in your objec
 ##### Metaprogramming 
   * 
 
+#### ideas from Lisp 
 
-### Lisp   
-
-### Rust 
+#### golang 
 
 
 ### Notes
