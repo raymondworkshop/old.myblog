@@ -15,9 +15,9 @@ categories: [learning]
     - **Find a solution** which is merely hard when it can be confidently **scheduled** and **the risks** are understood 
     - make the requirement more clear, it will often become merely hard 
     - clear definition of success 
+    - 
 
-  * fight schedule pressure -> 
-    - **time-to-market pressure** <- reflect a financial reality 
+  * fight schedule pressure -> **time-to-market pressure** <- reflect a financial reality 
     - **visible between the available labor and the product** 
     - 
     - maintain a concise and up-to-date **project plan** 
@@ -30,12 +30,14 @@ categories: [learning]
       + prepare **a written estimate** by **decomposing** the task into progressively smaller subtasks (less than a day) 
       + **make this visible** to the manager  
       + try to have the people to estimate, and have **team-wide consensus on estimate**  
+      + 
 
   * Understand the user 
     - figure out **what people really want** 
     - spend more time with users, **understand them**  
       + **propose** it to user 
       + **test your ideas** against them as much as you can 
+      + 
 
   * Gather support for a project 
     - a prototype 
