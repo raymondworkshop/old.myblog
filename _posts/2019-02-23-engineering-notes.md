@@ -11,10 +11,10 @@ categories: [learning]
   * team skills 
 
 #### Notes on soft-skills 
-  * tell the hard from the impossible 
+  * **tell the hard from the impossible**  
     - **Find a solution** which is merely hard when it can be confidently **scheduled** and **the risks** are understood 
-    - make the requirement more clear, it will often become merely hard 
-    - clear definition of success 
+    - make the requirement more **clear** 
+    - a clear definition of success -> often become merely hard 
     - 
 
   * fight schedule pressure -> **time-to-market pressure** <- reflect a financial reality 
@@ -25,7 +25,7 @@ categories: [learning]
       + help make decisions 
     - 
     - how to estimate time 
-      + restate your assumptions 
+      + restate your **assumptions**  
       + consider **prototyping the task** firstly 
       + prepare **a written estimate** by **decomposing** the task into progressively smaller subtasks (less than a day) 
       + **make this visible** to the manager  
