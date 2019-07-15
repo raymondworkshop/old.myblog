@@ -7,6 +7,12 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-07-15 
+  * work harder 
+  * self
+    - writing 
+    - 
+
 #### 2019-07-08 
   * work harder 
   * begin to interview 

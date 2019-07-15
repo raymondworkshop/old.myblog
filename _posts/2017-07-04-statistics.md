@@ -8,6 +8,10 @@ abstract: "[updating] Summary about Probability and Statistics"
 ---
 > [updating] A Summary about Probability and Statistics 
 
+#### Bayesian 
+TODO 
+
+
 #### Statistical Inference
   * 总体和样本
     - 总体分布是一个概率分布族(因为参数未知)
@@ -16,7 +20,7 @@ abstract: "[updating] Summary about Probability and Statistics"
      
     <br/>
 
-  * 由样本推断总体：为解决具体问题而抽样，**样本分布族规定了问题的统计模型(概率分布)**，样本的具体数值推断样本分布中的未知参数。比如 依据样本 X1, ..., Xn 对分布 N(μ, σ^2)中的参数μ作推断，这个推断的具体内容依据样本X1, ..., Xn算出一个数作为μ估计值。  
+  * 由样本推断总体：为解决具体问题而抽样，**样本分布族规定了问题的统计模型(概率分布)**，样本的具体数值推断样本分布中的未知参数。比如 依据样本 X_1, ..., X_n 对分布 N(μ, σ^2)中的参数μ作推断，这个推断的具体内容依据样本XX_1, ..., X_n算出一个数作为μ估计值。  
   
     <br/>
     
@@ -54,7 +58,8 @@ without having to make a bunch of assumptions .
 #### TODO
     
     
-#### reference
+#### reference 
+* [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://github.com/rmcelreath/statrethinking_winter2019) 
 * [Some good "Statistics for programmers" resources](https://jvns.ca/blog/2017/04/17/statistics-for-programmers/)
 * [统计学浅谈](http://episte.math.ntu.edu.tw/articles/mm/mm_03_3_07/index.html)
 *  陈希孺的《概率论与数理统计》

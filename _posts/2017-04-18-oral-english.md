@@ -7,6 +7,14 @@ categories: [language]
 abstract: "Oral English"
 ---
 
+#### 21 - You are going to be fine 
+I need to fit a fourth operation into his schedule. And ... I know you can do it.  
+
+Let me try to work something out . 
+
+
+
+
 #### 19 - Man's Best Friend 
 make yourself at home  
 
