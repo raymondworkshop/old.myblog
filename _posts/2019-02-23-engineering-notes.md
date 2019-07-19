@@ -54,15 +54,18 @@ categories: [learning]
       + Have you researched the problem, and its **possible solutions, deeply**? 
       + Does coding solve that problem? Are you sure? 
 
-  * Think about Abstractions 
-    - learn how to think and when to dig deeper 
-    - learn how to question how things work 
-    - learn that everything new and simple **hides something large and complex** -> we are all standing on the shoulders of giants 
 
   * System thinking 
     - Think about systems and how they **interoperate**. Systems Thinking is more important than coding. 
     - Know what artifacts your system makes and what's needed for it to run. Know what kinds of things its good at and what it's bad at - in a non-zealous and non-egotistical way. 
     - Understanding the basic building blocks are important. 
+    - 
+
+  * Think about Abstractions 
+    - learn how to think and when to dig deeper 
+    - learn how to question how things work 
+    - learn that everything new and simple **hides something large and complex** -> we are all standing on the shoulders of giants 
+
 
   * 总是想用不同的算法解决同一个数据问题，然后比较不同算法的效能 
     - 不同应用场景对于算法的新奇度要求不一样 

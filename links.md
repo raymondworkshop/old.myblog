@@ -12,7 +12,8 @@ title: links
    - especailly in small business
 * [NASA](https://www.nasa.gov/)
 
-#### tech
+#### tech 
+* [Matt Might](http://matt.might.net/articles/)
 * [Kate Matsudaira](http://katemats.com/about/)
 * [aphyr’s blog on distributed systems](https://aphyr.com/)
 * [Camille Fournier's blog about distributed systems and engineering management](http://www.elidedbranches.com/)
