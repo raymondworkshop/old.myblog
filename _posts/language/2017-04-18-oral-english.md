@@ -8,13 +8,32 @@ abstract: "Oral English"
 ---
 
 #### 25 - It's up to you 
+**It turns out** he's a classmate of philip's 
+
+he's agreed to **fit you into** his schedule. 
+
+**I want you to know something**, son. I am very proud of you .
+
+**Is there something still wrong**, robbie? 
+
+**I can't wait to see** my old pal ... 
+
+**I came to that conclusion** (我意识到了). 
+
+**well, how're you been** (过的怎么样), philip? 
+
+so why don't we get right to work? 
+
+you seem to have some reservations. 
+
+He was very **impressed with you**. 
+
 
 
 #### 21 - You are going to be fine 
 I need to fit a fourth operation into his schedule. And ... I know you can do it.  
 
 Let me try to work something out . 
-
 
 
 
@@ -242,7 +261,8 @@ It's too early to know for sure, I am pretty independent
 ### Expressing Opinions
  
 
-#### reference
+#### reference 
+* [ELP: English Listening and Pronunciation](http://homepage.ntu.edu.tw/~karchung/ELPS19.html)
 * [Family Album U.S.A](https://www.bilibili.com/video/av11376675)
 * [Family Album USA](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Family Album USA 2 ](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
