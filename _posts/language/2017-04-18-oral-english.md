@@ -7,6 +7,24 @@ categories: [language]
 abstract: "Oral English"
 ---
 
+#### 28 - Smell the flowers 
+You really ought to take some time off 
+
+would you exceuse me? 
+
+I find myself in an embarrassing situation. 
+I made another lunch date for today and forgot to enter it in my appointment book. 
+Can you and I meet for drinks tomorrow?  I'd really appreciate it . 
+
+Can I help you with the lemonade?  
+
+I had a really nice time. So did I. 
+
+
+Ask Paul to fill in for me(代替). 
+
+
+
 #### 25 - It's up to you 
 **It turns out** he's a classmate of philip's 
 
