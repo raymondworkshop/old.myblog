@@ -61,6 +61,11 @@ categories: [learning]
     - Understanding the basic building blocks are important. 
     - 
 
+  * mini-project 
+    - 别做大项目。 从小项目开始，而且永远不要期望它变大。如果这么想（指做大型软件），就会做过度设计，把它想象得过于重要。更坏的情况是，你可能会被自己想象中的艰难工作所吓倒。  
+
+    - 所以要**从小处起步，着力考虑细节**。 别去想大图景和好设计。如果项目**没解决某些需求**，多半就是被过度设计了 
+
   * Think about Abstractions 
     - learn how to think and when to dig deeper 
     - learn how to question how things work 
