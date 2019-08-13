@@ -7,6 +7,29 @@ categories: [language]
 abstract: "Oral English"
 ---
 
+#### 31 - a place of our own 
+I'd like your opinion. 
+  
+well, ... 
+
+They're all like. 
+
+And if I can be of any help, let me know. 
+
+There's no need to rush. 
+
+It's my pleasure to help you find a house now . 
+
+We'd like to find out about the possibilities. 
+
+> give my best to your parents. Your father's a wonderful doctor. 
+> I'll give them your regards. 
+
+The bank need to be sure that you can ... 
+
+It all sounded so easy until they mentioned needing collateral or 
+
+
 #### 28 - Smell the flowers 
 You really ought to take some time off 
 
@@ -281,7 +304,7 @@ It's too early to know for sure, I am pretty independent
 
 #### reference 
 * [ELP: English Listening and Pronunciation](http://homepage.ntu.edu.tw/~karchung/ELPS19.html)
-* [Family Album U.S.A](https://www.bilibili.com/video/av11376675)
+* [Family Album U.S.A](https://www.bilibili.com/video/av47161875/?p=31)
 * [Family Album USA](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Family Album USA 2 ](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Presentations: Speaking so that People Listen](https://www.coursera.org/learn/presentations-speaking-so-that-people-listen/home/welcome)
