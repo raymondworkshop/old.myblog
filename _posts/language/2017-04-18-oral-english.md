@@ -7,6 +7,35 @@ categories: [language]
 abstract: "Oral English"
 ---
 
+#### polite  
+request - can, could, man, might 
+"Can I have ..., please?"  
+
+decline - "That is a good idea. I would like to join in but I have another appointment today."  
+
+
+#### 34 - you're tops  
+
+How are things? 
+
+You are a terrific guy. 
+
+> I need your advice on a personal matter,  ... 
+> What kind of advice are you looking for?  
+
+It won't sound like a big deal, but it is. 
+
+He gave me the chance to use my talents and made me feel more confident. 
+
+I have an idea that may solve the problem for him and help a lot of other people. 
+
+I'll pick you up here at seven. 
+
+
+
+
+
+
 #### 31 - a place of our own 
 I'd like your opinion. 
   
@@ -21,7 +50,7 @@ There's no need to rush.
 It's my pleasure to help you find a house now . 
 
 We'd like to find out about the possibilities. 
-
+  
 > give my best to your parents. Your father's a wonderful doctor. 
 > I'll give them your regards. 
 

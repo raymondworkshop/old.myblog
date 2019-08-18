@@ -4,7 +4,7 @@ title: "Notes on creativity and  research"
 date: 2019-06-23
 comments: true 
 categories: [learning]
-abstract: "[Updating] Notes on creativity and  research"
+abstract: "[Updating] Notes on creativity and research"
 ---
 
 #### Notes on ideas 
@@ -12,9 +12,12 @@ abstract: "[Updating] Notes on creativity and  research"
    * 相关性不等于因果性 
      + 但是现在的大部分研究都是在论证相关性的，通过**研究相关性来寻找其背后的机制，这是是推导出因果的基础**,要直接论证因果性难度实在是太高，而且确定性的推论本来也不符合科学的要求。所以大家以后不要看到一篇研究相关性的论文就说它不科学 
 
+#### Notes on taste 
+   * 如何提升研究品味，判断哪些工作是重要的，哪些不重要，可能是困扰我们这些年轻研究人员的一个重要问题。我在清华读硕士的时候，导师应明生教授推荐过一个方法，读科学史 -- 看ACM网站上对图灵奖工作的介绍，看google scholar里引用次数很多的文章有什么样的特点 -- 受益很多。 ​​​​
 
 #### Notes on research - creative, thoughtful original engineering research 
-   * idea
+
+   * idea 
      + mini-proposal 
        - 3 project suggestions 
        - 1 sentence 
