@@ -51,8 +51,10 @@ It's my pleasure to help you find a house now .
 
 We'd like to find out about the possibilities. 
   
+> 
 > give my best to your parents. Your father's a wonderful doctor. 
 > I'll give them your regards. 
+> 
 
 The bank need to be sure that you can ... 
 

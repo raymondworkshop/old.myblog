@@ -7,6 +7,16 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-08-21 
+  * TODO 
+    - transfer a business Module to a tech problem 
+    - check how to start a ML problem 
+
+#### 2019-08-19 
+  * work harder 
+  * todo 
+    - how to do research when you don't know some topic 
+
 #### 2019-08-07 
   * 我不关心一个人有多少知识，
   而是他获得知识、让知识生效的本领
@@ -15,7 +25,7 @@ categories: [diary]
   * 心里状态方面 
     - 不懂合作 
     - 音乐表现力 - 
-    - 自己没有动脑子思考过应该怎样表达音乐，只是听老师的话 
+    - 自己**没有动脑子思考过**应该怎样表达音乐，只是听老师的话 
     - 在音乐的过程中做的事情， 自己去思考音乐而不是等老师告诉他怎么做 
     - 喜欢合作 - 比独奏拉的好更重要 
 
