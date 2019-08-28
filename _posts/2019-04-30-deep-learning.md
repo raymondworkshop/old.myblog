@@ -13,6 +13,10 @@ abstract: "[Updating] notes about machine learning"
 #### 模型評估  
 
 #### 經典算法  
+  * supervised learning 
+  * unsupervised learning 
+  * Model evaluation and improvment 
+  * pipline 
 
 #### 神經網絡 deeplearning 
   * 

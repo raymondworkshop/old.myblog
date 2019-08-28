@@ -33,9 +33,6 @@ I'll pick you up here at seven.
 
 
 
-
-
-
 #### 31 - a place of our own 
 I'd like your opinion. 
   
