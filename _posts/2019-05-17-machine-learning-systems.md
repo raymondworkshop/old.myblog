@@ -7,6 +7,9 @@ categories: [notes]
 abstract: "[updating] - Notes on machine learning systems"
 ---
 
+#### digging for requirements 
+* 
+
 #### workflow to Approach a ML problem -> Prototype 
 * what kind of **question or goal** we wanna answer  
 
@@ -19,6 +22,7 @@ abstract: "[updating] - Notes on machine learning systems"
 
 * humans in the loop 
   - algotithm might increase response time or reduce cost 
+  - TODO 
 
 #### From Prototype to Production 
 * data analytics teams 
@@ -26,7 +30,6 @@ abstract: "[updating] - Notes on machine learning systems"
 
   - offline evaluation 
   - online testing using A/B testing [TODO]
-
 
 
 #### reference 
