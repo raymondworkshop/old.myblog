@@ -8,7 +8,7 @@ abstract: "[updating] - Notes on machine learning systems"
 ---
 
 #### digging for requirements 
-* 
+*  
 
 #### workflow to Approach a ML problem -> Prototype 
 * what kind of **question or goal** we wanna answer  
