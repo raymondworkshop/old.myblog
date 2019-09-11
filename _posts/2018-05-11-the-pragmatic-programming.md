@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The Pragmatic Programming"
+title: "[Updating] The Pragmatic Programming"
 date: 2018-05-11
 comments: true
-categories: [learning]
-abstract: "The Pragmatic Programming"
+categories: [notes, learning]
+abstract: "[Updating] The Pragmatic Programming"
 ---
 
 #### ch7 Before the project 
@@ -43,6 +43,9 @@ abstract: "The Pragmatic Programming"
      - Tracing -> the state of a program or a data structure over time 
      - Don't assume it, **prove it**; and how to improve it 
      - master one text manipulation language 
+
+
+#### TODO 
 
 #### reference
 * The Pragmatic Programmer by Andrew Hunt & David Thomas
