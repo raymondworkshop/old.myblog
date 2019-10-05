@@ -47,6 +47,9 @@ title: links
 * [Philip J. Guo](http://www.pgbovine.net/)
 * [云风的BLOG](http://blog.codingnow.com/)
 
+#### economic
+* [张五常](http://nscheung.blogspot.com/)
+
 #### funs
 * [Paul Graham](http://www.paulgraham.com/articles.html)
 * [土摩托日记](http://www.immusoul.com/)

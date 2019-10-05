@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes on programming languages"
-date: 2018-05-16 
+date: 2018-01-16 
 comments: true
 categories: [home,notes]
 abstract: "[Updating] Notes on programming languages"

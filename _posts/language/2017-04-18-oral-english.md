@@ -11,9 +11,31 @@ abstract: "Oral English"
 request - can, could, man, might 
 "Can I have ..., please?"  
 
-decline - "That is a good idea. I would like to join in but I have another appointment today."  
+decline - "That is a good idea. I would like to join in but I have another appointment today." 
+
+
 
 #### 37 - A Real stewart 
+
+**There's nothing more joyous than** a arrival of new baby .  
+
+Well, children usually **resemble** their parents.  
+
+Michalle is **a lot like** harry in so many ways. 
+
+**I won't call that** tall. 
+
+I **take after** my mother's family. (我像我妈妈家的人) 
+
+**Speaking of** Mickle ... (说起) 
+
+
+I hope you like it.  
+
+That was so **thoughtful of you**, Michelle. (细心)
+
+You can **count on it**. (相信) 
+
 
 
 #### 34 - you're tops  
