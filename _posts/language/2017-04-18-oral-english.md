@@ -13,6 +13,23 @@ request - can, could, man, might
 
 decline - "That is a good idea. I would like to join in but I have another appointment today." 
 
+#### 40 - Playing Games 
+I know what you mean.  
+
+But he ususally manged to **squeeze a Sunday in** (挤出时间) with Richard, Robbie, and me.  
+
+> Well, **there we are**. (就这样了) **All set for lunch**, Harry. (午餐全准备好了)
+
+> It **looks inviting**. (看这都想吃了)  
+
+I really **appreciate your doing this** for Michelle and her friends. 
+
+I am doing it for us. 
+
+The girls **learned a great deal**. (姑娘们学到了很多东西) 
+
+You are **wonderful with kids**. (你对付小孩子又两下子)
+
 
 
 #### 37 - A Real stewart 
