@@ -7,6 +7,22 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 
 
+#### 2019-10-23  
+  * 昨天没有休息好 - 半夜醒来 ...  
+  * 看了点<how to be a programmer>  
+
+#### 2019-10-22  
+  * 读了第一章 <charlotte's web>, 感觉很棒，有点画面感  
+  * 明智的决定， 没有买iphone 11  
+
+#### 2019-10-14 
+  * 仔细考虑下自己的未来 
+    - 
+  * 整理下自己的工作 
+    - 怎么做research 
+    - 自己的事业
+    - 自己的家庭 
+
 #### 2019-08-21 
   * TODO 
     - transfer a business Module to a tech problem 

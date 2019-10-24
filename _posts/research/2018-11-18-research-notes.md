@@ -45,6 +45,11 @@ abstract: "[Updating] Notes on creativity and research"
    * 如何提升研究品味，判断哪些工作是重要的，哪些不重要，可能是困扰我们这些年轻研究人员的一个重要问题。我在清华读硕士的时候，导师应明生教授推荐过一个方法，读科学史 -- 看ACM网站上对图灵奖工作的介绍，看google scholar里引用次数很多的文章有什么样的特点 -- 受益很多。 ​​​​
 
 #### Notes on research - creative, thoughtful original engineering research 
+   * How to come up with research ideas:  
+    - 1) Find an existing research area you're interested in 
+    - 2) **Find a paper in the area, check out the research they cite/cite them** 
+    - 3) Keep reading until you have a Q: **"What would happen if I tried X?"**
+    - 4) Try X
 
    * idea 
      + mini-proposal 
