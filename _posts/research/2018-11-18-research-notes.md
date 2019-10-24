@@ -50,6 +50,7 @@ abstract: "[Updating] Notes on creativity and research"
     - 2) **Find a paper in the area, check out the research they cite/cite them**   
     - 3) Keep reading until you have a Q: **"What would happen if I tried X?"**  
     - 4) Try X  
+    -  
 
 
    * idea 
