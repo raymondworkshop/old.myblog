@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-My name is Raymond ZHAO Wenlong, a Computer Scientist and Software Engineer.  
+My name is Raymond ZHAO Wenlong, a Computer Scientist and Programmer.  
 email/g: wenlzhao at gmail dot com.  
 <br> 
 
