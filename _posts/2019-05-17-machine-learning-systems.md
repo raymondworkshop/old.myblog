@@ -3,7 +3,7 @@ layout: post
 title: "[updating] - Notes on machine learning systems " 
 date: 2019-05-16
 comments: true
-categories: [notes]
+categories: [learning]
 abstract: "[updating] - Notes on machine learning systems"
 ---
 

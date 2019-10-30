@@ -76,26 +76,26 @@ abstract: "[Updating] Notes on creativity and research"
    * writing 
 
    * Example 
-     - The initial one-page proposal, which should describe the problem that you plan to solve, what resources (code, data, etc.) are available to help you solve it, and a very rough plan of work. We will try to offer constructive feedback at this point. 
+     - The initial one-page proposal, which should describe the problem that you plan to solve, what resources (code, data, etc.) are available to help you solve it, and a very rough plan of work. We will try to offer constructive feedback at this point.  
 
-     - The partial draft in a single four-page document (not counting references and contribution statement). This should essentially be a near-final draft of your paper (in NAACL 2018 style) with the results, analysis, and conclusion sections missing. It should contain a link to your public GitHub repo, which should show evidence that you have implemented everything you’ll need to be able to run your experiments. 
+     - The partial draft in a single four-page document (not counting references and contribution statement). This should essentially be a near-final draft of your paper (in NAACL 2018 style) with the results, analysis, and conclusion sections missing. It should contain a link to your public GitHub repo, which should show evidence that you have implemented everything you’ll need to be able to run your experiments.  
 
-     - The presentation. You will be asked to give a very short presentation (likely 3–5 minutes) on the last day of class explaining the key result of your paper.
-
+     - The presentation. You will be asked to give a very short presentation (likely 3–5 minutes) on the last day of class explaining the key result of your paper.  
 
 #### social skills
    * 独立研究员 
      - 独立 不等于 一个人，  
      - 独立意味着你有所有权，需要**自己收集知识，形成想法，然后拿这些东西和所有能提供帮助的人对话** 
+     - Independent does not mean alone. Independent means figuring out the right questions to ask, finding the right people to ask, and taking the initiative to make it happen  
 
-   * direction 
-   * 一个年轻的研究生最重要的一件事情是什么？
-   * 其实不是你学到哪些技术，而是要**使你自己走进未来五年、十年有大发展机会的领域**，这才是你做研究生时所要达到的目标。”
+   * direction  
+   * 一个年轻的研究生最重要的一件事情是什么？ 
+     - 其实不是你学到哪些技术，而是要**使你自己走进未来五年、十年有大发展机会的领域**，这才是你做研究生时所要达到的目标。”  
 
 #### 确定的方向 
-   * **重要**的问题和挑战 
-   * **即将**成为热门 - 影响重大 
-   * 高风险 
+   * **重要**的问题和挑战  
+   * **即将**成为热门 - 影响重大  
+   * 高风险  
 
 #### **Proposal** <-  确定的问题 <-  确定的方向 
 

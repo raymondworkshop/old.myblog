@@ -93,6 +93,7 @@ abstract: "Summary about the American pronunciation"
     + /i:/ -> **the tongue stretches up more towards the roof of the mouth.** - open mouth widely 
     + /i/ -> **the tongue is bit more relaxed, the jaw does drop a little bit more** - don't open mouth widely 
     not stretched into a smile 
+      - **[i](https://v.qq.com/x/page/s0127chnq3p.html?__t=1&ptag=1.sina&_out=1)**
     
     + æ： 嘴巴开口大（舌头低）， 舌头最高位位前，唇展开
 
