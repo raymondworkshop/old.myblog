@@ -5,14 +5,44 @@ date: 2019-01-02
 comments: true
 categories: [diary]
 ---
-### 记录下每天的工作和生活 - 2019 
+### 记录下每天的工作和生活 - 2019  
+
+#### 2019-11-06  
+
+#### 2019-11-05  
+  * 状态稍微好些  
+    - 晚上去跑了下步  - 感觉很好  
+    - 去广东话 meetup  -- 有时候聊天感觉很好  
+
+  * done  
+    - 今天写了一点关于hook 的 python  
+    - 读了一点 ch4 "the craft of research"  
+
+#### 2019-11-04  
+  * 这两个月
+    - 先不去那个教会了  
+      + 看以后的机会  
+      +  
+    - 先专注于找工作  
+      + 目标： 工程师->manager 进化  
+      + 政府资助的IT工作  
+    
+  * 终于明白失去一个喜欢的人的感觉  
+    - 沟通能力  
+
+  * 去上英文课  
+    - 原本是想逃课的  
+
+  * to improve  
+    - 提高写作能力  
+    - 参加meetup 锻炼下 **演讲能力**  
 
 #### 2019-10-31  
   * 
   * todo 
     - books 
-      + the craft of research  
-      + the art of unix programming  
+      + **the craft of research**  
+      + **the art of unix programming**  
     - programming  
     - language - english, cantonese  
 
