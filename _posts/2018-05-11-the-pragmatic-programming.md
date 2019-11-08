@@ -3,7 +3,7 @@ layout: post
 title: "[Updating] The Pragmatic Programming"
 date: 2019-08-16
 comments: true
-categories: [notes, learning]
+categories: [learning]
 abstract: "[Updating] The Pragmatic Programming"
 ---
 
