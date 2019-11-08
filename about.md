@@ -7,7 +7,7 @@ email/g: wenlzhao at gmail dot com.
 <br> 
 
 
-I like problem solving and reading.  My projects are at [github](https://github.com/muyun) and my research/projects are [here](http://muyun.github.io/research/).  
+I like problem solving and reading.  My projects are at [github](https://github.com/muyun) and my research/projects are [here](http://muyun.github.io/research/).  In my free time, I'd like to explore something new. All opinions here are my own.  
 <br> 
 
 
