@@ -15,6 +15,7 @@ title: links
 #### tech 
 * [Matt Might](http://matt.might.net/articles/)
 * [Kate Matsudaira](http://katemats.com/about/)
+* [Tracy Chou](https://triketora.com/)
 * [aphyr’s blog on distributed systems](https://aphyr.com/)
 * [Camille Fournier's blog about distributed systems and engineering management](http://www.elidedbranches.com/)
 * [Dan Luu's hardware](https://danluu.com/)
