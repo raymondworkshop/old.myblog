@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[updating] - Notes on machine learning systems " 
+title: "Notes on machine learning systems " 
 date: 2019-07-16
 comments: true
 categories: [notes]
-abstract: "[updating] - Notes on machine learning systems"
+abstract: "Notes on machine learning systems"
 ---
 
 #### digging for requirements 
