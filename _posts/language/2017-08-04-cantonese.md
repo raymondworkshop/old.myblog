@@ -7,7 +7,14 @@ categories: [language]
 abstract: "About Cantonese"
 --- 
 
-#### how to express 
+#### how to express  
+   * 地道词语  
+   仆街 puk1 gaai1  死定了  
+   揽 lahm5  抱  
+   咸濕  haam4 sap1 好色  
+   收皮 sau1 pei4 滾蛋  
+   
+
 
    * 地道表达 
 
@@ -44,6 +51,7 @@ abstract: "About Cantonese"
 “唔该你 ...” 
 “麻烦你 ...“ 
 ”有件事想你帮下忙 ... “ 
+
 
 
 
