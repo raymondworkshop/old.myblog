@@ -2,7 +2,7 @@
 layout: post
 title: Research
 ---
-#### Paper Reviews 2019  
+#### Paper Readings 2019  
 
 #### Some of my presentations about Deep Learning Technology and its applications
 * [Collect data as Dataset](https://docs.google.com/presentation/d/1Y7zrC9QLHHcFlQpn3Yb2_paOgU_xB1B4yJwjM6ah98E/edit?usp=sharing)
