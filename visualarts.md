@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Photo
+title: Visual Arts
 ---
