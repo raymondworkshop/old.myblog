@@ -11,6 +11,6 @@ I like problem solving and reading. Some of My projects are at [github](https://
 <br> 
 
 
-I graduated from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s) and [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
+I have a BEng from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s) and a MS from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
 <br> 
 
