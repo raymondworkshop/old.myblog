@@ -13,10 +13,12 @@ abstract: "About Cantonese"
    揽 lahm5  抱  
    咸濕  haam4 sap1 好色  
    收皮 sau1 pei4 滾蛋  
-   
-
+   坚 gin 真  
+   流 lau 假  
 
    * 地道表达 
+
+ "这么巧撞到你， 我一定要亲口同你讲声道谢"
 
 "我知道我最應該要多謝謝的人是你" 
 
