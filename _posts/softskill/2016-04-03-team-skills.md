@@ -6,6 +6,7 @@ comments: true
 categories: [softskill]
 abstract: "Some lessons about team skills"
 ---
+
 #### [Updating](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2016-04-03-team-skills.md)
 
 * have a good relationship with your boss

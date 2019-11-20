@@ -31,7 +31,7 @@ abstract: "On Interview"
 #### module 
 * 监督学习 - Y = f(X)
 
-#### social 
+#### social  
   - 請問我返呢份工之前，仲有乜嘢要準備／學習？ 
   - System Analyst /ə'næləsɪs/ opportunity 
   - 
