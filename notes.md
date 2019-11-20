@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Note
+title: Notes
 ---
 <div >
   <ul class="posts">
