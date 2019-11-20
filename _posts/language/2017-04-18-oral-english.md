@@ -40,7 +40,20 @@ request - can, could, man, might
 
 decline - "That is a good idea. I would like to join in but I have another appointment today." 
 
-#### 40 - Playing Games 
+#### 43 - 2nd Honeymoon  
+I had to work late.  
+
+What are the flowers for?  
+
+Isn't that **too much to ask of** your mother?  
+
+**What do you say?** (你说呢)  
+It does sound tempting. (诱惑)  
+
+Do you want to **stick it out** for the whole weakend? (熬过去)  
+
+
+#### 40 - Playing Games  
 I know what you mean.  
 
 But he ususally manged to **squeeze a Sunday in** (挤出时间) with Richard, Robbie, and me.  
@@ -400,7 +413,7 @@ It's too early to know for sure, I am pretty independent
 
 #### reference 
 * [ELP: English Listening and Pronunciation](http://homepage.ntu.edu.tw/~karchung/ELPS19.html)
-* [Family Album U.S.A](https://www.bilibili.com/video/av47161875/?p=31)
+* [Family Album U.S.A](https://www.bilibili.com/video/av51205511?p=42)
 * [Family Album USA](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Family Album USA 2 ](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Presentations: Speaking so that People Listen](https://www.coursera.org/learn/presentations-speaking-so-that-people-listen/home/welcome)
