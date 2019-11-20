@@ -7,7 +7,11 @@ email/g: wenlzhao at gmail dot com.
 <br> 
 
 
-I like problem solving and reading. Some of My projects are at [github](https://github.com/muyun) and my research are [here](http://muyun.github.io/research/).  Lover of people, words, nature/arts and food. All opinions here are my own.  
+I like problem solving and reading. Some of My projects are at [github](https://github.com/muyun) and my research are [here](http://muyun.github.io/research/).  
+<br> 
+
+
+Lover of people, words, nature/arts and food. All opinions here are my own.   
 <br> 
 
 
