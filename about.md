@@ -11,7 +11,7 @@ I like problem solving and reading. Some of My projects are at [github](https://
 <br> 
 
 
-Outside of tech, I love people, words and math/nature/art. All opinions here are my own.   
+Outside of tech, I love people, words and math/art/nature. All opinions here are my own.   
 <br> 
 
 
