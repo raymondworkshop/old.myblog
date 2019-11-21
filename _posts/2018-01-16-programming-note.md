@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Notes on programming languages"
+title: "Notes on programming"
 date: 2018-01-16 
 comments: true
 categories: [home,notes]
-abstract: "[Updating] Notes on programming languages"
+abstract: "[Updating] Notes on programming"
 ---
->[Updating]  Notes on programming languages 
+>[Updating]  Notes on programming
 
 #### theory of Programming Languages 
+TODO  
+
+
 
 #### Python Data Model -> A Framework/API for core language constructs
 
