@@ -11,7 +11,7 @@ I like problem solving and reading. Some of My projects are at [github](https://
 <br> 
 
 
-Lover of people, words, nature/arts and food. All opinions here are my own.   
+Outside of tech, I am a Lover of people, words, math/nature/arts and food. All opinions here are my own.   
 <br> 
 
 
