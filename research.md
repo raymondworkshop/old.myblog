@@ -18,7 +18,7 @@ title: Research
 * [iSpeaking - ASR for L2 (english) learners](https://drive.google.com/file/d/1qQC-UeyoCN7V9WVZTzPQqjbsb1NS8HI3/view?usp=sharing)
 
 #### Word Embeddings 
-  Our paper "[Mapping Customer Needs in Natural Language to Product Specifications by Using Word Embeddings](https://drive.google.com/file/d/1pfpff9EWB2gOGllzh8DHIapp-fBGlC55/view?usp=sharing)" has been accepted for publication at APIEMS 2018,Hong Kong.
+
 
 
 #### Text simplification
