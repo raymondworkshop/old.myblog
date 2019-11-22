@@ -10,6 +10,61 @@ abstract: "关于沟通"
 #### self 
   *  
 
+#### small talk  - try to find common interest
+  * family  - keep it light/easy  
+    - "Where are you from originally"  
+    - "Where did you grow up?"  
+    - "How did you meet your partner/..."  
+    - "Do you still have family there"  //
+
+  * occupation - comfortable 
+    - **"What's keeping you busy these days?"**   "That's interesting! How did you get involved with that?"  
+    - "How long have you been in your field?"  
+    **"What's the best part of your job?"**  
+    -  
+    - "what do you do?"  **"what motivated you to become a ...? "**  
+    - "Did you always wann be a ..? "  "what was your first-ever job?"  
+    -  **"what does a typical workday look like?"  "what do you love about your job?"**  
+    - "Is this your fream job? or **are you working towards something else?"**  
+    - "If money wasn't an issue, what job would you want?" 
+
+  * Recreation  - find similarities  
+    - **"What do you do for fun?"**  
+    - "Do you play any sports"  
+    - **"How did you become interested that?"**
+
+  * dream  - smile, listen, learn  
+    - "Any plans for the summer?"  
+    - **"If you could travel anywhere, where would you go?"**  
+    - "What will you do once you finish te project? course?"  
+    - **"What do you want to read next?"** ..
+
+  * life  
+    - **"Did you hear about ..."**  
+    - "Have you got much planned for the weekend?"  
+    - "What do you like to do in your spare time?"  - "That's interesting"
+    - "Have you read any good books lately?"  
+    - "Have you seen any good movies/tv shows?"  
+    - "So, do you have any kids"  
+    - "So, are you from ...?"  
+    - "Where did you live before this?"  "Is this city quite different to (that city)?"  
+    - "Where did you grow up?"  
+
+  * travel  
+    - "I've just got back from a trip to Japan. Have you ever been?"  
+    - "You went to peru last year, didn't  you?"  "Do you have any recommendations?"  
+    - "What places are on your bucket list?"  
+
+  * food  
+    - "Do you know any good restaurants around here?"  
+    - "I'm cooking lasagne for dinner tonight. What about you?"  
+    - "Have you tried that new Thai restaurant on Church Street?"  
+    - "Do you like Thai food?"  
+
+   * weather  
+    - "It's a beautiful day today, isn't it?"  
+    - "Can you believe all the rain we've been having lately?"  
+    - "It's pouring out there! It's a shame I rode my bike today! How did you get to work?"  
 
 #### skills
   * 语言能力、逻辑情感、人际交往等文化资本和社会资本 

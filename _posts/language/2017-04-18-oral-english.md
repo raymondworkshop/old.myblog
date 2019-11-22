@@ -33,15 +33,13 @@ abstract: "Oral English"
 
 * produce english by writing  
 
-
 #### polite  
 request - can, could, man, might 
 "Can I have ..., please?"  
 
 decline - "That is a good idea. I would like to join in but I have another appointment today." 
 
-#### 46 - Full of Surprises  
-
+#### 46 - Full of surprises  
 
 
 #### 43 - 2nd Honeymoon  
@@ -55,8 +53,6 @@ Isn't that **too much to ask of** your mother?
 It does sound tempting. (诱惑)  
 
 Do you want to **stick it out** for the whole weakend? (熬过去)  
-
-Now this is my idea of a good time .  
 
 
 #### 40 - Playing Games  
@@ -419,7 +415,7 @@ It's too early to know for sure, I am pretty independent
 
 #### reference 
 * [ELP: English Listening and Pronunciation](http://homepage.ntu.edu.tw/~karchung/ELPS19.html)
-* [Family Album U.S.A](https://www.bilibili.com/video/av73659399?p=45)
+* [Family Album U.S.A](https://www.bilibili.com/video/av51205511?p=42)
 * [Family Album USA](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Family Album USA 2 ](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Presentations: Speaking so that People Listen](https://www.coursera.org/learn/presentations-speaking-so-that-people-listen/home/welcome)
