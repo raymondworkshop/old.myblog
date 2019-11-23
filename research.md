@@ -4,7 +4,8 @@ title: Research
 ---
 #### Paper Readings 2019  
 
-#### Some of my presentations about Artificial Intelligence, especially machine learning/Deep Learning Technology and its applications in Language & Speech 
+#### Some of my presentations about Artificial Intelligence and its applications  
+
 * [Collect data as Dataset](https://docs.google.com/presentation/d/1Y7zrC9QLHHcFlQpn3Yb2_paOgU_xB1B4yJwjM6ah98E/edit?usp=sharing)
 * [Algorithm: word_embeddings_based_mapping](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)
 * [Algorithm: SVM based on word-embedding](https://drive.google.com/file/d/1GoGhYoFfq1Ha2MoseFj5KcWrzu0IISQ2/view?usp=sharing)
