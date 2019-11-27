@@ -4,7 +4,7 @@ title: Research
 ---
 #### Paper Readings 2019  
 
-#### I give a presentation about [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE.  
+#### I give a presentation about [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE   
 
 
 #### Some of my presentations about Artificial Intelligence and its applications in language and speech    
