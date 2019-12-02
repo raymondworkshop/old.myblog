@@ -7,7 +7,7 @@ title: Research
 #### I give a presentation about [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE   
 
 
-#### Some of my presentations about Artificial Intelligence and its applications in language and speech at HSU     
+#### Some of my presentations about Artificial Intelligence and its applications in language and speech       
 
 * [Collect data as Dataset](https://docs.google.com/presentation/d/1Y7zrC9QLHHcFlQpn3Yb2_paOgU_xB1B4yJwjM6ah98E/edit?usp=sharing)
 * [Algorithm: word embeddings based mapping](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)
