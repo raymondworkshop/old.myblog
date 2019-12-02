@@ -14,7 +14,7 @@ title: Research
 * [Algorithm: Support Vector Machine on word-embedding](https://docs.google.com/presentation/d/1GoGhYoFfq1Ha2MoseFj5KcWrzu0IISQ2/edit#slide=id.p1)
 * [Convolutional Neural Network for Sentence Classification](https://drive.google.com/file/d/1w8Qw0U5P9FVhO8-4WYMb0-foUYG47CBE/view?usp=sharing)
 * [The experiments based on Convolutional Neural Network](https://docs.google.com/presentation/d/1JKskq_ufcVFyvbG0yfBc1aRl0PLv39ak/edit#slide=id.p1)
-* [Algorithm: Recurrent Neural Networks](https://drive.google.com/file/d/1UG5GBp7PH-8pOlXFw_jMKGQQpUtEe2xV/view?usp=sharing)
+* [Algorithm: Recurrent Neural Networks](https://docs.google.com/presentation/d/1UG5GBp7PH-8pOlXFw_jMKGQQpUtEe2xV/edit#slide=id.p1)
 * [Algorithm: Long short-term memory Networks](https://drive.google.com/file/d/1f-5p59g9NrMlYHkhjagAYe7OO-23P-R-/view?usp=sharing)
 * [Algorithm:Hier-attention Network](https://drive.google.com/file/d/1MWM-tzy_I7I-MWqkIF3u9KodEKW3K2Tb/view?usp=sharing)
 * [Top-N Sort Algorithm](https://drive.google.com/file/d/1kpzEqbFUUvQ3dsSITs5C8ifK0VfOyAB0/view?usp=sharing)
