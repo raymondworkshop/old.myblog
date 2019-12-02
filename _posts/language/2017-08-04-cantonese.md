@@ -15,6 +15,7 @@ abstract: "About Cantonese"
    收皮 sau1 pei4 滾蛋  
    坚 gin 真  
    流 lau 假  
+   凍亲 dung3 can1 着凉  
 
    * 地道表达 
 
@@ -26,7 +27,7 @@ abstract: "About Cantonese"
 
 “最重要是你兩個都鍾意” 
 
-“我从来都”
+“我从来都”  
 
    * 表達 要求
 “可唔可以 ... 呀? ”
@@ -57,15 +58,10 @@ abstract: "About Cantonese"
 
 
 
-
-
 #### 地道广东话 
 打完斋不要和尚 - 过河拆桥 
 
 怎麼了 - 做咩 ? 
-
-
-
 
 
 #### [兒童故事粵語](https://www.youtube.com/watch?v=Ag1tAlJmedQ)
