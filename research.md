@@ -11,7 +11,7 @@ title: Research
 
 * [Collect data as Dataset](https://docs.google.com/presentation/d/1Y7zrC9QLHHcFlQpn3Yb2_paOgU_xB1B4yJwjM6ah98E/edit?usp=sharing)
 * [Algorithm: word embeddings based mapping](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)
-* [Algorithm: Support Vector Machine on word-embedding](https://drive.google.com/file/d/1GoGhYoFfq1Ha2MoseFj5KcWrzu0IISQ2/view?usp=sharing)
+* [Algorithm: Support Vector Machine on word-embedding](https://docs.google.com/presentation/d/1GoGhYoFfq1Ha2MoseFj5KcWrzu0IISQ2/edit#slide=id.p1)
 * [Convolutional Neural Network for Sentence Classification](https://drive.google.com/file/d/1w8Qw0U5P9FVhO8-4WYMb0-foUYG47CBE/view?usp=sharing)
 * [The experiments based on Convolutional Neural Network](https://drive.google.com/file/d/1JKskq_ufcVFyvbG0yfBc1aRl0PLv39ak/view?usp=sharing)
 * [Algorithm: Recurrent Neural Networks](https://drive.google.com/file/d/1UG5GBp7PH-8pOlXFw_jMKGQQpUtEe2xV/view?usp=sharing)
