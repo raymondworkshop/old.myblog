@@ -7,7 +7,7 @@ categories: [softskill]
 abstract: "关于沟通"
 --- 
 
-#### self 
+#### self  
   *  
 
 #### small talk  - try to find common interest
@@ -17,7 +17,7 @@ abstract: "关于沟通"
     - "How did you meet your partner/..."  
     - "Do you still have family there"  //
 
-  * occupation - comfortable 
+  * occupation - comfortable  
     - **"What's keeping you busy these days?"**   "That's interesting! How did you get involved with that?"  
     - "How long have you been in your field?"  
     **"What's the best part of your job?"**  

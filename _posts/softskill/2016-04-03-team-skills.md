@@ -7,9 +7,9 @@ categories: [softskill]
 abstract: "Some lessons about team skills"
 ---
 
-#### [Updating](http://prose.io/#muyun/muyun.github.io/edit/master/_posts/2016-04-03-team-skills.md)
+#### Updating  
 
-* have a good relationship with your boss
+* have a good relationship with your boss  
   - the clues in the submitter’s style and communications behaviour instead - indications that the person has been in their shoes
 
   - The right attitude is helpful, respectful of the maintainer’s time, quietly confident but unassuming 
