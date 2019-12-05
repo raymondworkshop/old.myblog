@@ -7,6 +7,11 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2019  
 
+#### 2019-12-04  
+  * 从今天起 
+    - writing english  至少读一篇英文文章  
+    - listening english  
+
 #### 2019-12-02  
   * 昨天应该去上英文课了  
 

@@ -37,18 +37,18 @@ abstract: "Some lessons about team skills"
   - 多数决策者所追求的是“相对妥适”的结果； 而组织里不同层级的人，其责任是**
   在主管最终决策拍板前，提供不同视角的意见与方案**，以降低决策风险，同时极大化决策的价值  
   -  
-  - 专注手上的工作，认真工作，仔细办事
+  - 专注手上的工作，认真工作，仔细办事  
 
   - “做事”－完善细节，做好本分  
 
-  - 很认真，努力完成每件事，为自己打气，持续面对挑战而不气馁
+  - 很认真，努力完成每件事，为自己打气，持续面对挑战而不气馁  
 
 * 善于沟通
-  - 表达方式， 能让听着易于理解； 善于倾听，能理解别人语句背后的意涵
-  - 在汇报时，能有系统地说明报告内容，并提出具体可行的方案
-  - 心绪智能 － 维持稳定且优异的工作状态
+  - 表达方式， 能让听着易于理解； 善于倾听，能理解别人语句背后的意涵  
+  - 在汇报时，能有系统地说明报告内容，并提出具体可行的方案  
+  - 心绪智能 － 维持稳定且优异的工作状态  
    
-* 如何被广泛信任
+* 如何被广泛信任  
   - 应该让别人了解你； 对团队外的人，通过责任和博知建立信任；不要不懂装懂
 
 * 交流
@@ -67,7 +67,7 @@ abstract: "Some lessons about team skills"
 
    I was always an introvert, and on top of that, I was raised to be very reserved. So maybe I appear to be not compassionate enough. But deep down inside, I am really grateful for what you did, and I am really eager to do something for you in return. Please do let me know if there is anything I can do for you. "  
 
-* 多核对和澄清，不要话中带话
+* 多核对和澄清，不要话中带话  
   - “Let me make sure I heard you right. What you mean is ..."
   - "Let me put it another way"
   - "Did I make myself clear?"

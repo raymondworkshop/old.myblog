@@ -6,12 +6,13 @@ comments: true
 categories: [language]
 ---
 
-#### writing in english
+#### writing in english  
 
 
+#### readings  
 
-
-### reference
+### reference  
+* [STRANGER THINGS](https://www.1843magazine.com/stranger-things)  
 * [on-writing](https://github.com/muyun/dev.onwriting)
 * [Grammar and Punctuation](https://www.coursera.org/learn/grammar-punctuation/home/welcome)
 * [Getting Started with Essay Writing](https://www.coursera.org/learn/getting-started-with-essay-writing/home/welcome)

@@ -40,6 +40,14 @@ request - can, could, man, might
 decline - "That is a good idea. I would like to join in but I have another appointment today." 
 
 #### 46 - Full of surprises  
+You bet I do (我当然)  
+
+**How come** he never got married? (why?怎么会)
+That's a good question.  
+
+But **her heart was with** Donald.  
+
+You are reading my mind. (你看透了我的心思)  
 
 
 #### 43 - 2nd Honeymoon  
