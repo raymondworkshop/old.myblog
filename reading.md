@@ -1,6 +1,23 @@
 ---
-layout: post
+layout: default
 title: Reading
 ---
-#### The Year of Reading 2019
-* TODO
+#### Some from my readings
+<br/>
+
+<div >
+  <ul class="posts">
+  {% for post in site.posts %}
+    {% if post.categories contains 'writing'  %}
+      <li>
+      
+      <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>
+      <a href="{{ post.url }}"> {{ post.title }}</a>  <br>   
+          {{ post.abstract }} <br>
+      
+      </li>
+
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
