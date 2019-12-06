@@ -12,7 +12,7 @@ abstract: "Oral English"
   - select your words carefully  
 * give yourself time to think  
   - relax  
-  - "that's a good question. Let me think for a moment"
+  - "that's a good question. Let me think for a moment"  
   - "I haven't thought about it beofre ... "  
   - "Well ... I suppose ... "  
   - "well, during the day ..."  
@@ -25,19 +25,46 @@ abstract: "Oral English"
 
 * learn complete sentences  
 * learn to listen  
-  - listen what others are saying 
+  - listen what others are saying  
 
-* **practice asking questions** 
+* **practice asking questions**  
   - "what are your views on that?"  
-  - "How about you, what do you think?"
+  - "How about you, what do you think?"  
 
 * produce english by writing  
 
 #### polite  
 request - can, could, man, might 
-"Can I have ..., please?"  
+"Can I have .., please?"  
 
-decline - "That is a good idea. I would like to join in but I have another appointment today." 
+decline - "That is a good idea. I would like to join in but I have another appointment today."  
+
+sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to apologise for my behavior / to someone"  "I sincerely apologise" .. "I take full responsibly ..."  
+
+#### 49 - Photo Finish  
+**I'm glad you feel you've finally** put it all together.  
+
+**What do you think you're going to do?**  
+
+**I've been through every section with** you, Richard.  (我和你一起已经检查过每一部分)  
+
+**I'd like to make an appointment with** him.  
+
+My name is ..., **I'm here to see** Mr. Carlson.  
+This is a crazy morning.  
+
+**Thank you for seeing me on such short nice**.  
+**Let's get right to it**. (咱们开门见山吧)  
+
+"**well**, I'd describe it as a book"  
+
+**I am gald you like** it.  
+
+you've **left out** street performance.  
+
+**you won't be disappointed**, Mr. Carlson. Thanks.  
+
+
 
 #### 46 - Full of surprises  
 You bet I do (我当然)  

@@ -10,7 +10,19 @@ abstract: "关于沟通"
 #### self  
   *  
 
-#### small talk  - try to find common interest
+#### small talk  - try to find common interest  
+  * why? 
+    - to be friendly  
+    - to meet new people  
+    - to not feel uncomfortable  
+    - "I love your earrings/songs, ..."  
+    - "How do you know ..."  
+
+  * how to end a small talk  
+    - "**I need** to talk with my friend"  
+    - "It was nice talking to you. I enjoyed talking about movies with you"  
+    - "I hope to talk to you again soon"  
+
   * family  - keep it light/easy  
     - "Where are you from originally"  
     - "Where did you grow up?"  
