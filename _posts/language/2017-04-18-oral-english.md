@@ -41,7 +41,14 @@ decline - "That is a good idea. I would like to join in but I have another appoi
 
 sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to apologise for my behavior / to someone"  "I sincerely apologise" .. "I take full responsibly ..."  
 
-#### 49 - Photo Finish  
+#### 47 Quality Time  
+
+
+#### 46 I Do  
+Please take your places. (各就各位)  
+
+
+#### 44 - Photo Finish  
 **I'm glad you feel you've finally** put it all together.  
 
 **What do you think you're going to do?**  
@@ -66,7 +73,7 @@ you've **left out** street performance.
 
 
 
-#### 46 - Full of surprises  
+#### 43 - Full of surprises  
 You bet I do (我当然)  
 
 **How come** he never got married? (why?怎么会)
@@ -77,7 +84,7 @@ But **her heart was with** Donald.
 You are reading my mind. (你看透了我的心思)  
 
 
-#### 43 - 2nd Honeymoon  
+#### 41 - 2nd Honeymoon  
 I had to work late.  
 
 What are the flowers for?  

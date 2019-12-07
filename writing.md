@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Reading
+title: Writing
 ---
-#### Some from my readings
-<br/>
 
 <div >
   <ul class="posts">
