@@ -14,6 +14,6 @@ Outside of tech, I love people, words, and philosophy/math/art/nature.
 All opinions here are my own.   
 <br> 
 
-I graduated from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s) and [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).    
+I earned a Bachelor of engineering in electronic information engineering from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s), and a Master of Science in computer science from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html). 
 <br> 
 
