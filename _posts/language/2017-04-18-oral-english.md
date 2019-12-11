@@ -457,7 +457,7 @@ It's too early to know for sure, I am pretty independent
 
 #### reference 
 * [ELP: English Listening and Pronunciation](http://homepage.ntu.edu.tw/~karchung/ELPS19.html)
-* [Family Album U.S.A](https://www.bilibili.com/video/av51205511?p=42)
+* [Family Album U.S.A](https://www.bilibili.com/video/av73659399?p=56)
 * [Family Album USA](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Family Album USA 2 ](https://www.youtube.com/playlist?list=PLowkndEmwPgE57kFWmlvkQx18jM3peaVq)
 * [Presentations: Speaking so that People Listen](https://www.coursera.org/learn/presentations-speaking-so-that-people-listen/home/welcome)
