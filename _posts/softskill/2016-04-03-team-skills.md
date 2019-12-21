@@ -7,6 +7,10 @@ categories: [softskill]
 abstract: "Some lessons about team skills"
 ---
 
+#### leadships  
+* 是失败了又爬起来的例子  
+* 所谓 “领军人物”，并不全是本身做得最好的人，而是**最自信的，最不怕失败的，最愿意帮助别人**，并从帮助激励别人当中进一步培养自己的自信，创造奇迹的人  
+
 #### Updating  
 
 * have a good relationship with your boss  

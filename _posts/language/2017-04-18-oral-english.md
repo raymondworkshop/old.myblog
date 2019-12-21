@@ -4,7 +4,7 @@ title: "Oral English"
 date: 2017-04-18
 comments: true
 categories: [language]
-abstract: "Oral English"
+abstract: "Oral English from Family Album USA"
 ---
 
 #### skills  
@@ -41,12 +41,36 @@ decline - "That is a good idea. I would like to join in but I have another appoi
 
 sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to apologise for my behavior / to someone"  "I sincerely apologise" .. "I take full responsibly ..."  
 
-#### 47 Quality Time  
+#### A Big Fish in a Little Pond  
 
+It fits well. It doesn't need any alterations.  
+
+Could we ask for anything more (何求)?  
+
+My mind isn't. (心不在焉)  
+What's the matter, Susan?  
+
+Does it **have anything to do with** you and harry?  (有关)  
+
+When do I have to let you know? (什么时候给你答复)  
+
+I am so touched (感动)  
+
+She **must have (musta)** been surprised.  
+
+**I don't know if** I can get a job there. (Can I get a job there?)  
+
+**I wonder if** a move would be a bad thing for her. (Would a move be bad for her?)  
+
+#### 58 Quality Time  
+I wish I had her energy.  
+
+I came home a little while ago. (我刚回家一会儿)  
 
 #### 46 I Do  
 Please take your places. (各就各位)  
 
+Harry will **lift this veil over your head**. (掀起你头上的面纱)  
 
 #### 44 - Photo Finish  
 **I'm glad you feel you've finally** put it all together.  
