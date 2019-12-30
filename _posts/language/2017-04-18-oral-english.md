@@ -41,6 +41,10 @@ decline - "That is a good idea. I would like to join in but I have another appoi
 
 sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to apologise for my behavior / to someone"  "I sincerely apologise" .. "I take full responsibly ..."  
 
+#### Career Choices  
+I really understand, Marilyn.  
+
+
 #### A Big Fish in a Little Pond  
 
 It fits well. It doesn't need any alterations.  

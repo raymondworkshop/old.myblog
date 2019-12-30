@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Research
+title: Research & Talks
 ---
-#### Paper Readings - TODO  
+### Talks     
 
-#### I give a presentation on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE   
+##### Nov 24, 2019: International Business Communication Skills  
+[Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)(HKU SPACE)   
 
 
-#### Some of my presentations on Artificial Intelligence and its applications in language & speech  
+##### 2018 - 2019: Some of my presentations on Artificial Intelligence and its applications in language & speech at HSU  
 
 * [Collect data as Dataset](https://docs.google.com/presentation/d/1Y7zrC9QLHHcFlQpn3Yb2_paOgU_xB1B4yJwjM6ah98E/edit?usp=sharing)
 * [Algorithm: word embeddings based mapping](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)
@@ -21,6 +22,7 @@ title: Research
 * [TOP-N Algorithm on word embeddings](https://docs.google.com/presentation/d/1kpzEqbFUUvQ3dsSITs5C8ifK0VfOyAB0/edit#slide=id.p1)
 * [iSpeaking - Automatic Speech Recognition for L2 (english&chinese) learners](https://docs.google.com/presentation/d/1qQC-UeyoCN7V9WVZTzPQqjbsb1NS8HI3/edit#slide=id.p1)
 
+### Research  
 #### Word Embeddings 
   Our paper "[Mapping Customer Needs in Natural Language to Product Specifications by Using Word Embeddings](https://drive.google.com/file/d/1pfpff9EWB2gOGllzh8DHIapp-fBGlC55/view?usp=sharing)" has been accepted for publication at apiems2018, HK.
 

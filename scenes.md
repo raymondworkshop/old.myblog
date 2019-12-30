@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Scenes
+title:  Scenes & Stories
 ---
 
-### Scenes from my eyes  
+### Scenes & Stories  
