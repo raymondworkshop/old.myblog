@@ -44,6 +44,15 @@ sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to
 #### Career Choices  
 I really understand, Marilyn.  
 
+I've been **wrestling with the question** of whether I go back to work or not. (左思右想)  
+
+I'm torn. (难以选择)  
+
+**I've been meaning to ask** you what you are thinking about **regarding** going back to work (一直想问你)  
+
+
+
+
 
 #### A Big Fish in a Little Pond  
 
