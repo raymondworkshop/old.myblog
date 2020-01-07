@@ -44,6 +44,15 @@ sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to
 
 #### 67 The Community Center  
 
+**I really appreciate you coming over to** help me with math.  
+
+He'll do anything to avoid **getting down to math lessons**, Mr. Stewart. (逃避)  
+
+Charles **lived up to his word**. (说到做到)  
+
+The original plan **was tabled** because of lack of funds. (搁置)  
+
+
 
 
 #### 64 Career Choices  
