@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于自我教育"
+title: "关于教育"
 date: 2017-12-20
 comments: true
 categories: [notes]

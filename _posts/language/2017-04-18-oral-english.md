@@ -41,7 +41,12 @@ decline - "That is a good idea. I would like to join in but I have another appoi
 
 sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to apologise for my behavior / to someone"  "I sincerely apologise" .. "I take full responsibly ..."  
 
-#### Career Choices  
+
+#### 67 The Community Center  
+
+
+
+#### 64 Career Choices  
 I really understand, Marilyn.  
 
 I've been **wrestling with the question** of whether I go back to work or not. (左思右想)  
@@ -49,8 +54,6 @@ I've been **wrestling with the question** of whether I go back to work or not. (
 I'm torn. (难以选择)  
 
 **I've been meaning to ask** you what you are thinking about **regarding** going back to work (一直想问你)  
-
-
 
 
 
@@ -75,10 +78,12 @@ She **must have (musta)** been surprised.
 
 **I wonder if** a move would be a bad thing for her. (Would a move be bad for her?)  
 
+
 #### 58 Quality Time  
 I wish I had her energy.  
 
 I came home a little while ago. (我刚回家一会儿)  
+
 
 #### 46 I Do  
 Please take your places. (各就各位)  

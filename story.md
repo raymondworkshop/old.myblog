@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Stories
+title:  Scenes & Stories
 ---
 
-### Stories  
+### Scenes & Stories  
