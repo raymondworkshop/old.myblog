@@ -17,6 +17,7 @@ title: links
 * [Matt Might](http://matt.might.net/articles/)
 * [Kate Matsudaira](http://katemats.com/about/)
 * [Julie Zhuo](http://juliezhuo.com/)
+* [Chip Huyen](https://huyenchip.com/)
 * [Kenneth Reitz](https://www.kennethreitz.org/)
 * [aphyr’s blog on distributed systems](https://aphyr.com/)
 * [Camille Fournier's blog about distributed systems and engineering management](http://www.elidedbranches.com/)
