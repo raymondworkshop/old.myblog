@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I'm Raymond ZHAO Wenlong, a Computer Scientist and Software Engineer based in Hong Kong.    
+I'm Raymond ZHAO Wenlong, a Computer Scientist and Engineer based in Hong Kong.    
 <br>
 
 I like problem solving and reading. Some of My projects are at [github](https://github.com/muyun) and my research is at [here](http://muyun.github.io/research/).  

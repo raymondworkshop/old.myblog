@@ -42,6 +42,32 @@ decline - "That is a good idea. I would like to join in but I have another appoi
 sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to apologise for my behavior / to someone"  "I sincerely apologise" .. "I take full responsibly ..."  
 
 
+#### 70 Parting Friends  
+They're **getting the assembly hall ready for** the graduation ceremony.  
+
+**I'm sure** Alex would be happy with something simple.  
+
+**It's all right with me**. (我没问题)  
+
+Am I interrupting you?  (打扰你)  
+
+Can we talk?  
+
+He **should have** saved some money.  
+
+When is your **plane reservation** for your flight to Athens?  
+
+I'll pick you up.  (我去接你)  
+
+She has no idea that the party is **in her honour** (in order to celebrate).   
+
+**If** the big party **were** today, he **would** tell all his friends about it.
+
+I guess we were **thinking the same thought (we thought alike)**.    
+
+
+
+
 #### 67 The Community Center  
 
 **I really appreciate you coming over to** help me with math.  
@@ -51,8 +77,6 @@ He'll do anything to avoid **getting down to math lessons**, Mr. Stewart. (逃�
 Charles **lived up to his word**. (说到做到)  
 
 The original plan **was tabled** because of lack of funds. (搁置)  
-
-
 
 
 #### 64 Career Choices  
