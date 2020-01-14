@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "On Writing"
-date: 2019-07-21
+title: "On English Writing"
+date: 2020-01-14
 comments: true
 categories: [language]
 ---
