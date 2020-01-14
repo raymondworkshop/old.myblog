@@ -7,6 +7,16 @@ categories: [language]
 abstract: "Summary about the American Intonation" 
 ---
 
+#### tips  
+* stress 
+  - focus on **stress and 'feeling'**   
+  - stress relates to rhythm and intonation    
+  - think about not just individual sounds but also
+  **think about the overall feeling of the sentence**.   
+
+* study mouths movement  
+* repetition  
+
 #### pitch 
 * **raised the pitch** for the stress words, and **dropped it at the end**, and played with the level so every syllable was **a little higher or a little lower** than previous word . 
 
