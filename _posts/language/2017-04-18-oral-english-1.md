@@ -42,6 +42,19 @@ decline - "That is a good idea. I would like to join in but I have another appoi
 sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to apologise for my behavior / to someone"  "I sincerely apologise" .. "I take full responsibly ..."  
 
 
+#### 71 Country Music  
+
+**We really appreciate** your taking care of Max for the weekend.  
+
+**You have the spirit of** a teenager, Susan. (你兴奋的像个孩子) 
+
+**I wish we had** brought Michelle, Harry.  
+She would have loved it.  
+
+**It's refreshing for me**. (精神振作)  
+
+
+
 #### 70 Parting Friends  
 They're **getting the assembly hall ready for** the graduation ceremony.  
 

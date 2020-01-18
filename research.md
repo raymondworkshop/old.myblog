@@ -8,7 +8,7 @@ title: Research & Talks
 [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)(HKU SPACE)   
 
 
-##### 2018 - 2019: Some of my presentations on Artificial Intelligence and its applications in language & speech at HSU  
+##### 2018 - 2019: Some of my presentations on Artificial Intelligence and its applications in language & speech at HSUHK  
 
 * [Collect data as Dataset](https://docs.google.com/presentation/d/1Y7zrC9QLHHcFlQpn3Yb2_paOgU_xB1B4yJwjM6ah98E/edit?usp=sharing)
 * [Algorithm: word embeddings based mapping](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)
