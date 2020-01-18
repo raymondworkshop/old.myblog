@@ -42,6 +42,33 @@ decline - "That is a good idea. I would like to join in but I have another appoi
 sorry - "I want to apologise."  "I owe you an apology"  "my mistake"  "I want to apologise for my behavior / to someone"  "I sincerely apologise" .. "I take full responsibly ..."  
 
 
+#### 76 Opening Night  
+
+**You've earned it**. (你应得的)  
+
+Speaking of promoting book, do I really have to **autograph copies** (亲笔签名) for the guest at the opening?  
+
+**It's common practice** (这是惯例).  
+
+**I'm scared to death** (紧张,我害怕的要命)    
+
+They've **stood by me through all this**.  (整个过程中一直支持我)  
+
+If you really **mean it** (真心话), I'll bring some ...  
+
+What are you **afraid of**?  (你害怕什么)  
+
+I suppose I've **run out of excuses**. (沒有借口了)  
+
+Make yourself comfortable.  (请随便)  
+
+Ladies and gentleman, **if I may have your attention for a moment**, please?  
+
+I'd like to thank Harvey **for his faith in** my project. (有信心)  
+
+That sounds very exciting, but **where would I fit into the plan**? (我在项目中能做些什么)
+
+
 #### 71 Country Music  
 
 **We really appreciate** your taking care of Max for the weekend.  
@@ -77,7 +104,6 @@ She has no idea that the party is **in her honour** (in order to celebrate).
 **If** the big party **were** today, he **would** tell all his friends about it.
 
 I guess we were **thinking the same thought (we thought alike)**.    
-
 
 
 
