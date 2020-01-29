@@ -7,7 +7,7 @@ categories: [softskill]
 abstract: "关于沟通"
 --- 
 
-#### self  
+#### self    
   *  
 
 #### small talk  - try to find common interest  
@@ -84,10 +84,10 @@ abstract: "关于沟通"
 
 #### 沟通 - 得体 - 分寸合适  
   * British culture 
-    - **friendly smile and eye contact** when you handshake  
-    - **follow the host** 
+    - **friendly smile and eye contact** when you handshake    
+    - **follow the host**  
     - greet first before asking any question 
-    - say "Excuse me", "please", "Sorry" 
+    - say "Excuse me", "please", "Sorry"  
 
 #### 如何处理和伯乐的关系 
   * 因为年龄，性别和阅历的差别，或者还没有见面的人，
@@ -103,7 +103,7 @@ abstract: "关于沟通"
     - 真诚地表示自己一定多学习，好好干  
     - 如果将来工作中有问题，还得麻烦，给予指导和引领  
 
-#### 有求于人的时候，如何寻求帮助合适呢？  
+#### 有求于人的时候，如何寻求帮助合适呢？   
   * 做好自己的准备工作 
     - 你对自己的需求了解吗？  是否已经准备好自己的背景资料  
     - 自己要对目标人脉和目标方向做好调研  
@@ -162,7 +162,7 @@ abstract: "关于沟通"
     - 自信，自然的态度 
       + 自信是因为自知而带来的自我肯定 - 知道自己是谁，有什么样的优势和特点  
 
-#### 多观察， 注意留意身边为人处事得体，让人感觉舒服的人 
+#### 多观察， 注意留意身边为人处事得体，让人感觉舒服的人   
 
 
 #### reference

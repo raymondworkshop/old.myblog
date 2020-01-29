@@ -3,7 +3,7 @@ layout: post
 title: "[Updating] Notes about Concurrency and Parallelism"
 date: 2019-12-11
 comments: true
-categories: [home,notes]
+categories: [learning]
 abstract: "[Updating] notes about Concurrency and Parallelism"
 ---
 

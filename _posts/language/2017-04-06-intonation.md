@@ -25,7 +25,7 @@ abstract: "Summary about the American Intonation"
   - 
   - GPS or mapping 
   - "that was good" - rise, fall, and rise 
-  - "that was good" - rise, **falling at then end** <- negative 
+  - "that was good" - rise, **falling at the end** <- negative 
   - 
 
 
@@ -34,8 +34,11 @@ abstract: "Summary about the American Intonation"
 * de-stress: relaxed and short -> function word
 
 #### Intonation, Linking, Rhythm
-* [The shape of stress](http://rachelsenglish.com/stress-syllable-shape-stress/)
-* [stress-timed language](http://rachelsenglish.com/english-stress-timed-language/)
+* [The shape of stress](http://rachelsenglish.com/stress-syllable-shape-stress/)  
+* the schwa sound  
+  - vowel -> /ə/  
+  - 
+* [stress-timed language](http://rachelsenglish.com/english-stress-timed-language/)  
   - to -> /tə/ or /də/ 
   - because of ->  /kəz ə/
   - for -> /fər/
@@ -109,10 +112,10 @@ abstract: "Summary about the American Intonation"
      + Did he get the new car? -> /DId hiy/ -> /DI-diy/
 
 
-#### write what you hear
+#### write what you hear  
 
 
-#### improve listening
+#### improve listening  
   - study reducation
   - study linking
     + he always /hi(y) 'ɔl weiz/

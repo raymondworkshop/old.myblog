@@ -5,7 +5,18 @@ date: 2020-1-14
 comments: true
 categories: [language]
 abstract: "Summary about the American Intonation" 
----
+--- 
+
+
+#### pronouncation  
+
+*  **reduce your accent**    
+   - repeat with a native person  
+   - use the spoken words the local use  
+   - adopt cultural traits    
+
+* **interact with natives**   
+
 
 #### tips  
 * stress 
