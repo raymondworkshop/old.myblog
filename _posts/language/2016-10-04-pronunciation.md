@@ -94,6 +94,7 @@ abstract: "Summary about the American pronunciation"
     + /i/ -> **the tongue is bit more relaxed, the jaw does drop a little bit more** - don't open mouth widely 
     not stretched into a smile 
       - **[i](https://v.qq.com/x/page/s0127chnq3p.html?__t=1&ptag=1.sina&_out=1)**
+      - [i, i:](https://www.bilibili.com/video/av2681140?p=8)
     
     + æ： 嘴巴开口大（舌头低）， 舌头最高位位前，唇展开
 
@@ -115,6 +116,7 @@ abstract: "Summary about the American pronunciation"
       - **The back of the tongue lifts towards the back of the roof of the mouth.The front of the tongue remains down, but it might be pulled slightly back** .
       - foot,took, cook, shook, stood, good, look, book,wool, swoosh
       - wood
+      - [u:, u](https://www.bilibili.com/video/av2681140?p=10)
 
 
 * 双元音 
@@ -148,7 +150,7 @@ abstract: "Summary about the American pronunciation"
 #### English
   - **[Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome)** 
   - **[English for Effective Business Speaking](https://www.coursera.org/learn/business-english-vocabulary/home/welcome)** 
-  - **[Business English for Cross-cultural Communication](https://www.coursera.org/learn/cross-cultural-communication-business/home/welcome) 
+  - **[Business English for Cross-cultural Communication](https://www.coursera.org/learn/cross-cultural-communication-business/home/welcome)**  
   -  
   - [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone)
   - 
