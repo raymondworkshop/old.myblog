@@ -3,8 +3,7 @@ layout: post
 title: "Notes on The Effective Executive"
 date: 2020-01-31
 comments: true
-categories: [softskill, notes]
-abstract: "Notes on The Effective Executive"
+categories: [softskill]
 --- 
 
 #### 前言  
