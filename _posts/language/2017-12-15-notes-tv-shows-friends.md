@@ -7,6 +7,22 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S01E09  
+
+**I was wondering do you think it would be possible if** I got ?   
+
+Not that I believe any of this.  (并不表示我信这个)  
+
+**I'd just like to say** that **I'm totally behind** (完全赞同) the experiment. 
+
+we all chipped in. (凑钱)  
+
+I gotta tell you. You're the best in the business. (我得说,你在那里最棒)  
+
+Really?  You don't know what that means to me.  (我很感动)  
+
+I guess what I'm trying to say is that ... 
+
 #### S01E08  
 how's it going? 
 
