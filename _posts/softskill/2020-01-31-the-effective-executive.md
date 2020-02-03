@@ -7,7 +7,7 @@ categories: [notes, softskill]
 abstract: "notes"
 --- 
 
-总结自《The Effective Executive》, 作者彼得·德鲁克(Drucker.P.F.)主要探讨 **如何自我管理**, 以实现个人和组织的有效成长(thus improve the performance) .  
+总结自《The Effective Executive》, 作者彼得·德鲁克(Drucker.P.F.)主要探讨 **如何自我管理**, 以实现个人和组织的效用(thus improve the performance) .  
 
 #### 前言  -  **get the right things done**  - to effect  
 * knowledge worker  
