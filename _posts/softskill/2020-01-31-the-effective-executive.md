@@ -7,7 +7,7 @@ categories: [notes, softskill]
 abstract: "notes"
 --- 
 
-总结自《The Effective Executive》, 作者彼得·德鲁克(Drucker.P.F.)主要探讨以目标为导向的管理, 即有效性(effectiveness)做为组织和个人成长的目标 .  
+总结自《The Effective Executive》, 作者彼得·德鲁克(Drucker.P.F.)主要探讨 要以目标为导向, 即有效性(effectiveness)做为个人和组织成长的目标 .  
 
 #### 前言  -  **get the right things done**  - to effect  
 * knowledge worker  
