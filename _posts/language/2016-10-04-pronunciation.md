@@ -83,8 +83,9 @@ abstract: "Summary about the American pronunciation"
   - 
 
 * [元音](http://www.yorku.ca/earmstro/ipa/vowels.html) 
-  - {舌高低}x{舌前后}x{唇圆展}
-  - i: -> e -> æ   舌头从高到低（嘴巴张开从小到大）
+  - [American Vowels](https://www.weibo.com/tv/v/HCpID3btn?fid=1034:4391540445924591)  
+  - {舌高低}x{舌前后}x{唇圆展}  
+  - i: -> e -> æ   舌头从高到低（嘴巴张开从小到大）  
   - 舌头的最高位置从前到后
   - 唇從展开到圆型 （从左到右）
     + i: 衣；  **eat**, **展唇(stretch your lips back more - smile)**,舌头高，舌前
