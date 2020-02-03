@@ -7,7 +7,7 @@ categories: [notes, softskill]
 abstract: "notes"
 --- 
 
-总结自《The Effective Executive》, 作者彼得·德鲁克(Drucker.P.F.)主要探讨 要以目标为导向, 即有效性(effectiveness)做为个人和组织成长的目标 .  
+总结自《The Effective Executive》, 作者彼得·德鲁克(Drucker.P.F.)主要探讨 **如何自我管理**, 进而实现个人和组织的成长 .  
 
 #### 前言  -  **get the right things done**  - to effect  
 * knowledge worker  
@@ -109,33 +109,33 @@ abstract: "notes"
       - “此人能做些什么?” 为开始     
     + 正直和诚实  
 
-* 管理上司 - **运用上司的长处**  
-  - **应该从正确的事情着手,并以上司能接受的方式向其提出建议**  
-    + **协助上司发挥其长处**    
-    + “我的上司能做些什么?”  
-    + **“他有过什么成就?”**  要使他发挥长处,他需要知道什么?
-    + “他需要我完成什么?”  
-    +  
-  - **如何提建议**     
-    + “读者型” - 读过才能听进去  
-    + “听者型” - 听了才能掌握要点  
+* **Manage you Boss**   
+  - focus on **the strengths of the boss** and on **what he can do**         
+    + enable boss to **do what he can do**  
+      - "what can my boss do really well?"  
+      - "what does he need to know to use his strength?"  
+      - "what does he need to get from me to perform?"  
+    + know the boss **has his own ways of being effective**  
+      - either "readers" or "listeners"    
 
-  - 发挥自己的长处  
-    + 只要先问 **“我到底能做些什么?”**  
-    + **了解自己的类型,配合自己的习惯而行动**  
-      - **顺应自己的个性特点,不勉强自己**    
-      - 注意的事自己的绩效,自己的成果,从而发展自己的工作方式  
-    + 了解自己的性情
-      - **了解自己能做些什么为基础,然后以最适合自己的方式做下去**   
-    + **认识我们的下属, 观察上司, 多问“此人能做些什么”**  
+* Make yourself effective    
+  - start out with the question **"what can I do"**      
+  - **了解自己的类型,配合自己的习惯而行动**  
+    + **顺应自己的个性特点,不勉强自己**    
+    + 注意的事自己的绩效,自己的成果,从而发展自己的工作方式  
+  - 了解自己的性情
+    + **了解自己能做些什么为基础,然后以最适合自己的方式做下去**   
+  - **认识我们的下属, 观察上司, 多问“此人能做些什么”**  
 
-  - 管理者的任务  
-    + **提高领导人的水平容易,提高全体人员的水平难** 
-    + **找出有条件做出突出贡献,并起带头作用的人才**  
-      - 赋予他们领导人的地位  
-      - **安置到能“制定标准”并能创造成绩的位置上**  
+* 管理者的任务  
+  - **If leadership performance is high, the average will go up**  
+  - **easier to raise the performance of one leader**, and set it into the standard-setting.   
+  - 
+  - **找出有条件做出突出贡献,并起带头作用的人才**  
+    + 赋予他们领导人的地位  
+    + **安置到能“制定标准”并能创造成绩的位置上**  
 
-    + 让每一个人的才智充分发挥      
+  - 让每一个人的才智充分发挥      
 
 
 #### 要事优先  - **first things first**  
