@@ -49,7 +49,7 @@ The book [《The Effective Executive》](https://www.amazon.com/Effective-Execut
     + 紧急事件  
     + 非做不可  
 
-#### **"What can I contribute?"**     
+#### **What can I contribute?**     
 
 * **注重贡献**, 注意**对成果负责**, 并将自己的工作与长远目标结合起来  
   - 重视贡献才能使管理者注意力不为本身的专长,所属部门所限,**才能看到整体绩效,同时更重视外部世界**  
@@ -65,25 +65,41 @@ The book [《The Effective Executive》](https://www.amazon.com/Effective-Execut
   - **肩负贡献的责任**
     + 有责任让别人了解自己,进而使自己的工作有成效  
     + 应该了解别人的需要,方向,理解, 以使别人能够应用他的成果  
-  - 问内部工作人员   
-    + **“你需要我做些什么贡献? 需要我在什么时候,以哪种形式,用什么方式来提供贡献”**  
+  - **ask** other people, the superiors, the subordinates, the colleagues  
+    + "**what contribution from me do you require** to make your contribution to the organziation?"   
+    + **"when do you need this, how do you need it, and in what form?"**   
+    + 
+  - **realte his narrow area to a genuine whole**   
+    + learn enough of the needs, the directions, the limitations, and the perceptions of others to enable them to use his own work   
+    +  
 
-* 人际关系 **建立在 “贡献”的基础上**  
-  - communications    
-    + "期望你做些什么, 如何才能使你知识和能力得到最大发挥"   
-    + 下属设得目标,往往出乎主管意料  
+* **The right human relations** -  **建立在 “贡献”的基础上**  
+  - communications  - **contribution in the own work**  
+    + "what should we expect of you?"  
+    + "what is the best utilization of your knowledge and your ability?"  
+    + **the superior has both the right and the responsibility to judge** the validity of the proposed contribution  
+    + **the more capable they are**, the more willing to take responsibility 
+    +  
 
-  - teamwork 
-    + **精于本行,必须对自己能力和工作素质负责**    
-    + 团队以当时承担的特定任务为中心   
+  - **teamwork**   
+    + "**Who has to use my output** for it to become effective?"  
+    + 
+    + inside - **resonsible for their own competence and for the standards of the work**  
+    + outside - **belonging to a functional specialty**   - task-focused  
+       - **act as responsible members of a team**  with people with differ knowledge areas  
+       - orgainzed around the specific task on hand  
+    +  
 
-  - 寻求自我发展  
-    + “我为**组织能有什么最大的贡献**”  
-    + “我需要怎样的自我发展, 应该学习什么知识和技能? 应该为自己设定怎么的标准 ”   
+  - **self-development**     
+    + “**What is the most important contribution I can make** to the performance?”  
+    + "**what knowledge and skill** do I have to acquire to make it"
+    + "**What Strengths** do I have to put to work"   
+    + "**What standards** do I have to set myself?" 
 
-  - 启发他人     
-    + 设定的标准, 以任务需求为基础的标准  
-    + 使高度的期望 
+  - stimulate others to develop themselves       
+    + he **set standard** which are not personal but **grounded in the requirements of the task**  
+    + he **demands a good deal of himself**         
+
 
 * 有效会议 
   - 会前 想清楚**会议的目的和要求达成的贡献**   
