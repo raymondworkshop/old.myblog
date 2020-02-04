@@ -3,11 +3,11 @@ layout: post
 title: "Notes on 《The Effective Executive》"
 date: 2020-01-31
 comments: true
-categories: [notes, softskill]
-abstract: "notes"
+categories: [home, notes, softskill]
+abstract: "Notes mainly on Executive Self-management"
 --- 
 
-总结自《The Effective Executive》, 作者彼得·德鲁克(Drucker.P.F.)主要探讨 **如何自我管理**, 以实现个人和组织的效用(thus improve the performance) .  
+The book [《The Effective Executive》](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1) is mainly on **executive self-management**; An executive means to self-deploy on **the few priorities that will make the biggest impact** .  
 
 #### 前言  -  **get the right things done**  - to effect  
 * knowledge worker  
@@ -16,7 +16,7 @@ abstract: "notes"
   - 知识工作者本人**必须自己管理自己,自觉地完成任务,自觉地做出贡献,自觉地追求工作效益**    
   - 知识工作者生产的是知识,创意和信息  
 
-* 管理者 - **促进机构有效运转并负有行动与决策责任的人**  
+* 管理者 (knowledge worker or manager) - **促进机构有效运转并负有行动与决策责任的人**  
   - 不仅执行命令为满足, 他**必须能做决策,并承担起做出贡献的责任**  
   - **衡量知识工作主要应看其结果**,  而不是机构的规模或者管理的繁简  
   - 基于知识权威所做的决策, 与高级管理层做的决策具有相同性质   
@@ -49,14 +49,14 @@ abstract: "notes"
     + 紧急事件  
     + 非做不可  
 
-#### 重视贡献 - **“我能有什么贡献”**     
+#### **"What can I contribute?"**     
 
 * **注重贡献**, 注意**对成果负责**, 并将自己的工作与长远目标结合起来  
   - 重视贡献才能使管理者注意力不为本身的专长,所属部门所限,**才能看到整体绩效,同时更重视外部世界**  
   - 贡献 
-    + 直接成果  - 生存需要  
-    + 价值观的承诺与实现 - 组织自己的主张和想法 -  维生素和矿物质    
-    + 培养与开发明天所需的人才  - 人力资源的更新 
+    + direct results  - 生存需要  
+    + **value commitment and reaffirmation** - 组织自己的主张和想法 -  维生素和矿物质    
+    + **renew its human capital**   
   -  
   - 适应新职位而变,适应不同价值观承诺而变  
     + **“如果做得好,能使本公司有所改变”**  
@@ -69,11 +69,11 @@ abstract: "notes"
     + **“你需要我做些什么贡献? 需要我在什么时候,以哪种形式,用什么方式来提供贡献”**  
 
 * 人际关系 **建立在 “贡献”的基础上**  
-  - 互相沟通  
+  - communications    
     + "期望你做些什么, 如何才能使你知识和能力得到最大发挥"   
-    + 下属舍得目标,往往出乎主管意料  
+    + 下属设得目标,往往出乎主管意料  
 
-  - 团队合作 
+  - teamwork 
     + **精于本行,必须对自己能力和工作素质负责**    
     + 团队以当时承担的特定任务为中心   
 
