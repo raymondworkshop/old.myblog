@@ -4,7 +4,7 @@ title: "关于教育"
 date: 2017-12-20
 comments: true
 categories: [notes]
-abstract: "摘錄自《魔鬼老大，天使老二》"
+abstract: "关于教育 - 摘錄自《魔鬼老大，天使老二》"
 ---
 > <small>关于教育 - 摘錄自《魔鬼老大，天使老二》</small> <br/> 
 
