@@ -7,7 +7,7 @@ categories: [home, notes, softskill]
 abstract: "Notes on Executive Self-management"
 --- 
 
-The book [《The Effective Executive》](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1) is mainly on **executive self-management**; An executive means to self-deploy on **the few priorities that will make the biggest impact** .  
+The book [《The Effective Executive》](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1) is on **executive self-management**; An executive means to self-deploy on **the few priorities that will make the biggest impact** .  
 
 #### 前言  -  **get the right things done**  - to effect  
 * knowledge worker  
