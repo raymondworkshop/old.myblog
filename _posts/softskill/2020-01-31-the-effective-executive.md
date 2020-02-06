@@ -173,7 +173,7 @@ The book [《The Effective Executive》](https://www.amazon.com/Effective-Execut
     + 成功的事业, 以开发新技术或开发新事业为宗旨 
 
 
-#### Decision-Making  
+#### **Decision-Making**    
 * the effective decision  
   - trackle a problem at **the highest level of conceptual understanding**   
   - try to **develop a principle for dealing with it**      
