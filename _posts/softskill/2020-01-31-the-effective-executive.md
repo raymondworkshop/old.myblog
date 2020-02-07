@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Notes on 《The Effective Executive》"
+title: "The Effective Executive"
 date: 2020-01-31
 comments: true
 categories: [home, writing, softskill]
-abstract: "Notes on Executive Self-management"
+abstract: "Notes on how to get the right things done"
 --- 
 
 In the book [《The Effective Executive》](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1) Peter F. Drucker reminds us on how to **executive self-management**, so that we could "**get the right things done**" .    
