@@ -3,11 +3,11 @@ layout: post
 title: "Notes on 《The Effective Executive》"
 date: 2020-01-31
 comments: true
-categories: [home, notes, softskill]
+categories: [home, writing, softskill]
 abstract: "Notes on Executive Self-management"
 --- 
 
-The book [《The Effective Executive》](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1) is on **executive self-management**; An executive means to self-deploy on **the few priorities that will make the biggest impact** .  
+In the book [《The Effective Executive》](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1) Peter F. Drucker reminds us on how to **executive self-management**, so that we could "**get the right things done**" .    
 
 #### 前言  -  **get the right things done**  - to effect  
 * knowledge worker  
