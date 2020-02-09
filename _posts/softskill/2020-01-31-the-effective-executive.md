@@ -7,9 +7,9 @@ categories: [home, notes, softskill]
 abstract: "Notes on how to get the right things done"
 --- 
 
-In the book [《The Effective Executive》](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1), Peter F. Drucker guides us on how to be **executive self-management**, so that we could "**get the right things done**" .    
+In the book [<The Effective Executive>](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1), Peter F. Drucker guides on how to be **executive self-management**, so that we could "**get the right things done**" .    
 
-#### 前言  -  **get the right things done**  - to effect  
+#### 前言  -  to effect  - **get the right things done** 
 * knowledge worker  
   - 知识工作者的**生产力,就是“做好该做的事情”的能力, 也就是有效性**  
   - 无法对知识工作者进行严密和细致的督导,只能**协助**他们  
@@ -97,7 +97,7 @@ In the book [《The Effective Executive》](https://www.amazon.com/Effective-Exe
     + "**What standards** do I have to set myself?" 
 
   - stimulate others to develop themselves       
-    + he **set standard** which are not personal but **grounded in the requirements of the task**  
+    + he **sets standard** which are not personal but **grounded in the requirements of the task**  
     + he **demands a good deal of himself**         
 
 
