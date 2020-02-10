@@ -1,11 +1,33 @@
 ---
 layout: post
 title: "notes about TV show 'Friends'"
-date: 2017-12-15
+date: 2020-01-01
 comments: true
 categories: [language]
 abstract: "notes"
 ---
+
+#### S01E10  
+So how'd it go?  (怎么样)    
+
+It's all political. (潜规则)   It's just such a slap in the face. (当头一棒)  
+
+I thought she had a hard quality. (没什么气质)  
+
+**you are luminous with** a kind of a delicate grace.  (散发古典美)  
+
+I had **such a blast with him the other night**. (那天晚上和他玩的愉快)
+
+It was probably the first time I ever mentally undressed an elf. (产生扒光小精灵衣服的念头)  
+
+It's tearing me apart. (我心如刀割)   I have no choice.  
+
+I don't know how to tell you this ... 
+
+**I'm no math whiz** ... **But I do believe** there are three girls and three guys right here .. 
+
+
+
 
 #### S01E09  
 
