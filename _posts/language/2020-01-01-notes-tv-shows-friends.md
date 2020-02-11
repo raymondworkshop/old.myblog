@@ -18,7 +18,7 @@ I thought she had a hard quality. (没什么气质)
 
 I had **such a blast with him the other night**. (那天晚上和他玩的愉快)
 
-It was probably the first time I ever mentally undressed an elf. (产生扒光小精灵衣服的念头)  
+It was probably the first time I ever **mentally** undressed an elf. (产生扒光小精灵衣服的念头)  
 
 It's tearing me apart. (我心如刀割)   I have no choice.  
 
