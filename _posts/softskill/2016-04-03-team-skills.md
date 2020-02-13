@@ -14,7 +14,7 @@ abstract: "Some lessons about team skills"
 ##### Teamwork  
 
 ##### Negotiation  
-* Preparation and Leverage    
+* Preparation and Leverage     
   - develop your  BATNA - Best Alternative To a Negotiated Agreement  
     +  **plan B**    
     +  **The stronger** your BATNA, the more leverage you have in the negotiation  
@@ -54,6 +54,8 @@ abstract: "Some lessons about team skills"
 * Win-Win Negotiation  
   
 * Disputes and Conflict Escalation 
+
+
 
  
 
@@ -246,5 +248,6 @@ abstract: "Some lessons about team skills"
 
    
 #### reference
+- [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/home/week/3)
 - [好的人际关系](http://www.weibo.com/ttwenda/p/show?id=2310684096786611478970#_0)
 - [6个技巧帮你快速听出“画外音”](http://likaifu.blog.caixin.com/archives/171679)
