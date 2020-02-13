@@ -6,6 +6,55 @@ comments: true
 categories: [softskill]
 abstract: "Some lessons about team skills"
 ---
+
+#### High Performance Collaboration  
+
+##### Leadership  
+
+##### Teamwork  
+
+##### Negotiation  
+* Preparation and Leverage    
+  - develop your  BATNA - Best Alternative To a Negotiated Agreement  
+    +  **plan B**    
+    +  **The stronger** your BATNA, the more leverage you have in the negotiation  
+    + the BATNA tell you when to talk, not when to sign  
+
+    +  You always have a BATNA  
+    + **Always improve** your BATNA  
+    + **Never reveal your BATNA to the counter-party**  
+       - If you do, you give up all your leverage  
+    + **Signal** to the other party that you have "attractive options"   
+
+    + Once you determine your BATNA, then devise your reservation price  
+       - the lowest amount you can agree to or hightest one you can pay inside a negotiation  
+  - Target Points and Anchoring  
+    + set a target point  - do as much research as I can  
+       - your interests -> what is really important to you 
+       - market conditions -> research better data than the counter-party   
+       - information about the counter-party's BATNA  
+         + **gain leverage**   
+       -   
+    + estimate the ZOPA - zone of possible agreement  
+       - Bargaining Zone  
+
+    + open first, if you are prepared   
+       - the person who make the first offer has a strategic advantage 
+         + first offers act as anchors 
+    + Immediately re-anchor if the other party opens first  
+
+
+  - The Art of concession 
+    + make large number of **small concessions**  
+    + Avoid unilateral concessions  
+    + Be precise   
+    + You have far more leverage with your offers if you provide a rationale 
+
+
+* Win-Win Negotiation  
+  
+* Disputes and Conflict Escalation 
+
  
 
 #### 职场心法  - 面试 - 面试是**有效沟通，通过沟通展示自己的价值**  
@@ -134,11 +183,11 @@ abstract: "Some lessons about team skills"
  
 
 * have a good relationship with your boss  
-  - the clues in the submitter’s style and communications behaviour instead - indications that the person has been in their shoes
+  - the clues in the submitter’s style and communications behaviour instead - indications that the person has been in their shoes  
 
   - The right attitude is helpful, respectful of the maintainer’s time, quietly confident but unassuming 
   
-  - on time
+  - on time 
   - know your manager's communication style and methods
     + ask his preferred way of communication and delivery of requirements
     
@@ -146,9 +195,9 @@ abstract: "Some lessons about team skills"
     + help your boss do her job - see yourself as a complement
     + avoid falling into the trap of not fitting the job description
     
-  - do more than expected (new and better ways)
+  - do more than expected (new and better ways)  
   
-  - ask for feedback
+  - ask for feedback  
     + schedule to inform him about what I have been working on
     + communicate often, be respectful, ask questionss
 

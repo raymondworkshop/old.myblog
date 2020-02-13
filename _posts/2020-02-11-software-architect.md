@@ -21,3 +21,17 @@ categories: [software, learning]
 *  Define the **what**, the requirements from architecture  
 
 *  Capture Constraints as Simple Statements  
+*  Quality Attributes as Scenarios
+*  Influential Functional Requirements  
+
+
+#### ch6 - choose an Architecture  
+
+* architects **choose structures to promote quality attributes** in the system  
+
+* accept the constraints  
+
+* **explore Patterns** to promote desired Quality Attributes  
+
+*  find the functional requirements and ensure the architecture can achieve them 
+  - **assign specific functional responsibilities to each element**    
