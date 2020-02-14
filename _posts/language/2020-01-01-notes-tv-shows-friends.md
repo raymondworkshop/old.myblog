@@ -7,6 +7,25 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S01E12  
+I did this as a favor. I am not a caterer.  (我是帮你,我不是承包)
+
+**What am I supposed to do?** (我该怎么办)  
+
+I'm out of sorts (我心烦)  
+
+Well, he made a move on me.  he made a pass at me. (他吃我豆腐)  
+
+
+You **pick up the pieces**, and then you usher in the age of Ross (把握机遇, 走向ross 时代)
+
+See, Rich, I don't think that swearing off guys altogether **is the answer**, I really don't.  
+**I think that waht you need is to** develop a more sophisticated screening process. (更成熟的辨别方法)  
+
+
+#### S01E11  
+He's a lawyer who teaches sculpting on the side(兼职).  
+
 #### S01E10  
 So how'd it go?  (怎么样)    
 
