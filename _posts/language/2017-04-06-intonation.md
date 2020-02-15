@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "American Intonation - 1"
-date: 2020-1-14
+date: 2017-04-06
 comments: true
 categories: [language]
 abstract: "Summary about the American Intonation" 

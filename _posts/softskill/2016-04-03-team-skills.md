@@ -16,7 +16,7 @@ abstract: "Some lessons about team skills"
 ##### Negotiation  
 * Preparation and Leverage     
   - develop your  BATNA - Best Alternative To a Negotiated Agreement  
-    +  **plan B**    
+    +  **plan B**    - reservation price  
     +  **The stronger** your BATNA, the more leverage you have in the negotiation  
     + the BATNA tell you when to talk, not when to sign  
 
@@ -34,15 +34,19 @@ abstract: "Some lessons about team skills"
        - market conditions -> research better data than the counter-party   
        - information about the counter-party's BATNA  
          + **gain leverage**   
-       -   
+       -  then you positioned yourself to reach your goal 
+       -  cordial, engaged, and direct   
+
     + estimate the ZOPA - zone of possible agreement  
        - Bargaining Zone  
 
-    + open first, if you are prepared   
+    + **open first** only if you are prepared   
        - the person who make the first offer has a strategic advantage 
-         + first offers act as anchors 
-    + Immediately re-anchor if the other party opens first  
+         + first offers act as anchors  
 
+    + Immediately re-anchor if the other party opens first   
+    + Plan your opeing offer  and carry it out   
+    + **Never ask is this negotiable; always negotiate**   
 
   - The Art of concession 
     + make large number of **small concessions**  
@@ -51,12 +55,89 @@ abstract: "Some lessons about team skills"
     + You have far more leverage with your offers if you provide a rationale 
 
 
-* Win-Win Negotiation  
+* Win-Win Negotiation    
+  - Win-Win Negotiation  
+    + if you never share our interests, we cannot reach win-win outcomes  
+    + **split the negotiation into several parts**  
+    + **prioritize your interests**  
+    + reveal your interests
+    +  **ask questions about the other party's priorities**   
+       - what is more valuable to you - X or Y?  
+       - what is your rank ordering of the issues?  
+       - Would you rather I made a concession on issue Z or issue W?  
+       - If I gave what you wanted on Z could you give me ehat I need on Y. 
+
+    + devise multi-issue proposals that logroll parties' interests.  
+       -  value-added 
+       -  tradeoff  
+
+
+  - Creating Value  
+    + **Bet** between parties who have **diff beliefs** that can be tested with time and data  
+       - check your over-confidence: like you have better data 
+       - make sure the incentives are aligned 
+       - be clear about what data will be used  
+       - make sure you can pay the bet if you lose  
+
+    + make **multi-issue proposals**   
+       - Do not reveal the monetary value of the proposals 
+       - **explain you are indifferent** among the proposals 
+       - if they reject, **ask to rank** order in terms of acceptability  
+       - set aside questions of accept and reject 
+         + you can discren their interests  
+
+    + Once you reach agreement, Post-deal conversation  
+       - after negotiators reach a deal, **this is a commitment** unless both parties are willing to change .  
+       - explain to the counter-party that the process is **mutual value creation**  
+       - 
+       - need trust to have post-deal  
+       - consider your opportunity costs  
+
+    + Notice 
+       - refuse to share any information severely reduces win-win potential  
   
 * Disputes and Conflict Escalation 
 
+  - Interests, Rights and Power  
+    + Power moves are essentially threats 
+    + Rights strategy 
+       - like fair standards, legal precedent, customer service, maket conditins, past practice, the policy  ...   
+    + **Interests strategy**  
+       - **understand the needs and interests** of the other party   
+       - separate the people from the problem  
 
+  - how to change Rights and Power into **Interests**  
+    + **Ask "why" and "why not" questions**   
+    + don't focus on a single option  
+       - **Attempt to generate multiple options** or courses of action  
 
+    + **reward the use of interest** by the other party  
+
+  - redirect rights and power-based negotiators back to interest  
+    + Don't reciprocate  
+    + Don't get personal  attach  - not you ... 
+       - "I'm frustrated now because this is a really important matter for me."  
+    + Send a **mixed-message**    
+       - like mixed power+interest or right-interest   
+
+    + meet face to face  
+    + 
+
+  - Conditions under which using rights or power is warranted  
+    +  when the other party **will not come to the table**  
+    +  when you have exhausted all of your options on interest  
+       -  "look, I'm running out of optimism here. My goal is to settle this but I fear that I mgiht need to seek legal council. Do u have any ideas?"  
+    + when the other party is not taking you seriously  
+
+    + Be clear about what actions are needed   
+    + **help parties "save face"**     
+    + the whole idea is to **de-escalate conflict**    
+
+  - Reputation  
+    + **Manage our reputation** in negotiation  
+    + **See unbiased feedback**    
+    + need to be **proactive**  
+      - "ask questions, ask for evidence, suggest contingencies when the information you need is not available"   
  
 
 #### 职场心法  - 面试 - 面试是**有效沟通，通过沟通展示自己的价值**  
