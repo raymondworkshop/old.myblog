@@ -11,6 +11,114 @@ abstract: "Some lessons about team skills"
 
 ##### Leadership  
 
+* **Growth Mindset**   
+  - the could **learn and respond** in the face of challenge  
+  - are more resilient  
+
+  - **know how to fail** is a key leadship skill 
+
+* leadership style  
+  - Theory X  
+    + 交换  
+
+  - Theory Y
+    + based on people want to contribute and **self-motivated** to perform good 
+    + inspire people to excel not by administering rewards or publishement, but
+    by **empowering others and giving them authority**  
+
+    + create a gift culture through contributing to the enterprise  
+
+  
+  - task-focused leaders  
+    + focus on getting work done  
+    + meeting performance objectives  
+    + being productive  
+
+  - person-focused leaders 
+    + care about people  
+    + care about their welfare  
+    + seek to build trusting relationship  
+
+  - **Situational Leadership Model**   
+    + from delegating, supporting, coaching, directing based on task and relationship bechavor  
+
+  - Summary  
+    + your leadership style and recognize styles in others  
+    + know your strengths and weaknesses  
+    + which style would be most useful for the goals of your organization?  
+    + **what can u do to begin** to develop this style?   
+    + **who can be part of your support system** in your leader ship development?  
+    + **each of us is a work in progress**, and we are never complete. 
+
+* Motivation, Emotion, and Cognition  
+  - a lot of benefits of being engaged and in lvoe with work  
+
+  - two types of Motivation  
+    + Intrinsic motivation is driven by **internal rewards** with a sense of satisfaction, accomplishment, or making the world a better place  
+       - like they could improve their health, and contribute to the community 
+    + Extrinsic Motivation is driven by **the promise of extrinsic rewards** like money, resources, or material gain  
+       - like they could save money or gain a good public image  
+ 
+    + **affirm intrinsic motivation** can lead to greater insight, and better performance  
+
+  - The How of Happiness  
+    + 40% intentional activity like **helping others, adopting a positive attitude,  exercise, striving for goals**    
+    + perform better at work 
+    + better social 
+
+  - Decision Making  
+
+    + Most decision-makers are **risk-averse when it comes to good things** like making money, saving lives 
+    + But **risk-seeing** when it comes to negative things 
+    + **Confirmation Bias**   
+      - people seek info that confirms what they wanna believe    
+    + **Decision Fatigue** 
+      - the act of making decisions produces fatigue  
+      - they want to be **mentally fresh**   
+
+  - four steps to make decision  
+    + **Build in tests of disconfirmatin**   
+      - what would prove you wrong?  
+      - **Reward team members for providing controversial data**  
+
+    + **Establish policies** in advance of obtaining outcome  
+    + Bring in outsiders, but don't tell them your preferred course of action  
+    +  
+
+* People Skills  
+  - Emotional Intelligence 
+    + how to work with other people and and how to manage yourself 
+    + **Self-Awareness**   
+      - understanding ourselves and seeing ourselves as others see us  
+      - **know the emotions and the factors that lead to the emotions 
+      and how they are perceived by others**  
+      - 360-degree evaluation  
+
+    + other-Awareness - empathy  
+    + Self-Management  
+      - how to appropriately regulate our emotions, particuly **negative ones**  
+      - **how to deal with frustration, anger** before it becomes an ill-fated  
+
+    + Relationship Management 
+
+  - Increase your own Organizational Intelligence  
+    + who are your trusted advisors?  
+    + Are u nurturing those relationships? 
+    + How can u act as a bridge between people and groups that should be connected?  
+
+* Cultural Intelligence  
+  - face cultures   - like china 
+    + derive their self worth from **earning the respect of others**    
+  - Dignity Cultures  - like american 
+    + strong speaking their mind and being self-reliant  
+    + their own self worth is self determined they are comfortable in **direct, rational, fact-based conversation**    
+    + status and titles are not nearly as important as **information and talent**    
+  - Honor cultures - middle East, south Asia, latin America 
+    + socially claimed, express emotion 
+
+
+
+
 ##### Teamwork  
 
 ##### Negotiation  
@@ -97,7 +205,6 @@ abstract: "Some lessons about team skills"
        - refuse to share any information severely reduces win-win potential  
   
 * Disputes and Conflict Escalation 
-
   - Interests, Rights and Power  
     + Power moves are essentially threats 
     + Rights strategy 
