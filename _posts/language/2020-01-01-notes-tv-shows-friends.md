@@ -8,6 +8,22 @@ abstract: "notes"
 ---
 
 #### S01E14  
+Roger **wants to take her out** tomorrow night.  
+
+We're some kind of magnets.  
+
+Here's my credit card.  **Dinner's on me**.  (算我的)  
+
+I have enjoyed the fact that ...  
+
+**Anything else I should know?**  .. 
+Nope. That's it.  
+
+There's no way to tell you this ...  
+
+Maybe I **screwed up** my first date in nine years.  (搞砸)  
+
+
 
 
 #### S01E13  
