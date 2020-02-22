@@ -71,10 +71,10 @@ abstract: "Some lessons about team skills"
     + Most decision-makers are **risk-averse when it comes to good things** like making money, saving lives 
     + But **risk-seeing** when it comes to negative things 
     + **Confirmation Bias**   
-      - people seek info that confirms what they wanna believe    
+       - people seek info that confirms what they wanna believe    
     + **Decision Fatigue** 
-      - the act of making decisions produces fatigue  
-      - they want to be **mentally fresh**   
+       - the act of making decisions produces fatigue  
+       - they want to be **mentally fresh**   
 
   - four steps to make decision  
     + **Build in tests of disconfirmatin**   
@@ -102,8 +102,8 @@ abstract: "Some lessons about team skills"
     + Relationship Management 
 
   - Increase your own Organizational Intelligence  
-    + who are your trusted advisors?  
-    + Are u nurturing those relationships? 
+    + **who** are your trusted advisors?  
+    + **Are u nurturing those relationships?**   
     + How can u act as a bridge between people and groups that should be connected?  
 
 * Cultural Intelligence  
@@ -118,8 +118,146 @@ abstract: "Some lessons about team skills"
 
 
 
+##### Build your Teamwork  - how to design and lead high performance teams 
+* goal-setting -
+  - tactical teams - like basketball team, the flight crew   
+    + need clarity  
+    + **training togeter**  
 
-##### Teamwork  
+  - problem-solving team - **Trust** is the key  
+    + benevolence-based trust: I trust your **intentions**    
+    + competency-based trust: I trust your **expertise**    
+
+  - creative  teamwork 
+    + need **autonomy**  
+
+  - notes
+    + know the goal of your team  
+    + set the stage for optimal performance   
+
+* Size and Diversity  
+
+  - Size 
+    + Teams should be **between five and nine members**    
+    + **choose the fewest number of people** possible to accomplish the task 
+  
+  - Diversity 
+    + most people choose members based upon personality, not expertise  
+    + the ideal type of diversity is **deep level Diversity** based on **expertise, training ,thinking styles**  
+    + **Faultline**: or you will separate teams into distinct subgroups based on sttributes, such as race, gender, functional area, etc.  
+       - create energy and excitement around the task  
+       - when conflict emerges, **build trust**   
+
+  - notes:
+    + assemble **the fewest number of people possible**   
+    + **what skills and expertise does each person uniquely** bring tothe team?  
+    + avoid homogeneity  
+    + check for **faultline**  
+    + Diverse teams do have potential for more conflict 
+      - **need some conflict management skills**     
+
+* Roles and Rules  
+
+  - **Leader and Team Responsibility**    
+    + Manager-led team  
+    + Self-managing teams  
+      - not only executes the task, but also **in charge of monitoring and managing their own performance**   
+      - like "we had a meeting, and we will deliver the final report in eight weeks,
+       and we will update you every fortnight. And we're having our ownmeetings on Thursdays to which you're not invited."   
+
+    + Self-directing team 
+      - do self-managing teams do 
+      - also, they select, recruit, and staff the team
+      - they have border control  
+      - like "the team announces that they've added gREG AND lISA TO THE TEAM."
+
+
+    + Self-governing teams  
+      - do self-directing teams do  
+      - they have some influence over the larger organization  
+      - like "they may shape strategic direction and new initiatives"  
+
+  - Rules of engagement  
+    + norms are set within microseconds of team's first meeting
+    + be proactive  
+    + have clear rules of engagement
+
+  - Team Design  
+    + **your experience level as compared to that of your team**    
+    + the organizational culture  
+    + how over-committed you are  
+    + risk: if you are not transparent about your relationship with the team,
+    the risk you task is that people will feel over-managed or under-led.  
+
+  
+  - notes  
+    + it's never too late to **develop a team charter**  
+    + Treat the charter like a live document  
+      - **living document written by all team members**    
+      - **including goals, responsibilities, norms**   
+      - what's working?  
+      - what's not working ?
+      - what should be added  
+
+    + **What kind of a relationship do u want with your team?**      
+
+
+##### Team Decision Making  
+* Evidence-Based Management  
+  - Teams should make decisions like **scientists**    
+  - notes:
+    + **use debate norms** not politeness norms  
+    + leave status and titles at the door  
+    + conduct **private votes on sensitive, important issues**  
+    + invite different perspectives  
+    + **hold multiple, short meetings** not one long meeting   
+    + create an environment where teams and their leaders don't fear failture  
+
+* Optimizing Conflict 
+  - relationship conflict 
+    + personality-based conflict  
+    + negatively affect group performance  
+
+  - task conflict  
+    + disagreements about the work to be done, not attacks on the people  
+    + may help group performance  
+
+  - address relationship conflict  
+    + team re-design  
+      - examine the structure of the team  
+      - what is the environment like?  
+      - are the work tasks equitably distributed?  
+      - how many people are on the team?  
+      - who did they report to?  
+
+    + team coaching  
+    + teaching conflict skills  
+    + personal coaching  
+
+* Virtual Teams 
+  - traditional  
+    + 
+  - virtual 
+  - hybrid 
+  - notes:
+    + **casual conversation** before business  
+    + don't use e-mail if you can pick up the phone  
+    + **only good news** is delivered via email  
+    + anything sensitive, complex, or negative is done face to face or by phone  
+    + put away the technology when meeting face to face  
+   
+* Team Creativity   
+  - creativity is production of novel and useful ideas  
+    + ideas  
+  - Innovation is production of actual ideas in the forms of products and services  
+    + implementation  
+
+  - notes
+    + **allow the team to generate a high volume of ideas ang set aside judgement**  
+    + **individuals** are more creative than teams   
+    + **strive for quantity**, not quality    
+
+    
 
 ##### Negotiation  
 * Preparation and Leverage     

@@ -4,6 +4,7 @@ title: "Notes on the Software Architect"
 date: 2020-02-11
 comments: true
 categories: [notes, learning]
+abstract: "Notes on how to do users' Requirements and the Software Architecture"
 ---
 
 
@@ -19,6 +20,21 @@ categories: [notes, learning]
      + "(stakeholder) Mayor wanna (goal) reduce procurement costs by 30%, (context) to avoid making budget cuts to education or other essential services in an election year."  
 
 #### ch5 - Architecturally Significant Requirements (ASR)
+*  **planning** -  
+   - **problem definition**  from a user's point of view  
+     + **a clear statement of the problem** that the sytem is supposed to solve   
+     + understanding what you want to build  
+   - **requirements prerequisite** ensure that the user drives the system's functionality   
+     + **how to specify requirements well**   
+     + the requirements checklist   
+
+   - **system Architecture**   
+     + determine the conceptual integrity of the system  
+     + a architecture first needs **an overview** that describes the system in broadterm 
+     + the architecture should **define the major buildign blocks** in a program 
+     +  the communication rules for each buildign block should be well defined  
+
+
 *  Define the **what**, the requirements from architecture  
 
 *  Capture Constraints as Simple Statements  
@@ -93,4 +109,5 @@ categories: [notes, learning]
 
 
 #### reference
-* [from programmer to architect]
+* [from programmer to architect]  
+* [code complete] 

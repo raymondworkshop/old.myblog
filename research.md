@@ -22,7 +22,7 @@ title: Talks & Publications
 * [iSpeaking - Automatic Speech Recognition for L2 (english&chinese) learners](https://docs.google.com/presentation/d/1qQC-UeyoCN7V9WVZTzPQqjbsb1NS8HI3/edit#slide=id.p1)
 
 
-#### paper-reading 2020  
+#### Paper-Survey 2020  
 
 ### Publications    
 #### Word Embeddings 
