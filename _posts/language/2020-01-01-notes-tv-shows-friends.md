@@ -7,6 +7,20 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S01E14  
+
+
+#### S01E13  
+
+You have no respect for anybody's privacy.    
+
+Did I miss something?    
+
+tit for tat (以牙还牙)    
+
+I don't mean to be disrespectful ...   
+
+
 #### S01E12  
 I did this as a favor. I am not a caterer.  (我是帮你,我不是承包)
 
@@ -20,7 +34,7 @@ Well, he made a move on me.  he made a pass at me. (他吃我豆腐)
 You **pick up the pieces**, and then you usher in the age of Ross (把握机遇, 走向ross 时代)
 
 See, Rich, I don't think that swearing off guys altogether **is the answer**, I really don't.  
-**I think that waht you need is to** develop a more sophisticated screening process. (更成熟的辨别方法)  
+**I think that what you need is to** develop a more sophisticated screening process. (更成熟的辨别方法)  
 
 
 #### S01E11  
