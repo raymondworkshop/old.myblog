@@ -7,6 +7,19 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S01E15  
+**That's the thing** I don't know ... (问题就在于)  
+
+It's great for me, caz you can make yummy noises.  
+
+Maybe this will **cheer you up**.  (让你开心)  
+
+I don't mean to brag (不是自吹自擂)  
+
+I was always **rooting for you** (支持) two kids to get together (交往)  
+
+
+
 #### S01E14  
 Roger **wants to take her out** tomorrow night.  
 
@@ -21,8 +34,7 @@ Nope. That's it.
 
 There's no way to tell you this ...  
 
-Maybe I **screwed up** my first date in nine years.  (搞砸)  
-
+Maybe I **screwed up** my first date in nine years.  (搞砸)   
 
 
 

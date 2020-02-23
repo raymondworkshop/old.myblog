@@ -52,6 +52,9 @@ abstract: "Notes on how to do users' Requirements and the Software Architecture"
 *  Influential Functional Requirements  
 
 
+
+#### **Design in Construction**   
+
 #### ch6 - choose an Architecture  
 
 * architects **choose structures to promote quality attributes** in the system  
@@ -108,6 +111,6 @@ abstract: "Notes on how to do users' Requirements and the Software Architecture"
 #### ch10 - how to visualize design ideas  
 
 
-#### reference
-* [from programmer to architect]  
+#### reference  
 * [code complete] 
+* [from programmer to architect]  
