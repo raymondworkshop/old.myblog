@@ -7,7 +7,7 @@ email/g: wenlzhao at gmail dot com.
 <br>
 
 
-I like problem solving and reading. Some of my projects are at [github](https://github.com/muyun) and my research is at [here](http://muyun.github.io/research/).  
+I like problem solving and reading. Some of my projects are at [github](https://github.com/muyun), and my research is at [here](http://muyun.github.io/research/).  
 
 Outside of science & tech, I mainly write on culture and people.    
 <br> 
@@ -18,6 +18,8 @@ I graduated from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/en
 I speak Jin language, Mandarin, English, and Cantonese.   
 All opinions here are my own.    
 <br> 
+
+
 
 
 

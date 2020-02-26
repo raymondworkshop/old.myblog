@@ -82,6 +82,10 @@ abstract: "关于沟通"
   * 语言能力、逻辑情感、人际交往等文化资本和社会资本 
 
 
+#### How to Collaborate with People You Don’t Like  
+  * [Guide](https://hbr.org/2018/12/how-to-collaborate-with-people-you-dont-like)  
+  * 
+
 #### 沟通 - 得体 - 分寸合适  
   * British culture 
     - **friendly smile and eye contact** when you handshake    
@@ -169,4 +173,5 @@ abstract: "关于沟通"
 * [Improve Your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english)
 * [Effective Communication - Improving your Social Skills](https://www.anxietybc.com/self-help/effective-communication-improving-your-social-skills)
 * [Business Communication](https://courses.edx.org/courses/course-v1:RITx+SKILLS101x+3T2017/course/)
-* [沟通得体者得天下](http://nulishehui.blog.caixin.com/archives/178048)
+* [沟通得体者得天下](http://nulishehui.blog.caixin.com/archives/178048) 
+* [How to Collaborate with People You Don’t Like](https://hbr.org/2018/12/how-to-collaborate-with-people-you-dont-like)

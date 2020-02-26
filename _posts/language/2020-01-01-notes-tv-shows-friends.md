@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "notes about TV show 'Friends'"
+title: "Notes about TV show 'Friends'"
 date: 2020-01-01
 comments: true
 categories: [language]
 abstract: "notes"
 ---
+
+#### S01E16  
+
 
 #### S01E15  
 **That's the thing** I don't know ... (问题就在于)  

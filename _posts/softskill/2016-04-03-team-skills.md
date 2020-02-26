@@ -7,6 +7,102 @@ categories: [softskill]
 abstract: "Some lessons about team skills"
 ---
 
+#### Team-work  
+* Motivation - why do we join groups in the first place?  
+
+* Goal  
+  - individual goals and the overall goal of the team  
+  - look at motivation  
+    + Maslow's Hierarchy of Needs  
+
+* Personal communication style  
+  - Verbal  
+  - Nonverbal  
+  - Listening  
+
+* the factor of **roles**    
+  - task roles  
+    + **Information provider** - present new dieas, topics
+    + information Seeker - ask for more information, organize data  
+    + **Gatekeeper** 
+      - make every team member understand its role and input the best they have as much as help them feel valuable 
+      - keep the conversations from being one-sided and ensure equal distribution of responsibilities and contributions  
+    + 
+  - maintenance roles 
+    + supporter 
+      - keep the team encouraged   
+      - keep members participating and sharing valuable input  
+      - make a group fun and relaxed  
+    + harmonizer 
+      - help manage the group conflict and disagreement    
+      - 
+    + **Interpreter** 
+      - have people like these who understand intercultural differences  
+      - ensure everyone is understood  
+    + recorder   
+
+  - negative roles 
+    + Monopolizer 
+      - make excessive verbal contributions, preventing equal participation by other group members    
+    + Withdrawer 
+      - participates only when strongly encouraged or forced to 
+
+
+* **Norms**  
+  - the Unwritten rules of communication  
+  - developed over time   
+  - **around time and language**  
+  -    
+
+* **Leadership**  
+  - autocratic leader    
+  - democratic leader   
+    + people are engaged and participative in diff ways  
+
+  - Laissez-faire leader  
+    + do not control or really participate in the group at all  
+    + might just come to the table and charge the group with a task and be on their way  
+
+    + check back periodically to check up on things  
+
+  - ascertain the level of readiness or **maturity of the group**  
+    + is it highly mature group or is it the continuum?  
+    + two factor:  **ability and willingness**  
+      - ability - do they have the knowledge and skill set to do so?  
+      - willingness - are they motivated to do it?    
+
+  - four leadership styles  
+    + delegating 
+      - more or less the laissez-faire style  
+      - when needs to charge the group and let the group get to work  
+
+    + participating  
+      - help a group along  
+      - coach them how to do things  
+      - coach - if we have a group that's willing to do something but not able 
+      - train them on how to do it and let them do it  
+
+    + Selling  
+      - just in inspiring them to use their talents  
+      - able to do things but really not willing 
+
+
+    + telling  
+      - much more of the autocratic leadership style  
+
+* Team decision making  
+  - majority voting  
+  - third party  
+    + listen to pros and cons, and decide for the group  
+  - **Consensus  decision making**  
+
+* Conflict  
+  - separate the problem from the people  
+  - search for common purpose  
+  -   
+
+  
+
 #### High Performance Collaboration  
 
 ##### Leadership  

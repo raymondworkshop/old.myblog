@@ -10,6 +10,8 @@ abstract: "Notes on machine learning systems"
 #### digging for requirements 
 *  TODO  
 
+
+
 #### workflow to Approach a ML problem -> Prototype 
 * what kind of **question or goal** we wanna answer  
 
@@ -21,7 +23,7 @@ abstract: "Notes on machine learning systems"
   - change the task formulation slightly  
 
 * humans in the loop 
-  - algotithm might increase response time or reduce cost 
+  - algotithms might increase response time or reduce cost 
   - TODO 
 
 #### From Prototype to Production 
@@ -29,7 +31,7 @@ abstract: "Notes on machine learning systems"
 * production teams -> reimplement the solution for robust, scalable system 
 
   - offline evaluation 
-  - online testing using A/B testing [TODO]
+  - online testing using A/B testing [TODO]  
 
 
 #### reference 
