@@ -7,6 +7,28 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S01E17  
+
+Well, **only if you order stuff**. (只有点东西才会贵)  
+
+Look, I don't wanna do anything to **screw it up with** Ursual. (不想让ursual 不开心)  
+
+If you tried something like that, You'd **be staing at** (面对糟糕情况) the business end of a **hissy fit** (不可控制的生气)  
+
+Aren't you a little cute to be a doctor? (当医生是否太帅了点)    
+
+**It's like returning to the scene of** the crime. (相当于回到犯罪现场)  
+
+I'm not **freaking out** (extremely emotional 不紧张)  
+
+"This is a great place. How long have you lived here?"  
+
+You just called **a little while ago** about needing ... 
+
+OK, worst case scenario. **Say** (假設) you never feel like a father. 
+
+
+
 #### S01E16  
 
 Not from where I was standing.  (从我角度看不会)  
