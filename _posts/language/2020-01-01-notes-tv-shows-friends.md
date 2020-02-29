@@ -9,6 +9,17 @@ abstract: "notes"
 
 #### S01E16  
 
+Not from where I was standing.  (从我角度看不会)  
+
+I'll catch you in  gym (健身房见)  
+
+I'll flip you for it. (掷硬币)  
+
+Once you're inside, you don't have to knock anymore.  
+
+He **does not handle criticism very well**. (不喜欢被批评)  
+
+
 
 #### S01E15  
 **That's the thing** I don't know ... (问题就在于)  
