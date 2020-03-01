@@ -7,6 +7,17 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S01E18  
+
+I mean it (说真的). I'm sick of the tips (厌倦) .  
+
+That wasn't an incident (不是故意的).   
+
+Bad things happen to me anyway. (反正够倒霉了)  
+
+
+
+
 #### S01E17  
 
 Well, **only if you order stuff**. (只有点东西才会贵)  

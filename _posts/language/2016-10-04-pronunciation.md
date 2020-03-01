@@ -89,12 +89,12 @@ abstract: "Summary about the American pronunciation"
   - 舌头的最高位置从前到后
   - 唇從展开到圆型 （从左到右）
     + i: 衣；  **eat**, **展唇(stretch your lips back more - smile)**,舌头高，舌前
-    + **[i, i:](http://www.bilibili.com/video/av2681140/index_8.html)** 
+    + **[i, i:](https://rachelsenglish.com/pronounce-ee-vs-ih-leave-vs-live/)** 
     + **[i](http://rachelsenglish.com/pronounce-ee-vs-ih-leave-vs-live/)**
     + /i:/ -> **the tongue stretches up more towards the roof of the mouth.** - open mouth widely 
-    + /i/ -> **the tongue is bit more relaxed, the jaw does drop a little bit more** - don't open mouth widely 
+    + /i/ -> the tongue is bit more relaxed, **the jaw does drop a little bit more** - don't open mouth widely 
     not stretched into a smile 
-      - **[i](https://v.qq.com/x/page/s0127chnq3p.html?__t=1&ptag=1.sina&_out=1)**
+      - **[i](https://www.youtube.com/watch?v=-BAYrt2oER8&list=PLB043E64B8BE05FB7&index=22&feature=plpp_video)**
       - [i, i:](https://www.bilibili.com/video/av2681140?p=8)
     
     + æ： 嘴巴开口大（舌头低）， 舌头最高位位前，唇展开
