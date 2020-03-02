@@ -7,6 +7,19 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020  
 
+#### 2020-03-02  
+  * 今日买了 显示器  
+    - thinkVision S22e-19 - 950hkd  
+    - Logitech mouse and keyboard  -  
+    - HDMI 线多买了, 百花了 300hkd  
+
+  * 暂时 不去 co working place 了, 在城市大学 也不错  
+
+  * 下来就要好好工作了  
+    - 早上要早起  
+    - keep fit  
+    - 
+
 #### 2020-01-16   
   * tips  
     - 可以和人 聊得来 是好重要的能力  

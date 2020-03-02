@@ -6,6 +6,11 @@ comments: true
 categories: [summary]
 abstract: "Some insights about the world"
 ---
+
+#### update  
+  * 不能拿身体去硬杠, 或者努力, **要靠方法论, 要靠聪明的方法**    
+  * **找一个真正的爆发时期的行业**, 否则只会出现 红海竞争, 没有拓展的机会, 这是非常困难的  
+
 #### china  
   * **对外部世界的不信任感和独立意识极强，缺少合作意识**
   
