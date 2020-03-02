@@ -9,7 +9,7 @@ email/g: wenlzhao at gmail dot com.
 
 I like problem solving and reading. Some of my projects are at [github](https://github.com/muyun), and my research is at [here](http://muyun.github.io/research/).  
 
-Outside of science & tech, I mainly write on culture here.    
+Outside of science & tech, I mainly write on the world, culture, and people.    
 <br> 
 
 I worked as technical officer at HSUHK, RA at CityU and HKBU, and engineer at Alcatel-Lucent Shanghai Bell Co Ltd and HKCREO(startup).   
