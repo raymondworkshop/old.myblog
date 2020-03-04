@@ -7,6 +7,23 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S01E19  
+I kind of wanted to **run something by you** (有些话想对你说)  
+
+No, **you know what? It's partially my fault**.  I shouldn't have ...  
+
+**I'm sure**ß there's some friendly way to reconcile this. (调和)    
+
+**we do have certain expertise in** the ... (在 ... 有专长)  
+
+**step aside** (闪开)  
+
+Listen, I'm sorry **I was so hard on you** before (对你很凶) .
+
+We still have that bottle of wine. **Are you in the mood of** something grape?  
+
+
+
 #### S01E18  
 
 I mean it (说真的). I'm sick of the tips (厌倦) .  
@@ -14,7 +31,6 @@ I mean it (说真的). I'm sick of the tips (厌倦) .
 That wasn't an incident (不是故意的).   
 
 Bad things happen to me anyway. (反正够倒霉了)  
-
 
 
 
