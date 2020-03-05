@@ -4,7 +4,8 @@ title: links
 ---
 
 #### reading 
-* [theoutline](https://theoutline.com/)
+* [theoutline](https://theoutline.com/)  
+* [acmqueue](https://queue.acm.org/)  
 
 #### links
 * [Vedio lectures](http://videolectures.net/)
@@ -13,9 +14,11 @@ title: links
 * [NASA](https://www.nasa.gov/)
 * [Dollar Street](https://www.gapminder.org/)
 
-#### tech 
+#### tech
+* **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)**    
+*  
 * [Matt Might](http://matt.might.net/articles/)
-* [Kate Matsudaira](http://katemats.com/about/)
+* **[Kate Matsudaira](http://katemats.com/about/)**
 * [Julie Zhuo](http://juliezhuo.com/)
 * [Chip Huyen](https://huyenchip.com/)
 * [Kenneth Reitz](https://www.kennethreitz.org/)
@@ -27,6 +30,8 @@ title: links
 * [vgod's blog](http://blog.vgod.tw/)
 * [Programming](http://www.cnblogs.com/weidagang2046) 
 * [programming in the twenty-first century](http://prog21.dadgum.com/)
+* [bast.bookmarks](https://bast.fr/bookmarks/)
+
 
 
 

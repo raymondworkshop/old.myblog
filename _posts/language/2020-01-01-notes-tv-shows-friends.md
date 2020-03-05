@@ -12,7 +12,7 @@ I kind of wanted to **run something by you** (有些话想对你说)
 
 No, **you know what? It's partially my fault**.  I shouldn't have ...  
 
-**I'm sure**ß there's some friendly way to reconcile this. (调和)    
+**I'm sure** there's some friendly way to reconcile this. (调和)    
 
 **we do have certain expertise in** the ... (在 ... 有专长)  
 
@@ -26,11 +26,11 @@ We still have that bottle of wine. **Are you in the mood of** something grape?
 
 #### S01E18  
 
-I mean it (说真的). I'm sick of the tips (厌倦) .  
+**I mean it** (说真的). **I'm sick of** the tips (厌倦) .  
 
 That wasn't an incident (不是故意的).   
 
-Bad things happen to me anyway. (反正够倒霉了)  
+**Bad things happen to me anyway**. (反正够倒霉了)  
 
 
 
