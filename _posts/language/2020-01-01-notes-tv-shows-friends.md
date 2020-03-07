@@ -7,6 +7,18 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S01E20  
+I don't know. You don't wanna **mess with** (惹恼) ...   
+
+what's going on? (怎么回事)  
+
+oh, I **wasn't expecting** ... (没想到)  
+
+Hey, I've been **honing** (一直在演练)  
+
+Maybe we could get together later?  (改天可以见个面)  
+
+
 #### S01E19  
 I kind of wanted to **run something by you** (有些话想对你说)  
 
@@ -23,7 +35,6 @@ Listen, I'm sorry **I was so hard on you** before (对你很凶) .
 We still have that bottle of wine. **Are you in the mood of** something grape?  
 
 
-
 #### S01E18  
 
 **I mean it** (说真的). **I'm sick of** the tips (厌倦) .  
@@ -31,7 +42,6 @@ We still have that bottle of wine. **Are you in the mood of** something grape?
 That wasn't an incident (不是故意的).   
 
 **Bad things happen to me anyway**. (反正够倒霉了)  
-
 
 
 #### S01E17  
