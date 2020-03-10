@@ -7,6 +7,20 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S01E21  
+That may just be a **pipe dream** (百日梦) .   
+
+I'd say that chair's taking **the brunt of** (主要压力) it.  
+
+Well, It's **technically** (严格) not a zoo. It's **more of** (更像是) an interactive wildlife experence.  
+
+They wanna know **if you're gonna be showing up for** work (是否上班) .  
+
+If it wasn't for you, **I would never have gotten to** sing ... 
+
+**If you guys don't mind, I'd like to take a moment**, just me and him.  s
+
+
 #### S01E20  
 I don't know. You don't wanna **mess with** (惹恼) ...   
 

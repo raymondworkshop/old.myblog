@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team skills
+title: !Manage your career  
 date: '2016-04-03 '
 comments: true
 categories: [softskill]
@@ -604,7 +604,47 @@ abstract: "Some lessons about team skills"
   - 分享利益, 决策自己做就好了 
 
 #### Updating  
- 
+
+* Be a grat communicator  
+  - Imparting information  
+    + know your audience  
+      - **think about the concerns of the audience**, and the right level of detail and granularity for your message  
+    + less is more 
+      - not everyone love details  
+    + **More is also better** - but when it comes to frequency  
+      - **providing infor and keeping people up to date and providing insight** into your work  to improve your visibility and career   
+
+  - Verbal communication  
+    + **preparation** is the key to success  
+    + know your audience  
+      - who are they, and what do they wanna know?  
+      - **what are their problems or concerns**?  
+    + communicate **at the right level**  
+      - is your audience knowledgeable on your topic?  
+      - do u need present backgournd or cut to the chase?  
+    + understand the context  
+      - what else is happening in the word/industry on the same topic ?
+      - **how can u differentiate and add value ?**  
+      - make sure you know happenings so yo ucan speak intelligently about it  
+    + **practice**    
+      - **practice** for any talk or presentation  
+
+ - **written communication**    
+    +  put the important part first  
+    + 
+
+
+* **being a great teammate**    
+  - generally **happy, positive** people  
+    + being positve and looking at each day and project as an opportunity  
+  - **bring solutions**, not just problems 
+    + "what he would do to address his concern"  
+    + come up with **some potential solutions**   
+  - give credit to others, and always take responsibility    
+    + people want to be liked, admired and feel valued  
+  - have a good attitude  
+    + **reassure yourself**   
+
 
 * have a good relationship with your boss  
   - the clues in the submitter’s style and communications behaviour instead - indications that the person has been in their shoes  
@@ -613,7 +653,7 @@ abstract: "Some lessons about team skills"
   
   - on time 
   - know your manager's communication style and methods
-    + ask his preferred way of communication and delivery of requirements
+    + **ask his preferred way of communication and delivery of requirements**  
     
   - your job is to make your manager look good
     + help your boss do her job - see yourself as a complement
@@ -623,8 +663,20 @@ abstract: "Some lessons about team skills"
   
   - ask for feedback  
     + schedule to inform him about what I have been working on
-    + communicate often, be respectful, ask questionss
+    + **communicate often, be respectful, ask questionss**  
 
+  - **let your manager (and teammates) know what you have completed**   
+  - make sure the work you are doing **aligns with the priorities** of the team/project/company  
+    + add with new status communications - either in your 1:1s or in email   
+    + like **Is there anything else more important that I should consider doing?"**    
+    + "Are these the right set of priorities?"  
+
+  - Solicit regular feedback  
+    + **listen intently** and be gracious  
+      - like **"Thank you, I appreciate you sharing your view of the situation. I am going to reflect on this for now, but may want to discuss details later on "**  
+    + ask good questions  
+      - **"do u have an feedback for me"**   
+      - **"How could I have made this more useful/better"**
 
 * 持续强化自己的各项智识与技能
   - 开会时**练习表达自己的意见入手， 开会时有实质准备及热忱参与**，至少表达一次意见或提出一个问题
@@ -644,7 +696,7 @@ abstract: "Some lessons about team skills"
    
 * 如何被广泛信任  
   - **应该让别人了解你**； 对团队外的人，通过**责任和博知**建立信任；
-  - 不要不懂装懂
+  - **不要不懂装懂**  
 
 * 交流
   - 与非工程师交流时，应该时刻去理解观众；

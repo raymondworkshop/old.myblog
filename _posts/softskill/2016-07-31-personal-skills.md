@@ -19,6 +19,17 @@ abstract: ""
    * **写下来，辩真伪**；  伪->不管；  真- 定解决方案
 
 
+#### Practice Confidence  
+  * don't over-apologize unless you did something wrong  
+    - express your sympathy or regret without actually apologizing  
+      + "**I hope this hasn't been too much trouble**" not "I'm sorry"  
+  * **drop those who are constantly judging you**  
+  * Expect success  
+    - **focus on what you want** rather than what you don't want   
+
+  * take risks 
+    - focus on your growth  
+
 
 #### being trusted
 You must be trustworthy. You must also be visible. If no one knows about you, no trust will be invested in you.

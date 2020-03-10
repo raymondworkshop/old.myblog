@@ -47,24 +47,35 @@ abstract: "Summary about the American Intonation"
 #### Intonation, Linking, Rhythm
 * [The shape of stress](http://rachelsenglish.com/stress-syllable-shape-stress/)
 * [stress-timed language](http://rachelsenglish.com/english-stress-timed-language/)
-  - to -> /tə/ or /də/ 
-  - because of ->  /kəz ə/
+  - to -> /**tə**/ or /də/ -> Let's go to /gou **də**/ the beach   
+  - because of ->  /kəz ə/  
+  - of -> /**əv**/ or /ə/  
   - for -> /fər/
-  - and -> /ən/
-  - them -> /əm/
-  - at -> /ət|/
-  - can -> /kən/
-  - are -> /ər/
-  - was -> /wəz/
-  - that -> /ðət|/
-  - your -> /yər/
-  - at the -> /ət| ðə/
-  - her -> /ər/
-  - it's okay -> /tsou 'kei/
-  - as -> /əz/ as tall as
-  - was -> /wəz/ 
+  - and ->  /**æn**/ or /**ən**/  
+  - a -> /ə/    
+  - an -> /ən/  
+  - in -> /in/  
+
+  - them -> /əm/  
+  - at -> /ət|/  
+  - can -> /kən/  
+  - are -> /ər/   
+  - was -> /wəz/  
+  - that -> /**ðət**/  
+  - have ->  
+  - your -> /yər/  
+  - at the -> /ət| ðə/  
+  - her -> /ər/  
+  - it's okay -> /tsou 'kei/  
+  - as -> /əz/ as tall as  
+  - was -> /wəz/   
   -  
-  - You're welcome /jər' wel kəm/ 
+  - You're welcome /**jər**' wel kəm/  
+  - 
+  - the -> /ði/  
+  - It's cool -> /**ts** kul/   
+  - we're become -> /**wər**/   
+  - they're become -> /**ðər**/  
   - 
   - [WHAT DID Reduction](http://rachelsenglish.com/reduction-2/)
      + what did -> /'wʌt| did/ or /wʌd/
@@ -99,7 +110,7 @@ abstract: "Summary about the American Intonation"
   - [?]()
      + what do you think ? -> /wʌ də jə/  
 
-  - ** whaddya /wa:dəyə/ **
+  - **swhaddya /wa:dəyə/**
      + What do you ... ? -> 
   - 
 
