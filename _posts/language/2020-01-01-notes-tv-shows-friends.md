@@ -7,6 +7,43 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S02E01  
+She's gonna **go for it** (争取) with Ross.  
+
+This is amazing, **how did this happen?**  
+
+**We just wanted to say a quick hi**. Then we'll see the baby.  
+Then we've gonna get some sleep.  
+
+I like being surprised.  
+
+She looks at me and sees a friend. That's all.  
+
+You own me one (你欠我), guy.  
+
+But the **silver lining** (好的一面), if you wanna see it is that ... 
+
+I'm tring to **spare** your feeling (照顾你的感受) .  
+
+**That's so sweet** (你真好) . Okay, No, you hang up.  
+
+**I wanted you to have** him too. 
+I know you did. (我知道你的心意)  
+
+
+**What's going on**? (怎么回事)  
+
+You got to tell Ross how you feel. (你必须告诉你的感受)  
+
+I think it's **10**.  
+
+**You deserve to be with** someone who appreciates you. 
+Someone who you feel good.  
+
+
+
+
+
 #### S01E21  
 That may just be a **pipe dream** (百日梦) .   
 

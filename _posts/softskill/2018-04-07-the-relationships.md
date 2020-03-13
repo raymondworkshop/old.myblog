@@ -6,6 +6,8 @@ comments: true
 categories: [softskill]
 ---
 
+#### social relationship  
+  * "有什么感受"  
 
 
 #### **mentor** -> 务必叮嘱受益方**低调谦恭** 
