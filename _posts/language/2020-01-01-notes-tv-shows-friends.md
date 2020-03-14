@@ -7,6 +7,49 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S02E02  
+I couldn't **resist** (抗拒不了)  
+
+**I'll be right back**. (马上回来)  
+
+We're just **hanging out by** the spoons. (我们只是来看看汤勺)  
+
+You have to **get used to it**. (习惯)  
+
+> **I was just wondering if after work we could grab a cup of coffee** ...* ?
+> actually, I sort of have plans. 
+> maybe some other time.  
+
+>Rachel, do you have any muffins **left**?  
+>Anyone else want one?  
+
+>listen, you guys,  
+
+**It's like** cheaing ....  (就像)  
+
+And then **I realized that I'm against** that . (我发现我反对...)  
+
+**I was just trying to be nice to** her ... 
+
+And then **one thing led to another** ... (然后顺理成章)  
+
+Of course, the **packaging** (容器) does **appeal to** **grownups** (成年人) and kids. 
+
+It's no big dal (没什么)  
+
+**Say** (假设) you do that, sooner or later, somebody will come along that .... 
+
+**this isn't supposed to mean anything to me**. (对我来说毫无意义)  
+
+I say you **stand your ground** (坚守阵地)  
+
+I probably shouldn't even tell you this ...  
+
+I really wanted you to like me, and **It's probably me just being totally paranoid** (也许是我胡思乱想)  
+
+
+
+
 #### S02E01  
 She's gonna **go for it** (争取) with Ross.  
 
@@ -39,8 +82,6 @@ I think it's **10**.
 
 **You deserve to be with** someone who appreciates you. 
 Someone who you feel good.  
-
-
 
 
 
@@ -242,5 +283,6 @@ how's it going?
 
 
 #### reference  
+* [老友记 第二季](https://www.dililitv.com/vplay/NTU0MC0xLTE=.html)  
 * [六人行](https://ustv123.com/%E5%85%AD%E4%BA%BA%E8%A1%8C-%E7%AC%AC%E4%B8%80%E5%AD%A3-%E7%B7%9A%E4%B8%8A%E7%9C%8B/#)
 * [老友记](https://www.bilibili.com/video/av46066190/?spm_id_from=333.788.videocard.2)  
