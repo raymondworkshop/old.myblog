@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insights about the outside"
+title: '**Insights about the outside**'
 date: 2017-11-07
 comments: true
 categories: [learning, summary]
