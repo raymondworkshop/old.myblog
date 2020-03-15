@@ -8,8 +8,28 @@ abstract: "notes"
 ---
 
 #### S02E03  
+I can **get a message to** her. (传话)  
+
+You are **dead meat**. (麻烦大了)  
+
+If **I'm going down**, I'm taking everybody with me. (拉个垫背的)  
+
+Pressing my third nipple **opens the delivery entrance to the magical land of** Narnia.  (打开仙境之门)  
+
+In some culture, Having a third nipple **is actually a sign of** (象征) virility.
+
+You're **setting yourself up all over again** (重蹈覆辙)  .
+
+ho, god, **I don't know how to tell you this**.  
 
 
+In a nutshell, (简单说)  
+
+You **put it off**. (延迟)  
+
+I don't wanna **mess it up** (搞砸), you know?
+
+**Catch me off guard** with (趁我没防备) a good kiss, and then **look far into my eyes** (凝视我眼睛), 
 
 #### S02E02  
 I couldn't **resist** (抗拒不了)  
