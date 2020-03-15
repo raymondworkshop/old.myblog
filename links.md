@@ -31,6 +31,7 @@ title: links
 * [Programming](http://www.cnblogs.com/weidagang2046) 
 * [programming in the twenty-first century](http://prog21.dadgum.com/)
 * [bast.bookmarks](https://bast.fr/bookmarks/)
+* [Llogiq on stuff on Rust](https://llogiq.github.io/)
 
 
 

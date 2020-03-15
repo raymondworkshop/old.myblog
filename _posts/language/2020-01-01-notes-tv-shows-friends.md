@@ -16,9 +16,10 @@ We're just **hanging out by** the spoons. (我们只是来看看汤勺)
 
 You have to **get used to it**. (习惯)  
 
-> **I was just wondering if after work we could grab a cup of coffee** ...* ?
-> actually, I sort of have plans. 
+> **I was just wondering if after work we could grab a cup of coffee** ...* ?   
+> actually, I sort of have plans.  
 > maybe some other time.  
+>  
 
 >Rachel, do you have any muffins **left**?  
 >Anyone else want one?  
