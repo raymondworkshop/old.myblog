@@ -32,6 +32,7 @@ title: links
 * [programming in the twenty-first century](http://prog21.dadgum.com/)
 * [bast.bookmarks](https://bast.fr/bookmarks/)
 * [Llogiq on stuff on Rust](https://llogiq.github.io/)
+* [Dave Cheney on Golang](https://dave.cheney.net/about)
 
 
 
