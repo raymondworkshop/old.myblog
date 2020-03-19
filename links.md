@@ -6,6 +6,7 @@ title: links
 #### reading 
 * [theoutline](https://theoutline.com/)  
 * [acmqueue](https://queue.acm.org/)  
+* [钱穆《国史大纲》](http://st.kanxshuo.com/book-41048-1.html)
 
 #### links
 * [Vedio lectures](http://videolectures.net/)
@@ -19,6 +20,7 @@ title: links
 *  
 * [Matt Might](http://matt.might.net/articles/)
 * **[Kate Matsudaira](http://katemats.com/about/)**
+* **[Cate](https://cate.blog/about/)**  
 * [Julie Zhuo](http://juliezhuo.com/)
 * [Chip Huyen](https://huyenchip.com/)
 * [Kenneth Reitz](https://www.kennethreitz.org/)

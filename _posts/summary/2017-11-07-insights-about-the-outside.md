@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '**Insights about the outside**'
+title: '!Insights about the outside'
 date: 2017-11-07
 comments: true
-categories: [learning, summary]
+categories: [learning, summary, softskills]
 abstract: "!!Some insights about the outside"
 ---
 
@@ -28,6 +28,10 @@ abstract: "!!Some insights about the outside"
 #### self  
   * **能诚实对待自己，也能善意对待别人**    
     - **可以选择善良，但要有应对复杂的能力**   
+  * 真正拥有高自尊的人**相信自己有价值、有能力，并努力与他人建立亲密、有意义的联系**，但并不认为自己高人一等。
+    - 而自恋者认为自己比别人优越，但自我价值感不一定很强。事实上，由于自恋者通常缺乏自我安全感，他们的自尊感几乎完全依赖于他人的认可。
+
+
   * 唯一能让你真正保持生机的办法，就是**深入挖掘你痴迷的东西**   
   * 学习和实践，不要害怕， 人生是要拿来体验的，专注于真正重要的事情  
   * 年轻时花精力投入在**自我成长**上，到某个阶段，专业的力量会散发出一种独特魅力  

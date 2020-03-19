@@ -73,13 +73,39 @@ abstract: "关于沟通"
     - "Have you tried that new Thai restaurant on Church Street?"  
     - "Do you like Thai food?"  
 
-   * weather  
+  * weather  
     - "It's a beautiful day today, isn't it?"  
     - "Can you believe all the rain we've been having lately?"  
     - "It's pouring out there! It's a shame I rode my bike today! How did you get to work?"  
 
-#### skills
-  * 语言能力、逻辑情感、人际交往等文化资本和社会资本 
+#### skills  
+  * 语言能力、逻辑情感、人际交往等文化资本和社会资本  
+
+#### **Getting feedback**    
+  * ask good questions  - **very specific** questions  
+    - "What would make this email/report/other written communication easier to understand or read?"  
+    - "Did I communicate enough information or too much?" 
+    - "**How could I have done a better** job leading the meating?"
+    - "We missed our deadline, **how could i have helped more**?"
+
+  * try to **pick up patterns or overarching lessons and methods** from their comments 
+
+#### **Taking feedback**  
+  * they wanna you succeed, so if it helps, take notes  
+  * Ask for clarification, and think about it  
+    - **"How would you have done it differently?"** 
+    - **"What is an example of someone who has done this well?  What did they do?"** (then you can follow up the person)  
+
+  * Think about it some more  
+    - **Think before you respond**  
+    - just listen and accept it  
+    - If the person doesn't know, just hear himself talk, and say "thank you"  
+    - if it is a carefully **considered list of improvements, or honest, constructive feedback**, give them your attention  
+
+  *  Be open-minded  
+    - don't fall to the traps -> **ignorant, idiots, or out to get you (害你)**  
+
+  * if giving feedback, start with a question like **"Are u open to feedback?"**    
 
 
 #### How to Collaborate with People You Don’t Like  

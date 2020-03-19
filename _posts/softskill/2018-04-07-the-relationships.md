@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summay on the Relationships - guanxi"
+title: "Build good Relationships"
 date: 2018-04-07
 comments: true
 categories: [softskill]
