@@ -29,10 +29,10 @@ abstract: "On Interview"
   而GloVe是“count-based”的模型 
 
 #### module 
-* 监督学习 - Y = f(X)
+* 监督学习 - Y = f(X) 
 
 #### social  
-  - 請問我返呢份工之前，仲有乜嘢要準備／學習？ 
+  - 請問我返呢份工之前，仲有乜嘢要準備／學習？  
   - System Analyst /ə'næləsɪs/ opportunity 
   - 
   - lscm - in the logistics, supply chain, e-Commerce and related industries 

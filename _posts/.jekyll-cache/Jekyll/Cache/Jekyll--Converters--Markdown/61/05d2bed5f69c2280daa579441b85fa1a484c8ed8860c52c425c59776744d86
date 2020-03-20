@@ -1,0 +1,17 @@
+I"'<h4 id="distributed-representations-of-words">distributed representations of words</h4>
+<p>word2vec is a class of neural network models, trained on unlabelled trainign corpus, that produce a vector for each word in the corpus that encode its valuable syntactic and  semantic informaton .</p>
+
+<h4 id="skip-grams-sg---predict-context-words-given-target-position-independent">Skip-grams (SG) - predict context words given target (position independent)</h4>
+
+<h4 id="continuous-bag-of-words-cbow---predict-target-word-from-bag-of-words-context">Continuous Bag of Words (CBOW) - Predict target word from bag-of-words context</h4>
+
+<h4 id="stochastic-gradient-descent">Stochastic Gradient Descent</h4>
+
+<h4 id="reference">reference</h4>
+<ul>
+  <li>Linguistic Regularities in Continuous Space Word Representations,</li>
+  <li><a href="https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/">The amazing power of word vectors</a></li>
+  <li><a href="http://mccormickml.com/assets/word2vec/Alex_Minnaar_Word2Vec_Tutorial_Part_I_The_Skip-Gram_Model.pdf">Word2vec tutorial</a></li>
+  <li><a href="http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html">Deep Learning Basics: Neural Networks, Backpropagation and Stochastic Gradient Descent</a></li>
+</ul>
+:ET

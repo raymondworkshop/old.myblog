@@ -1,0 +1,280 @@
+I"�+<h4 id="notes-on-problem-solving-skills">Notes on <strong>problem-solving</strong> skills</h4>
+<ul>
+  <li>解决问题的能力
+    <ul>
+      <li><strong>从现状出发，确定解决的目标是什么，再设定一个有解决价值的课题，然后付诸实际</strong></li>
+    </ul>
+  </li>
+  <li>构想力 - <strong>限定问题的能力</strong>
+    <ul>
+      <li>一般问题 转化为  非常<strong>有用的子问题</strong></li>
+      <li>准确地<strong>限定问题关键点</strong>， 确定问题的<strong>焦点</strong> &lt;- 研究的<strong>构想力</strong></li>
+      <li><strong>对问题限定并给出定义的练习</strong> -&gt; <strong>决定问题的构思范围</strong></li>
+      <li>能否将想到的问题简单到最合适的程度，<strong>省略到什么程度</strong>是关键</li>
+    </ul>
+  </li>
+  <li>
+    <p>最初的想法的基础上， <strong>添加附加东西，使之升华</strong>的水平才是决定胜负的关键</p>
+  </li>
+  <li>真正的能力是解决现实生活中具体问题的能力
+    <ul>
+      <li>从实际问题出发，自己思考，调研，解决，得出结果</li>
+      <li>培养学生独立思考问题， 下功夫求解，寻找答案的能力</li>
+      <li><strong>思考现实生活中的问题，然后产生各种各样的疑问，进而再去解决</strong></li>
+      <li>“如果… ,你会怎么做？”</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="notes-on-critical-thinking">Notes on critical thinking</h4>
+<ul>
+  <li>“批判性” 是指思辨式的评判，多是建设性的</li>
+  <li>理性分析，精确求证</li>
+  <li>批判性思维除了要求<strong>在逻辑上、统计上</strong>不犯错误之外，更重要的是要<strong>想别人没有想过的问题，问别人没有问过的问题</strong>  ，并且要刨根问底，探究深层次、根本性的原因</li>
+  <li></li>
+</ul>
+
+<h4 id="notes-on-ideas">Notes on ideas</h4>
+
+<ul>
+  <li>相关性不等于因果性
+    <ul>
+      <li>但是现在的大部分研究都是在论证相关性的，通过<strong>研究相关性来寻找其背后的机制，这是是推导出因果的基础</strong>,要直接论证因果性难度实在是太高，而且确定性的推论本来也不符合科学的要求。所以大家以后不要看到一篇研究相关性的论文就说它不科学</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="notes-on-taste">Notes on taste</h4>
+<ul>
+  <li>如何提升研究品味，判断哪些工作是重要的，哪些不重要，可能是困扰我们这些年轻研究人员的一个重要问题。我在清华读硕士的时候，导师应明生教授推荐过一个方法，读科学史 – 看ACM网站上对图灵奖工作的介绍，看google scholar里引用次数很多的文章有什么样的特点 – 受益很多。 ​​​​</li>
+</ul>
+
+<h4 id="notes-on-research---creative-thoughtful-original-engineering-research">Notes on research - creative, thoughtful original engineering research</h4>
+<ul>
+  <li>
+    <p>How to come up with research ideas:<br />
+    - 1) Find an existing research area you’re interested in <br />
+    - 2) <strong>Find a paper in the area, check out the research they cite/cite them</strong> <br />
+    - 3) Keep reading until you have a Q: <strong>“What would happen if I tried X?”</strong><br />
+    - 4) Try X<br />
+    -</p>
+  </li>
+  <li>idea
+    <ul>
+      <li>mini-proposal
+        <ul>
+          <li>3 project suggestions</li>
+          <li>1 sentence</li>
+        </ul>
+      </li>
+      <li>proposal
+        <ul>
+          <li>one page</li>
+          <li>what’s your idea, and how do u plan to pursue it?</li>
+        </ul>
+      </li>
+      <li>partial draft
+        <ul>
+          <li>3 pages: Introduction, background, baseline results and a literature review</li>
+        </ul>
+      </li>
+      <li>presentation
+        <ul>
+          <li>5 minutes</li>
+        </ul>
+      </li>
+      <li>final paper
+        <ul>
+          <li>4 pages</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>execution</p>
+  </li>
+  <li>
+    <p>writing</p>
+  </li>
+  <li>Example
+    <ul>
+      <li>
+        <p>The initial one-page proposal, which should describe the problem that you plan to solve, what resources (code, data, etc.) are available to help you solve it, and a very rough plan of work. We will try to offer constructive feedback at this point.</p>
+      </li>
+      <li>
+        <p>The partial draft in a single four-page document (not counting references and contribution statement). This should essentially be a near-final draft of your paper (in NAACL 2018 style) with the results, analysis, and conclusion sections missing. It should contain a link to your public GitHub repo, which should show evidence that you have implemented everything you’ll need to be able to run your experiments.</p>
+      </li>
+      <li>
+        <p>The presentation. You will be asked to give a very short presentation (likely 3–5 minutes) on the last day of class explaining the key result of your paper.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="social-skills">social skills</h4>
+<ul>
+  <li>独立研究员
+    <ul>
+      <li>独立 不等于 一个人，</li>
+      <li>独立意味着你有所有权，需要<strong>自己收集知识，形成想法，然后拿这些东西和所有能提供帮助的人对话</strong></li>
+      <li>Independent does not mean alone. Independent means figuring out the right questions to ask, finding the right people to ask, and taking the initiative to make it happen</li>
+    </ul>
+  </li>
+  <li>direction</li>
+  <li>一个年轻的研究生最重要的一件事情是什么？
+    <ul>
+      <li>其实不是你学到哪些技术，而是要<strong>使你自己走进未来五年、十年有大发展机会的领域</strong>，这才是你做研究生时所要达到的目标。”</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="确定的方向">确定的方向</h4>
+<ul>
+  <li><strong>重要</strong>的问题和挑战</li>
+  <li><strong>即将</strong>成为热门 - 影响重大</li>
+  <li>高风险</li>
+</ul>
+
+<h4 id="proposal----确定的问题----确定的方向"><strong>Proposal</strong> &lt;-  确定的问题 &lt;-  确定的方向</h4>
+
+<ul>
+  <li>source &lt;- web of science and google scholar
+    <ul>
+      <li>Conferences and journal</li>
+      <li>keywords -&gt; 浏览摘要 来 筛选</li>
+    </ul>
+  </li>
+  <li>
+    <p>review paper - 文献综述</p>
+
+    <ul>
+      <li>一定<strong>要广</strong>， 尽力把一切可能想到的方法都想到</li>
+      <li>选择参阅综述性文章 -</li>
+      <li>刚入门，可以搜索业界大牛的阅读清单 （博士课程的纲要）</li>
+      <li>from abstract to conclusion</li>
+      <li>自己做充分的调研，拿出充分理由和资料，来证明自己的想法</li>
+    </ul>
+  </li>
+  <li>阅读侧重
+    <ul>
+      <li>经典文章， 顶级刊物， 引用量大的文章， 和自己点子接近的
+ =&gt; 经典/重要/相关/最新的文章</li>
+      <li>一般不超过15篇，大概5篇</li>
+      <li></li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="problem-solving----确定的思路-和-确定的方法">problem solving &lt;-  确定的思路 和 确定的方法</h4>
+<ul>
+  <li>
+    <p>思路新颖</p>
+  </li>
+  <li>From proposal,  一定得到了两三种可行的方法</li>
+  <li>从这些筛选的方法， 找相关文献细读了
+    <ul>
+      <li>从最近的文献开始查找， 然后通过其引用找到更早的文献 -&gt; 找到的文章一般都是引用数高的</li>
+      <li>不要停止文献搜索</li>
+      <li>顶着文章的limitation去读，去想
+        <ul>
+          <li>改进（或去掉）假设 -&gt;适用性更广</li>
+          <li>改进方法 -&gt;更快更准</li>
+          <li>每解决一个小问题，可能就是一篇paper</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="paper---将结果转化成论文">paper - 将结果转化成论文</h4>
+<ul>
+  <li>表达清晰</li>
+  <li>确保文献<strong>引用的专业性</strong>
+    <ul>
+      <li>可信度而言：journal （peer review) &gt; book &gt; conference &gt; presentation &gt; website</li>
+    </ul>
+  </li>
+  <li>
+    <p>引用的准确性</p>
+  </li>
+  <li>审稿
+    <ul>
+      <li>先看题目，摘要 abstract，看介绍 -&gt; 做了什么，贡献是什么</li>
+      <li>再看核心实验结果， conclusion -&gt; 做的好不好</li>
+    </ul>
+  </li>
+  <li>以读者为核心阐述工作
+    <ul>
+      <li>降低信息理解难度</li>
+      <li>标题的重要性 -&gt; 一句话概括所做工作， 包含关键词</li>
+      <li>abstract -&gt; 用于简单，让外行能看懂</li>
+      <li>Introduction -&gt;  论证所做的工作的必要性和重要性 - 首页加图表</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="精度">精度</h4>
+<ul>
+  <li>精度文章，叙述文章细节
+    <ul>
+      <li>积极地和论文进行对话</li>
+      <li>用自己的语言复述并记录下来</li>
+      <li>记录自己的疑惑， 并思考
+        <ul>
+          <li>如果作者再多做一步，你就信了</li>
+          <li>可以设计一个怎样的研究，来证明对方是错误的</li>
+        </ul>
+      </li>
+      <li>积累经过了积极思考的短评</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="reading">reading</h4>
+<ul>
+  <li>想治学的，读了书还要去读论文，广读书，
+   并且<strong>仔细研究典型论文（结构，方法，表达）</strong></li>
+</ul>
+
+<h4 id="教训">教训</h4>
+<ul>
+  <li>
+    <p>总是想着把基础打扎实，从而在理解和复现已有的技术上花了太多的时间</p>
+  </li>
+  <li>
+    <p>在实验设计上，我也没能做到「抓大放小」，而是曾经拘泥于一些小细节，比如训练数据和测试数据的划分。这些原因，导致我还没来得及走到「创新」这一步，研究项目就结束了。</p>
+  </li>
+</ul>
+
+<h4 id="summary">summary</h4>
+
+<h4 id="paper-review">paper review</h4>
+<p>Explain the following items first:</p>
+
+<p>1: Why is the paper you read related to the topic we covered: e.g., related to language modeling, or related to common sense reasoning. (1pt)</p>
+
+<p>2: What techniques did it use? e.g., deep learning, smoothing, etc. (1pt)</p>
+
+<p>3: What data sets did it use to evaluate the models? e.g., WSJ, etc. (1pt)</p>
+
+<p>Write a review with:</p>
+
+<ol>
+  <li>
+    <p>Three strong points (explain why). (5pt)</p>
+  </li>
+  <li>
+    <p>At least one weak point (Whether the techniques used are solid? Are there any drawbacks? Too many parameters to tune? Whether the compared baselines are strong baselines? Whether they tune the parameters for the baselines? Whether does the algorithm developed make sense? Are there any kinds of improvements? Are there any theoretical flaws/drawbacks?)  (2pt)</p>
+  </li>
+  <li>
+    <p>(Optional) Questions to me (what makes you confused or what you feel need to be clarified).</p>
+  </li>
+</ol>
+
+<h4 id="reference">reference</h4>
+<ul>
+  <li>“How to Read a Paper”</li>
+  <li><a href="https://www.zhihu.com/question/27253997/answer/154350595">科研具体思路</a></li>
+</ul>
+
+:ET

@@ -1,0 +1,115 @@
+I"+<blockquote>
+  <p>[Updating]  Notes on programming</p>
+</blockquote>
+
+<h4 id="theory-of-programming-languages">theory of Programming Languages</h4>
+<p>TODO</p>
+
+<h4 id="python-data-model---a-frameworkapi-for-core-language-constructs">Python Data Model -&gt; A Framework/API for core language constructs</h4>
+
+<p>Python interpreter invokes special methods to perform basic object operations.</p>
+
+<p>By using and implementing <strong>special methods of Python Data Model</strong> in your objects, your objects can <strong>behave like the built-in types</strong>, enabling the expressive coding style <strong>Pythonic</strong>.</p>
+
+<h5 id="data-sturctures">Data Sturctures</h5>
+<ul>
+  <li>sequences - Python sequences are often categorized as <strong>mutalbe or immutable</strong>, and also could be considered as <strong>flat sequences and container sequences</strong>.
+    <ul>
+      <li>container sequences -&gt; hold <strong>references</strong> to the objects</li>
+      <li>flat sequences (like str, bytes) -&gt; more compact because of the physically store the value</li>
+      <li></li>
+      <li><strong>list</strong> -&gt; mutable and mixed-type
+        <ul>
+          <li>list comprehensions and generator expression</li>
+        </ul>
+      </li>
+      <li><strong>tuples</strong> -&gt; immutable lists
+        <ul>
+          <li>tuples can hold records</li>
+          <li>tuple unpacking -&gt; parallel assignment</li>
+        </ul>
+      </li>
+      <li>array -&gt; efficient because of only <strong>the packed bytes for numeric data</strong>
+        <ul>
+          <li>for large sequences of numbers, this saves a lot of memory</li>
+          <li>NumPy lib</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>dict and set
+    <ul>
+      <li><strong>hash tables</strong> are the engines for the high performance dicts</li>
+      <li>hash tables must be sparse to work, they are <strong>not space efficient</strong></li>
+    </ul>
+  </li>
+  <li>str versus bytes</li>
+</ul>
+
+<h5 id="functions-as-objects">Functions as objects</h5>
+<ul>
+  <li>Functions, like integers, strings, and dictionaries, also can be a <strong>program entity</strong>, this enables programming in a <strong>functional style</strong>.
+    <ul>
+      <li>The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.</li>
+    </ul>
+  </li>
+  <li>function decorators and closures</li>
+</ul>
+
+<h5 id="object-oriented">Object Oriented</h5>
+
+<h5 id="control-flow">Control flow</h5>
+<ul>
+  <li>Generators - declare a function that behaves like an iterator
+    <ul>
+      <li>yield -&gt; return the generator object
+        <ul>
+          <li>yield pauses the function and saves the local state so that it can be resumed right where it left off</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Concurrency</li>
+</ul>
+
+<h5 id="metaprogramming">Metaprogramming</h5>
+<ul>
+  <li></li>
+</ul>
+
+<h4 id="ideas-from-lisp">ideas from Lisp</h4>
+
+<h4 id="golang">golang</h4>
+
+<h3 id="notes">Notes</h3>
+<ul>
+  <li>Reload modules problem in Emacs Python Shell
+    <ul>
+      <li>use importlib to reload(models)</li>
+      <li>or use ipython and  %autoreload</li>
+    </ul>
+  </li>
+  <li>virtualenvs setup for python3 -&gt; pipenv
+    <ul>
+      <li>New a project: &gt;pipenv –python 3.6</li>
+      <li>Install all dependencies:  &gt;pipenv install</li>
+      <li>Locate the virtualenv: &gt;pipenv –venv</li>
+      <li>Use the shell: &gt;pipenv shell</li>
+      <li>Uninstall everything:  &gt;pipenv uninstall –all</li>
+    </ul>
+  </li>
+  <li><del>Your environment contains PYTHONPATH=/usr/local/lib/python2.7/site-packages
+This doesn’t work with Python 3 for obvious reasons. To remove it:
+</del>    <blockquote>
+      <p>unset PYTHONPATH &lt;/del&gt;</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h4 id="reference">reference</h4>
+<ul>
+  <li>Fluent python</li>
+  <li><del><a href="https://web.stanford.edu/class/cs140e/">win2018- CS140e Operating Systems</a></del></li>
+  <li><del><a href="https://os.phil-opp.com/">Writing an OS in Rust (Second Edition)</a></del></li>
+</ul>
+:ET

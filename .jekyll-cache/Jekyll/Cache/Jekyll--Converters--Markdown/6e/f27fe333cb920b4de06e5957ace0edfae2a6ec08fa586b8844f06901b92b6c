@@ -1,0 +1,46 @@
+I"¹<h4 id="digging-for-requirements">digging for requirements</h4>
+<ul>
+  <li>TODO</li>
+</ul>
+
+<h4 id="workflow-to-approach-a-ml-problem---prototype">workflow to Approach a ML problem -&gt; Prototype</h4>
+<ul>
+  <li>
+    <p>what kind of <strong>question or goal</strong> we wanna answer</p>
+  </li>
+  <li>
+    <p>how to <strong>define and measure success</strong> -&gt; like using a business metric like increased profit or decreased losses</p>
+  </li>
+  <li>acquire the data and build a working prototype  - a loop [TODO]
+    <ul>
+      <li>analyze the mistakes</li>
+      <li>collect more or diff data</li>
+      <li>change the task formulation slightly</li>
+    </ul>
+  </li>
+  <li>humans in the loop
+    <ul>
+      <li>algotithms might increase response time or reduce cost</li>
+      <li>TODO</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="from-prototype-to-production">From Prototype to Production</h4>
+<ul>
+  <li>data analytics teams</li>
+  <li>
+    <p>production teams -&gt; reimplement the solution for robust, scalable system</p>
+
+    <ul>
+      <li>offline evaluation</li>
+      <li>online testing using A/B testing [TODO]</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="reference">reference</h4>
+<ul>
+  <li></li>
+</ul>
+:ET

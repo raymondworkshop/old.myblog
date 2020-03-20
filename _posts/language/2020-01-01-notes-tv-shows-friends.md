@@ -8,6 +8,19 @@ abstract: "notes"
 ---
 
 #### S02E04  
+Hold it. I **gotta side with** Chandler on this one. (我帮chandler说话)  
+
+**You never know**. (天有不测风云)  
+
+I don't know, **lately I get the feeling that** I'm not so much being pulled down as I am being pushed. 
+
+It's NewTon and he's **pissed**. (生气) 
+
+What can I do for you? 
+
+I didn't see it, but I want to believe you.  
+
+
 
 
 #### S02E03  

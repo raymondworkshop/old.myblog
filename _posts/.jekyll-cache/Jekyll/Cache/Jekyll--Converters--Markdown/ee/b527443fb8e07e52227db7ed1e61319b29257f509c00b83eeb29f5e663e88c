@@ -1,0 +1,155 @@
+I"�<blockquote>
+  <p><small>An introduction of Hash function </small></p>
+  <h4 id="introduction">introduction</h4>
+  <ul>
+    <li>a set of N items
+      <ul>
+        <li>we can sort them with binary search in O(log N) time using a structure(i.e, an array) of O(N) space .</li>
+      </ul>
+    </li>
+  </ul>
+</blockquote>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- while a hashing technique can consume O(N) space, and answers
+a dictionary query in O(1) expected time.
+</code></pre></div></div>
+
+<ul>
+  <li>
+    <p>We can reference key-value pairs using arrays by doing arithmetic operations to <strong>transform keys into array
+ indices</strong>. Thus there are two steps</p>
+
+    <ul>
+      <li>
+        <p>compute a <strong>hash function</strong> that transfers the search key into an array index</p>
+      </li>
+      <li>
+        <p><strong>collision-resolution process</strong> that deals with two or more different keys (may hash to the same array index)</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="hash-functions">hash functions</h4>
+<ul>
+  <li>hashing
+    <ul>
+      <li>the hash function h maps the university U of keys into the T[0…m-1]
+        <ul>
+          <li>h : U -&gt; T = {0, 1, … m-1}</li>
+        </ul>
+      </li>
+      <li>uniform hashing assumption: assume that any given element in U is equally likely to hash into
+any of the m slots, independently of where any other element has hashed to .
+        <ul>
+          <li>For any diff integers k1 and k2, Pr(h(k1)=h(k2)) &lt;= 1/m</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>a good hash function
+    <ul>
+      <li>deterministic: equal keys produce the same hash value</li>
+      <li>efficient to compute</li>
+      <li>uniformly distribute the keys among the integer values [0, m-1]
+        <ul>
+          <li>each key is equally likely to be hashed to one of m indices</li>
+          <li>The reason for this requirement is that the cost of hashing-based methods goes up sharply
+as the number of collisions-pairs of inputs that are mapped to the same hash value- increases.
+If some hash values are more likely to occur than others, a larger fraction of the lookup
+operations will have to search through a larger set of colliding table entries. [2]
+            <ul>
+              <li></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>hashing by division h(k) = k mod m
+    <ul>
+      <li>
+        <p>map a key k into one of m slots</p>
+      </li>
+      <li>
+        <p>if we know that the keys are random real numbers k
+  independently and uniformly distributed in the range 0 &lt;= k &lt; 1
+  then, the hash function: h(k) = floor(km)</p>
+      </li>
+      <li>
+        <p>the division method can give good results, assumimg that a prime
+number k that is unrelated to any patterns in the distribution of keys .</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>hashing by multiplication</p>
+  </li>
+  <li>universal hashing
+    <ul>
+      <li>TODO</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="for-the-collision-resolution-process">for the collision-resolution process</h4>
+<ul>
+  <li>
+    <p>collision: two keys may hash to the same slot</p>
+  </li>
+  <li>hashing with separate chaining (link structure)
+    <ul>
+      <li>
+        <p>linked list of the key-value pairs whose keys hash to that index</p>
+      </li>
+      <li>
+        <p>the basic idea is to choose m to be sufficiently large that the lists are sufficiently short to enable
+efficient search through a two-step process</p>
+      </li>
+    </ul>
+  </li>
+  <li>hashing with linear probing
+    <ul>
+      <li>
+        <p>open-addressing: store N key-value pairs in a hash table of size m&gt;N</p>
+      </li>
+      <li>
+        <p>the idea is that rather than using memory space for references in linked lists, we use it for
+the empty entries in the hash table, which mark the ends of probe sequences</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="hashtables-vs-other-dictionary-implementations">hashtables vs other dictionary implementations</h4>
+<ul>
+  <li>choosing a good capacity m
+    <ul>
+      <li>We can choose the table size m to be sufficiently small that we do not waste a huge area of
+contiguous memory with empty chains but sufficiently large that we donot waste time searching through
+long chains.</li>
+    </ul>
+  </li>
+  <li>
+    <p>hashtables are sometimes good because
+    - the keys do not have to come from an ordered type
+    - in practice we can set things up for constant-time performance</p>
+  </li>
+  <li>hashtables aren’t always the best choice because
+    <ul>
+      <li>you cannot easily read things out in a sorted order, assuming these was such an order</li>
+      <li>you can’t really get a good hash function that be can computed quickly, so they’re usally
+bad for small dictionaries</li>
+      <li>resizing is very expensive, and probably can’t be used in most real-time systems</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="reference">reference</h4>
+<ul>
+  <li>Juraj Hromkovic - ch3 “Design and Analysis of Randomized Algorithms”</li>
+  <li>Robert Sedgewick and Kevin Wayne - ch3.4, “Algorithms”</li>
+  <li><a href="http://cs.lmu.edu/~ray/notes/hashtables/">hashtable</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Hash_function">hash function</a></li>
+</ul>
+:ET
