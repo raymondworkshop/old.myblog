@@ -7,6 +7,9 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S02E05  
+
+
 #### S02E04  
 Hold it. I **gotta side with** Chandler on this one. (我帮chandler说话)  
 
