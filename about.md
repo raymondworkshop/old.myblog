@@ -8,8 +8,6 @@ email/g: wenlzhao at gmail dot com.
 <br>
 
 
-Sometimes I do some [readings](https://www.goodreads.com/review/list/8677506?shelf=%23ALL%23), and see some [movies&documentaries](https://movie.douban.com/people/aiding2001/collect).  
-
 Outside of science & tech, I mainly write on the world, culture, and self-improvement with ‘growth mindset’.  
 <br> 
 
