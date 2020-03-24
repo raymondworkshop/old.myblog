@@ -7,7 +7,32 @@ categories: [language]
 abstract: "notes"
 ---
 
-#### S02E05  
+#### S02E07
+
+It couldn't have been worse. A woman **literally** passed through me (简直把我当空气).   
+
+You know what, **I go through the exact same thing**. (我也有过相同的经历)  
+
+I would, but that might **get in the way of** my lying-around time. (妨碍)
+
+Hey Phoebs, **how'd it go with Scott last night**?  
+
+**If I seem a little nervous, I am**.  
+
+Ok, Mike, **Let's talk about you**  
+
+But because for the last hour and a half **I've been playing the movie Diner in my head**.  (回忆电影 Diner的情节)  
+Look, I've been through a divorce. **Trust me, you're gonna be fine**.  
+
+Laterly, I've **sort of had feelings for you**. (我对你有点感觉)  
+
+**Let me get this straight**. (让我先搞清楚)  
+
+I was doing great with Julie before **I found that about you**.   
+
+
+
+
 
 
 #### S02E04  
