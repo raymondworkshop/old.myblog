@@ -24,8 +24,6 @@ What can I do for you?
 I didn't see it, but I want to believe you.  
 
 
-
-
 #### S02E03  
 I can **get a message to** her. (传话)  
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '!!the art of management'
+title: '!!How to be manager: up and dowm'
 date: 2020-03-15
 comments: true
 categories: [softskills, learning, summary]
