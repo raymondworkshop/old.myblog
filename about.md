@@ -8,7 +8,7 @@ email/g: wenlzhao at gmail dot com.
 <br>
 
 
-Outside of science & tech, I mainly write on the world, culture, and self-improvement with ‘growth mindset’.  
+Outside of science & tech, I mainly write on the world, people, culture, and self-improvement with ‘growth mindset’.  
 <br> 
 
 I worked as technical officer at HSUHK, RA at CityU and HKBU, and software engineer at Nokia Corporation (formerly Alcatel-Lucent Shanghai Bell Co Ltd), and HKCREO(startup).    

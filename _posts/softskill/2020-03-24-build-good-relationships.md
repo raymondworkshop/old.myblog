@@ -6,8 +6,17 @@ comments: true
 categories: [softskill, learning, summary]
 ---
 
-#### Self  
+#### Mentors  
 
+  * Pick out the best qualities and attributes of an individual and incorporating those things into your style and life   
+
+  * learn as much as you can that will help you be successful  
+
+  * How  
+    - bring questions and essentially set the agenda for the meeting  
+
+  * reference
+    - [Mentors](http://katemats.com/mentors/)
 
 #### **Manage your Manager**    
   * good managers **spend time thinking, coaching and growing their employees**    

@@ -17,6 +17,8 @@ categories: [summary, learning]
       - I hope I am a real ability  
       - things on real value  
 
+   * **how**  
+
    * reference  
       - [Finding Your Path – Leveling Up in Your Career](http://katemats.com/finding-your-path-leveling-up-in-your-career/)
 
