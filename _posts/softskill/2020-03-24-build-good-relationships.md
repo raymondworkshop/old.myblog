@@ -84,7 +84,7 @@ categories: [softskill, learning, summary]
   * reference 
     - [How to Manage Your Manager](http://katemats.com/how-to-manage-your-manager/)
 
-#### **peers**    
+#### **Peers**    
   * **Give up control**    
     - Not handling one aspect of your job **all by yourself**    
     - Being a good manager is all about **delegating**, even when working with other managers  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on machine learning systems " 
+title: "Notes on building machine learning systems " 
 date: 2019-07-16
 comments: true
 categories: [home,notes]
@@ -8,7 +8,10 @@ abstract: "Notes on machine learning systems"
 ---
 
 #### digging for requirements 
-*  TODO  
+* what exactly is the business objective?  
+  - how does the company expect to use and benefit from this model?  
+
+* TODO  
 
 
 

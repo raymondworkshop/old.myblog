@@ -7,7 +7,41 @@ categories: [softskills, learning, summary]
 ---
 ### how to mange down  
 
-#### Giving Feedback - criticize in a way that actually works  
+#### Giving Feedback - in a way that was helpful and direct, but also kind and thoughtful  
+
+* **Ask first**  
+  - so that the person can be mentally prepared for it ahead of time  
+  - "Would you like to hear a suggestion?"  
+  - "Do u mind if I give you feedback?"  
+
+  - or start off by asking them "How do u think it went? what do u think was good, what could we improve"  
+  - 
+
+* **compliment + criticism + compliment**  
+  -  "The work you ... good; " + "However, ..., it might be better"  
+
+* be timely  
+  - feedback is more effective when it is at the time of the event  
+  - If too much time has elasped, use judgement  
+
+* Make it about the task, not the person  
+  - like **"Adding headers to the email would make it easier to read"**    
+
+* **Give suggestions** on how to improve  
+  - tell them how - **give them examples and ideas** on how to make something better  
+  - more actionable 
+
+* Provide a personal example  
+  - easier to receive is to make the recipient feel like they are not the only one making the mistake  
+  - **"I learned this the hard way"** or "**I used to do the same thing**"  
+
+* provide people **the "why"** behind your suggestions  
+  
+* Allow the person to defend/vent/explain  
+  - the receiving party may react by defending or justifying their approach  
+  - if that, **just listen and allow them** to say their piece  
+  - more ofthen than not they will still make the changes, but **knowing that you heard their side of things will make them feel better**    
+
 
 * reference
   - [Giving Feedback – learning to criticize in a way that actually works](http://katemats.com/giving-feedback-learning-to-criticize-in-a-way-that-actually-works/)
