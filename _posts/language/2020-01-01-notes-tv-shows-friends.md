@@ -7,6 +7,32 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S02E08  
+
+**You got all that from** saline solution?  (发了这么多想法... )  
+
+**Even though** I **made him up** He must decide. (虚构)  
+
+**No offense**, but that sounds nothing like her. 
+
+"My wallet's too small for my fifties, and my diamond shoes are too tight"  
+
+**I've seen her be a little** too into her looks. (我觉得她太注重外表了)  
+
+**It's always been you**, Rach. (爱的一直是你)  
+
+**You'd be a great person to** have around the day after an emergency.   (适合马后炮)
+ 
+Hey, **Cut him some slack** (放他一马). It was Chandler's idea.  
+
+**Let's get some perspective here**. **These things happen for a reason**.  (你们想下, 事出有因)  
+
+Come on, You gotta give me another chance. (别这样,再给我一次机会)  
+
+
+
+
+
 #### S02E07
 
 It couldn't have been worse. A woman **literally** passed through me (简直把我当空气).   
