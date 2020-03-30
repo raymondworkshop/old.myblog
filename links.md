@@ -35,8 +35,8 @@ title: links
 * [bast.bookmarks](https://bast.fr/bookmarks/)
 * [Llogiq on stuff on Rust](https://llogiq.github.io/)
 * [Dave Cheney on Golang](https://dave.cheney.net/about)
-
-
+*  
+* [Rich Hickey](https://purelyfunctional.tv/programmer-profiles/rich-hickey/)
 
 
 #### skills

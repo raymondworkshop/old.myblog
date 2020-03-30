@@ -86,7 +86,15 @@ categories: [softskills, learning, summary]
   - start with something that is easy to do 
   - find things that maybe aren't urgent but are small, iterative improvements that would be easy introduction into your realm of responsibility  
 
-* [The Art of Delegating](http://katemats.com/the-art-of-delegating/)
+* [The Art of Delegating](http://katemats.com/the-art-of-delegating/)  
+
+#### tips  
+* 如果对方善良  
+  - 可以讲自己有不对的地方  
+  - 指出对方的问题  
+
+* 如果对方无赖  
+  - 千万不要说自己有做的不对的地方  
 
 ### your manager   
 

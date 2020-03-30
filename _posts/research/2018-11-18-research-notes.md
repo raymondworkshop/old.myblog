@@ -24,7 +24,7 @@ abstract: "[Updating] Notes on creativity and research"
     - 从实际问题出发，自己思考，调研，解决，得出结果 
     - 培养学生独立思考问题， 下功夫求解，寻找答案的能力  
     - **思考现实生活中的问题，然后产生各种各样的疑问，进而再去解决** 
-    - “如果... ,你会怎么做？”
+    - “如果... ,你会怎么做？”  
 
 
 #### Notes on critical thinking 
@@ -81,7 +81,7 @@ abstract: "[Updating] Notes on creativity and research"
 
 #### social skills
    * 独立研究员 
-     - 独立 不等于 一个人，  
+     - 独立 不等于 一个人  
      - 独立意味着你有所有权，需要**自己收集知识，形成想法，然后拿这些东西和所有能提供帮助的人对话** 
      - Independent does not mean alone. Independent means figuring out the right questions to ask, finding the right people to ask, and taking the initiative to make it happen  
 
@@ -192,4 +192,4 @@ Write a review with:
 #### reference 
 * "How to Read a Paper" 
 * [科研具体思路](https://www.zhihu.com/question/27253997/answer/154350595)
-
+* "Crafting Your Research Future"
