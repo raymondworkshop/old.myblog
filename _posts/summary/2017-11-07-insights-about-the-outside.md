@@ -13,10 +13,17 @@ abstract: "!!Some insights about the outside"
   * **关注事实胜过关注争吵**，**关心细节胜过关心策略**   
     - 怀疑的精神特别重要，就是尽量不要去人云亦云； 自己去看了，自己有所体会了，再下这样的论断   
   * **如果你想要说服别人，要诉诸利益**，而非诉诸理性  
+  * 
+  * **Don't show kindness to people** who want to destroy you  
+    - your kindness will be forgotten and they will not do the same for you  
+  
   * 人性 - **对他人的真心关怀，追求双赢**    
-  * 韧性 - 失败不是惩罚而是学习的机会 
-  * 悟性 － 学习新事物的能力和心态   
-  * 耐性 － 为长期愿景努力，恪守员额  
+    - 韧性 - 失败不是惩罚而是学习的机会 
+    - 悟性 - 学习新事物的能力和心态   
+    - 耐性 - 为长期愿景努力  
+  * 教育  
+    - 教育的意义,在于**培养独立判断力**, 培养他的自由人格, 去过上一种充实有意义的生活      
+    - 
 
 
 #### work  

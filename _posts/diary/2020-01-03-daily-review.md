@@ -7,6 +7,47 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020  
 
+#### 2020-04-02  
+  * get up about 11:30, and arrive at cityU at 14:00  
+    -  it's a bit late to sleep yesterday night  
+    -  and exiting to know something  
+
+  * focus on your importances    
+    - girlfriend 
+    - work
+    - health 
+    - Money
+
+  * lessons  
+    - 用力过猛的问题  
+    - focus your mental energy on the task with the most dividends  
+    - know how to spend your energy and brainpower  
+
+    - think about some of the past lessons you’ve learned  
+    - what could you use a refresh on?  
+    - what are some of the new things you wanna learn  
+    -
+    - 我試著以「能讓我學習最多」的角度去想。順著這個出發點去想就是和很棒的人一起工作，另外是打造我真的在乎的產品，並且替產品增加使用者。這些對我而言，才是有意義的  
+
+  * fake it when you make it  
+    - courage  
+    - tips  
+      + you shouldnot always tell your feeling or tell truth, people like others to understand themselves   
+      +  
+
+
+#### 2020-04-01  
+  * get up about 13:00  
+    - wake up about 5:00, and surf online a bit  
+
+  * it's interesting to fix an issue when upgrading to macos  
+    - 
+
+#### 2020-03-31  
+  * 感觉身体好累  
+    - 作息规律  - 早上早起, 晚上早睡  
+    - 多锻炼  
+
 #### 2020-03-30  
   * 要多机会增长自己的实力  
     - 

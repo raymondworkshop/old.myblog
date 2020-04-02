@@ -24,6 +24,7 @@ title: Talks & Publications
 
 #### Paper-Survey 2020  
 
+
 ### Publications    
 #### Word Embeddings 
   Our paper "[Mapping Customer Needs in Natural Language to Product Specifications by Using Word Embeddings](https://drive.google.com/file/d/1pfpff9EWB2gOGllzh8DHIapp-fBGlC55/view?usp=sharing)" has been accepted for publication at apiems2018, HK.
@@ -61,6 +62,7 @@ title: Talks & Publications
   This report is based on the existence of homophily to measure the influence of users in micro-blogging. The algorithm TwitterRank is used because it takes the topical similarity between users and the link structure into account.  
 
 #### Reference:
+  * [acmqueue](https://queue.acm.org/)
   * [SCI-HUB](http://sci-hub.cc/)
   * [ACL Anthology](http://aclweb.org/anthology/index.html)
   * [The morning paper](http://blog.acolyer.org)

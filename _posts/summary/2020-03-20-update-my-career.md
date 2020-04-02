@@ -109,9 +109,10 @@ categories: [summary, learning, softskills]
     - 而不是 由于其它原因  
 
 
-#### 教訓  
+#### 教訓 和 lessons  
   * 过于坚持自己的中立意见  
     - 尤其是一些 soft skills  
+    - 先表示**理解对方的感受**, 再寻求解决问题  
     - 过于直率  
   * 不能深交的人  
     - 小人  
