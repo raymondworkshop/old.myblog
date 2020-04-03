@@ -42,6 +42,8 @@ categories: [softskills, learning, summary]
   - if that, **just listen and allow them** to say their piece  
   - more ofthen than not they will still make the changes, but **knowing that you heard their side of things will make them feel better**    
 
+* **把事情的前因后果说清楚**， 同时明确告知需要执行的事项  
+
 
 * reference
   - [Giving Feedback – learning to criticize in a way that actually works](http://katemats.com/giving-feedback-learning-to-criticize-in-a-way-that-actually-works/)

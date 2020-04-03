@@ -9,6 +9,19 @@ abstract: "notes"
 
 #### S02E09  
 
+Money is so **impersonal**, cookies says someone really cares.  (没人情味)
+
+**I didn't want to go wrong with her**. (我不想跟着骗你)  
+
+Do you still mad with me? (不要生我气)  
+
+That's right. **I forgot about your ability to** fuse metal. 
+
+**I didn't get you anything**. (我没有准备你的礼物)  
+
+That's ok, **you took a big step** today. (踏出了一步)  
+
+**And last, but not least** ... (压轴)
 
 
 #### S02E08  

@@ -58,6 +58,9 @@ abstract: "[updating] Notes on the Softwre Architecutres"
   
   * think before coding 
 
+  * lessons:  
+    - We prefer to **rely on established open-source solutions** wherever we can. When we decide to build it ourselves or adopt something at the bleeding edge, we try to do so only when **there’s no viable incumbent** or where our use cases are legitimately unique. — Jeremy Tryba, Foursquare
+
 #### Java  
   * Static Analysis 
     - Compiler ensures **types** are correct 

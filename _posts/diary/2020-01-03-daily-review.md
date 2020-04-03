@@ -27,7 +27,9 @@ categories: [diary]
     - what could you use a refresh on?  
     - what are some of the new things you wanna learn  
     -
-    - 我試著以「能讓我學習最多」的角度去想。順著這個出發點去想就是和很棒的人一起工作，另外是打造我真的在乎的產品，並且替產品增加使用者。這些對我而言，才是有意義的  
+    - 我試著以「能讓我學習最多」的角度去想。
+      + 順著這個出發點去想**就是和很棒的人**一起工作，另外是打造我真的在乎的產品，並且替產品增加使用者。
+      + 這些對我而言，才是有意義的  
 
   * fake it when you make it  
     - courage  
