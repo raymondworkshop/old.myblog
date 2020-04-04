@@ -7,6 +7,9 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S02E10  
+
+
 #### S02E09  
 
 Money is so **impersonal**, cookies says someone really cares.  (没人情味)
@@ -21,8 +24,17 @@ That's right. **I forgot about your ability to** fuse metal.
 
 That's ok, **you took a big step** today. (踏出了一步)  
 
-**And last, but not least** ... (压轴)
+**And last, but not least** ... (压轴) 
 
+He would stand and **gaze up at her with adoring eyes**.  (爱慕的眼神凝视)  
+
+**It was apple-blossom time**, and the days were getting warmer. 
+
+Fern **peered** through the door. (to look carefully or with difficulty, 仔细看)
+
+Wilbur **tagged along** at Fern's heels.   (紧跟)  
+
+Fern **broke down and wept**. (忍不住哭)  
 
 #### S02E08  
 

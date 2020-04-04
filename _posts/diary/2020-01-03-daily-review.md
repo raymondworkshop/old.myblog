@@ -7,6 +7,11 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020  
 
+#### 2020-04-04  
+  * communicate with hkuspace for my class  
+
+  * 
+
 #### 2020-04-02  
   * get up about 11:30, and arrive at cityU at 14:00  
     -  it's a bit late to sleep yesterday night  
