@@ -19,7 +19,8 @@ title: links
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)**    
 *  
 * [Matt Might](http://matt.might.net/articles/)
-* **[Kate Matsudaira](http://katemats.com/about/)**
+* **[Kate Matsudaira](http://katemats.com/about/)**  
+* **[Erik Bernhardsson](https://erikbern.com/)**
 * **[Cate](https://cate.blog/about/)**  
 * [Julie Zhuo](http://juliezhuo.com/)
 * [Chip Huyen](https://huyenchip.com/)

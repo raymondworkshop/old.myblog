@@ -7,10 +7,31 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020  
 
-#### 2020-04-04  
-  * communicate with hkuspace for my class  
+#### 2020-04-08  
+  * get up at 13:30  
+    -  it's a bit crazy to live in this env
+    - 
+
+#### 2020-04-06  
+  * doing business 
+    - 
+
+#### 2020-04-05  
+  * fix racket debug in vscode 
+    - done  
 
   * 
+
+
+
+#### 2020-04-04  
+  * it's a bit late to get up 
+    - about 11:30, and was at cityU about 13:00  
+
+  * communicate with hkuspace for my class  in the afternoon  
+
+  * learn Go programming  
+    - 
 
 #### 2020-04-02  
   * get up about 11:30, and arrive at cityU at 14:00  
