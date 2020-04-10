@@ -4,7 +4,7 @@ title: Talks & Publications
 ---
 ### Talks     
 
-##### Apr 09, 2020 - My [Reflection paper](https://drive.google.com/file/d/1GFvOU_fpPxOgflemhv-qfwKgaxYWQP7C/view?usp=sharing) in International Business Communication training lesson     
+##### Apr 09, 2020 - My [Reflection Paper](https://drive.google.com/file/d/1lpvzzQf5Zi9CdGZaudwXhAq_8ea78eJO/view?usp=sharing) in International Business Communication training lesson     
 
 ##### Nov 24, 2019 - My presentation on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE    
 
@@ -23,11 +23,11 @@ title: Talks & Publications
 * [TOP-N Algorithm on word embeddings](https://docs.google.com/presentation/d/1kpzEqbFUUvQ3dsSITs5C8ifK0VfOyAB0/edit#slide=id.p1)
 * [iSpeaking - Automatic Speech Recognition for L2 (english&chinese) learners](https://docs.google.com/presentation/d/1qQC-UeyoCN7V9WVZTzPQqjbsb1NS8HI3/edit#slide=id.p1)
 
-
+### Publications 
 #### Paper-Survey 2020  
+TODO  
 
 
-### Publications    
 #### Word Embeddings 
   Our paper "[Mapping Customer Needs in Natural Language to Product Specifications by Using Word Embeddings](https://drive.google.com/file/d/1pfpff9EWB2gOGllzh8DHIapp-fBGlC55/view?usp=sharing)" has been accepted for publication at apiems2018, HK.
 
