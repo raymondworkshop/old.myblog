@@ -4,6 +4,8 @@ title: Talks & Publications
 ---
 ### Talks     
 
+##### Apr 09, 2020 - My [Reflection paper](https://drive.google.com/file/d/1GFvOU_fpPxOgflemhv-qfwKgaxYWQP7C/view?usp=sharing) in International Business Communication training lesson     
+
 ##### Nov 24, 2019 - My presentation on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE    
 
 
