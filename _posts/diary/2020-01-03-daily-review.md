@@ -5,7 +5,11 @@ date: 2020-01-03
 comments: true
 categories: [diary]
 ---
-### 记录下每天的工作和生活 - 2020  
+### 记录下每天的工作和生活 - 2020 
+
+#### 2020-04-09  
+  * do the assignments in the business courses  
+    - work for a task from others is good for me   
 
 #### 2020-04-08  
   * get up at 13:30  
@@ -21,7 +25,6 @@ categories: [diary]
     - done  
 
   * 
-
 
 
 #### 2020-04-04  
