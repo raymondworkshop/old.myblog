@@ -7,7 +7,33 @@ categories: [language]
 abstract: "notes"
 ---
 
-#### S02E10  
+#### S02E13
+Don't take it personal. He's under a lot of pressure.  
+
+**We've got a problem.  She refuses to acknowledge** her mustache.    
+**Now unless someone convinces her to** let me bleach it.  
+
+You **look great job growing up**.   
+
+Back then, I used humor as a defense mechanism.   
+
+"Execuse me, Hi. This is gonna sound kind of goofy, but my friend, she thinks you're cute."  
+"what should i tell her?"  
+
+What a jerk! (混蛋) I kept talking about you, and he kept asking me out.   
+
+
+It's not a big deal. (不是大事)  
+
+Thanks for letting me **tag along** tonight, you gusy. (带上我)  
+
+"That's an exciting job. You must have a ton of cool responsibilities"  
+
+"So what are you guys gonna eat?"  (大家想吃什么)  
+
+**Because I went to an all-boys high school, and God is making up for it?** (我上的男校, 现在god要补偿我)  
+
+
 
 
 #### S02E09  
