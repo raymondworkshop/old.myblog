@@ -7,6 +7,16 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020 
 
+#### 2020-04-13  
+  * lunch with Anson  at outback Steakhouse at Tsuen wan   
+    - who is a christ, with a sense of justice  
+    - tips  
+      + agree with some points  
+      + should have an object  
+      + 广东话**咬字**清楚  
+
+
+
 #### 2020-04-09  
   * do the assignments in the business courses  
     - work for a task from others is good for me   
