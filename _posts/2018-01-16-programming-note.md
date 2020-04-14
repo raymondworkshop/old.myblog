@@ -9,8 +9,10 @@ abstract: "[Updating] Notes on programming"
 >[Updating]  Notes on programming
 
 #### theory of Programming Languages 
-TODO  
 
+
+### [Racket](https://racket-lang.org/) 
+TODO  
 
 
 #### Python Data Model -> A Framework/API for core language constructs
@@ -61,7 +63,6 @@ By using and implementing **special methods of Python Data Model** in your objec
 ##### Metaprogramming 
   * 
 
-#### ideas from Lisp 
 
 #### golang 
 
