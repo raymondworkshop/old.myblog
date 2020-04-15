@@ -8,7 +8,7 @@ title: Talks & Publications
 ##### Nov 24, 2019 - My talk on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE    
 
 
-##### 2018 - 2019 - Some of my talk on Artificial Intelligence and its applications in language & speech at HSUHK  
+##### 2018 - 2019 - Some of my talks on Artificial Intelligence and its applications in language & speech at HSUHK  
 
 * [Collect data as Dataset](https://docs.google.com/presentation/d/1Y7zrC9QLHHcFlQpn3Yb2_paOgU_xB1B4yJwjM6ah98E/edit?usp=sharing)
 * [Algorithm: word embeddings based mapping](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)

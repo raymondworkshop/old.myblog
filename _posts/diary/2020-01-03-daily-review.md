@@ -7,6 +7,13 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020 
 
+#### 2020-04-14  
+  * update the website  
+    - just wanna add a tags key  
+    - it's so fucky to have some unknown reasons  
+
+  * enhance my thinkings to go to startup  
+
 #### 2020-04-13  
   * lunch with Anson  at outback Steakhouse at Tsuen wan   
     - who is a christ, with a sense of justice  

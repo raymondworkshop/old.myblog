@@ -11,7 +11,7 @@ abstract: "[Updating] Notes on programming"
 #### theory of Programming Languages 
 
 
-### [Racket](https://racket-lang.org/) 
+#### [Racket](https://racket-lang.org/) 
 TODO  
 
 
@@ -67,7 +67,7 @@ By using and implementing **special methods of Python Data Model** in your objec
 #### golang 
 
 
-### Notes
+#### Notes
  * Reload modules problem in Emacs Python Shell
    - use importlib to reload(models) 
    - or use ipython and  %autoreload

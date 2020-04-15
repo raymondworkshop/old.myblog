@@ -7,7 +7,7 @@ email/g: wenlzhao at gmail dot com.
 <br>  
 
 I like problem solving and reading. Some of my projects are at [github](https://github.com/muyun), and my research is at [here](http://muyun.github.io/research/).  
-I worked as Technical officer at HSUHK, RA at CityU and HKBU, Software Engineer at Nokia Corporation (formerly Alcatel-Lucent), and a startup HKCREO.   
+I worked as Technical officer at HSUHK, RA at CityU and HKBU, Software Engineer at Nokia Corporation (formerly Alcatel-Lucent), and HKCREO (a startup) .   
 <br>  
 
 Outside of the tech world, I mainly write on the culture, people, and self-improvement.  
