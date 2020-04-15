@@ -3,7 +3,7 @@ layout: post
 title: "Up my business"
 date: 2020-04-13
 comments: true
-categories: [Summary, learning]
+categories: [summary, learning]
 ---
 
 #### The Beginning  
