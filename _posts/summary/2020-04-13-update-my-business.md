@@ -222,8 +222,15 @@ categories: [summary, learning]
 
 #### Infrastructure
 
-
 #### Collaboration  
+* ch24 - organizational structure  
+  - once you have achieved product-market fit  
+    + from fewer than 10 members to more than 20 in a short time  
+    + **win the race to market share**   
+  - need to implement a formal management system  
+    + delineat separate teams with managers   
+
+& ch25 - 
 
 #### Processes  
 
