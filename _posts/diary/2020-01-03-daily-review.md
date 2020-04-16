@@ -14,6 +14,10 @@ categories: [diary]
   * reread and summary ch3-ch18 in <The Great CEO Within>  
     - so many practical tips  
 
+  * todo  
+    - update emcas skills  
+    - [cs tools](https://missing.csail.mit.edu/)
+
 #### 2020-04-14  
   * update the website  
     - just wanna add a tags key  

@@ -231,5 +231,3 @@ In the book [The Effective Executive](https://www.amazon.com/Effective-Executive
   - **they are paied for getting the right things done** 
 
 #### reference   
-
-#### reference  

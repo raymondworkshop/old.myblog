@@ -13,7 +13,8 @@ title: links
 * [GRANTS in USA ](https://www.grants.gov/web/grants/search-grants.html)
    - especailly in small business
 * [NASA](https://www.nasa.gov/)
-* [Dollar Street](https://www.gapminder.org/)
+* [Dollar Street](https://www.gapminder.org/) 
+* [uses this](https://usesthis.com/interviews/tracy.chou/)
 
 #### tech
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)**    
