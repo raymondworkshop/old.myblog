@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Slide & Research  
+title: Slides & Research  
 ---
-### Slide      
+### Slides     
 
 ##### Nov 24, 2019 - My slide on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE    
 
@@ -22,7 +22,7 @@ title: Slide & Research
 * [iSpeaking - Automatic Speech Recognition for L2 (english&chinese) learners](https://docs.google.com/presentation/d/1qQC-UeyoCN7V9WVZTzPQqjbsb1NS8HI3/edit#slide=id.p1)
 
 ### Publications 
-#### Paper-Survey 2020  
+#### Paper-Survey-2020  
 TODO  
 
 
