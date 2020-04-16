@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Slides & Research  
+title: Slide & Research  
 ---
-### Slides      
+### Slide      
 
 ##### Nov 24, 2019 - My slide on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE    
 
