@@ -7,6 +7,13 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020 
 
+#### 2020-04-15  
+  * get up about 11:30pm  
+    - a bit late  
+
+  * reread and summary ch3-ch18 in <The Great CEO Within>  
+    - so many practical tips  
+
 #### 2020-04-14  
   * update the website  
     - just wanna add a tags key  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Up my business"
+title: "Update my business"
 date: 2020-04-13
 comments: true
 categories: [summary, learning]
