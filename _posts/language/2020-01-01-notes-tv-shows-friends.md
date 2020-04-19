@@ -7,6 +7,33 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S02E14  
+> **what's this for?**  
+> well, I'm making money now, and **this is paying you back for** head shots,electric bills, and 
+> so many slices of pizza I can't even count  
+> **This is a little extra something for** **always being there for me** (一直以来对我的关照).   
+
+I don't know what to say .   
+
+**You are so wearing** that bracelet. (绝配)  
+
+Once I'm used to the extra weight, I'll be back on track.  
+
+**That's your call** (悉听尊便).  
+
+Monica, if you want, I can lend you some money.  
+
+Man, that is **sharp** (犀利)
+
+**We were so sorry to hear about your parents** splitting up. 
+
+**I really have to be somewhere but it was nice meeting you**.  
+
+We were just **doing some impressions** (模仿) over here.  
+
+It's just not worth it.  
+
+
 #### S02E13
 Don't take it personal. He's under a lot of pressure.  
 
@@ -25,7 +52,7 @@ What a jerk! (混蛋) I kept talking about you, and he kept asking me out.
 
 It's not a big deal. (不是大事)  
 
-Thanks for letting me **tag along** tonight, you gusy. (带上我)  
+Thanks for letting me **tag along** tonight, you guy. (带上我)  
 
 "That's an exciting job. You must have a ton of cool responsibilities"  
 

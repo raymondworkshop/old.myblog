@@ -222,16 +222,60 @@ categories: [summary, learning]
 
 #### Infrastructure
 
+* ch20 - Goal-Tracking System  
+
 #### Collaboration  
 * ch24 - organizational structure  
+  - so that **everybody understands how it works**, and various related ddetails are clarified 
   - once you have achieved product-market fit  
     + from fewer than 10 members to more than 20 in a short time  
     + **win the race to market share**   
   - need to implement a formal management system  
     + delineat separate teams with managers   
 
-& ch25 - 
-
+* ch25 - structure meeting system  
+  - Accountability is declaring  -> **goals and actions**
+    + **a destincation, and the action** steps to get there  
+	+ last week, "for each of your stated actions, did u get them done - yes or no?"
+	  - if no, what blocked you? what habit can u adopt to?
+	+ next week, what one action can u take to advance toward? 
+	+ 
+  - **coaching** is declaring  -> **issues and solutions**  
+    + **the current health** of the entity, **both the good and the not good**
+	+ with the not good, **what the issue is in detail and a proposed solution**
+	  - this can **make requests for help from the manager** 
+	+ good ?
+	+ not good? 
+      - describe the issue in detail, as weel as your proposed solution.  
+	  - **what you can do to solve the issue**  
+	  - **what I (your manager) can do to help unblock you**  
+	+  
+	  
+  - Transparency is declaring  -> **feedback**  
+    + **feedback to people on what they are doing** 
+	+ **like** - "there are the specific actions that i like that you are doing "
+	+ **Wish that** - "thses are the specific actions that i wish you would do differently"
+	  - please give me that feedback 
+      - please think of the feedback that **you are afraid to give me because you think that it will hurt my feelings**
+      
+  
+* ch26 - meetings  
+  
+* ch27 - feedback  
+  - seek real, honest feedback and improve  
+  - ask for negative feedback, it will be cherished  
+    + preferably in a one-on-one setting  
+	+ **"If you were CEO, what would you change?"**  
+  - appreciate it  
+    + your job is to listen and try to understand  
+	+ 
+  - act on it  
+  -  
+  - **giving feedback**   
+    + face-facce - "**I didn't intend to make you feel angry. My intent was to be helpful**"  
+	+ do not use email, text, or voicemail to give feedback, unless 100 positive  
+  - 
+  
 #### Processes  
 
 #### reference

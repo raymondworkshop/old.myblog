@@ -40,6 +40,9 @@ title: links
 *  
 * [Rich Hickey](https://purelyfunctional.tv/programmer-profiles/rich-hickey/)
 
+#### tips  
+* [Emacs mini manual series](https://tuhdo.github.io/)
+
 
 #### skills
 * [Niniane](http://niniane.blogspot.hk/)

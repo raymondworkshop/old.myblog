@@ -5,7 +5,34 @@ date: 2020-01-03
 comments: true
 categories: [diary]
 ---
-### 记录下每天的工作和生活 - 2020 
+### 记录下每天的工作和生活 - 2020
+
+#### 2020-04-18
+  * emacs server-client
+    - start emacs daemon at loginin based on /Users/zhaowenlong/Library/LaunchAgents
+    - also could use "emacs --fg-daemon" to start the daemon mode
+
+    - emacsclient to run the terminal client  
+      + todo -  reboot emacs daemon not reboot pc  
+
+  * international meetup  
+    - should be more open  
+    - improve your english 
+
+  * you should improve your producations  
+    - 
+
+#### 2020-04-17  
+  * item2 + emacs  
+    - melt -> alt  
+    - in item2: command + shift + D  to split window horizontally
+    
+  * emacs server-client
+    - GUI vs terminal emacs
+    - TODO
+  * config emacs  
+    - python runnign env  
+    - [Emacs as a Python IDE](http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide/)
 
 #### 2020-04-15  
   * get up about 11:30pm  
