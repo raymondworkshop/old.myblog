@@ -6,9 +6,24 @@ comments: true
 categories: [diary]
 ---
 
-### 总结没月的工作和生活  - 2020  
+#### 总结和计划 每周的工作和生活 - 2020  
 
-#### 总结下每周的工作和生活 - 2020  
+#### 04-20 -> 04-26  
+* job  
+  - update your resume and send our applications 
+    + hope to get one meeting  
+
+  - preparing  
+    + read the NLP books for the realted job  
+    + the job skills   
+
+  - programming  
+    + know more about emacs  
+    + do programming everyday  
+
+* meeting    
+
+
 ##### 04-13 -> 04-19  
 * **have an object** when you do something  
 * TODO  
