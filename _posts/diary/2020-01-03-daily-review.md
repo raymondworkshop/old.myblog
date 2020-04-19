@@ -7,6 +7,23 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-04-19  
+  * get up around 12:30  
+    - sleep around 3:00, and watch a movie <寒站2>  
+    - don‘t do this, and the movie is not good  - I mean the value  
+    - action 
+      + sleep before 12:00, and getup before around 9:30  
+      + don't listen too much about politics, maybe some more about good ones  
+
+  * finish the todolist setup  
+    - need time to get used to that  
+
+  * finish the summary the book <The Great CEO Within>  
+    - should be more social  
+
+  * english    
+    - finish ch14 in <friends>    
+
 #### 2020-04-18
   * emacs server-client
     - start emacs daemon at loginin based on /Users/zhaowenlong/Library/LaunchAgents
@@ -19,7 +36,7 @@ categories: [diary]
     - should be more open  
     - improve your english 
 
-  * you should improve your producations  
+  * you should improve your pronouncation    
     - 
 
 #### 2020-04-17  
