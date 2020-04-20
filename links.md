@@ -18,7 +18,8 @@ title: links
 
 #### tech
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)**    
-*  
+* **[Patrick Collison](https://patrickcollison.com/)**  
+* 
 * [Matt Might](http://matt.might.net/articles/)
 * **[Kate Matsudaira](http://katemats.com/about/)**  
 * **[Erik Bernhardsson](https://erikbern.com/)**
