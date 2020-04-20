@@ -7,6 +7,26 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-04-20  
+  * get up around 11:30  
+    - breakfirst at cuhk, and get to cityU around 13:00  
+	
+  * config emacs on mac 
+    - reload emacs daemon
+	  >launchctl unload /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist
+      >launchctl load -w /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist
+    - start emacs daemon manually
+	  >emacs --fg-daemon
+	  
+  * config python in meacs
+    - failed 
+	
+  * feel depressed  
+    - I'm not so good actually  
+	- possible to do a tech company ...   
+	
+  * 
+
 #### 2020-04-19  
   * get up around 12:30  
     - sleep around 3:00, and watch a movie <寒站2>  

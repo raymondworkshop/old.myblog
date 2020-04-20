@@ -16,6 +16,7 @@ title: links
 * [Dollar Street](https://www.gapminder.org/) 
 * [uses this](https://usesthis.com/interviews/tracy.chou/)
 
+
 #### tech
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)**    
 * **[Patrick Collison](https://patrickcollison.com/)**  
