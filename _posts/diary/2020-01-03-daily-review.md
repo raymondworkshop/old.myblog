@@ -7,6 +7,32 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-04-21
+  * use the todolist  
+    - a bit more actions  
+	- 
+  * get up around 9:30 , and arrive at cityU around 11:00  
+    - good points  
+	- 
+	
+  * fix the python in emacs  
+    - although a bit more learning  
+	- scheme or common lisp?  
+	
+  * see the blog Patrick Collison  
+    - he is so great  
+	
+  * see the drama <国土安全>  
+  
+  * think my strenghs  
+    - language  
+	- programming  
+	- writing  
+	- art  
+	- spirit  
+	- philosophy  
+	- math  
+
 #### 2020-04-20  
   * get up around 11:30  
     - breakfirst at cuhk, and get to cityU around 13:00  

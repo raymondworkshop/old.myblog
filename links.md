@@ -4,6 +4,7 @@ title: links
 ---
 
 #### reading    
+* [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)
 * common lisp  
   - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 * 
