@@ -7,6 +7,35 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S02E15  
+"all right, but you better be wearing clothes when I open mye eyes"  
+
+> "So, uh, how was your day?"  
+> "You know, pretty much the usual, sun shining, burds chirping"  
+> "Really? Mine too"  
+
+You look great ( 你很美)  
+
+> "So how you been?"  
+> "I've been great, just great. How have you been?"  
+> "Obviously you know Barbara and I **split up** ... "  
+
+You two **are totally into** each other (互有好感).  
+
+"27 is a dangerous eye age."  
+
+**It would really help when I'm kissing if you didn't** shout my sister's name . 
+
+**what?** (怎么了)  
+
+just put your hands out and i'll **back up into** them (倒回)  .
+
+"**how'd it go?**" (结果如何)  
+
+There's no need to **make it up** (补偿). How?  
+
+
+
 #### S02E14  
 > **what's this for?**  
 > well, I'm making money now, and **this is paying you back for** head shots,electric bills, and 
@@ -25,9 +54,9 @@ Monica, if you want, I can lend you some money.
 
 Man, that is **sharp** (犀利)
 
-**We were so sorry to hear about your parents** splitting up. 
+**"We were so sorry to hear about your parents"** splitting up. 
 
-**I really have to be somewhere but it was nice meeting you**.  
+**"I really have to be somewhere but it was nice meeting you"**.  
 
 We were just **doing some impressions** (模仿) over here.  
 

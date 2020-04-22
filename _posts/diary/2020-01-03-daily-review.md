@@ -7,6 +7,21 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-04-22  
+  * wake up around 8:30, but get up around 12:00  
+    - bad points  
+	
+  * explore the compiler courses 
+    - wanna improve my programming skills  
+	
+  * learn english - friend  
+  
+  * I find you are a bit more self-love
+    - love beauty more  
+	- not so good in current society, if you wanna build relationships and make more money  
+
+  * 
+  
 #### 2020-04-21
   * use the todolist  
     - a bit more actions  
