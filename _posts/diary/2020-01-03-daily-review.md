@@ -7,6 +7,14 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-04-23  
+  * 持续的优化自己  
+    
+  * thoughts  
+    - 胆小  
+    - 害怕挑战, 害怕冒险, 害怕失败, 害怕做得不够好  
+  * 
+
 #### 2020-04-22  
   * wake up around 8:30, but get up around 12:00  
     - bad points  

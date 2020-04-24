@@ -58,6 +58,8 @@ title: links
 
 
 #### skills
+* **[Alexey Guzey](https://guzey.com/)**  
+*  
 * [Niniane](http://niniane.blogspot.hk/)
 * [Study Hacks Blog](http://calnewport.com/blog/)
 * [Tracy Chou's blog](https://triketora.com/)
