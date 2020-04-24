@@ -8,6 +8,18 @@ abstract: "notes"
 ---
 
 #### S02E16  
+Wow, this is **wild**! What are you gonna get? (很棒)  
+
+"That's lucky. what if her name was ..." 
+
+Rich is gonna be here **any minute**. (随时会到)  
+
+I tell you, I've never seen him **this happy**. (这么快乐)  
+
+very **tasteful**. 
+
+no-no, **it's not what you think**  
+
 
 #### S02E15  
 "all right, but you better be wearing clothes when I open mye eyes"  

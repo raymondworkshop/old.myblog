@@ -7,6 +7,20 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-04-24  
+  * get up 11:30  
+    - not good point  
+	
+  * read some python doc 
+    - python paradgram
+	
+  * read <the lean startup>  
+    - good book  
+  
+  * improve my english from <friends> 
+    - drag some parts  
+  
+  
 #### 2020-04-23  
   * 持续的优化自己  
     
