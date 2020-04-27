@@ -7,6 +7,19 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-04-27  
+  * thoughts  
+    - 胆小怕事  
+	- 不要觉得对不起人  
+	  + 这个只对自己的家人和亲密朋友  
+	  
+  * read the book <how to win friends and influence people>  
+  
+  * make money  
+  
+  * families  
+  
+
 #### 2020-04-24  
   * get up 11:30  
     - not good point  
