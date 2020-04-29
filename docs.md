@@ -24,5 +24,6 @@ title: docs
     + using ipython to 
 
 #### goodbooks  
+* [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/B005MM7HY8/ref=sr_1_1?crid=SVIK2EFUKTBZ&dchild=1&keywords=the+lean+startup&qid=1588064286&sprefix=the+lean+startup%2Caps%2C330&sr=8-1)
 * [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within)
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?ac=1&from_search=true&qid=76WiM1JVBT&rank=1)  

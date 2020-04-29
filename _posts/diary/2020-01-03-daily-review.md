@@ -13,6 +13,8 @@ categories: [diary]
 	- 不要觉得对不起人  
 	  + 这个只对自己的家人和亲密朋友  
 	  
+  * use the knowledge actively not just knowing it
+  * 
   * read the book <how to win friends and influence people>  
   
   * make money  

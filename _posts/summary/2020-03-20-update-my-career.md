@@ -8,6 +8,12 @@ categories: [summary, learning, softskills]
 
 #### Career  
    * Image of yourself masteing the skills you wanna master  
+     - language  
+	 - programming  
+	 - pholosophy  
+	 - beauty like photo, art, nature  
+	 - communication  
+	 - 
    * your career is defined by **your skills** and how your've used them 
    * 
    * leading a team to execute on a vision  
@@ -22,8 +28,6 @@ categories: [summary, learning, softskills]
 
    * reference  
       - [Finding Your Path – Leveling Up in Your Career](http://katemats.com/finding-your-path-leveling-up-in-your-career/)
-
-
 
 #### career -> 工程师 -> PM -> MBA? 
    * 对于普通家庭出身的我，我需要一技傍身，没有那么多试错的机会 
@@ -40,15 +44,14 @@ categories: [summary, learning, softskills]
 
    * 代码 + paper
      + python  
+	 + go  
      + java~~/scala~~  
-     + rust  
-     + lisp
-
-
+     + ~~rust~~
+	 + common lisp  
+     
    * 对自己有深刻的认识 
      + 清楚自己的优点和缺点     
        - 共情能力  - 沟通能力  
-
 
      + 自己怎样学习新知识和与人共事 
        - 诚实正直，上进的，通情达理，独立，能干，善良，有付出， 追求共好
@@ -73,11 +76,8 @@ categories: [summary, learning, softskills]
     - how to communicate with diff people  
       + 
 
-
   * how did my experience change me?  
     - 
-
-
 
 #### 好的工作  
   * **人**  
