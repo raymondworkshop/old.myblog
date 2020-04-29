@@ -3,9 +3,11 @@ layout: post
 title: "Notes on the Software Architect"
 date: 2020-02-11
 comments: true
-categories: [notes, learning]
+categories: [home, notes, learning]
 abstract: "Notes on how to do users' Requirements and the Software Architecture"
 ---
+
+#### 500L
 
 
 #### ch4 Empathize with Stakeholders  - product manager  
@@ -112,5 +114,6 @@ abstract: "Notes on how to do users' Requirements and the Software Architecture"
 
 
 #### reference  
+* [500lines](https://github.com/muyun/500lines)
 * [code complete] 
 * [from programmer to architect]  
