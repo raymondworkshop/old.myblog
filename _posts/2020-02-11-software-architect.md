@@ -3,7 +3,7 @@ layout: post
 title: "Notes on the Software Architect"
 date: 2020-02-11
 comments: true
-categories: [home, notes, learning]
+categories: [notes, learning]
 abstract: "Notes on how to do users' Requirements and the Software Architecture"
 ---
 
