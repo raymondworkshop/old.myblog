@@ -8,6 +8,7 @@ abstract: "Notes on how to do users' Requirements and the Software Architecture"
 ---
 
 #### 500L
+TODO 
 
 
 #### ch4 Empathize with Stakeholders  - product manager  

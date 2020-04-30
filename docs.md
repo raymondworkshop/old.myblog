@@ -3,8 +3,6 @@ layout: post
 title: docs
 ---
 
-
-
 #### notes  
 
 * emacs  
