@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Updating-软件工程之美"
-date: 2019-02-23
+title: "Updating-engineering"
+date: 2020-04-29
 comments: true
 categories: [learning]
 --- 
@@ -81,6 +81,12 @@ categories: [learning]
 
 
 #### reference 
+ **軟件工程之美](https://time.geekbang.org/column/article/82337)**
+* **[许式伟的架构课](https://time.geekbang.org/column/article/94486)**
+* [硅谷产品实战36讲](https://time.geekbang.org/column/article/6043)
+* [AI技术内参](https://time.geekbang.org/column/article/153)
+* [python 核心技术与实战](https://time.geekbang.org/column/article/116493)
+* 
 * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 * [极客时间-许式伟的架构课] 
 * [极客时间-python] 

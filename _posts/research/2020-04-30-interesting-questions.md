@@ -8,11 +8,11 @@ abstract: 'List Some Interesting Questions'
 --- 
 
 
-#### about beauty  
+### about beauty  
 what's beauty?  why do people enjoy the beauty?  
 
-#### why do math models fit in with the natural world  
-##### many real world phenomena can be modeled with analytic distributions, why?  
+### why do math models fit in with the natural world  
+#### many real world phenomena can be modeled with analytic distributions, why?  
 
 Analytic distributions are abstractions, which means **they leave out details that are considered irrelevant**.  
 
