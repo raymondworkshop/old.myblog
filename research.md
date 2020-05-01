@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Slides & Research  
+title: RESEARCH  
 ---
-### Slides     
+#### List of some of my research/writing!  
+
+##### Paper-Survey-2020  
+TODO  
 
 ##### Nov 24, 2019 - My slide on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE    
 
@@ -20,10 +23,6 @@ title: Slides & Research
 * [Top-N Sort Algorithm](https://docs.google.com/presentation/d/1kpzEqbFUUvQ3dsSITs5C8ifK0VfOyAB0/edit#slide=id.p1)
 * [TOP-N Algorithm on word embeddings](https://docs.google.com/presentation/d/1kpzEqbFUUvQ3dsSITs5C8ifK0VfOyAB0/edit#slide=id.p1)
 * [iSpeaking - Automatic Speech Recognition for L2 (english&chinese) learners](https://docs.google.com/presentation/d/1qQC-UeyoCN7V9WVZTzPQqjbsb1NS8HI3/edit#slide=id.p1)
-
-### Publications 
-#### Paper-Survey-2020  
-TODO  
 
 
 #### Word Embeddings 

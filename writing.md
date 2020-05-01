@@ -6,7 +6,7 @@ title: Writing
 <div >
   <ul class="posts">
   {% for post in site.posts %}
-    {% if post.categories contains 'writing'  %}
+    {% if post.categories contains 'writing' %}
       <li>
       
       <small>{{ post.date | date: "%b %d, %Y"}}</small> <br>
