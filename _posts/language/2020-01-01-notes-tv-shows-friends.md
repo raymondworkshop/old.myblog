@@ -7,6 +7,14 @@ categories: [language]
 abstract: "notes"
 ---
 #### S02E17  
+**you know what they say**: (俗语云)  
+
+look, I know you don't want to hear this right now.  
+
+sweetie, listen before I forget, did I leave my diaphragm at your place?  
+
+Because you were **mean** to me ... (刻薄)
+
 
 #### S02E16  
 Wow, this is **wild**! What are you gonna get? (很棒)  
