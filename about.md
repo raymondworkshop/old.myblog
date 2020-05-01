@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ABOUT
+title: About
 ---
 My name is Raymond ZHAO Wenlong, a Computer Scientist and Software Engineer based in Hong Kong NOW. 
 email/g: wenlzhao at gmail dot com.  

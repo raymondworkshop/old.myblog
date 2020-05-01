@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BOOKSHELF  
+title: Bookshelf  
 ---
 
 #### log of books that I have read and my ratings   

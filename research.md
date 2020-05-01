@@ -1,8 +1,8 @@
 ---
 layout: post
-title: RESEARCH  
+title: Research  
 ---
-#### List of some of my research/writing/interviews!  
+#### List of some of my writing/research/interviews!  
 
 ##### Paper-Survey-2020  
 TODO  
