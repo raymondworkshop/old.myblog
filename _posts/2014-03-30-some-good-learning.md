@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 反思自己的思维偏见 
+title: "反思自己的思维偏见" 
 date: '2014-03-30 22:14'
 comments: true
-categories:  [learning]
+categories:  [writing, learning]
 published: true
 ---
 

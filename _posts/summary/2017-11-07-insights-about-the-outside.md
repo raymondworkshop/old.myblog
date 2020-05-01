@@ -3,7 +3,7 @@ layout: post
 title: '!Insights about the outside'
 date: 2017-11-07
 comments: true
-categories: [learning, summary, softskills]
+categories: [summary, writing]
 abstract: "!!Some insights about the outside"
 ---
 

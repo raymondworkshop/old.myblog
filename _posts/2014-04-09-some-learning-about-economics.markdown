@@ -3,7 +3,7 @@ layout: post
 title: "Some Learning about Economics"
 date: 2014-04-09 12:09
 comments: true
-categories: [notes]
+categories: [home, notes]
 abstract: '总结自 <a href="http://www.oklink.net/a/0011/1101/mgzy/003.htm">产权与交易费用</a>'
 ---
    
