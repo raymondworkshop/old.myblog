@@ -2,7 +2,7 @@
 layout: post
 title: RESEARCH  
 ---
-#### List of some of my research/writing!  
+#### List of some of my research/writing/interviews!  
 
 ##### Paper-Survey-2020  
 TODO  
