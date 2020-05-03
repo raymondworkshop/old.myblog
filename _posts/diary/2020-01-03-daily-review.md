@@ -7,6 +7,24 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-05-02  
+  * I find that i need a girlfriend now  
+    - some characters I admire: 
+	  + caring   
+	  + 耐看  
+	  + independent / 有主见  
+	  + 诚实  
+	  + 受过良好的教育  
+	
+  * meetup with international friends  
+    - increase your experiences/knowledge
+	- be nice  
+	- life experiences  
+	  + enjoy your life  
+	  + meet with young guys  
+    - care others  
+	
+
 #### 2020-04-27  
   * thoughts  
     - 胆小怕事  

@@ -3,7 +3,7 @@ layout: post
 title: "The Lean Startup"
 date: 2020-04-29
 comments: true
-categories: [home, writing, softskill, business]
+categories: [notes, softskill, business]
 abstract: "The Lean Startup: the process of validated learning"
 --- 
 
