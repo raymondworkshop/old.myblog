@@ -6,7 +6,7 @@ title: Bookshelf
 #### log of books that I have read and my ratings   
 
 #### 2020 
-* [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications?from_search=true&from_srp=true&qid=frasaRCWhO&rank=1) by  Martin Kleppmann  (10/10)  
+* [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?from_search=true&from_srp=true&qid=ZohXwBZmoQ&rank=1) by Steve McConnell  (7/10)  
 * [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning?from_search=true&from_srp=true&qid=H2QySH8BPj&rank=1) by Viktor Frankl (9/10) 
 * [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries (9/10) 
 * [The Art of Loving](https://www.goodreads.com/book/show/14142.The_Art_of_Loving) by  Erich Fromm (6/10)
