@@ -7,6 +7,9 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S02E19  
+
+
 #### S02E18  
 That was so lame. (好烂)  
 
