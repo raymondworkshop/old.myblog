@@ -5,6 +5,30 @@ title: docs
 
 #### notes  
 
+* spacesmacs  
+  - fix package download err
+    > emacs --insecure   
+    > SPC q q 退出 Emacs 并杀掉服务器  
+
+  - vim 
+
+  - python  
+    > SPC m V w -> work on virtual environment in WORKON_HOME
+    > SPC m c c -> Execute current file in a comint shell 
+
+    
+
+  - keys  
+    + SPC + h -> help  
+    + SPC f e R 来重载配置  
+    + SPC b b -> list all buffer  
+    + 
+    + normal and insert editor state <- use 'ESC' key to be in normal state, and 'i' to be in insert editor   
+
+  - reference
+    + [Spacemacs Basics](https://search-and-deploy.gitlab.io/cheat-sheets/spacemacs-basics/)
+    + [spacemacs](https://wiki.archlinux.org/index.php/Spacemacs#Install_Spacemacs)
+
 * emacs  
   - autoload emacs daemon when logining  
     > launchctl unload /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist
