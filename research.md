@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project  
+title: Slides   
 ---
 #### List of some of my projects/writing/research/interviews!  
 
