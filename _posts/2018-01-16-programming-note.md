@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Notes on programming"
+title: "Notes on python programming language"
 date: 2018-01-16 
 comments: true
 categories: [home,notes]
 abstract: "[Updating] Notes on programming"
 ---
 >[Updating]  Notes on programming
-
-#### theory of Programming Languages 
 
 
 #### [CommonLisp]   
