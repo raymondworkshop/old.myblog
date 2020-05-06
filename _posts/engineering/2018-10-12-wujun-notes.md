@@ -3,7 +3,7 @@ layout: post
 title: "DO-吴军"
 date: 2019-04-18
 comments: true
-categories: [learning]
+categories: [learning, business, insight]
 ---
 
 ### notes on <见识> - 个人精进 

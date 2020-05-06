@@ -3,7 +3,7 @@ layout: post
 title: "DO-诺言课程"
 date: 2019-02-18
 comments: true
-categories: [learning]
+categories: [learning, insight]
 abstract: '关于自我成长'
 ---
 
