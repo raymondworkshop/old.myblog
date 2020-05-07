@@ -14,10 +14,9 @@ Listen, um honey, I appreciates this. but you don't have to keep hanging out wit
 
 oh, why does this bother me so much?
 
-ok, what the hell happened back there? (刚刚怎么回事)
+ok, what the hell happened back there? (刚刚怎么回事**
 
-
-
+I really am sorry about, you know, before. **i just want to make sure that i really do like you**.
 
 
 #### S02E18

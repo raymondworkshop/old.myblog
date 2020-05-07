@@ -8,3 +8,5 @@ abstract: "[Updating] Notes on the core ideas programming languages, especially 
 ---
 
 #### functional programming    
+
+##### Standard ML  

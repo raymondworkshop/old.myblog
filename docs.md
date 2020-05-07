@@ -6,26 +6,31 @@ title: docs
 #### notes  
 
 * spacesmacs  
-  - fix package download err
+  - fix package download err  
     > emacs --insecure   
     > SPC q q 退出 Emacs 并杀掉服务器  
 
   - vim 
 
   - python  
-    > SPC m V w -> work on virtual environment in WORKON_HOME
-    > SPC m c c -> Execute current file in a comint shell 
+    > SPC m V w -> work on virtual environment in WORKON_HOME  
+    > SPC m c c -> Execute current file in a comint shell  
 
-    
 
   - keys  
     + SPC + h -> help  
     + SPC f e R 来重载配置  
     + SPC b b -> list all buffer  
     + 
-    + normal and insert editor state <- use 'ESC' key to be in normal state, and 'i' to be in insert editor   
+    + SPC f t -> toggle NeoTree at pwd  
+    + u -> Undo last command  
+    + SPC 1   -> switch windows  
+    + SPC w d -> Close current window  
+    + 
+    + 'i' to be in insert editor, use 'ESC' key to be in normal state     
+    + 
 
-  - reference
+  - reference  
     + [Spacemacs Basics](https://search-and-deploy.gitlab.io/cheat-sheets/spacemacs-basics/)
     + [spacemacs](https://wiki.archlinux.org/index.php/Spacemacs#Install_Spacemacs)
 
