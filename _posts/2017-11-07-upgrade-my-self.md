@@ -12,6 +12,8 @@ abstract: "!!Some insights about the outside"
   * **Ready is an illusion. No one is ever ready**.  
       - We just get less unprepared. Never prepared.  
   * 
+  * **幸福要自己争取**    
+  * 
   * 求同存异 - **共赢 + 不失原则的妥协** 
       - 共同的，不同的和处于中间带的观点  
   * Don't fight to win all the battles, you **just need win the war**   

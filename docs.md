@@ -16,6 +16,11 @@ title: docs
     > SPC m V w -> work on virtual environment in WORKON_HOME  
     > SPC m c c -> Execute current file in a comint shell  
 
+  - standard ML
+    + SPC m s b -> Send buffer to REPL
+    + ctr-c ctr-s -> send buffer to REPL
+    + ctr-d -> stop REPL
+    + C-c M-o in the REPL buffer
 
   - keys  
     + SPC + h -> help  

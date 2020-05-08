@@ -7,6 +7,25 @@ categories: [language]
 abstract: "notes"
 ---
 
+#### S02E20
+everywhere I go today I **keep getting signs telling me** to go see my father.
+
+I am so **beat** (累)
+
+just wanna make sure **we're on the same page** (达成共识)
+
+How'd the interview go?
+
+forget it. it's probably **stripped and sold for parts** by now. (拆成零件**
+
+we're here for you .
+
+**Only once in a blue moon does** a dog's ear grow back. (仅仅 ... 狗耳朵才会再长出来)
+
+Hey, pheebs, if you want, I'll do it.
+
+
+
 #### S02E19
 Glad to be of help.
 
