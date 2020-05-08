@@ -1,16 +1,13 @@
 ---
 layout: post
-title: "Notes on python programming language"
+title: "Notes on Python programming"
 date: 2018-01-16 
 comments: true
 categories: [home,notes]
-abstract: "[Updating] Notes on programming"
+abstract: "Notes on Python programming"
 ---
->[Updating]  Notes on programming
+>Notes on Python programming   
 
-
-#### [CommonLisp]   
-TODO  
 
 
 #### Python Data Model -> A Framework/API for core language constructs
