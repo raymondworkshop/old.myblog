@@ -4,10 +4,34 @@ title: "Notes about TV show 'Friends'"
 date: 2020-01-01
 comments: true
 categories: [language]
-abstract: "notes"
+abstract: "notes about TV show 'Friends'"
 ---
 
-#### S02E20
+#### S02E23
+it is so ironic **considering** i'm a vegetarian.
+
+**Was I supposed to** bring something too? (我是不是也该带点什么)
+
+You know, **I like the way you have** effieicently
+
+well, I am confuese. I thought we shared time.
+
+because **it's in a slightly different time zone than** the kitchen.
+
+
+
+#### S02E22
+Hi Honey, how did it go?
+
+Look, are you gonna be ok?
+
+come again?  (can u say it again?)
+
+Good to know (if someone gives infor)
+
+
+
+#### S02E21
 everywhere I go today I **keep getting signs telling me** to go see my father.
 
 I am so **beat** (累)
