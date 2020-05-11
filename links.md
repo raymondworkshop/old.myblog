@@ -10,7 +10,8 @@ title: links
 * 
 * [books-2020](https://www.dropbox.com/sh/e1oef11vyrf6l7z/AAB6y5dZZIQKriUiAsgmB3K1a?dl=0)  
 * [Great list of books to read](https://catonmat.net/top-100-books-part-one)
-* [钱穆《国史大纲》](http://st.kanxshuo.com/book-41048-1.html)
+* [钱穆《国史大纲》](http://st.kanxshuo.com/book-41048-1.html) 
+* [Succeed Socially](https://www.succeedsocially.com/articlesmoods) 
 
 
 #### courses  
