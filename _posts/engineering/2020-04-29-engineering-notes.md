@@ -6,24 +6,41 @@ comments: true
 categories: [learning, engineering]
 ---
 
-#### Notes on commu
+#### Notes on software engineering
+  * 软件工程 = 过程 + 方法 + 工具
+  * **engineering thinking and project thinking** on every task
+    - 想法 + 概念 + 计划 + 设计 + 开发 + 发布
+    - **想法** : 识别问题 - **清晰地定义问题, 研究其可行性, 检查是否有可行方案**
+    - **概念** - **提出概念性解决方案**, 可能有多个方案,最终确定一个
+    - **可行性计划** - 如何实施, 人员,任务,时间, 预算
+    - **设计** - 将解决方案细化, 设计架构和划分功能模块
+    - 开发 - 根据设计方案, 实施构建, 并迭代
+    - 发布
+
+  * 瀑布模型- 有序可控
+    - 需求分析
+      + 了解老板的想法 + 调研 + **设计原型**
+      + 让老板给反馈, **写产品设计文档**, 划分不同模块
+    -  軟件設計
+      + 根據產品設計文檔, 把整体架构确定, **写技术方案**
+      + 开会讨论, 确认整体技术方案, 按照功能模块拆分
+    -  程序編碼
+
+    - 軟件測試
+
   *
-  * team skills
 
 #### Notes on soft-skills
   * **tell the hard from the impossible**
     - **Find a solution** which is merely hard when it can be confidently **scheduled** and **the risks** are understood
     - make the requirement more **clear**
-    - a clear definition of success -> often become merely hard
-    -
+    - a clear definition of success - often become merely hards
 
-  * fight schedule pressure -> **time-to-market pressure** <- reflect a financial reality
+  * fight schedule pressure -> **time-to-market pressure** - reflect a financial reality
     - **visible between the available labor and the product**
-    -
     - maintain a concise and up-to-date **project plan**
       + mark progress
-      + help make decisions
-    -
+      + help make decisionss
     - how to estimate time
       + restate your **assumptions**
       + consider **prototyping the task** firstly
@@ -59,7 +76,6 @@ categories: [learning, engineering]
     - Think about systems and how they **interoperate**. Systems Thinking is more important than coding.
     - Know what artifacts your system makes and what's needed for it to run. Know what kinds of things its good at and what it's bad at - in a non-zealous and non-egotistical way.
     - Understanding the basic building blocks are important.
-    -
 
   * mini-project
     - 别做大项目。 从小项目开始，而且永远不要期望它变大。如果这么想（指做大型软件），就会做过度设计，把它想象得过于重要。更坏的情况是，你可能会被自己想象中的艰难工作所吓倒。
