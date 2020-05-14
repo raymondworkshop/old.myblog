@@ -28,7 +28,8 @@ categories: [learning, engineering]
 
     - 軟件測試
 
-  *
+  * 原型开发,  增量模型(模块化小瀑布),  迭代模型
+
 
 #### Notes on soft-skills
   * **tell the hard from the impossible**

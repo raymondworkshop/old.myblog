@@ -7,6 +7,14 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-05-14  
+  * develop my Musicianship   
+
+
+#### 2020-05-13
+  * 今天去见了一个startup的公司
+    - it's not so good actually
+
 #### 2020-05-12
   * 精力不够
     - 比较欣喜的是 169cm, 增重110.5斤 -> 120
