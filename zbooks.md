@@ -6,6 +6,7 @@ title: Bookshelf
 #### log of books that I have read and my ratings   
 
 #### 2020 
+* [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true&qid=13w9EjAaq4&rank=1) by Julie Zhuo 
 * [An Introduction to Language](https://www.goodreads.com/book/show/588362.An_Introduction_to_Language) by  Victoria A. Fromkin, Robert Rodman, Nina Hyams  (8/10)  
 * [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?from_search=true&from_srp=true&qid=ZohXwBZmoQ&rank=1) by Steve McConnell  (7/10)  
 * [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries (9/10) 
