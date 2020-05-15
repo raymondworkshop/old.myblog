@@ -6,6 +6,19 @@ comments: true
 categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
+#### upload02
+I want to be **independent and capable**.
+
+Should I come back later?
+
+I have no **earthly** needs anymore, I was asking out of a purely spiritual desire to help. (世俗)
+
+Are u sure you are okay?
+
+If you need me for personal shopping, ...
+
+
+
 
 #### upload01
 Am I **crashing** something right now? (唐突)
