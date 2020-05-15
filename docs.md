@@ -28,14 +28,18 @@ title: docs
     + SPC b b -> list all buffer
     +
     + SPC f t -> toggle NeoTree at pwd
-    + u -> Undo last command
+    + u -> Undo last change
     + SPC 1   -> switch windows
     + SPC w d -> Close current window
     +
     + 'i' to be in insert editor, use 'ESC' key to be in normal state
     +
     + y y -> copy line
-    + y d -> copy the line
+    + p -> paste  
+    + v -> highlight text  
+    + y -> yank 
+    + d -> delete highlight text  
+    + 
     + g g -> beginning of file
     + G   -> end of file
     +

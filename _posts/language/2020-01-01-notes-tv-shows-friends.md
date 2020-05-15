@@ -1,11 +1,36 @@
 ---
 layout: post
-title: "Notes about TV show 'Friends'"
+title: "Notes about TV shows"
 date: 2020-01-01
 comments: true
 categories: [language]
-abstract: "notes about TV show 'Friends'"
+abstract: "notes about TV shows like 'Friends'"
 ---
+
+#### upload01
+Am I **crashing** something right now? (唐突)
+
+yeah, no big deal.
+
+I'm feeling **pretty chill** (relax).
+
+**You're supposed to just refer to me** as your angel.
+
+Just let it sink in how lucky you are.
+
+You, uh, want to go for a hike?  They ahve some beautiful trails around the lake.
+
+Here you're **at their mercy**, I guess. (被摆布)
+
+It's not for me. (我没兴趣)
+
+**because your consciousness can think and comapre with your memories. That's still you.**
+
+thinking and being alive.
+
+i mean, maybe the imperfections make it more like life.  cause life isn't perfect.
+Life is  the most magical gift there is.
+
 
 #### S02E23
 it is so ironic **considering** i'm a vegetarian.
@@ -17,33 +42,6 @@ You know, **I like the way you have** effieicently
 well, I am confuese. I thought we shared time.
 
 because **it's in a slightly different time zone than** the kitchen.
-
-Am I **crashing** something right now? (唐突)
-
-yeah, no big deal.
-
-I'm feeling **pretty chill** (relax** .
-
-**You're supposed to just refer to me** as your angel.
-
-Just let it sink in how lucky you are.
-
-You, uh, want to go for a hike?  They ahve some beautiful trails around the lake.
-
-Here you're **at their mercy**, I guess. (被摆布)
-
-It's not for me. (我没兴趣**
-
-**because your consciousness can think and comapre with your memories. That's still you.**
-
-thinking and being alive.
-
-i mean, maybe the imperfections make it more like life.  cause life isn't perfect.
-Life is  the most magical gift there is.
-
-
-
-
 
 
 #### S02E22
