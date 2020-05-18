@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Notes on Python programming"
+title: "Notes on Python and goland programming"
 date: 2018-01-16 
 comments: true
 categories: [home,notes]
-abstract: "Notes on Python programming"
+abstract: "Notes on Python, and golang programming"
 ---
->Notes on Python programming   
+>Notes on Python, and goland programming   
 
 
 
@@ -75,8 +75,8 @@ By using and implementing **special methods of Python Data Model** in your objec
    - Uninstall everything:  >pipenv uninstall --all
 
  * <del>Your environment contains PYTHONPATH=/usr/local/lib/python2.7/site-packages
-This doesn't work with Python 3 for obvious reasons. To remove it:
-> unset PYTHONPATH </del>
+This doesn't work with Python 3 for obvious reasons. To remove it:  unset PYTHONPATH 
+</del>
 
 
 #### reference
