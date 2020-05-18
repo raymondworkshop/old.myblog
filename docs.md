@@ -41,8 +41,10 @@ title: docs
     + d -> delete highlight text  
     + 
     + g g -> beginning of file
-    + G   -> end of file
-    +
+    + G   -> end of file  
+    + b -> back one word
+    + w -> advance one word 
+    + 
   - reference
     + [Spacemacs Basics](https://search-and-deploy.gitlab.io/cheat-sheets/spacemacs-basics/)
     + [spacemacs](https://wiki.archlinux.org/index.php/Spacemacs#Install_Spacemacs)

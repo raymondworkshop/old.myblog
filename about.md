@@ -16,7 +16,7 @@ I have a BS in Electroic and Information Engineering from [Wuhan University](htt
 <br>  
   
 I believe that "The good life is one inspired by love and guided by knowledge".  
-I speak Jin, Mandarin, English, Cantonese, and Japanese (basic).    
+I speak Jin, Mandarin, English, and Cantonese.    
 <br> 
 
 All opinions here are my own.  
