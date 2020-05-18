@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Notes on Python golang, and typescript programming"
+title: "Notes on Python, golang, and typescript programming"
 date: 2018-01-16 
 comments: true
 categories: [home,notes]
 abstract: "Notes on Python, golang, and typescript programming"
 ---
->Notes on Python, and goland programming   
+>Notes on Python, golang, and typescript programming   
 
 
 

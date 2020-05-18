@@ -11,8 +11,6 @@ abstract: "Notes on machine learning systems"
 * what exactly is the business objective?  
   - how does the company expect to use and benefit from this model?  
 
-* TODO  
-
 
 
 #### workflow to Approach a ML problem -> Prototype 
@@ -34,7 +32,7 @@ abstract: "Notes on machine learning systems"
 * production teams -> reimplement the solution for robust, scalable system 
 
   - offline evaluation 
-  - online testing using A/B testing [TODO]  
+  - online testing using A/B testing 
 
 
 #### reference 

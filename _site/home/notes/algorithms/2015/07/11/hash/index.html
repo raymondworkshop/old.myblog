@@ -151,22 +151,22 @@
 
   <article class="post-content">
   <blockquote>
-  <p><small>An introduction of Hash function </small></p>
-  <h4 id="introduction">introduction</h4>
-  <ul>
-    <li>a set of N items
-      <ul>
-        <li>we can sort them with binary search in O(log N) time using a structure(i.e, an array) of O(N) space .</li>
-      </ul>
-    </li>
-  </ul>
+  <p>An introduction of Hash function</p>
 </blockquote>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- while a hashing technique can consume O(N) space, and answers
-a dictionary query in O(1) expected time.
-</code></pre></div></div>
-
+<h4 id="introduction">Introduction</h4>
 <ul>
+  <li>a set of N items
+    <ul>
+      <li>
+        <p>we can sort them with binary search in O(log N) time using a structure(i.e, an array) of O(N) space .</p>
+      </li>
+      <li>
+        <p>while a hashing technique can consume O(N) space, and answers
+  a dictionary query in O(1) expected time.</p>
+      </li>
+    </ul>
+  </li>
   <li>
     <p>We can reference key-value pairs using arrays by doing arithmetic operations to <strong>transform keys into array
  indices</strong>. Thus there are two steps</p>
@@ -188,13 +188,13 @@ a dictionary query in O(1) expected time.
     <ul>
       <li>the hash function h maps the university U of keys into the T[0…m-1]
         <ul>
-          <li>h : U -&gt; T = {0, 1, … m-1}</li>
+          <li>h : U -&gt; T = {0, 1, …, m-1}</li>
         </ul>
       </li>
       <li>uniform hashing assumption: assume that any given element in U is equally likely to hash into
 any of the m slots, independently of where any other element has hashed to .
         <ul>
-          <li>For any diff integers k1 and k2, Pr(h(k1)=h(k2)) &lt;= 1/m</li>
+          <li>For any diff integers k<sub>1</sub> and k<sub>2</sub>, Pr(h(k<sub>1</sub>)=h(k<sub>2</sub>)) &lt;= 1/m</li>
         </ul>
       </li>
     </ul>
@@ -226,7 +226,7 @@ operations will have to search through a larger set of colliding table entries. 
       <li>
         <p>if we know that the keys are random real numbers k
   independently and uniformly distributed in the range 0 &lt;= k &lt; 1
-  then, the hash function: h(k) = floor(km)</p>
+  then, the hash function: h(k) = floor(k<sub>m</sub>)</p>
       </li>
       <li>
         <p>the division method can give good results, assumimg that a prime

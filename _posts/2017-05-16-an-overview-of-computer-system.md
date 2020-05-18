@@ -69,7 +69,7 @@ abstract: "Summary about Computer Systems from A Programmer's Perspective"
 
 #### Exceptional Control Flow (ECF) [ch8]
  * control flow (a sequence of control transfer) of the processor
-   - control transfer - from the address ak to ak+1
+   - control transfer - from the address a<sub>k</sub> to a<sub>k+1</sub>
 
  * Exception - a change in the processor's state (event) triggers an abrupt control tansfer (an exception)
    - **an abrupt change in the control flow** in response to some change in the processor's state

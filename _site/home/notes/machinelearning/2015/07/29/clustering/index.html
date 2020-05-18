@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Clustering</title>
+    <title>Summary about Clustering Algorithms</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="everyday explorer">
     <link rel="canonical" href="http://muyun.github.io/home/notes/machinelearning/2015/07/29/clustering/">
@@ -145,13 +145,13 @@
       <div class="post">
 
   <header class="post-header">
-    <h1>Clustering</h1>
+    <h1>Summary about Clustering Algorithms</h1>
     <p class="meta">Jul 29, 2015</p>
   </header>
 
   <article class="post-content">
   <blockquote>
-  <p><small>A summary of Clustering Algorithms </small></p>
+  <p>Summary about Clustering Algorithms</p>
 </blockquote>
 
 <h4 id="clustering---divide-a-set-of-objects-into-meaningful-groups">Clustering - divide a set of objects into meaningful groups</h4>
@@ -169,7 +169,7 @@
       <li>an optimal k-circle: a 2-approximate k circle cover [1]
         <ul>
           <li>
-            <p>returning a k-center set with radius at most 2r*</p>
+            <p>returning a k-center set with radius at most 2 * r*</p>
           </li>
           <li>
             <p>choose <strong>a random point</strong> firstly, then choose the MAX distance to the points</p>
@@ -181,8 +181,7 @@
           <li><strong>k random points</strong> as the initial centroid, form k clusters by assigning all points to the closest centroid
             <ul>
               <li>the centroid is the <strong>average of all the coordinates of the points in this cluster</strong></li>
-              <li>terminate until the the centorid set don’t update.
-  +</li>
+              <li>terminate until the the centorid set don’t update.</li>
             </ul>
           </li>
           <li>
@@ -196,8 +195,7 @@
           <li>the accuracy guarantee [1]
             <ul>
               <li>
-                <p>k-seeding : the seed choice (David Arthur, Sergei Vassilvitskii: k-means++: the advantages of careful seeding. SODA
-2007: 1027-1035.)
+                <p>k-seeding : the seed choice <small>(David Arthur, Sergei Vassilvitskii: k-means++: the advantages of careful seeding. SODA 2007: 1027-1035.)</small> 
 each point is chosen as the centroid <strong>with a probability proportional to ( D(p)^2 )</strong>.</p>
               </li>
               <li>

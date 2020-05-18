@@ -15,8 +15,8 @@ stream of N items (Constrict: Not enough memory to store N items).
 * Avi Wigderson gives that "Algorithms has becoming a common language for understanding nature, human, and computer" .  Algorithms as computational models are replacing math models in scientific inquiry . People are developing computational models to stimulate what might be happening in nature in order to try to better understand it. Algorithms play an extremely important role in this process .  
 
 #### Introduction
-"Priority Queues is a data type to find the largest M items in a
-stream of N items (Constrict: Not enough memory to store N items). "
+Priority Queues is a data type to find the largest M items in a
+stream of N items (Constrict: Not enough memory to store N items).   
 
 #### priority-queue implementation based on the binary heap
 Using priority queues is similar to using queues and stacks
@@ -36,9 +36,9 @@ the array.
 
 #### binary heap
 The binary heap is that **parent's key no smaller than children's key**, that's (k is the index),
->set a[k] to a[k/2] when we move up the tree**
+>set a[k] to a[k/2] when we move up the tree
 >
->set a[k] to a[2\*k] or a[2\*k+1] when move down the tree**
+>set a[k] to a[2\*k] or a[2\*k+1] when move down the tree 
 
 We can take advantage of the capability to move up and down paths in
 the tree without pointers and have guaranteed **logarithmic performance**

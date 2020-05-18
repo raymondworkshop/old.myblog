@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Clustering"
+title: "Summary about Clustering Algorithms"
 date: 2015-07-29
 categories: [home,notes,machinelearning]
-abstract: "A summary of Clustering Algorithms"
+abstract: "Summary about Clustering Algorithms"
 ---
-> <small>A summary of Clustering Algorithms </small>
+> Summary about Clustering Algorithms 
 
 #### Clustering - divide a set of objects into meaningful groups
 
@@ -16,15 +16,14 @@ abstract: "A summary of Clustering Algorithms"
 
 	   - NP-hard
 	   - an optimal k-circle: a 2-approximate k circle cover [1]
-		   + returning a k-center set with radius at most 2r*
+		   + returning a k-center set with radius at most 2 * r*
 
 		   + choose **a random point** firstly, then choose the MAX distance to the points
 
 	 * k-mean  
 	   - **k random points** as the initial centroid, form k clusters by assigning all points to the closest centroid
            + the centroid is the **average of all the coordinates of the points in this cluster**
-           + terminate until the the centorid set don't update.
-           +
+           + terminate until the the centorid set don't update.  
 
 	   - k-means alg always terminates
 
@@ -32,8 +31,7 @@ abstract: "A summary of Clustering Algorithms"
 		   +  after each round, the cost (the distance) of the centroid set is strictly lower than that of the old centroid set
 
 	   - the accuracy guarantee [1]
-		   +   k-seeding : the seed choice (David Arthur, Sergei Vassilvitskii: k-means++: the advantages of careful seeding. SODA
-		       2007: 1027-1035.)
+		   +   k-seeding : the seed choice <small>(David Arthur, Sergei Vassilvitskii: k-means++: the advantages of careful seeding. SODA 2007: 1027-1035.)</small> 
                each point is chosen as the centroid **with a probability proportional to ( D(p)^2 )**.
 
            +   if 100%, that's k-center
