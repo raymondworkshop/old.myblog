@@ -13,8 +13,8 @@ title: docs
   - vim
 
   - python
-    > SPC m V w -> work on virtual environment in WORKON_HOME
-    > SPC m c c -> Execute current file in a comint shell
+    > SPC m V w -> work on virtual environment in WORKON_HOME  
+    > SPC m c c -> Execute current file in a comint shell  
 
   - standard ML
     + SPC m s b -> Send buffer to REPL
@@ -56,8 +56,8 @@ title: docs
 
   - python in emacs
     + [elpy](https://elpy.readthedocs.io/en/latest/index.html)
-      > C-c C-c evaluates the current script
-      > C-c C-z switches between script and the interactive shell
+      > C-c C-c evaluates the current script  
+      > C-c C-z switches between script and the interactive shell  
 
     + using 'workon' in emacs based on $WORKON_HOME
       > M-x pyvenv-workon RET codeenv RET
