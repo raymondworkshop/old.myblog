@@ -18,7 +18,7 @@ abstract: "[Updating] Notes on the core ideas programming languages, especially 
       + **Type-checking** rules (before program runs) in current static environment
         - what type a binding has
         - produces a type or fail
-        -
+        
       + **Evaluating** the bindings (in the dynamic environment)
         - a value or an error or an infinite loop of the preceding bindings
         - look up value in current dynamic environment
