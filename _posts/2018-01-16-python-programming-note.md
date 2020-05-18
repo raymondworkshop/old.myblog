@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Notes on Python and goland programming"
+title: "Notes on Python golang, and typescript programming"
 date: 2018-01-16 
 comments: true
 categories: [home,notes]
-abstract: "Notes on Python, and golang programming"
+abstract: "Notes on Python, golang, and typescript programming"
 ---
 >Notes on Python, and goland programming   
 
@@ -60,6 +60,8 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 
 #### golang 
+
+#### typescript
 
 
 #### Notes
