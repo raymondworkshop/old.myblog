@@ -24,16 +24,20 @@ title: docs
 
   - keys
     + SPC + h -> help
-    + SPC f e R 来重载配置
-    + SPC b b -> list all buffer
-    +
+    + SPC f e R 来重载配置  
+    + SPC b b -> list all buffer  
+    + 
+    + w -> advance one word	
+    + b -> back one word  
+    + 
     + SPC f t -> toggle NeoTree at pwd
     + u -> Undo last change
     + SPC 1   -> switch windows
     + SPC w d -> Close current window
     +
     + 'i' to be in insert editor, use 'ESC' key to be in normal state
-    +
+    + 
+    + d d - cut the line under cursor
     + y y -> copy line
     + p -> paste  
     + v -> highlight text  
