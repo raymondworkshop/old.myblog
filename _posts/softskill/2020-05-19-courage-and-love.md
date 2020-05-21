@@ -4,8 +4,10 @@ title: "被讨厌的勇气"
 date: 2020-05-19
 comments: true
 categories: [notes, learning, softskills]
-abstract: "被讨厌的勇气"
+abstract: "总结自 Alfred Adler /ɑl.frɛt aːdlɐ/ 的《幸福的勇氣》"
 ---
+
+> 总结自 Alfred Adler /ɑl.frɛt aːdlɐ/ 的 《被讨厌的勇气》和《幸福的勇氣》 
 
 ### Independent and Capabale
 
