@@ -8,6 +8,7 @@ title: Bookshelf
 #### 2020 
 * [Etudes for Programmers](https://www.goodreads.com/book/show/3924336-etudes-for-programmers) by Charles Wetherell  
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton  
+* [幸福的勇氣](https://www.goodreads.com/book/show/32848903) by 岸見一郎, 古賀史健 (9/10) 
 * [来自民间的叛逆](https://book.douban.com/subject/30294348/) by 袁越 (9/10)  
 * [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true&qid=13w9EjAaq4&rank=1) by Julie Zhuo (8/10)  
 * [An Introduction to Language](https://www.goodreads.com/book/show/588362.An_Introduction_to_Language) by  Victoria A. Fromkin, Robert Rodman, Nina Hyams  (8/10)  
@@ -17,5 +18,4 @@ title: Bookshelf
 * [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (8/10)  
 * [Design It!: From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling (6/10)  
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (9/10)   
-* [幸福的勇氣](https://www.goodreads.com/book/show/32848903) by 岸見一郎, 古賀史健 (9/10)  
 * [被討厭的勇氣](https://www.goodreads.com/book/show/27431914?ac=1&from_search=true&qid=7s3HxBUckl&rank=1) by 岸見一郎, 古賀史健 (9/10)  
