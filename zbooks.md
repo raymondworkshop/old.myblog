@@ -8,6 +8,7 @@ title: Bookshelf
 #### 2020 
 * [Etudes for Programmers](https://www.goodreads.com/book/show/3924336-etudes-for-programmers) by Charles Wetherell  
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton  
+* [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners) by by James Joyce  
 * [幸福的勇氣](https://www.goodreads.com/book/show/32848903) by 岸見一郎, 古賀史健 (9/10) 
 * [来自民间的叛逆](https://book.douban.com/subject/30294348/) by 袁越 (9/10)  
 * [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true&qid=13w9EjAaq4&rank=1) by Julie Zhuo (8/10)  
