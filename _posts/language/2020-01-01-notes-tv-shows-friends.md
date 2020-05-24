@@ -6,6 +6,39 @@ comments: true
 categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
+
+#### S02E24
+cause he was jsut so **darn** cute. (强调)
+
+Mr. Beatty **comes up to me** and says  ... (过来)
+
+Who cares what that guy thinks.
+
+**looking like something** you drink when your nauseous. (像)
+
+**I wonder** what our wedding's gonna be like.
+
+so they can tell **grown ups** (大人) to **cut it out** (够了).
+
+**Hey, you know i got a question for you, Just a little thing, no pressure.**
+
+Did you ever, uh, like, think about the future?
+yes, am i int it?
+
+keep talking
+
+**Do u see** kids in our future?
+
+She didn't love him, which **incidentally worked out pretty well** for me. (顺带成全我)
+
+See u in the parking lot.
+
+If kids is **what I takes to be with you** then kids it is .
+If i have to all, I'll do all again.
+
+**I don't wanna lose you**, so if I have to do it all over again, then i will.
+
+
 #### upload02
 I want to be **independent and capable**.
 
@@ -16,8 +49,6 @@ I have no **earthly** needs anymore, I was asking out of a purely spiritual desi
 Are u sure you are okay?
 
 If you need me for personal shopping, ...
-
-
 
 
 #### upload01

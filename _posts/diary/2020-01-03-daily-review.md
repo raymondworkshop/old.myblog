@@ -7,8 +7,19 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
-#### 2020-05-14  
-  * develop my Musicianship   
+#### 2020-05-24
+  * action more
+    - <atomic habits>
+  * manage your emotion
+    - <emotional first aid>
+  * focus on work
+
+  * Ivy
+    - I like her
+
+
+#### 2020-05-14
+  * develop my Musicianship
 
 
 #### 2020-05-13

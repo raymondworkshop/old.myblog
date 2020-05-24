@@ -7,7 +7,9 @@ categories: [summary, learning, softskill]
 abstract: "!!make self a better version than previous"
 ---
 
-#### **methodology**  -  a set of methods and principles
+#### **methodology**  -  a set of methods and principles  
+  * 深信 **力不到不为财**    
+
   * **Fake it and then make it**
   * **Ready is an illusion. No one is ever ready**.
       - We just get less unprepared. Never prepared.
