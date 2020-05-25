@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Similarity Search"
+title: "Similarity Search Algorithms"
 date: 2015-09-04
 comments: true
 categories: [home,notes, algorithms]
