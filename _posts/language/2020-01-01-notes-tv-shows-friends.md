@@ -7,12 +7,15 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### S03E01
+
+
 #### S02E24
-cause he was jsut so **darn** cute. (强调)
+cause he was just so **darn** cute. (强调)
 
-Mr. Beatty **comes up to me** and says  ... (过来)
+Mr. Beatty **comes up to me** and says  ... (过来**
 
-Who cares what that guy thinks.
+**Who cares what that guy thinks.**
 
 **looking like something** you drink when your nauseous. (像)
 
@@ -644,6 +647,7 @@ how's it going?
 
 
 #### reference
+* [老友记 第三季](https://ustv123.com/%E5%85%AD%E4%BA%BA%E8%A1%8C-%E7%AC%AC%E4%B8%89%E5%AD%A3-%E7%B7%9A%E4%B8%8A%E7%9C%8B/#)
 * [老友记 第二季](https://www.dililitv.com/vplay/NTU0MC0xLTE=.html)
 * [六人行](https://ustv123.com/%E5%85%AD%E4%BA%BA%E8%A1%8C-%E7%AC%AC%E4%B8%80%E5%AD%A3-%E7%B7%9A%E4%B8%8A%E7%9C%8B/#)
 * [老友记](https://www.bilibili.com/video/av46066190/?spm_id_from=333.788.videocard.2)

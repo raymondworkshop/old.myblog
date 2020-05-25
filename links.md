@@ -17,6 +17,7 @@ title: links
 
 #### courses  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/week/1)
+* [courses](https://learn.saylor.org/course/index.php)
 
 #### links  
 * [theoutline](https://theoutline.com/)  
