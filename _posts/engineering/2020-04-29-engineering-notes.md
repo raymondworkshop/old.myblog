@@ -29,6 +29,11 @@ categories: [learning, engineering]
     - 軟件測試
 
   * 原型开发,  增量模型(模块化小瀑布),  迭代模型
+  * 敏捷开发
+    - scrum + 极限编程 + 看板
+
+  * 分而治之的策略
+    - 拆分 + 流程
 
 
 #### Notes on soft-skills

@@ -7,6 +7,23 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-05-26
+  * get up around 13:00
+    - too late
+
+  * practice some cantonese
+    - watch some tv shows
+
+  * listen to one from <software engineering>
+
+  * join a talking about <the giving tree>
+    - maybe share with some friends and relatives
+    - relationships
+
+  * todo
+    - hope to record everyday and give the summary
+    - focus more on work and your relationships with Ivys
+
 #### 2020-05-24
   * action more
     - <atomic habits>
@@ -16,7 +33,6 @@ categories: [diary]
 
   * Ivy
     - I like her
-
 
 #### 2020-05-14
   * develop my Musicianship
