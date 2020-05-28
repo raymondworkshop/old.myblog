@@ -7,6 +7,20 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-05-28
+  * get up around 11:30
+    - a bit late and cannot catch the time to view the room
+
+  * practice some cantonese and english
+    - it might need some more time
+
+  * you should priority your objects and have more reality
+    - develop your career and make money
+    - contact with more people
+
+  * finish the ch2 in programming languages
+
+
 #### 2020-05-26
   * get up around 13:00
     - too late
@@ -22,7 +36,7 @@ categories: [diary]
 
   * todo
     - hope to record everyday and give the summary
-    - focus more on work and your relationships with Ivys
+    - focus more on work and your relationships with Ivy
 
 #### 2020-05-24
   * action more
