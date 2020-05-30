@@ -7,6 +7,7 @@ title: Bookshelf
 
 #### 2020 
 * [Etudes for Programmers](https://www.goodreads.com/book/show/3924336-etudes-for-programmers) by Charles Wetherell  
+* [The Social Skills Guidebook](https://www.goodreads.com/book/show/28728007-the-social-skills-guidebook) by by Chris MacLeod  
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton  
 * [500 Lines or Less](http://aosabook.org/en/index.html)  
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners) by James Joyce  
@@ -14,7 +15,7 @@ title: Bookshelf
 * [来自民间的叛逆](https://book.douban.com/subject/30294348/) by 袁越 (9/10)  
 * [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true&qid=13w9EjAaq4&rank=1) by Julie Zhuo (8/10)  
 * [An Introduction to Language](https://www.goodreads.com/book/show/588362.An_Introduction_to_Language) by  Victoria A. Fromkin, Robert Rodman, Nina Hyams  (8/10)  
-* [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?from_search=true&from_srp=true&qid=ZohXwBZmoQ&rank=1) by Steve McConnell  (7/10)  
+* [Crafting Your Research Future](https://www.goodreads.com/book/show/15090386-crafting-your-research-future) by Charles X. Ling  (8/10)  
 * [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries (9/10) 
 * [The Art of Loving](https://www.goodreads.com/book/show/14142.The_Art_of_Loving) by  Erich Fromm (6/10)
 * [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (8/10)  
