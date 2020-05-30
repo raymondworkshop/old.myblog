@@ -9,10 +9,10 @@ You can see some of my projects on [github](https://github.com/muyun), find my s
 I like problem solving and reading. I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup), and Alcatel-Lucent (Nokia Corporation now) .   
 <br>  
 
-Outside of the tech world, NOW I mainly write on programming, languages, and writing.  
+Outside of the tech world, NOW I mainly write on languages, humanlities, writing, and the related business here. 
 <br> 
   
-I have a BS in Electroic and Information Engineering from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s), and a MS in Computer Science from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html). I also hold a diploma in International Business Communication from HKU.   
+I have a BS in Electroic and Information Engineering from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s), and a MS in Computer Science from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html). I also hold a Diploma in International Business Communication from HKU.   
 <br>  
   
 I believe that "The good life is one inspired by love and guided by knowledge".  
