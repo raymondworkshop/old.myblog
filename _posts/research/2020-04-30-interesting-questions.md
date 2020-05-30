@@ -7,6 +7,10 @@ categories: [learning, research]
 abstract: 'List Some Interesting Questions'
 --- 
 
+#### ideas 
+ * podcast + iot device  
+   - 
+
 
 ### about beauty  
 what's beauty?  why do people enjoy the beauty?  
