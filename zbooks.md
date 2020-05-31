@@ -7,7 +7,7 @@ title: Bookshelf
 
 #### 2020 
 * [Etudes for Programmers](https://www.goodreads.com/book/show/3924336-etudes-for-programmers) by Charles Wetherell  
-* [The Social Skills Guidebook](https://www.goodreads.com/book/show/28728007-the-social-skills-guidebook) by by Chris MacLeod  
+* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?ac=1&from_search=true&qid=enx4EMZhti&rank=1#_=_) by Dale Carnegie 
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton  
 * [500 Lines or Less](http://aosabook.org/en/index.html)  
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners) by James Joyce  
@@ -17,5 +17,6 @@ title: Bookshelf
 * [Crafting Your Research Future](https://www.goodreads.com/book/show/15090386-crafting-your-research-future) by Charles X. Ling  (8/10)  
 * [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries (9/10) 
 * [The Art of Loving](https://www.goodreads.com/book/show/14142.The_Art_of_Loving) by  Erich Fromm (6/10)
-* [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (8/10)   
+* [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (8/10) 
+* [Design It!: From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling (6/10)  
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (9/10)   
