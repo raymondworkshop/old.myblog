@@ -12,7 +12,7 @@ I like problem solving and reading. I worked as Technical Officer at HSUHK, RA a
 Outside of the tech world, NOW I mainly write on programming, languages, humanlities, and the related business here.   
 <br> 
   
-I have a BS in Electroic and Information Engineering from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s), and a MS in Computer Science from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html). I also hold a Diploma in General English & Business English from HKU.   
+I have a BS in Electroic and Information Engineering from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s), and a MS in Computer Science from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html). I also hold a Diploma in International Business and Communication from HKU.   
 <br>  
   
 I believe that "The good life is one inspired by love and guided by knowledge".  
