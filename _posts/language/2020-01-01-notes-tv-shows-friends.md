@@ -7,7 +7,33 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
-#### S03E01
+#### S03E02
+am i in it?
+
+I'll sing a song **about the wonder** that is joey. (歌颂joey的伟大)
+
+You look great.
+
+I don't know. You might be the first one.
+
+I **went through** (经历) the same thing. And you know what i did? I got dressed.
+
+"Hi, it's Monica. **I'm just checking in cause** I got this message from you. So let me know."
+
+"hello, it's me. Yesterday was really fun. Call me about this weekend. okay?"
+
+The cushions're the **essence** of the chair. (精华)
+
+I would like **back** one of these days. (回避)
+
+I'm sorry. we **didn't mean** it. (不是故意)
+
+Just out of curiosity ...
+
+I'm sorry. I want you there. I need you there.
+Look. **what can i do to show you** how much you mean to me?
+
+**I was quite impressed with** your paper on ...
 
 
 #### S02E24
