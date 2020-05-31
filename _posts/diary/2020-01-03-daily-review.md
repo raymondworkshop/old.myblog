@@ -7,6 +7,18 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-05-30 and 2020-05-31
+  * attend the english introduction course
+  * attend the language meetup
+    - should improve your cantonese
+    - enhance your social skills
+      + how to chat
+      + too honest
+
+  * chat with Dr. Ouyang
+    - learn his strategy with how to change his talks based on his observation
+
+
 #### 2020-05-28
   * get up around 11:30
     - a bit late and cannot catch the time to view the room
