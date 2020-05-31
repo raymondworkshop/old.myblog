@@ -5,7 +5,8 @@ title: Bookshelf
 
 #### log of books that I have read and my ratings   
 
-#### 2020 
+#### 2020  
+* [A Philosophy of Software Design](https://book.douban.com/subject/30218046/) by John Ousterhout  
 * [Etudes for Programmers](https://www.goodreads.com/book/show/3924336-etudes-for-programmers) by Charles Wetherell  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?ac=1&from_search=true&qid=enx4EMZhti&rank=1#_=_) by Dale Carnegie 
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton  
