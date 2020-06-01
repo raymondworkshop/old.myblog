@@ -13,6 +13,7 @@ title: Bookshelf
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton  
 * [500 Lines or Less](http://aosabook.org/en/index.html)  
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners) by James Joyce  
+* [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (8/10)  
 * [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true&qid=53qRUqb6mJ&rank=1) by Steve McConnell (7/10)  
 * [被討厭的勇氣](https://www.goodreads.com/book/show/32848903) by 岸見一郎, 古賀史健 (9/10) 
 * [來自民間的叛逆](https://book.douban.com/subject/30294348/) by 袁越 (9/10)  
