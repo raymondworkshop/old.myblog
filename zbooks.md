@@ -6,8 +6,8 @@ title: Bookshelf
 #### log of books that I have read and my ratings   
 
 #### 2020  
-* [500 Lines or Less](http://aosabook.org/en/index.html)   
-* [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet?from_search=true&from_srp=true&qid=z9RVfto9Yo&rank=1) by  William Shakespeare  
+* [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design?from_search=true&from_srp=true&qid=0PK3U2mE2P&rank=1) by John Ousterhout  
+* [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet?from_search=true&from_srp=true&qid=z9RVfto9Yo&rank=1) by William Shakespeare 
 * [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama  
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (8/10)  
 * [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true&qid=53qRUqb6mJ&rank=1) by Steve McConnell (7/10)  

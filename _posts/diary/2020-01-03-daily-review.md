@@ -7,6 +7,18 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-06-01
+  * get up around 9:30, and have the breakfast around 10:30
+    - have the haircut
+
+  * the lunch at cityu is good
+
+  * a bit tired actually
+    - do not learn
+
+  * improve some cantonese
+
+
 #### 2020-05-30 and 2020-05-31
   * attend the english introduction course
   * attend the language meetup
