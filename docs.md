@@ -3,7 +3,11 @@ layout: post
 title: docs
 ---
 
-#### notes
+#### notes 
+
+* iterm2 
+  - cmd+shift+D ->  splits the window vertically 
+  - cmd+D -> splits the window horizontally
 
 * spacesmacs
   - fix package download err

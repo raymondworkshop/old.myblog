@@ -165,7 +165,7 @@ abstract: "Summary about the American pronunciation"
   
 
 #### refereence
-  - [ELP: English Listening and Pronunciation](http://homepage.ntu.edu.tw/~karchung/ELPF17.htm)
+  - **[ELP: English Listening and Pronunciation](http://homepage.ntu.edu.tw/~karchung/ELPF19.html)**  
   - [Pronunciation Workshop Video Training Program](http://www.bilibili.com/video/av2681140/)
   - [cuhk](https://www.ilc.cuhk.edu.hk/EN/ENResources/Speaking_Pronun.aspx)
   - [HKUST](http://ilang.cle.ust.hk/pronunciation/)
