@@ -6,13 +6,8 @@ title: Bookshelf
 #### log of books that I have read and my ratings   
 
 #### 2020  
-* [A Philosophy of Software Design](https://book.douban.com/subject/30218046/) by John Ousterhout  
 * [Etudes for Programmers](https://www.goodreads.com/book/show/3924336-etudes-for-programmers) by Charles Wetherell  
-* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?ac=1&from_search=true&qid=enx4EMZhti&rank=1#_=_) by Dale Carnegie 
-* [Age of Ambition: Chasing Fortune, Truth, and Faith in the New China](https://www.goodreads.com/book/show/18490568-age-of-ambition) by Evan Osnos  
-* [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton  
 * [500 Lines or Less](http://aosabook.org/en/index.html)  
-* [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners) by James Joyce  
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (8/10)  
 * [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true&qid=53qRUqb6mJ&rank=1) by Steve McConnell (7/10)  
 * [被討厭的勇氣](https://www.goodreads.com/book/show/32848903) by 岸見一郎, 古賀史健 (9/10) 
