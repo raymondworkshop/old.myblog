@@ -6,7 +6,6 @@ title: Bookshelf
 #### log of books that I have read and my ratings   
 
 #### 2020  
-* [Think Bayes](https://www.goodreads.com/book/show/18711042-think-bayes?ac=1&from_search=true&qid=2VX96R3h25&rank=1) by Allen B. Downey  
 * [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama  
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners) by James Joyce  
 * [500 Lines or Less](http://aosabook.org/en/index.html)    
