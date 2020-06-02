@@ -7,6 +7,14 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-06-02
+  * get up around 10:30
+
+  * go to see the room
+    - it's clean but expensive
+    - the rent is so flexible to chat
+
+  * I find I am nervous to chat with Ivy
 #### 2020-06-01
   * get up around 9:30, and have the breakfast around 10:30
     - have the haircut
