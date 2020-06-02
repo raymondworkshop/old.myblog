@@ -7,6 +7,7 @@ title: Bookshelf
 
 #### 2020  
 * [Etudes for Programmers](https://www.goodreads.com/book/show/3924336-etudes-for-programmers) by  Charles Wetherell  
+* [500 Lines or Less](http://aosabook.org/en/index.html)  
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet?from_search=true&from_srp=true&qid=z9RVfto9Yo&rank=1) by William Shakespeare 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  
