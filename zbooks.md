@@ -6,8 +6,10 @@ title: Bookshelf
 #### log of books that I have read and my ratings   
 
 #### 2020  
-* [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design?from_search=true&from_srp=true&qid=0PK3U2mE2P&rank=1) by John Ousterhout  
+* [Etudes for Programmers](https://www.goodreads.com/book/show/3924336-etudes-for-programmers) by  Charles Wetherell  
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet?from_search=true&from_srp=true&qid=z9RVfto9Yo&rank=1) by William Shakespeare 
+* [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
+* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  
 * [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama  
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (8/10)  
 * [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true&qid=53qRUqb6mJ&rank=1) by Steve McConnell (7/10)  
