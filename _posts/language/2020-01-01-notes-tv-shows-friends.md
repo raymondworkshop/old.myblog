@@ -7,6 +7,22 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### S03E04
+**what a sad little life she must lead**. (圈子真小的)
+
+Face the fear
+
+I've scared you.(吓着你了)  I've said too much.
+
+I didn't recognize you in those pant.
+
+I've actually **ruined** this, haven't it?  (搞砸了)
+
+I'm so glad that you called. I know I've been acting really weird lately.
+and it's just because I'm crazy about you. and i just got stupid and scared, really?
+
+I love you too.
+
 #### S03E02
 am i in it?
 

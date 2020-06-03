@@ -17,6 +17,8 @@ abstract: "About Cantonese"
    流 lau 假  
    凍亲 dung3 can1 着凉  
 
+   发吽豆 faat3 ngau6 dau6 发呆  
+
    * 地道表达 
 
  "这么巧撞到你， 我一定要亲口同你讲声道谢"

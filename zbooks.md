@@ -15,7 +15,7 @@ title: Bookshelf
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (8/10)  
 * [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true&qid=53qRUqb6mJ&rank=1) by Steve McConnell (7/10)  
 * [被討厭的勇氣](https://www.goodreads.com/book/show/32848903) by 岸見一郎, 古賀史健 (9/10) 
-* [來自民間的叛逆](https://book.douban.com/subject/30294348/) by 袁越 (8/10)  
+* [來自民間的叛逆](https://book.douban.com/subject/30294348/) by 袁越 (9/10)  
 * [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true&qid=13w9EjAaq4&rank=1) by Julie Zhuo (8/10)  
 * [Crafting Your Research Future](https://www.goodreads.com/book/show/15090386-crafting-your-research-future) by Charles X. Ling  (8/10)  
 * [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries (8/10) 

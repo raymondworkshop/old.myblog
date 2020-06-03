@@ -7,6 +7,19 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-06-03
+  * get up around 10:30, and have a lunch in McDonald
+
+  * see <叹息桥>
+    - it's a bit interesting
+
+  * note some on <富兰克林自传>
+
+  * wanna learn the programming course, but cannot
+
+  * miss a bit Ivy
+
+
 #### 2020-06-02
   * get up around 10:30
 
