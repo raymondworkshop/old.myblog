@@ -7,6 +7,17 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-06-04
+  * get up around 10:30, and clean the room
+    - drop one before buy one
+
+  * clean the tooth
+
+  * view the room
+    - the scene kennedy town is wonderful
+    - but the room is not good actually
+
+
 #### 2020-06-03
   * get up around 10:30, and have a lunch in McDonald
 
