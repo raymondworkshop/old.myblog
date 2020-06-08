@@ -7,6 +7,7 @@ title: Bookshelf
 
 #### 2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html)  
+* [The Urban Sketching Handbook - Architecture and Cityscapes: Tips and Techniques for Drawing on Location](https://book.douban.com/subject/26372154/) by Gabriel Campanario  
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet?from_search=true&from_srp=true&qid=z9RVfto9Yo&rank=1) by William Shakespeare 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton  

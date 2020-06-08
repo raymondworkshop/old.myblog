@@ -1,4 +1,4 @@
----
+jjjjjjjjjjjjjjjjjk---
 layout: post
 title: "Notes about TV shows"
 date: 2020-01-01
@@ -8,6 +8,27 @@ abstract: "notes about TV shows like 'Friends'"
 ---
 
 #### SO3E05
+You're so sweet to wait with me.
+
+I just wonder if I could ...
+
+well, that kind of thing requires some serious thought.
+
+You know, we really don't take advantage of living in the city. (白住了)
+
+I hightly doubt that.
+
+You should just leave it.
+
+I was wondering if i could maybe buy you a cup of coffee.
+
+we have an understanding. (共识)
+
+I just **bumped you for that guy** over there.  (取代你)
+
+
+
+
 
 
 #### S03E04

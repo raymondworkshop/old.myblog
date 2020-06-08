@@ -6,7 +6,7 @@ My name is Raymond ZHAO Wenlong, a Computer Scientist and Software Engineer base
 You can see some of my projects on [github](https://github.com/muyun), find my slides & research at [here](http://muyun.github.io/research/), want to tell me your stories, or send me an [email](mailto:wenlzhao@gmail.com).  
 <br>  
 
-I like problem solving and reading. I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup), and Alcatel-Lucent (Nokia now) .   
+I like problem solving and [reading](http://muyun.github.io/zbooks/). I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup), and Alcatel-Lucent S.A. (Nokia Corporation now) .   
 <br>  
 
 Outside of the tech world, NOW I mainly focus on programming, languages, writing, humanlities, and business.     
@@ -20,9 +20,4 @@ I speak Jin, Mandarin, English, Cantonese, and Japanese (basic).
 <br> 
 
 All opinions here are my own.  
-
-
-
-
-
 
