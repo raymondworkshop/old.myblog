@@ -6,11 +6,11 @@ title: Bookshelf
 #### log of books that I have read and my ratings   
 
 #### 2020  
-* [500 Lines or Less](http://aosabook.org/en/index.html)  
-* [How to Draw What You See](https://book.douban.com/subject/1764228/) by Rudy De Reyna    
+* [500 Lines or Less](http://aosabook.org/en/index.html)   
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet?from_search=true&from_srp=true&qid=z9RVfto9Yo&rank=1) by William Shakespeare 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 * [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama  
+* [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson   
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton  (9/10)  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (8/10)  
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (8/10)  
