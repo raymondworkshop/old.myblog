@@ -7,6 +7,61 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### S03E06
+Wow, **it's like a dirty math problem**.
+
+you guys do has never **bumped uglies** (丑闻).
+
+Well, listen. I still have one more person to meet. But unless it turns out to be your sister.  I think your chances are pretty good.
+
+wanna hear **something that sucks**? ( 烂事)
+
+Just like you always wanted. congratulations.
+
+so i think I'll get back to my friends.
+
+Do u want to come in for some lemonade?
+
+>This is a great place.
+>thanks you. Just make yourslef comfortable.
+
+>Sorry, I thought You liked me. I'm such a jerk.
+>it's ok. I suppose it could happend to anyone.
+
+> you okay?
+> no. I don't know why you don't have a boyfriend.  you should have a boyfriend.
+> Come here. Listen, you are one of my favorite people, and the most beautiful woman I
+> 've ever known in real life
+
+> This is nice
+> I know, it is, isn't it?
+> I mean it. This feels really good. is it 100% cotton?
+> yeah. And I got it **on sale** (特价 ) too.
+> Anyway, I should go. **one of the lfieguards was just about to dismantle a nuclear device.**
+> **If you want to get a drink later, we can.**
+> **yeah, that sounds great.**
+> oh, and listen, it's gonna be good.
+> i know, thanks.
+
+> you know, you don't deserve this. You're so good. you're so sweet.
+> thanks
+
+What were you thinking about?
+
+
+
+
+
+
+
+> what's wrong?
+>
+
+
+
+
+
+
 #### SO3E05
 You're so sweet to wait with me.
 
