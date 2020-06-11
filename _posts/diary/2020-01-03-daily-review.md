@@ -7,6 +7,23 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-06-10
+  * get up around 10:30
+  * 捐献旧物
+    - 很开心
+    - 服务员不是很热情, 有点失望
+
+  * some from "win friends"
+    - ask questions not command
+    - use one's notable desire
+
+  * 讨论“骄傲”
+    - feel not so good
+    - no connectoins
+
+#### 2020-06-08
+Miss ivy in the whole afternoon and night
+
 #### 2020-06-04
   * get up around 10:30, and clean the room
     - drop one before buy one

@@ -137,7 +137,7 @@ categories: [summary, softskills, learning]
     - "我们还是朋友吧"  
     - 知不知道我好担心你; 其实你是不是想避开我; 可不可话我知“我做错什么了”  
 
-    - it's
+    - too.
 
 
 #### record the love with ivy
