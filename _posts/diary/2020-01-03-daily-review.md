@@ -7,6 +7,30 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-06-12
+  * get up around 10:30, and have the breakfast at cuhk
+  * take course "learning on how to learn"
+    - good course
+
+  * watch cantonese drama "爱回家"
+
+  * attend the cantonese meetup
+    - a bit boring
+
+  * todo
+    - how to improve your efficiency
+    - getting things done
+    -
+
+#### 2020-06-11
+  * 买素描本
+  * 看了一集老友记
+  * 做了英文作业
+
+  *
+  * 做事效率好低
+
+
 #### 2020-06-10
   * get up around 10:30
   * 捐献旧物
