@@ -3,7 +3,7 @@ layout: post
 title: Bookshelf  
 ---
 
-#### log of books & courses that I have done and my ratings   
+#### log of books & courses and my ratings   
 
 #### 2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html)   
@@ -29,5 +29,5 @@ title: Bookshelf
 
 #### courses-2020  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
-* [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills/home/welcome) by University of Michigan  
+* [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2/home/welcome) by Princeton University  
