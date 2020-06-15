@@ -30,4 +30,3 @@ title: Bookshelf
 #### courses-2020  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
 * [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
-* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2/home/welcome) by Princeton University  
