@@ -13,7 +13,7 @@ title: links
 * [钱穆《国史大纲》](http://st.kanxshuo.com/book-41048-1.html) 
 * [新郎](https://www.daocaorenshuwu.com/book/xinlang/)
 * [Succeed Socially](https://www.succeedsocially.com/articlesmoods) 
-
+* [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 
 #### courses  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/week/1)
@@ -34,6 +34,7 @@ title: links
 #### tech
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)**    
 * **[Patrick Collison](https://patrickcollison.com/)**  
+* [James Long](https://jlongster.com/)
 * 
 * [Matt Might](http://matt.might.net/articles/)
 * **[Kate Matsudaira](http://katemats.com/about/)**  

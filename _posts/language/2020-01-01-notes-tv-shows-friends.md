@@ -7,7 +7,25 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
-#### S03E07
+#### Modern love season 1
+Plus, if you **strike out** (不成功), you don't have to skulk off into the night, empty-handed like a total loser
+
+> so, where we going?
+> Anywhere. With you.
+> I mean, you just, totally **brightened up** my day.
+> You just don't let stuff like that **pass you by** in life. (溜走**
+
+It doesn't matter how good you are at your job.
+**I just can't defend anyone** missing days like that to our bosses
+
+It's not getting off to a great start.  (开头不太顺利)
+
+you shouldn't **feel obliged to do** this. (强迫)
+
+
+
+
+
 
 
 #### S03E06
