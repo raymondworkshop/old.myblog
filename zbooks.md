@@ -3,7 +3,7 @@ layout: post
 title: Bookshelf  
 ---
 
-#### log of books that I have read and my ratings   
+#### log of books & courses that I have done and my ratings   
 
 #### 2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html)   
@@ -25,3 +25,9 @@ title: Bookshelf
 * [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (9/10) 
 * [Design It!: From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling (6/10)  
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (9/10)   
+
+
+#### courses-2020  
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
+* [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills/home/welcome) by University of Michigan  
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2/home/welcome) by Princeton University  
