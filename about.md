@@ -16,7 +16,7 @@ I am an active MOOC learners.  I have a BS in Electroic and Information Engineer
 <br>  
   
 I believe that "The good life is one inspired by love and guided by knowledge".  
-I speak Jin, Mandarin, English, and Cantonese .    
+I speak Jin, Mandarin, English, Cantonese, and Japanese (basic) .    
 <br> 
 
 All opinions here are my own.  
