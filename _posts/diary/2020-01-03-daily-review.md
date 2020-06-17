@@ -7,6 +7,47 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-06-16
+  * get up around 9:30, and breakfast at cu, get to cityU around 11:30
+  * see some youtube from 鐘嘉欣
+    - she is good
+      + independent, pretty, kind, 会讲话
+    - 建议
+      + **有礼貌, 顾及别人的感受**
+      + 做事一定要**勤力**
+
+  * 看完了 “五种爱的语言”
+    - about how to show your love
+    - 想下 Ivy
+
+  * some learnings
+    - "他入不敷出,追求荣耀, 来往无白丁但并不可以势利眼" from 丘吉尔
+    - about love
+      + 心地好
+      + 沟通到
+      + 勤力 - 责任感, 能力
+    - 政治
+      + 搞政治的要诀是诱导,推动,驱使大家选择对自己有利的那一种
+
+#### 2020-06-15
+  * get up at 9:30, and have breakfast at cu, get to CityU around 11:30
+  * 看了一集 “叹息桥”
+    - 广东话基本可以听明白
+  * 看了一集 老友记
+    - 还得加强英文
+  *
+  * todo
+    - 需要提高执行力和 沟通技巧
+
+
+#### 2020-06-13
+  * learning
+    - 领导力
+      + **model, coach, cares** (以身作则; 帮助和指导别人; 人文关怀)
+      + 共情, 人文关怀, 为他人请命, 正是领导力的核心
+      + 领导力不是“管事”, 而是“管人”
+      + 如果一直沉默,不愿意“管”他人的事,那怎么可能做领导人了?
+
 #### 2020-06-12
   * get up around 10:30, and have the breakfast at cuhk
   * take course "learning on how to learn"
