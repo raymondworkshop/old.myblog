@@ -2,7 +2,7 @@
 layout: post
 title: Slides   
 ---
-#### List of some of my interviews/writing/research!  
+#### List of some of my interviews/research!  
 
 #### Paper-review-2020  
 
