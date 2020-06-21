@@ -7,6 +7,43 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-06-15 - 2020-06-21
+  *  9:00 以前起床, 12:00以前睡觉
+     - 这个希望要提高一点
+
+  *  大概总结了 “五种爱的语言” 和 “政治秩序的起源”
+     - 读书有点进步 - 对这自己感兴趣的或問題的部分读书
+
+  *  重点转向 英文
+     - 尤其是 写和听
+
+  * TODO
+    - 想下 怎么提高做事效率
+    - 怎么和Ivy 提高 connection
+
+#### 2020-06-21
+  * you should go to the volunteering activity
+    - a bit tired
+  * see the room
+
+#### 2020-06-19
+  * summary about "政治秩序的起源"
+
+#### 2020-06-18
+  * get up around 9:30, and get to cityU around 11:30
+  * summary the "the five love language"
+  * learning  from 豹嫂对爱情的评价
+    - 安全感
+    - 100% 自由
+    - 搞笑
+
+    - 富豪 - 不需要說服別人, 只提要求就行
+
+  * 晚上去上环聚餐
+    - 阿元菜市场 - 上环- 台湾菜
+    - 有点无趣
+
+
 #### 2020-06-16
   * get up around 9:30, and breakfast at cu, get to cityU around 11:30
   * see some youtube from 鐘嘉欣
@@ -38,7 +75,6 @@ categories: [diary]
   *
   * todo
     - 需要提高执行力和 沟通技巧
-
 
 #### 2020-06-13
   * learning

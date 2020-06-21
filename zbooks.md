@@ -14,6 +14,7 @@ title: Bookshelf
 
 #### 2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html)   
+* [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners) by James Joyce  
 * [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by  William Shakespeare  
