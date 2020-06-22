@@ -7,6 +7,30 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### Modern love s105
+You know when you move into a place and you visualize this whole new amazing life for yourself?
+
+Can we just forget that that happened ?
+
+I really had no expectation that this would happend tonight.
+
+I'll make sure he does.
+
+you'd stay if the roles were reversed.
+
+It got the quality of slightly decadent espionage, people always **associate me with**
+
+For me, it's paralyzing. and so I have no bandwidth left for actual experience.
+Does it make sense?
+
+People are so **concerned to put on** (努力展示) this big front normally, but now you've seen me my most vulnerable.
+
+> I'm sorry
+> What's that cause of death?
+> was he sick for long?
+
+
+
 #### Modern love season 1
 Plus, if you **strike out** (不成功), you don't have to skulk off into the night, empty-handed like a total loser
 
@@ -21,11 +45,6 @@ It doesn't matter how good you are at your job.
 It's not getting off to a great start.  (开头不太顺利)
 
 you shouldn't **feel obliged to do** this. (强迫)
-
-
-
-
-
 
 
 #### S03E06
