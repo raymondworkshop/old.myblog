@@ -7,7 +7,7 @@ title: Bookshelf
 
 #### courses-2020  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
-* [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  
+* [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)  
 * [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
 * [Cracking the Creativity Code:: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology   
 
