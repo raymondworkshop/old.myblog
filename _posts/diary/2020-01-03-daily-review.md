@@ -3,9 +3,37 @@ layout: post
 title: "Everyday Review"
 date: 2020-01-03
 comments: true
-categories: [diary]
+categories: [diary**
 ---
 ### 记录下每天的工作和生活 - 2020
+
+#### 2020-06-28
+  * emotions
+     - feel a bit happy and nervous when I gave the books to Tracy
+       + talk with her a bit
+       + she is kind of freedom style
+
+     - feel a bit annoyeds when I find my monitor is not there
+       + especially when someone hides it
+
+  * self
+     - I find I wanna attain peace
+
+  * skills
+     - 过于理性分析
+     - 多观察及聆听别人的言行举止, 特别是别人的感受
+       + also find out **how your mind works**, and **how to attain peace***
+
+     - be true to your deepest and most profoundly **felt emotions**
+       + those of a **spiritual nature**
+
+     - the calmer because their mind is humble servant
+
+  * insights
+     - ? -> suffering -> wisdom -> morality -> sincerity -> intention -> action
+     - is the man who's **striving to improve himself** everyday
+     - is the man who is doing everything for himself and not the woman?
+
 
 #### 2020-06-15 - 2020-06-21
   *  9:00 以前起床, 12:00以前睡觉
