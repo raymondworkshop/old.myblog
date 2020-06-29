@@ -7,6 +7,24 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-06-29
+  * get up around 11:30, and arrive at cityU around 14:00
+    - feel a bit tired
+
+  * work
+    - summary 'Hamlet'
+
+  * have the dinner at dawei for dumpling
+    - you should have your own life
+
+  * emotions
+    - a bit disappointed when I get up around that time
+    -
+
+  * improve
+    - how to have more connections with Ivy
+
+
 #### 2020-06-28
   * emotions
      - feel a bit happy and nervous when I gave the books to Tracy
