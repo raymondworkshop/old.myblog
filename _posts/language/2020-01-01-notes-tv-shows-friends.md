@@ -7,6 +7,8 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### Modern love s104
+
 #### Modern love s105
 You know when you move into a place and you visualize this whole new amazing life for yourself?
 
@@ -37,7 +39,7 @@ Plus, if you **strike out** (不成功), you don't have to skulk off into the ni
 > so, where we going?
 > Anywhere. With you.
 > I mean, you just, totally **brightened up** my day.
-> You just don't let stuff like that **pass you by** in life. (溜走**
+> You just don't let stuff like that **pass you by** in life. (溜走)
 
 It doesn't matter how good you are at your job.
 **I just can't defend anyone** missing days like that to our bosses
@@ -65,14 +67,17 @@ Do u want to come in for some lemonade?
 >This is a great place.
 >thanks you. Just make yourslef comfortable.
 
+>
 >Sorry, I thought You liked me. I'm such a jerk.
 >it's ok. I suppose it could happend to anyone.
 
+>
 > you okay?
 > no. I don't know why you don't have a boyfriend.  you should have a boyfriend.
 > Come here. Listen, you are one of my favorite people, and the most beautiful woman I
 > 've ever known in real life
 
+>
 > This is nice
 > I know, it is, isn't it?
 > I mean it. This feels really good. is it 100% cotton?
@@ -83,23 +88,15 @@ Do u want to come in for some lemonade?
 > oh, and listen, it's gonna be good.
 > i know, thanks.
 
+>
 > you know, you don't deserve this. You're so good. you're so sweet.
 > thanks
 
 What were you thinking about?
 
-
-
-
-
-
-
+>
 > what's wrong?
 >
-
-
-
-
 
 
 #### SO3E05
@@ -120,9 +117,6 @@ I was wondering if i could maybe buy you a cup of coffee.
 we have an understanding. (共识)
 
 I just **bumped you for that guy** over there.  (取代你)
-
-
-
 
 
 

@@ -18,10 +18,10 @@ title: Bookshelf
 * [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (note: Hamlet and Don Quixote are so different but as the same great)  (10/10)  
-* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politics framework from the western perspective )  (9/10)  
+* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politics framework from the western perspective, and reshape some of my thoughts )  (9/10)  
 * [Composing Programs](http://composingprograms.com/) (8/10)  
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (9/10)  
-* [The Five Love Languages](https://www.goodreads.com/book/show/23878688-the-5-love-languages) by Gary Chapman (note: know more about love) (9/10)  
+* [The Five Love Languages](https://www.goodreads.com/book/show/23878688-the-5-love-languages) by Gary Chapman (9/10)  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (8/10)  
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (9/10)  
 * [An Introduction to Language](https://book.douban.com/subject/2275489/) by Victoria Fromkin, Robert Rodman, et al. (8/10)  
