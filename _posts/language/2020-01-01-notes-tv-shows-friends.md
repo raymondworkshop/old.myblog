@@ -9,6 +9,14 @@ abstract: "notes about TV shows like 'Friends'"
 
 #### Modern love s104
 
+Thank you very much for your time.
+
+You have somtghing to **string together** there. (组织归纳**
+
+**I was asking if** ...
+
+
+
 #### Modern love s105
 You know when you move into a place and you visualize this whole new amazing life for yourself?
 
@@ -30,8 +38,6 @@ People are so **concerned to put on** (努力展示) this big front normally, bu
 > I'm sorry
 > What's that cause of death?
 > was he sick for long?
-
-
 
 #### Modern love season 1
 Plus, if you **strike out** (不成功), you don't have to skulk off into the night, empty-handed like a total loser
