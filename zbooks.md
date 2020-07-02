@@ -16,6 +16,7 @@ title: Bookshelf
 * [500 Lines or Less](http://aosabook.org/en/index.html)   
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners) by James Joyce  
 * [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
+* [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by by Michael A. Singer  
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (note: Hamlet and Don Quixote are so different but as the same great)  (10/10)  
 * [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politics framework from the western perspective, and reshape some of my thoughts )  (9/10)  
@@ -33,5 +34,5 @@ title: Bookshelf
 * [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries (8/10) 
 * [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing skills) (9/10) 
 * [Design It!: From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling (7/10)  
-* [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some good sharings related to work)(10/10)   
+* [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some superb work experience sharings)(10/10)   
 

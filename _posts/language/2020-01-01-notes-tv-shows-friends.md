@@ -15,6 +15,44 @@ You have somtghing to **string together** there. (组织归纳**
 
 **I was asking if** ...
 
+we're **running like another five minutes late** (再晚5分钟). we are so sorry.
+
+I'll try to **hurry them along**.  (催快点)
+
+> thank you for that information.
+
+I like that you did that.
+Of course, it does put you at a bit of a disadvantage now in terms of getting the job.
+
+It's important to **represent who you are** at these things.
+
+I don't need an unfair advantage.
+
+The question is: what don't we do?
+
+So **I wonder how they met**.
+
+Just fascinating to me. what that initial spark is, you know?
+
+So **then why don't you ask him**, why you would ask your, ur, customers?
+
+Do u have any preference?
+
+Any yet love is so universal.
+We understand so little about animals, except that.
+
+>
+>  Hey, are you okay?
+
+>
+>  Hey, what's up?
+
+>
+>  What are you talking about?
+
+I threw myself into work. (埋头工作)
+
+
 
 
 #### Modern love s105

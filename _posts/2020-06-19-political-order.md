@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "notes on The Origins of Political Order"
+title: "Notes on The Origins of Political Order"
 date: 2020-06-19
 comments: true
 categories: [notes, summary]

@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 My name is Raymond ZHAO Wenlong, a Computer Scientist and Software Engineer based in Hong Kong NOW. 
-You can see some of my projects on [github](https://github.com/muyun), find my slides & research at [here](http://muyun.github.io/research/), tell me your story, or send me an [email](mailto:wenlzhao@gmail.com).  
+You can see some of my projects on [github](https://github.com/muyun), find my slides & research at [here](http://muyun.github.io/research/), tell me your story, or just send me an [email](mailto:wenlzhao@gmail.com).  
 <br>  
 
 I like problem solving and reading. I work as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S.A. (Nokia Co. now) .   

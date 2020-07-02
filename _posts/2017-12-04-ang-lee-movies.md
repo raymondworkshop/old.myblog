@@ -3,7 +3,7 @@ layout: post
 title: "十年一觉电影梦"
 date: 2017-12-04
 comments: true
-categories: [notes, writing]
+categories: [home, notes, writing]
 abstract: "总结自李安的《十年一觉电影梦》"
 ---
 > <small>总结自李安的《十年一觉电影梦》</small>
