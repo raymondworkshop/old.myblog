@@ -9,7 +9,7 @@ You can see some of my projects on [github](https://github.com/muyun), find my s
 I like problem solving and reading. I work as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S.A. (Nokia Co. now) .   
 <br>  
 
-Outside of the tech world, I also focus on languages, writing, humanlities, the Arts, and business NOW.     
+Outside of the tech world, I also focus on languages, writing, humanlities, and the Arts NOW.     
 <br> 
   
 I am an active MOOC learner.  I have a BS in Electroic and Information Engineering from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s), and a MS in Computer Science from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html). I also hold a Diploma in International Business and Communication from HKU.   
