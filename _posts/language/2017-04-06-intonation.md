@@ -91,7 +91,7 @@ abstract: "Summary about the American Intonation"
   - [?]()
      + what do you think ? -> /wʌ də jə/  
 
-  - ** whaddya /wa:dəyə/ **
+  - **whaddya /wa:dəyə/**
      + What do you ... ? -> 
   - 
 
