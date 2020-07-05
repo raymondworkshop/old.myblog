@@ -11,13 +11,13 @@ abstract: "notes about TV shows like 'Friends'"
 
 Thank you very much for your time.
 
-You have somtghing to **string together** there. (组织归纳**
+You have somtghing to **string together** there. (组织归纳)  
 
 **I was asking if** ...
 
 we're **running like another five minutes late** (再晚5分钟). we are so sorry.
 
-I'll try to **hurry them along**.  (催快点)
+I'll try to **hurry them along**.  (催快点)  
 
 > thank you for that information.
 
@@ -76,17 +76,17 @@ Does it make sense?
 
 People are so **concerned to put on** (努力展示) this big front normally, but now you've seen me my most vulnerable.
 
-> I'm sorry
-> What's that cause of death?
-> was he sick for long?
+> I'm sorry  
+> What's that cause of death?  
+> was he sick for long?  
 
 #### Modern love season 1
 Plus, if you **strike out** (不成功), you don't have to skulk off into the night, empty-handed like a total loser
 
-> so, where we going?
-> Anywhere. With you.
-> I mean, you just, totally **brightened up** my day.
-> You just don't let stuff like that **pass you by** in life. (溜走)
+> so, where we going?  
+> Anywhere. With you.  
+> I mean, you just, totally **brightened up** my day.  
+> You just don't let stuff like that **pass you by** in life. (溜走)  
 
 It doesn't matter how good you are at your job.
 **I just can't defend anyone** missing days like that to our bosses
