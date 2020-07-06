@@ -3,24 +3,7 @@ layout: post
 title: links
 ---
 
-#### reading    
-* [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)
-* common lisp  
-  - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
-* 
-* [books-2020](https://www.dropbox.com/sh/e1oef11vyrf6l7z/AAB6y5dZZIQKriUiAsgmB3K1a?dl=0)  
-* [Great list of books to read](https://catonmat.net/top-100-books-part-one)
-* [钱穆《国史大纲》](http://st.kanxshuo.com/book-41048-1.html) 
-* [新郎](https://www.daocaorenshuwu.com/book/xinlang/)
-* [Succeed Socially](https://www.succeedsocially.com/articlesmoods) 
-* [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 
-#### courses-2020   
-* [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)  
-* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
-* [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
-* [Cracking the Creativity Code:: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology   
-* [courses](https://learn.saylor.org/course/index.php)
 
 #### links  
 * [theoutline](https://theoutline.com/)  
