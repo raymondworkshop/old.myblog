@@ -68,5 +68,7 @@ abstract: "[Updating] Notes on the core ideas programming languages, especially 
       + call-stacks -> pop the caller before the call, allowing callee to reuse the same stack space
 
   * sml-ch3
-    - first-class functions 
+    - first-class functions
     - TODO
+
+  *

@@ -7,17 +7,36 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### S03E07
+So **what's matter**? You need a dentist?  I've got a good one.
+
+Can I get a **napkin** too?  (纸巾)
+
+**No, he's not**.
+
+So **what are you gonna do**? **How are you gonna tell** Chandler?
+
+**That's what i was gonna ask**. thank you.
+
+Anything you want to tell me?
+
+**No offense** (没有恶意), but **I've always thought of** Ben as a fairly bumpy-headed child.
+
+Janice, **I have something I need to tell you**. **And I want you to let me get through it**.  (讲完) because it's not gonna be easy.
+
+
+
 #### Modern love s104
 
 Thank you very much for your time.
 
-You have somtghing to **string together** there. (组织归纳)  
+You have somtghing to **string together** there. (组织归纳)
 
 **I was asking if** ...
 
 we're **running like another five minutes late** (再晚5分钟). we are so sorry.
 
-I'll try to **hurry them along**.  (催快点)  
+I'll try to **hurry them along**.  (催快点)
 
 > thank you for that information.
 
@@ -55,9 +74,6 @@ I threw myself into work. (埋头工作)
 The statistics I was reading about contradicted ...
 
 
-
-
-
 #### Modern love s105
 You know when you move into a place and you visualize this whole new amazing life for yourself?
 
@@ -76,17 +92,17 @@ Does it make sense?
 
 People are so **concerned to put on** (努力展示) this big front normally, but now you've seen me my most vulnerable.
 
-> I'm sorry  
-> What's that cause of death?  
-> was he sick for long?  
+> I'm sorry
+> What's that cause of death?
+> was he sick for long?
 
 #### Modern love season 1
 Plus, if you **strike out** (不成功), you don't have to skulk off into the night, empty-handed like a total loser
 
-> so, where we going?  
-> Anywhere. With you.  
-> I mean, you just, totally **brightened up** my day.  
-> You just don't let stuff like that **pass you by** in life. (溜走)  
+> so, where we going?
+> Anywhere. With you.
+> I mean, you just, totally **brightened up** my day.
+> You just don't let stuff like that **pass you by** in life. (溜走)
 
 It doesn't matter how good you are at your job.
 **I just can't defend anyone** missing days like that to our bosses
