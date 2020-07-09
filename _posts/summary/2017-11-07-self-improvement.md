@@ -3,16 +3,145 @@ layout: post
 title: '!Self-improvement'
 date: 2017-11-07
 comments: true
-categories: [summary, learning, softskill]
+categories: [summary, notes, learning, softskill]
 abstract: "!!make self a better version than previous"
 ---
 
+#### a pleasure of life - healthy, loved, free, and calm
+  * **do more, think less, meditate at night**
+  * do more -> **action** > theory
+    - you learn how things really work by **doing them**.
+    - **build a business**
+    - **experiment with the reality**
+    - **engage in stimulating conversations**
+    - don't just read about financial markerts, business, science, philosophy
+    -
+    - growth happens in the places **you're scared to go**
+    - **if anything is worth doing, do it with all your heart**  
+
+
+  * build love and families
+    - **never let resentment set in** - resolve things quickly
+    - cultivate a culture of **honest & loyalty**
+    - **appreciate and gratitude** her
+
+
+  * freedom
+    - **money**  
+    - time management
+      + fix your priorities and remove everything
+      + add new habits
+
+  * keep health
+    - avoid injuries
+    - rest
+    -
+
+  * build a clear & calm & peace of mind
+    - a few **basic emotions**: joy, trust, fear, surprise, sadness, disgust, anger and anticipation
+    -   + **be true to your deepest and most profoundly felt emotions** - those of a spiritual nature
+        + not the surface level emotions of fleeting hormones
+        +  **ground yourself in wisdom, self-honesty, principles and discipline**
+    -
+    -  attain **peace with your mind** - self awareness
+        + their mind is **humble servant** and not a terrible master
+        + the less judgemental you are,
+          - how your mind works, and how to attain peace
+        +  **Mere observing, rather than making conclusions of the situation**
+    - happiness is about peace, all you want is privacy, not to be famouss
+
+  * experience
+    - the easiest way to get what you want - **ask**
+    - **cooking** is one of the most fundamental ways to show love & appreciation
+    - don't respect a man who poorly behaved woman and children
+    -
+    - time and peace of mind are the most expensive mode of payment
+    - **Nature and markets**, not people,  are more honest when it comes to giving feedback
+    - **start with your vision and deal with reality**
+      + not what is possible and  then decide what result you want to create
+    - **don't be kind towards harmful personss**
+    -
+
+    - it's not the place, but **how you do it, and the people you do it with** is more important
+    -
+    - when the world doesn't make sense, it's a signal that you need to learn
+
+
+  * self-relationship - **learn about yourself**
+    - **learn about yourself and grow** by put yourself into **unfamiliar situations**
+      + **see how you respond to them to adapt**
+      + **travellings** can put you in lots of novel situations to accelerate growth
+    -
+    - **just being yourself is the biggest favor** you can do to yourself
+      + people may or maynot help you **depending if you are falling in their story line**
+      + **they first like you** and then to feel good they help you
+      + **people help you because they like you**, people don't help you because you are smart
+      + **forget about sounding smart, just be yourself**
+    -
+    - focus on people who share your values right from the beginning , not everyone
+      +
+    - always be kind to yourself
+      + treat yourself as your dear friend, with kindness and patience
+
+    - you only can "Make" yourself, not "Found" youself
+      + keep learning, thinking & risking
+
+    - how to morality
+      + help people when you can
+      + mind your business
+      + don't gossip, backstab, break your word, betray
+      + prey on or look for ways to hurt people
+
+    -
+
+
+  * build with relationships
+    - go somewhere where the people **make you feel stupid**, and **listen a lot**
+      + **asking "why" or "how"** is a safe way to probe for more information without seeming stupid
+
+    - **don't disagree unless you have to, and agree when you can**
+
+    - don't take "favors" from people, they will ask you for a favor in return 3-6X the size
+      + **pay for something** to be done or don't do it.
+    - don't waste time explaining yourself to people who don't like you
+    - **only real friends** want you to be happy, or end it.
+      + a friend is the one that crafts you for a better person, not a worse one
+    -
+    - don't worry about impressing others, no one will even remember
+      + **people remember the impact** you have one them. Impression is ephemeral.
+
+    - **expressing yourself** is more important than impressing others.
+      + one must not seek recognition from others.
+
+    - does the person **improve you** while you're with them?
+      + no point knowing them
+
+    - try to be friend with some one who doing exceptionally well
+      + and **offer your help**
+      + **always provide them value first**, only 1% of them in the word lies
+
+    - **make people feel good, and they will love you**
+      + make them feel bad, they'll dislike you
+      + people don't remember what you say, they only remembeer how they felt in your presence
+
+    - focus on people who can **take care of themselves**
+      + the secret of effortless relationships
+
+
 #### **methodology**  -  a set of methods and principles  
-  * 深信 **力不到不为财**    
+
+  * **survival of the fittest**, not the strongest 
+      - 要想 “**适应这个群体吗**?”, “**在这个群体中是什么角色**?”,   而不是 “我要比人强”
+      - 做事情, **要思考是不是适应**, 而不是完全和别人拼强弱  
+      -  发现一个自己的生态位, **找到自己在生态中的位置**  
+
+  *  
+  * 深信 **力不到不为财**
 
   * **Fake it and then make it**
   * **Ready is an illusion. No one is ever ready**.
-      - We just get less unprepared. Never prepared.
+      - We just get less unprepared. Never prepared.  
+
   * Always choose the more difficult path: it leads to the easier life.
       - courage, social skills, friendships
 
@@ -21,7 +150,8 @@ abstract: "!!make self a better version than previous"
   * Don't fight to win all the battles, you **just need win the war**
       - 不需要赢得每场战斗，而是要赢整个战争， 过程中的妥协不丢脸，赢在最后才是最重要的
   *
-  * 不能拿身体去硬杠, 或者努力, **要靠方法论, 要靠聪明的方法**
+  * 不能拿身体去硬杠, 或者努力, **要靠方法论, 要靠聪明的方法**  
+  * 
   * 再缺钱不能在吃上省钱；再时间紧张不能熬夜赶工
   *
   * **该讲法律的地方**不要强调道德
