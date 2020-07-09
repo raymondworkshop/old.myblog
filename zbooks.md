@@ -13,18 +13,6 @@ title: Bookshelf
 * [courses](https://learn.saylor.org/course/index.php)
 
 
-#### reading    
-* [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)
-* common lisp  
-  - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
-* 
-* [books-2020](https://www.dropbox.com/sh/e1oef11vyrf6l7z/AAB6y5dZZIQKriUiAsgmB3K1a?dl=0)  
-* [Great list of books to read](https://catonmat.net/top-100-books-part-one)
-* [钱穆《国史大纲》](http://st.kanxshuo.com/book-41048-1.html) 
-* [新郎](https://www.daocaorenshuwu.com/book/xinlang/)
-* [Succeed Socially](https://www.succeedsocially.com/articlesmoods) 
-* [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
-
 
 #### 2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html)   
@@ -50,3 +38,15 @@ title: Bookshelf
 * [Design It!: From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling (7/10)  
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some superb pragmatic working experience) (9/10)   
 
+
+#### some reading sources      
+* [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)
+* common lisp  
+  - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
+* 
+* [books-2020](https://www.dropbox.com/sh/e1oef11vyrf6l7z/AAB6y5dZZIQKriUiAsgmB3K1a?dl=0)  
+* [Great list of books to read](https://catonmat.net/top-100-books-part-one)
+* [钱穆《国史大纲》](http://st.kanxshuo.com/book-41048-1.html) 
+* [新郎](https://www.daocaorenshuwu.com/book/xinlang/)
+* [Succeed Socially](https://www.succeedsocially.com/articlesmoods) 
+* [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
