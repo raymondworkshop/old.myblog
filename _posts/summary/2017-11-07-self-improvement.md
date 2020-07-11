@@ -171,7 +171,8 @@ abstract: "!!make self a better version than previous"
       -
 
   * 聪明
-      - **真诚的人都是聪明的**
+      - **真诚的人都是聪明的**  
+        - the weakest are not honest  
       - 聪明的人 不一定
 
 
