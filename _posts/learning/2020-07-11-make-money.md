@@ -62,17 +62,19 @@ abstract: "notes on making money"
 
 #### HK-MPF  
 * stragegy  
-   - check every 3 months  
-   - All in 环球债券基金  
+   - 30% -40% us equities - check every 1 year 
+   - 30-40% treasure - check every 1 months  
+   - 30-40% treasure - check 3 months   
+   - ~~All in 环球债券基金~~  
 
 * Hang Seng MPF - 313084227
    - scheme id: 39999981
    - HKD46,986.41 
    - 
    - info - check every 2 weeks 
-     + SGF 核心累積基金 - 40%  
+     + ~~SGF 核心累積基金 - 40%~~  
      + HKEF	中港股票基金 - 35%  
-     + NAEF	北美股票基金 - 25%  
+     + ~~NAEF	北美股票基金 - 25%~~  
 
 
 
