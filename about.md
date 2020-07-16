@@ -8,7 +8,7 @@ Hi, I'm Raymond . I'm a Computer Scientist and Software Engineer based in Hong K
 You can see some of my projects on [github](https://github.com/muyun), find my slides & research at [here](http://muyun.github.io/research/), share your unique story, or just send me an [email](mailto:wenlzhao@gmail.com).  
 <br>  
 
-I like problem solving and reading.  Outside of the tech world, I also like engineering, product & business, humanlities, and the arts NOW.  
+I like problem solving and reading. 
 I work as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S.A. (Nokia Co. now) .   
 <br>  
 
