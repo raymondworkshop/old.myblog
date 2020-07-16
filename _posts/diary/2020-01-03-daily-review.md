@@ -9,6 +9,11 @@ categories: [diary]
 
 
 #### 2020-07-16
+  * creative part
+
+  * business part
+
+  *
   * don't have any experience on investment
     -  act on an impulse
        + learn the basic knowledge and how to operate
@@ -23,7 +28,8 @@ categories: [diary]
 
     - only work ones in low-risks
 
-  *
+  * need more actions
+    - not just in thinkings
 
 #### 2020-06-29
   * get up around 11:30, and arrive at cityU around 14:00
