@@ -19,10 +19,11 @@ categories: [diary]
        + don't believe in the ones in china
          - experts do that
        + cannot reflect in real-time
-         - only work ones in low-risks
 
 
+    - only work ones in low-risks
 
+  *
 
 #### 2020-06-29
   * get up around 11:30, and arrive at cityU around 14:00
