@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '!Self-improvement'
+title: '!!make a better me'
 date: 2017-11-07
 comments: true
-categories: [summary, notes, learning, softskill]
-abstract: "!!make self a better version than previous"
+categories: [summary, notes, learning]
+abstract: "!!make a better me"
 ---
 
 #### a pleasure of life - healthy, loved, free, and calm
