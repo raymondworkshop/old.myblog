@@ -7,6 +7,8 @@ categories: [summary, notes, learning]
 abstract: "!!A better me"
 ---
 
+#### Find your purpose  -
+
 #### a pleasure of life - healthy, loved, free, and calm
   * **do more, think less, meditate at night**
   * do more -> **action** > theory

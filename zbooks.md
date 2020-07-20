@@ -10,7 +10,6 @@ title: Bookshelf
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
 * [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
 * [Cracking the Creativity Code:: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology   
-* [courses](https://learn.saylor.org/course/index.php)
 
 
 
@@ -39,7 +38,7 @@ title: Bookshelf
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some superb pragmatic working experience) (9/10)   
 
 
-#### some reading sources      
+#### some sources      
 * [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)
 * common lisp  
   - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
@@ -50,3 +49,5 @@ title: Bookshelf
 * [新郎](https://www.daocaorenshuwu.com/book/xinlang/)
 * [Succeed Socially](https://www.succeedsocially.com/articlesmoods) 
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
+* [courses](https://learn.saylor.org/course/index.php)
+
