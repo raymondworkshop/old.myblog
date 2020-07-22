@@ -5,7 +5,7 @@ title: Bookshelf
 
 #### log of books & courses and my ratings   
 
-#### courses-2020   
+#### training & courses 2020   
 * [Advanced Programming] by David Beazley 
 * [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
