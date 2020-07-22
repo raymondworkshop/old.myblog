@@ -7,7 +7,35 @@ categories: [summary, notes, learning]
 abstract: "!!A better me"
 ---
 
-#### Find your purpose  -
+#### A better me - relate to life chocies
+  * an **exciting & meaningful mission** to help channelize energy & thoughts
+    - build a purpose - identify a clear mission, and head toward it
+    - let the mission channelize all your inward, latent energy
+    -
+    - **build a business**
+    -
+
+
+  * know your own mind
+    - need insight into **your own thinking process**
+    - write the diary
+    - don't shrink from challenges which could **provide growth**
+    -
+
+  * close friends, **value quantitys** more than quality
+    - they know **who you are**, not what you are
+    - get around like **minded positive people**
+    - form trustworthy, deep bonds, fewer the better
+
+
+  *
+
+  * reference
+    - [Mistakes Relating to life choices](https://lifemathmoney.com/grave-errors-made-by-men-in-their-20s/)
+
+
+
+
 
 #### a pleasure of life - healthy, loved, free, and calm
   * **do more, think less, meditate at night**
