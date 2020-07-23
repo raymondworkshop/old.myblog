@@ -3,9 +3,9 @@ layout: post
 title: Bookshelf  
 ---
 
-#### log of books & courses and my ratings   
+#### log of training & books and my ratings   
 
-#### training & courses 2020   
+#### training-2020   
 * [Advanced Programming] by David Beazley 
 * [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
@@ -14,7 +14,7 @@ title: Bookshelf
 
 
 
-#### 2020  
+#### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html)   
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
