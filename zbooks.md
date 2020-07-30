@@ -19,6 +19,7 @@ title: Bookshelf
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
+* [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)  
 * [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by by Michael A. Singer  (8/10)  
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (note: Hamlet and Don Quixote are so different but as the same great)  (9/10)  
 * [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politics framework from the western perspective, and reshape some of my thoughts )  (9/10)  
