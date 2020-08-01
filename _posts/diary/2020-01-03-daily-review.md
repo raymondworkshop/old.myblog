@@ -7,7 +7,27 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-07-31
+  * living
+    - a roomate
+      + suited to live with others
+      +
+    - a living house feelings
 
+    - a good living habit
+      + sleep/get up on time
+      + keep clean and order
+
+    - could work at home
+
+    - cooking
+
+  * job
+    - an error to wait for the other's
+
+
+  * self
+    - find that i cannot do anything
 #### 2020-07-16
   * creative part
 
