@@ -7,6 +7,20 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-08-02
+  * living
+    - a public reading room
+    - a clean place
+
+  * get up aroud 11:30
+    - a bit later
+
+  * lunch in MCD
+    - surf online
+
+
+
+
 #### 2020-07-31
   * living
     - a roomate

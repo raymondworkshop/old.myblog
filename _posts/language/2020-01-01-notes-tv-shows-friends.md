@@ -12,9 +12,6 @@ Monica and I **aren't supposed to** play football. (have to)
 
 It was so not an accident.
 
-
-
-
 #### S03E07
 So **what's matter**? You need a dentist?  I've got a good one.
 
