@@ -18,6 +18,7 @@ title: links
 * [thewirechina](https://www.thewirechina.com/)
 
 #### reading      
+* [Lambda the Ultimate - Group blog that tracks innovations in Programming Languages research](http://lambda-the-ultimate.org/)
 * [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)
 * common lisp  
   - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
@@ -33,6 +34,7 @@ title: links
 
 #### tech
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)**    
+* [Joel On Software](https://www.joelonsoftware.com/)
 * **[Patrick Collison](https://patrickcollison.com/)**  
 * [James Long](https://jlongster.com/)
 * 
