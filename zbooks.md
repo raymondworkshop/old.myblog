@@ -18,6 +18,8 @@ title: Bookshelf
 * [500 Lines or Less](http://aosabook.org/en/index.html)   
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
+* [Don Quixote de la Mancha](https://book.douban.com/subject/1005918/) by Miguel de Cervantes Saavedra  
+* [The Richest Man in Babylon](https://book.douban.com/subject/1922725/) by George S. Clason  
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 * [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)  
 * [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by by Michael A. Singer  (8/10)  

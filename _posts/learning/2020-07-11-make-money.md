@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "notes on making money"
+title: "!notes on making money"
 date: 2020-07-11
 comments: true
 categories: [notes, learning, money]
@@ -8,6 +8,9 @@ abstract: "notes on making money"
 ---
 
 #### notes 
+
+* 
+
 * Wealth comes after you understand 
    - leverage  
    - compound interest  
