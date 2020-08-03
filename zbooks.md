@@ -6,7 +6,7 @@ title: Bookshelf
 #### log of training & books and my ratings   
 
 #### training-2020   
-* [Advanced Programming] by David Beazley 
+* [Advanced Programming] with David Beazley 
 * [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
 * [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
