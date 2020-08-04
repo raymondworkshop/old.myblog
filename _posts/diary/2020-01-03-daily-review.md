@@ -7,6 +7,24 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-08-04
+  * get up around 10:30
+  * lunch at MCD
+    - it's a bit ok to stay at Mcd, although you cannot think it clearly
+
+  * check by hk polices
+    - feel a bit badly
+    - I cannot get any respect
+
+  * dinner is ok
+
+  * toimprove
+    - money checking costs so much
+      + should build a strategy/system for it
+        -  MPF - long term -> 45% on shares
+        -  a bit more foucs on stocks
+    - use more eamcs
+
 #### 2020-08-03
   * getup around 12:00
     - should get up around 9:00

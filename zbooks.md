@@ -13,7 +13,6 @@ title: Bookshelf
 * [Cracking the Creativity Code: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology   
 
 
-
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
@@ -34,6 +33,7 @@ title: Bookshelf
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (8/10)  
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (9/10)  
 * [An Introduction to Language](https://book.douban.com/subject/2275489/) by Victoria Fromkin, Robert Rodman, et al. (8/10)  
+* [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)  
 * [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true&qid=53qRUqb6mJ&rank=1) by Steve McConnell (7/10)  
 * [被討厭的勇氣](https://www.goodreads.com/book/show/32848903) by 岸見一郎, 古賀史健 (note: reshape some of my thoughts) (9/10) 
 * [來自民間的叛逆](https://book.douban.com/subject/30294348/) by 袁越 (8/10)  
