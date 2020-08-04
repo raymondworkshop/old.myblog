@@ -7,6 +7,18 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-08-03
+  * getup around 12:00
+    - should get up around 9:00
+
+  * boring at afternoon
+  * surf online at night
+
+  * toimprove
+    - get up around before 9:00
+    - don't play mobile after your sleep
+    -
+
 #### 2020-08-02
   * living
     - a public reading room

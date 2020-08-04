@@ -16,15 +16,16 @@ title: Bookshelf
 
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
-* [尋找快樂的能力 : 艾未未訪談集] by ai weiwei    
-* [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
-* [Don Quixote de la Mancha](https://book.douban.com/subject/1005918/) by Miguel de Cervantes Saavedra  
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/) by George S. Clason  
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
+* [尋找快樂的能力 : 艾未未訪談集] by ai weiwei    
+* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner   
+* [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 * [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)  
 * [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by by Michael A. Singer  (8/10)  
+* [Don Quixote de la Mancha](https://book.douban.com/subject/1005918/) by Miguel de Cervantes Saavedra    
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (note: Hamlet and Don Quixote are so different but as the same great)  (9/10)  
 * [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politics framework from the western perspective, and reshape some of my thoughts )  (9/10)  
 * [Composing Programs](http://composingprograms.com/) (8/10)  
