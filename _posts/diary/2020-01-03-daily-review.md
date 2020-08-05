@@ -7,6 +7,25 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-08-05
+  * get up around 12:30
+    - it's not good
+    - 赖床, wake up around 8:40
+
+  * lunch at mixian, and stay at MCD until dinner time
+    - hope to move soon
+
+  * dinner at red bean
+    - it's good
+
+  * surf online at night
+    - check yahoo finance news
+
+  * toimprove
+    - get around before 10:00
+    -
+
+
 #### 2020-08-04
   * get up around 10:30
   * lunch at MCD
