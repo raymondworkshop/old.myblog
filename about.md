@@ -19,7 +19,6 @@ I am an active learner. I have a BS in Electroic and Information Engineering fro
 <br>  
 
 I believe that "The good life is one inspired by love and guided by knowledge".  
-I speak Jin, Mandarin, English, Cantonese, and Japanese (basic) .  
 <br>   
 
 
