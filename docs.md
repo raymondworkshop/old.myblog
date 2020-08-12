@@ -11,15 +11,12 @@ title: docs
 
 * emacs
   - autoload emacs daemon when logining
-    > launchctl unload /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist
-    > launchctl load -w /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist
+    > launchctl unload /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist  
+    > launchctl load -w /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist  
 
   -  also could use "emacs --fg-daemon" to start the daemon mode  
 
-  - notes:  
-    * reload config file  
-      > M-x load-file  
-      > M-x eval-buffer  
+
 
   - python in emacs
     + [elpy](https://elpy.readthedocs.io/en/latest/index.html)
@@ -74,6 +71,16 @@ title: docs
     + b -> back one word
     + w -> advance one word 
     + 
+
+  - notes:  
+    * reload config file  
+      > M-x load-file  
+      > M-x eval-buffer  
+
+    * move  
+      > c-n -> down  
+      > c-p -> up
+
   - reference
     + [Spacemacs Basics](https://search-and-deploy.gitlab.io/cheat-sheets/spacemacs-basics/)
     + [spacemacs](https://wiki.archlinux.org/index.php/Spacemacs#Install_Spacemacs)
