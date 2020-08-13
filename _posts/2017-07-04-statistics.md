@@ -8,7 +8,7 @@ abstract: "[updating] Summary about Probability and Statistics"
 ---
 > [updating] A Summary about Probability and Statistics 
 
-#### Bayesian 
+#### Bayesians   
 TODO 
 
 
@@ -24,7 +24,7 @@ TODO
   
     <br/>
     
-  * 极大似然估计方法 Maximum likelihood estimation (要求假设的分布函数有参数形式) 是用来估计一个概率模型的参数的一种方法。 
+  * Frequentist - 极大似然估计方法 (Maximum likelihood estimation) (要求假设的分布函数有参数形式) 是用来估计一个概率模型的参数的一种方法。 
 
     <br/>
 

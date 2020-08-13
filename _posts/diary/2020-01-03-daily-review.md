@@ -7,14 +7,48 @@ categories: [diary]
 ---
 ### 记录下每天的工作和生活 - 2020
 
+#### 2020-08-13
+  * wake up around 9:00, and get up around 10:00
+    -
+
+  * transfer MPF
+
+  * group chatting on "工作和休息"
+    - emotional, spiritual, relationships, physical
+    - the meaning of life
+
+  * good
+    - find a better router to get home
+
+  * self
+    - **行尸走肉** 的感觉
+    - **感觉不到自己的存在, 和价值**
+
+
+  * toimprove
+    - get up a bit earlier - 8:30
+    - spacemace - python setting
+    - begin to work
+
+
+
 #### 2020-08-12
   * 从今天起, 告别主要学习阶段或心智模式, 开始成家立业阶段
     - 多赚钱,  多养家,  多行动
-    - 提高效率
 
-  * toimprove
-    - continue to use spacemacs
+  * 和房东交涉退押金的的事情
+    - 回复是 “保持追溯的权力”
+    - 自己没有遵守程序, 港人也骨子里的不信任
     -
+
+* toimprove
+    - 提高效率
+    - 不要太关注政治新闻, 多关注 经济和 挣钱, 还有就是自己care 的人
+    - continue to use spacemacs
+    - begin to work
+
+  *
+
 
 #### 2020-08-08
   * get up around 11:30
