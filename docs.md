@@ -9,23 +9,18 @@ title: docs
   - cmd+shift+D ->  splits the window vertically 
   - cmd+D -> splits the window horizontally
 
-* emacs
-  - autoload emacs daemon when logining
-    > launchctl unload /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist  
-    > launchctl load -w /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist  
 
-  -  also could use "emacs --fg-daemon" to start the daemon mode  
+* python in emacs 
+    + **pyenv** for python versions  
+      > SPC m V w -> work on virtual environment in WORKON_HOME
+    
 
-
-
-  - python in emacs
-    + [elpy](https://elpy.readthedocs.io/en/latest/index.html)
-      > C-c C-c evaluates the current script  
-      > C-c C-z switches between script and the interactive shell  
-
-    + using 'workon' in emacs based on $WORKON_HOME
-      > M-x pyvenv-workon RET codeenv RET
     + using ipython to 
+      > spc m s i -> start a Ipython for PERL 
+
+    + run python in shell  
+      > SPC m c c -> exec current file in a comint shell  
+
 
 * spacesmacs
   - fix package download err
@@ -80,6 +75,24 @@ title: docs
     * move  
       > c-n -> down  
       > c-p -> up
+
+* markdown in emacs  
+  - preview the markdown buffer, and open a new tab in the browser  
+    > M-x grip-mode  
+
+* emacs
+  - use emacs not emacsclient now  
+    + > emacs &  
+
+
+  - autoload emacs daemon when logining
+    > launchctl unload /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist  
+    > launchctl load -w /Users/zhaowenlong/Library/LaunchAgents/gnu.emacs.daemon.plist  
+
+  -  also could use "emacs --fg-daemon" to start the daemon mode  
+
+
+
 
   - reference
     + [Spacemacs Basics](https://search-and-deploy.gitlab.io/cheat-sheets/spacemacs-basics/)

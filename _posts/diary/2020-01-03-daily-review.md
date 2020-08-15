@@ -1,15 +1,23 @@
----
-layout: post
-title: "Everyday Review"
-date: 2020-01-03
-comments: true
-categories: [diary]
----
 ### 记录下每天的工作和生活 - 2020
+
+
+#### 2020-08-14
+  * get up around 9:00
+  * lunch with steamed bread and meat from baijia supermarket, but it's not so good actually
+  * spend so much time on spacemacs
+    - use emacs, not emacsclient now
+
+  * do nothing at night, just listen to youtube about politics
+
+  * toimprove
+    - getup earlier, around before 8:00
+    - make full use of your morning time, to go to exerse  ?
+    - it's good time to work at home on afternoon and night
+
+
 
 #### 2020-08-13
   * wake up around 9:00, and get up around 10:00
-    -
 
   * transfer MPF
 
@@ -31,7 +39,6 @@ categories: [diary]
     - begin to work
 
 
-
 #### 2020-08-12
   * 从今天起, 告别主要学习阶段或心智模式, 开始成家立业阶段
     - 多赚钱,  多养家,  多行动
@@ -49,59 +56,6 @@ categories: [diary]
 
   *
 
-
-#### 2020-08-08
-  * get up around 11:30
-    - lunch at MCD, and spend much time on the sofi.hk
-    - sell meituan, and buy another stocks
-
-  * go to see the house
-    - it's a good chat with the guy, who is good guy
-    - a choice to rent, although the condition is not so good, but ok
-
-  * sleep at night
-
-  * good to get job interviewing news from ouyang
-
-  * toimprove
-    - get up a bit earlier
-    - it's stupid to close the public areas, hk gov is stupid
-
-    - reuse emacs not spaceemacs, because it's common and self-define actually
-    - enhance your programming skills
-
-#### 2020-08-05
-  * get up around 12:30
-    - it's not good
-    - 赖床, wake up around 8:40
-
-  * lunch at mixian, and stay at MCD until dinner time
-    - hope to move soon
-
-  * dinner at red bean
-    - it's good
-
-  * surf online at night
-    - check yahoo finance news
-
-  * toimprove
-    - get around before 10:00
-    -d
----
-layout: post
-title: "Everyday Review"
-date: 2020-01-03
-comments: true
----
-layout: post
-title: "Everyday Review"
-date: 2020-01-03
-comments: true
-categories: [diary]
----
-categories: [diary]
----
-### 记录下每天的工作和生活 - 2020
 
 #### 2020-08-08
   * get up around 11:30
@@ -1020,3 +974,10 @@ Miss ivy in the whole afternoon and night
     - 学术  -> professor
     - industry -> 公司
     - 意味着 更加努力和聪明的工作
+---
+layout: post
+title: "Everyday Review"
+date: 2020-01-03
+comments: true
+categories: [diary]
+---
