@@ -15,6 +15,7 @@ title: Bookshelf
 
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
+* [High Performance Python, 2nd](https://www.amazon.com/s?k=high+performance+python&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2) by Micha Gorelick and Ian Ozsvald   
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/) by George S. Clason  
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    

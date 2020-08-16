@@ -1,4 +1,95 @@
+---
+layout: post
+title: "Daily Review"
+date: 2020-01-03
+comments: true
+categories: [diary]
+---
 ### 记录下每天的工作和生活 - 2020
+  * analyze how I spent my time
+  * review my priorities
+  * TODO
+
+#### 2020-08-16
+  * **priorities** are the most important part of productivity
+    - review your priorities
+
+  * list my priorities in my life
+    - health
+      + health check at least each two years
+      + **作息规律**
+      + eat well, sleep well
+    - **physical appearance and performance**
+      + exercise  -> running 30m  each day
+      + gym ?
+      + TODO
+
+    - **freedom**  (financial, time, location)
+      + wanna do what i want, **when/where** I want and **with whoever** i want
+      + how i spend/save money, and **invest**
+        - simple life
+    - **meaningful** work
+      + **meanfingful to me firstly**, maybe be good to the around
+      + **having a vision and making it come to life in the physical world**
+      + TODO
+
+    - **family legacy**
+      + **a high-quality woman** who I love
+        - who works with me to build an amazing life for our family
+      + creat a strong family and build a business
+      + TODO
+
+    - high-quality relationship with friends & families
+      + **the depth** of my relatoinships not the breadth
+      + 5 - 10 friends i could call at any time and know
+      + TODO
+
+    - spending time doing thing I enjoy
+      + hobbies, interest, passion
+        - **experienceing nature and culture**
+        - chatting - experiencing another human being in his very uniqueness
+      + **help me to relax and recover**
+      + stimulate my mind and body in new ways
+
+  * toimprove
+    - **list your priorities** at the beginning of the day
+    - **running 30m in each morning** - 7:30 - 8:00am
+      + get up around 7:00am, and go to bed before 11:00pm
+
+    - work
+      + build a business
+        - **find a problem**
+        - tell a story
+        - **provide a service**
+        - deliver a result
+        - build a product or productized service
+        - TODO
+    - skills
+      + programming
+      + improve english, and cantonese
+      + TODO: driving, swimming
+    - TODO
+
+#### 2020-08-15
+  * get up around 10:30
+    - feel a bit tired
+
+  * breakfast and lunch at MCD
+
+  * good
+    - feel great at current home to work
+    - buy a half cantaloupe
+      + great, try a different taste
+
+  * work
+    - use spacemax now
+      + work in markdown
+      + TODO - in python
+
+  * toimprove
+    - more effecient
+    - make use of morning time
+    - begin to do reading, and programming
 
 
 #### 2020-08-14

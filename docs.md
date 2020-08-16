@@ -39,7 +39,8 @@ title: docs
     + ctr-d -> stop REPL
     + C-c M-o in the REPL buffer
 
-  - keys
+  - keys  
+    + spc 1 - switch to window 1  
     + SPC + h -> help
     + SPC f e R 来重载配置  
     + SPC b b -> list all buffer  
@@ -78,7 +79,8 @@ title: docs
 
 * markdown in emacs  
   - preview the markdown buffer, and open a new tab in the browser  
-    > M-x grip-mode  
+    > F5 -> grip-mode  
+
 
 * emacs
   - use emacs not emacsclient now  
