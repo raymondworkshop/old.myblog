@@ -159,7 +159,8 @@ abstract: "!!A better me"
 
 
 #### **methodology**  -  a set of methods and principles
-
+  * If you want to help the poor, **get rich**
+    - TODO
   * **survival of the fittest**, not the strongest
       - 要想 “**适应这个群体吗**?”, “**在这个群体中是什么角色**?”,   而不是 “我要比人强”
       - 做事情, **要思考是不是适应**, 而不是完全和别人拼强弱
