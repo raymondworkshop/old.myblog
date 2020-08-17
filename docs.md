@@ -12,14 +12,25 @@ title: docs
 
 * python in emacs 
     + **pyenv** for python versions  
+      > M-x pyvenv-workon  
       > SPC m V w -> work on virtual environment in WORKON_HOME
     
 
-    + using ipython to 
+    + using ipython 
       > spc m s i -> start a Ipython for PERL 
+      >  SPC m s F -> send function and switch to REPL in insert mode
+
+    + debug  
+      > <F5> - insert debug  
 
     + run python in shell  
       > SPC m c c -> exec current file in a comint shell  
+
+    + testing - pytest
+      > SPC m t t -> launch the current test (function)   
+
+    + reference  
+      > [reference](https://develop.spacemacs.org/layers/+lang/python/README.html)  
 
 
 * spacesmacs
