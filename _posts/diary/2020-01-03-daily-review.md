@@ -10,6 +10,29 @@ categories: [diary]
   * review my priorities
   * TODO
 
+
+#### 2020-08-17
+  * getup around 10pm, breakfast and lunch at MCD, mixian for dinner
+    - don't wanna get up, and do the exercises actually
+    - NOT GOOD
+
+  * surf online at night
+
+  * good
+    - finish python config on spacemacs
+      + great to list the priorities each morning
+    - my hk stocks begin to rise a bit
+      + although I lose less money
+      + TODO - am i a good investor?
+
+  * toimprove
+    - maybe a bit later, but you have to do exercises on moring
+      + maybe 8pm?
+    - list the priorities each morning
+    - language improvement
+      + english
+    - job searching
+
 #### 2020-08-16
   * **priorities** are the most important part of productivity
     - review your priorities
