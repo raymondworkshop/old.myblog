@@ -15,6 +15,7 @@ title: Bookshelf
 
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
+* [Lisp in Small Pieces](https://www.goodreads.com/book/show/1168500.LISP_in_Small_Pieces?ac=1&from_search=true&qid=HnaUgVLHQI&rank=1) by Christian Queinnec  
 * [High Performance Python, 2nd](https://www.amazon.com/s?k=high+performance+python&__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2) by Micha Gorelick and Ian Ozsvald   
 * [zero to one](https://www.goodreads.com/book/show/18050143-zero-to-one?from_search=true&from_srp=true&qid=h2c1IqcxBr&rank=1) by Peter Thiel  
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
