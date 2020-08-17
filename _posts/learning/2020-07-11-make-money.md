@@ -3,7 +3,7 @@ layout: post
 title: "!notes on making money"
 date: 2020-07-11
 comments: true
-categories: [notes, learning, money]
+categories: [learning]
 abstract: "notes on making money"
 ---
 
