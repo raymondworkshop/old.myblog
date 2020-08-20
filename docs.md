@@ -51,6 +51,7 @@ title: docs
     + C-c M-o in the REPL buffer
 
   - keys  
+    + 
     + spc 1 - switch to window 1  
     + SPC + h -> help
     + SPC f e R 来重载配置  
@@ -72,6 +73,8 @@ title: docs
     + v -> highlight text  
     + y -> yank 
     + d -> delete highlight text  
+    + dw -> delete word  
+    + d$ -> delete to end of line  
     + 
     + g g -> beginning of file
     + G   -> end of file  

@@ -10,6 +10,27 @@ categories: [diary]
   * review my priorities
   * TODO
 
+#### 2020-08-18
+  * getup around 7:30pm, and do running at shatin park
+    - it's a good experience to be in the morning
+    -
+
+  * surf online in the morning
+    -
+
+  * stock investment
+    - feel bad when the stocks is down
+    - 价值投资 + 股票知识 + 冷静不要冲动
+    - 防守股  ->
+    - 进攻股  -> 港股要小心
+
+  * good
+    - buy a small cactus, try to do well with it
+    - getup earlier, and do running in the morning
+
+  * toimprove
+    - list the priorit each morinig
+    - check and review
 
 #### 2020-08-17
   * getup around 10pm, breakfast and lunch at MCD, mixian for dinner
