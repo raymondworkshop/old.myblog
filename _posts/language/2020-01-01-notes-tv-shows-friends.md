@@ -7,6 +7,20 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### SO3E10
+I don't mind **paying my dues** (不介意吃苦)
+
+Is my misery **amusing to** you?
+
+> Do you want my pickle?  (想吃我的泡菜么)
+>
+> I didn't have to, because I was wearing my "I heart Ross" sandwich board and ringing my bell.  (我穿着 ..., 一直摇铃铛)
+
+> **I'm so proud of you**.
+> Listen, I'm sorry i've been so crazy and jealous. It's just , i like you a lot, so
+> **I know**
+
+
 #### S03E08
 Monica and I **aren't supposed to** play football. (have to)
 
