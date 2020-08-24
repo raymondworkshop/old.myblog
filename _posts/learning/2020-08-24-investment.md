@@ -72,6 +72,8 @@ us:AGG - 0.04% - iShares Core U.S. Aggregate Bond ETF - 40%  -> 16k
 + 环球债券  
 + 118.7867 * 4 = 356.355 usd -> 3,682.55 hkd  
 
+Schwab U.S. REIT ETF (SCHH) - 0.07% 
+
 ~ Vanguard FTSE Pacific ETF VPL - 0.09%  -> 20% -> 8k 
 
 ~ Vanguard Real Estate ETF) (NYSEMKT:VNQ) 
@@ -82,6 +84,8 @@ us:AGG - 0.04% - iShares Core U.S. Aggregate Bond ETF - 40%  -> 16k
 
 ##### info  
 us:VGIT - 0.05% - Vanguard Intermediate-Term Treasury Index Fund ETF Shares  
+Schwab U.S. REIT ETF (SCHH) - 0.07% 
+Vanguard Real Estate Index Fund ETF Shares (VNQ) - 0.12% 
 
 中电控股  0002.hk 
 
