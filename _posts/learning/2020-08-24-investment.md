@@ -19,7 +19,7 @@ abstract: "Summary the investment"
        + 936.7 for credit card 
 
 #### Stratery   
-   * 40% us treasure,  30% us equities,   30% hk/china equities  
+   * 35% us treasure,  30% us equities,   25% asian/hk/china equities, 
      + 40% us treasure - check every year   
      + 20% hk/china equities   
         - 60% - check every 6 months   
@@ -53,7 +53,7 @@ abstract: "Summary the investment"
 US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  
 
 
-PIN 36.35 * 16 - 198.84 = 547.2 - 198.84 = 348.36 usd -> 2699.95HKD 
+PIN 36.35 * 16 - 198.84 = 547.2 - 198.84 = 348.36 usd -> 2699.95HKD ?  
 
 
 香港電訊 06823.hk - 11660  
@@ -86,10 +86,10 @@ US:BABA
 ##### **股票基金** - 40%  -> 40k 
 * **us:voo** - 0.03%  - Vanguard S&P 500 ETF -   
   + 313.77 * 2 = **625.74 usd** -> 4949.77 hkd  
-  + **10k hkd** on 08-25-2020?   
+  + **9k hkd** on 08-25-2020?   
 
 * 2805/ 9805  - 領航富時亞洲(日本除外)指數ETF - 0.2%   
-  + **3.8k hkd** on 08-26-2020  ?  
+  + **4.8k hkd** on 08-26-2020  ?  
 
 * 基金投资 - 贝莱德全球基金  ?
   + **7093usd** ->  54972.31HKD 
