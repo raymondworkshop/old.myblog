@@ -46,7 +46,7 @@ abstract: "Summary the investment"
 20350 - 13700 = **-6650**    
    > ---------
 
-#### **sofi HK stock**  30% - 40% -> 30k hkd  
+#### **sofi HK stock** 20%  ->  
 
 汇丰控股 0005.hk - 13,560 
 
@@ -65,31 +65,38 @@ NYSE：BAC - bank of america ?
 US:BABA  
 
 
-##### 增长基金  - 25%  -> 25k  
+##### 增长基金  - 15%  ->   
 
 * **us:vgt** - 0.1% - Vanguard Information Technology Index Fund ETF Shares  
-  + **315.92 usd** -> 2,448.43 hkd  
-  + **10k** hkd on 08-25-2020   ?  
+  + IT 基金  - **2212.2** usd
+  + 315.96 usd   
+  + 316.04 * 6 = 1896.24 usd on 08-25-2020   
 
-* 富兰克林科技基金A类 (美元 累积) - 1,112USD + 981USD = 2093USD - 1%  
-  + **1,084.21 + 981 USD** - 16006.02HKD  
+* 富兰克林科技基金A类 (美元 累积) - 1% - 
+  + 1,112USD + 981USD = **2093USD**   - 16006.02HKD  
+
 
 * 恆生中國新經濟指數基金-D類	  
   + HKD2,200    
 
+
+* Vanguard Real Estate ETF (NYSEMKT:VNQ)   
 
 * ~ Schwab U.S. REIT ETF (SCHH) - 0.07%  
 
 * ~ Vanguard Real Estate Index Fund ETF Shares (VNQ) - 0.12% 
 
 
-##### **股票基金** - 40%  -> 40k 
+##### **股票基金** - 30%  ->  
 * **us:voo** - 0.03%  - Vanguard S&P 500 ETF -   
-  + 313.77 * 2 = **625.74 usd** -> 4949.77 hkd  
-  + **9k hkd** on 08-25-2020?   
+  + 北美股票 - **3462 usd**   
+  + 313.77 * 2 = 625.74 usd   
+  + 315.08 * 6 = 1890.51usd  
+  + 315.25 * 3 = 945.75usd on 08-25-2020 
 
 * 2805/ 9805  - 領航富時亞洲(日本除外)指數ETF - 0.2%   
   + **4.8k hkd** on 08-26-2020  ?  
+
 
 * 基金投资 - 贝莱德全球基金  ?
   + **7093usd** ->  54972.31HKD 
@@ -112,11 +119,11 @@ US:BABA
 * ~ Vanguard FTSE Pacific ETF VPL - 0.08%   
 
 
-##### **US Bond**  - ~35% -  -> 35k  
+##### **US Bond**  - ~40% -  -> 20k  
 * **us:AGG** - 0.04% - iShares Core U.S. Aggregate Bond ETF  
-  + 环球债券  
-  + 118.7867 * 4 = **356.355 usd** -> 3,682.55 hkd  
-  + **15k hkd** on 2020-08-25 ?   
+  + 环球债券  -> + **592.955** USD  
+  + 118.7867 * 4 = 356.355 usd
+  + 118.3 * 2 = 236.6usd  on 2020-08-25    
 
 * ~simplyFund -  恒生香港債券基金D類單位 (港元 累積) --> 
   + 20k * 1/3 = **6,738.44hkd**     
@@ -129,10 +136,9 @@ US:BABA
 
 
 
-##### Others  
+##### info  
   + Schwab U.S. REIT ETF (SCHH) - 0.07% 
 
-  + ~ Vanguard Real Estate ETF) (NYSEMKT:VNQ) 
 
   + ~ Vanguard FTSE歐洲ETF〈VGK〉 - 0.08%  - 10% -> 4k   
 
@@ -140,25 +146,19 @@ US:BABA
 
   + 3169.hk / 9169.hk - 領航全球中國股票指數ETF - 0.40% 
 
+  + 3022 / 9022 - [iShares安碩MSCI新興市場ETF](https://www.blackrock.com/hk/zh/products/314932/ishares-msci-emerging-markets-etf-fund)  - 0.18%  - 
+ 
+  + us:VGIT - 0.05% - Vanguard Intermediate-Term Treasury Index Fund ETF Shares  
 
 
-##### info  
-us:VGIT - 0.05% - Vanguard Intermediate-Term Treasury Index Fund ETF Shares  
+  + [iShares NASDAQ 100 ETF](https://www.blackrock.com/hk/zh/products/282238/ishares-nasdaq-100-etf-fund) - 2834 - 0.28 -
 
-
-中电控股  0002.hk 
-
-
-[iShares NASDAQ 100 ETF](https://www.blackrock.com/hk/zh/products/282238/ishares-nasdaq-100-etf-fund) - 2834 - 0.28 -  
-
-3022 / 9022 - [iShares安碩MSCI新興市場ETF](https://www.blackrock.com/hk/zh/products/314932/ishares-msci-emerging-markets-etf-fund)  - 0.18%  - 
-
-
-
+ 
 
 #### **Money - 保險** 
 
 10% 
+**健康保险, 医疗保险, 寿险**    
 基本保障类别 盡早選擇醫療保險、危疾保險或意外保險
 
 *  todo
@@ -233,5 +233,7 @@ us:VGIT - 0.05% - Vanguard Intermediate-Term Treasury Index Fund ETF Shares
   - 計劃成員帳戶號碼 :
 
 
+##### notes  
+  * [投资理财](https://rich01.com/return-of-investment/)
 
 #### reference 
