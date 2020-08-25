@@ -170,14 +170,10 @@ us:VGIT - 0.05% - Vanguard Intermediate-Term Treasury Index Fund ETF Shares
 
 #### **Money - MPF**  
 
-* check every 3 months
-
-Hang Seng MPF: 
-  scheme id: 39999981
-  - 計劃成員帳戶號碼 : 313084227
-  
-  - HKD49253.42 -> **5652.13** on 08-24-2020  
-  - 46,810.87
+**Hang Seng MPF** 
+  - scheme id: 39999981  
+  - 計劃成員帳戶號碼 : 313084227    
+  - HKD49253.42 -> **5652.13** on 08-24-2020     
 
 47,332.35
 47765
@@ -196,7 +192,7 @@ Hang Seng MPF:
 5652.13
 
 
-富達 或Fidelity
+富達 或Fidelity  
  - aiding2001/Wenlong001
  - 強積金 167 871 254
  - 計劃成員帳戶號碼 :  167 871 254
