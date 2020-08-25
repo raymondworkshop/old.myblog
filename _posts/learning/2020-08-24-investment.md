@@ -48,17 +48,16 @@ abstract: "Summary the investment"
 
 #### **sofi HK stock**  30% - 40% -> 30k hkd  
 
- 
 汇丰控股 0005.hk - 13,560 
 
 US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  
 
- 
-香港電訊 06823.hk - 11660  
-0.3010 * 1000 = 310  
-
 
 PIN 36.35 * 16 - 198.84 = 547.2 - 198.84 = 348.36 usd -> 2699.95HKD 
+
+
+香港電訊 06823.hk - 11660  
+0.3010 * 1000 = 310  
 
 ----------
 9999.hk - 网易 ?   
@@ -66,10 +65,31 @@ NYSE：BAC - bank of america ?
 US:BABA  
 
 
-##### **股票基金** - 40%  -> 64k 
+##### 增长基金  - 25%  -> 25k  
+
+* **us:vgt** - 0.1% - Vanguard Information Technology Index Fund ETF Shares  
+  + **315.92 usd** -> 2,448.43 hkd  
+  + **10k** hkd on 08-25-2020   ?  
+
+* 富兰克林科技基金A类 (美元 累积) - 1,112USD + 981USD = 2093USD - 1%  
+  + **1,084.21 + 981 USD** - 16006.02HKD  
+
+* 恆生中國新經濟指數基金-D類	  
+  + HKD2,200    
+
+
+* ~ Schwab U.S. REIT ETF (SCHH) - 0.07%  
+
+* ~ Vanguard Real Estate Index Fund ETF Shares (VNQ) - 0.12% 
+
+
+##### **股票基金** - 40%  -> 40k 
 * **us:voo** - 0.03%  - Vanguard S&P 500 ETF -   
   + 313.77 * 2 = **625.74 usd** -> 4949.77 hkd  
+  + **10k hkd** on 08-25-2020?   
 
+* 2805/ 9805  - 領航富時亞洲(日本除外)指數ETF - 0.2%   
+  + **3.8k hkd** on 08-26-2020  ?  
 
 * 基金投资 - 贝莱德全球基金  ?
   + **7093usd** ->  54972.31HKD 
@@ -79,13 +99,6 @@ US:BABA
   + 贝莱德全球基金 - 世界矿业基金A2类股份 (美元)  
     - 2616.6 usd  
 
-* 恆生中國新經濟指數基金-D類	  
-  + HKD2,200     
-
-
-* 3169.hk / 9169.hk - 領航全球中國股票指數ETF - 0.40% 
-
-* 9805.hk - 領航富時亞洲(日本除外)指數ETF - 0.2% 
 
 * 9101.hk - 領航富時發展歐洲指數ETF - 0.18% 
 
@@ -96,46 +109,36 @@ US:BABA
 * ~ Vanguard Total World Stock Index Fund ETF Shares (VT)  - 0.08%  
   + no 
 
+* ~ Vanguard FTSE Pacific ETF VPL - 0.08%   
 
 
-##### 增长基金  - 10%  -> 16k  
-* **us:vgt** - 0.1% - Vanguard Information Technology Index Fund ETF Shares  
-  + **315.92 usd** -> 2,448.43 hkd  
-
-* 富兰克林科技基金A类 (美元 累积) - 1,112USD + 981USD = 2093USD
-  + **1,084.21 + 981 USD** - 16006.02HKD  
-
-
-* ~ Schwab U.S. REIT ETF (SCHH) - 0.07%  
-
-* ~ Vanguard Real Estate Index Fund ETF Shares (VNQ) - 0.12% 
-
-
-##### 均衡增長  - 15%  -> 20k  
-
-* simplyFund - 恒生環球均衡增長基金D類單位 (港元 累積) 
-  + 32k - 16160.44  = **16160.44hkd**  
-
-
-##### **US Bond**  - ~30% -  -> 48k  
+##### **US Bond**  - ~35% -  -> 35k  
 * **us:AGG** - 0.04% - iShares Core U.S. Aggregate Bond ETF  
   + 环球债券  
   + 118.7867 * 4 = **356.355 usd** -> 3,682.55 hkd  
+  + **15k hkd** on 2020-08-25 ?   
 
-* simplyFund -  恒生香港債券基金D類單位 (港元 累積) --> 
+* ~simplyFund -  恒生香港債券基金D類單位 (港元 累積) --> 
   + 20k * 1/3 = **6,738.44hkd**     
+
+
+##### ~ 均衡增長  - 15%  -> 15k  
+
+* ~ simplyFund - 恒生環球均衡增長基金D類單位 (港元 累積) 
+  + 32k - 16160.44  = **16160.44hkd**  
+
 
 
 ##### Others  
   + Schwab U.S. REIT ETF (SCHH) - 0.07% 
-
-  + ~ Vanguard FTSE Pacific ETF VPL - 0.09%  -> 20% -> 8k 
 
   + ~ Vanguard Real Estate ETF) (NYSEMKT:VNQ) 
 
   + ~ Vanguard FTSE歐洲ETF〈VGK〉 - 0.08%  - 10% -> 4k   
 
   + ~ NYSE Arca : GLD  5%  - 
+
+  + 3169.hk / 9169.hk - 領航全球中國股票指數ETF - 0.40% 
 
 
 
@@ -174,6 +177,7 @@ us:VGIT - 0.05% - Vanguard Intermediate-Term Treasury Index Fund ETF Shares
   - scheme id: 39999981  
   - 計劃成員帳戶號碼 : 313084227    
   - HKD49253.42 -> **5652.13** on 08-24-2020     
+  - 40% 北美股票 + 35% 环球债券 + 25% 亚太股票  on 08-25-2020  
 
 47,332.35
 47765
