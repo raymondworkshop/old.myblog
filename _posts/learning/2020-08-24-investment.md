@@ -101,7 +101,7 @@ NYSE：BAC - bank of america
 
 
 
-##### **US Bond**  - 30-40%   -  
+##### **US Bond**  - 40-50%   -  
 * **us:AGG** - 0.04% - iShares Core U.S. Aggregate Bond ETF  
   + 环球债券  -> + **592.955** USD  
   + 118.7867 * 4 = 356.355 usd
