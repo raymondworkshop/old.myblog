@@ -14,12 +14,12 @@ abstract: "Summary the investment"
 
      - ~5k for life + ~6k for living  
 
-     - Money - credit card 
+     - Money - credit card - **2643.37**hkd
        + 1706.67 for 20k
        + 936.7 for credit card 
 
 #### Stratery   
-   * 35% us treasure,  30% us equities,   25% asian/hk/china equities, 
+   * 40% us treasure,  30% us equities,   25% asian/hk/china equities, 
      + 40% us treasure - check every year   
      + 20% hk/china equities   
         - 60% - check every 6 months   
@@ -35,98 +35,92 @@ abstract: "Summary the investment"
    *  rebalance use wealthfront.com   
 
 
-   * on 08-25-2020  
+   * **input**    
    > ---------  
      + input: 10,000.00 + 10,000.00 + 10,000.00 + 2,500.00 - 1,500.00 - 2,973.34 + 10,000.00 + 50,000.00 
-= **88026.66** - 80817.36 = **-7209.3**   
+= **88026.66** 
 
-     + 80817.36 + 13,000.0 = **103817.36**   
+     + 2020-08-25  -> 103817.36  
+        - 88026.66 - **80817.36** = **-7209.3**   
 
-     + 比亚迪电子 00285.hk   32,800 + 16,275 - 14750 - - 13975  = 49075 - 14750 - 13975  = 34325 - 13975 = 
-20350 - 13700 = **-6650**    
+        - 80817.36 **+ 13,000.0** = **103817.36**   
+
+     
    > ---------
 
-#### **sofi HK stock** 20%  ->  
+
+##### **sofi HK stock** ~ 10% - 20% ->  
 
 汇丰控股 0005.hk - 13,560 
 
 US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  
 
-
-PIN 36.35 * 16 - 198.84 = 547.2 - 198.84 = 348.36 usd -> 2699.95HKD ?  
-
+PIN 36.35 * 16 - 198.84 = 547.2 - 198.84 = 348.36 usd -> 2699.95HKD   
 
 香港電訊 06823.hk - 11660  
 0.3010 * 1000 = 310  
 
 ----------
 9999.hk - 网易 ?   
-NYSE：BAC - bank of america ?
+
 US:BABA  
+US:CRM - Salesforce.com Inc. 
+NYSE：BAC - bank of america 
 
+> ---------
+ 比亚迪电子 00285.hk   32,800 + 16,275 - 14750 - - 13975  = 49075 - 14750 - 13975  = 34325 - 13975 = 
+20350 - 13700 = **-6650**    
+> ---------
 
-##### 增长基金  - 15%  ->   
+##### 增长基金  -  20%    
 
 * **us:vgt** - 0.1% - Vanguard Information Technology Index Fund ETF Shares  
   + IT 基金  - **2212.2** usd
   + 315.96 usd   
   + 316.04 * 6 = 1896.24 usd on 08-25-2020   
 
+* Vanguard Real Estate Index Fund ETF Shares (VNQ) - 0.12%  
+ 
+
 * 富兰克林科技基金A类 (美元 累积) - 1% - 
   + 1,112USD + 981USD = **2093USD**   - 16006.02HKD  
 
 
-* 恆生中國新經濟指數基金-D類	  
-  + HKD2,200    
+* 恆生中國新經濟指數基金-D類	  - 0.55%  ?  
+  + HKD4,900    
 
 
-* Vanguard Real Estate ETF (NYSEMKT:VNQ)   
+* 贝莱德全球基金 - 环球资产配置基金A2类股份 (美元)   - 1.75%   ?
+    - 2383.4usd  
+
+* 贝莱德全球基金 - 世界矿业基金A2类股份 (美元)  - 1%  ? 
+    - 2616.6usd  
+
 
 * ~ Schwab U.S. REIT ETF (SCHH) - 0.07%  
 
-* ~ Vanguard Real Estate Index Fund ETF Shares (VNQ) - 0.12% 
 
 
-##### **股票基金** - 30%  ->  
-* **us:voo** - 0.03%  - Vanguard S&P 500 ETF -   
-  + 北美股票 - **3462 usd**   
-  + 313.77 * 2 = 625.74 usd   
-  + 315.08 * 6 = 1890.51usd  
-  + 315.25 * 3 = 945.75usd on 08-25-2020 
-
-* 2805/ 9805  - 領航富時亞洲(日本除外)指數ETF - 0.2%   
-  + **4.8k hkd** on 08-26-2020  ?  
-
-
-* 基金投资 - 贝莱德全球基金  ?
-  + **7093usd** ->  54972.31HKD 
-
-  + 贝莱德全球基金 - 环球资产配置基金A2类股份 (美元)    
-    - 2383.4usd  
-  + 贝莱德全球基金 - 世界矿业基金A2类股份 (美元)  
-    - 2616.6 usd  
-
-
-* 9101.hk - 領航富時發展歐洲指數ETF - 0.18% 
-
-
-* ~ simplyFund - 恆生環球高增長基金-D類  
-  + ~ 25k   
-
-* ~ Vanguard Total World Stock Index Fund ETF Shares (VT)  - 0.08%  
-  + no 
-
-* ~ Vanguard FTSE Pacific ETF VPL - 0.08%   
-
-
-##### **US Bond**  - ~40% -  -> 20k  
+##### **US Bond**  - 30-40%   -  
 * **us:AGG** - 0.04% - iShares Core U.S. Aggregate Bond ETF  
   + 环球债券  -> + **592.955** USD  
   + 118.7867 * 4 = 356.355 usd
   + 118.3 * 2 = 236.6usd  on 2020-08-25    
+  + 7214k on 2020-08-26 ?  
 
-* ~simplyFund -  恒生香港債券基金D類單位 (港元 累積) --> 
-  + 20k * 1/3 = **6,738.44hkd**     
+
+
+##### 股票基金 - 30%  -   
+* **us:voo** - 0.03%  - Vanguard S&P 500 ETF -   
+  + 北美股票 - **3462 usd**   
+  + 313.77 * 2 = 625.74 usd   
+  + 315.08 * 6 = 1890.51usd  
+  + 315.25 * 3 = 945.75usd on 2020-08-25   
+
+
+* 3010.hk iShares 安碩核心MSCI 亞洲（日本除外）ETF - 0.28%  
+  + **5786k hkd** on 08-26-2020  
+
 
 
 ##### ~ 均衡增長  - 15%  -> 15k  
@@ -137,9 +131,6 @@ US:BABA
 
 
 ##### info  
-  + Schwab U.S. REIT ETF (SCHH) - 0.07% 
-
-
   + ~ Vanguard FTSE歐洲ETF〈VGK〉 - 0.08%  - 10% -> 4k   
 
   + ~ NYSE Arca : GLD  5%  - 
@@ -153,7 +144,20 @@ US:BABA
 
   + [iShares NASDAQ 100 ETF](https://www.blackrock.com/hk/zh/products/282238/ishares-nasdaq-100-etf-fund) - 2834 - 0.28 -
 
+  +  ~ simplyFund -  恒生香港債券基金D類單位 (港元 累積) 
+    - 20k * 1/3 = 6,738.44hkd     
+
+  +  ~ 9101.hk - 領航富時發展歐洲指數ETF - 0.18% 
+
+  +  ~ simplyFund - 恆生環球高增長基金-D類  
+    - ~ 25k   
+
+
+  +  ~ Vanguard FTSE Pacific ETF VPL - 0.08%   
+
+  +  南方東科技指數ETF﹙3033﹚  
  
+
 
 #### **Money - 保險** 
 
@@ -162,7 +166,6 @@ US:BABA
 基本保障类别 盡早選擇醫療保險、危疾保險或意外保險
 
 *  todo
-开户 汇丰银行
 
 体检 
 
@@ -176,7 +179,7 @@ US:BABA
 **Hang Seng MPF** 
   - scheme id: 39999981  
   - 計劃成員帳戶號碼 : 313084227    
-  - HKD49253.42 -> **5652.13** on 08-24-2020     
+  - HKD49377.23 -> **5775.94** on 08-25-2020   
   - 40% 北美股票 + 35% 环球债券 + 25% 亚太股票  on 08-25-2020  
 
 47,332.35
