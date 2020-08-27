@@ -19,6 +19,9 @@ abstract: "Summary the investment"
        + 936.7 for credit card 
 
 #### Stratery   
+   * notes  
+      + **switch on 2020-09-29**  or **2020-09-29**  ?  
+
    * 40% us treasure,  30% us equities,   25% asian/hk/china equities, 
      + 40% us treasure - check every year   
      + 20% hk/china equities   
@@ -49,7 +52,7 @@ abstract: "Summary the investment"
    > ---------
 
 
-##### **sofi HK stock** ~ 10% ->  
+##### **sofi HK stock** ~ 10+-10% ->  
 + 31961 HKD  
 
 汇丰控股 0005.hk - 13,560 
@@ -71,7 +74,7 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
 20350 - 13700 = **-6650**    
 > 
 
-##### 增长基金  -  20%    
+##### 增长基金  -  20+-10%    
 
 * **us:vgt** - 0.1% - Vanguard Information Technology Index Fund ETF Shares  
   + IT 基金  - **2855.89** usd -> 22134.43 HKD  
@@ -80,34 +83,39 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
   + 321.38 usd on 2020-08-26  
   + 322.31 usd 
 
-* Vanguard Real Estate Index Fund ETF Shares (VNQ) - 0.12%  
+* **us:VNQ** - Vanguard Real Estate Index Fund ETF Shares - 0.12%  
   + **727.47** usd  -> 5638.22 hkd  on 08-25-2020  
   
 
 * 富兰克林科技基金A类 (美元 累积) - 1% - 
   + 1,112USD + 981USD = **2093USD**   - 16006.02HKD  
-  +  -> **+18.950** on 08-26-2020  
+  + **+18.950** on 08-26-2020  
+  + **+92.350** on 08-27-2020
 
 
 * 恆生中國新經濟指數基金-D類	  - 0.55%  ?   
   + HKD4,900    
 
 
-* 贝莱德全球基金 - 环球资产配置基金A2类股份 (美元)   - 1.75%   ?  
-    - 2383.4usd  
-    - **+61.190** on 08-26-2020  
-
 * 贝莱德全球基金 - 世界矿业基金A2类股份 (美元)  - 1%  ? 
     - 2616.6usd  
     - **-52.300** on 08-26-2020  
+    - **-51.150** on 08-27-2020 
 
 
 * ~ Schwab U.S. REIT ETF (SCHH) - 0.07%  
 
+* ~ 贝莱德全球基金 - 环球资产配置基金A2类股份 (美元)   - 1.75%   ?  
+    - 2383.4usd  
+    - **+61.190** on 08-26-2020  
+    - **+68.590** on 08-27-2020 
+
+* ~恒生基金 
+  + **+747.34**  
 
 
-##### **US Bond**  - 40-50%   -  
-* **us:AGG** - 0.04% - iShares Core U.S. Aggregate Bond ETF  
+##### **US Bond**  - 30+-40%   -  
+* us:AGG - 0.04% - iShares Core U.S. Aggregate Bond ETF  
   + 环球债券  -> + **829.555** USD  -> 6429.42 hkd  
   + 118.7867 * 4 = 356.355 usd
   + 118.3 * 2 = 236.6usd  on 2020-08-25    
@@ -116,7 +124,7 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
 
 
 
-##### 股票基金 - 30%  -   
+##### ETF-stock - 30+-10%  -   
 * **us:voo** - 0.03%  - Vanguard S&P 500 ETF -   
   + 北美股票 - **3462 usd**   -> 19081.40 hkd  
   + 313.77 * 2 = 625.74 usd   
@@ -126,6 +134,8 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
 
 * 3010.hk iShares 安碩核心MSCI 亞洲（日本除外）ETF - 0.28%  
   + **5786 hkd** on 08-26-2020  
+
+* Vanguard FTSE歐洲ETF〈VGK〉 - 0.08%  -    
 
 
 
@@ -137,7 +147,6 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
 
 
 ##### info  
-  + ~ Vanguard FTSE歐洲ETF〈VGK〉 - 0.08%  - 10% -> 4k   
 
   + ~ NYSE Arca : GLD  5%  - 
 
