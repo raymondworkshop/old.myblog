@@ -76,14 +76,14 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
 
 ##### 增长基金  -  20+-10%    
 
-* **us:vgt** - 0.1% - Vanguard Information Technology Index Fund ETF Shares  
+* **us:vgt** - 0.1% - Vanguard Information Technology Index Fund ETF Shares  - Yield  1.08% * 0.7 - 
   + IT 基金  - **2855.89** usd -> 22134.43 HKD  
   + 315.96 usd   
   + 316.04 * 6 = 1896.24 usd on 08-25-2020   
   + 321.38 usd on 2020-08-26  
   + 322.31 usd 
 
-* **us:VNQ** - Vanguard Real Estate Index Fund ETF Shares - 0.12%  
+* **us:VNQ** - Vanguard Real Estate Index Fund ETF Shares - 0.12%  - yield 2.73% - 
   + **727.47** usd  -> 5638.22 hkd  on 08-25-2020  
   
 
@@ -110,22 +110,28 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
     - **+61.190** on 08-26-2020  
     - **+68.590** on 08-27-2020 
 
-* ~恒生基金 
+* Tether - stable digital cash on the Blockchain 
+
+
+* ~ 恒生基金 
   + **+747.34**  
 
 
 ##### **US Bond**  - 30+-40%   -  
-* us:AGG - 0.04% - iShares Core U.S. Aggregate Bond ETF  
+* us:AGG - 0.04% - iShares Core U.S. Aggregate Bond ETF  - Yield  2.46% - 
   + 环球债券  -> + **829.555** USD  -> 6429.42 hkd  
   + 118.7867 * 4 = 356.355 usd
   + 118.3 * 2 = 236.6usd  on 2020-08-25    
   + 118.28 * 2 + 118.26 + 118.25 * 2 = 591.32usd  on 2020-08-26 
   + -118.24 * 3 = -354.72 
 
+* ~ 貝萊德中國債券基金 - 0.75% 
 
+*  ~ simplyFund -  恒生香港債券基金D類單位 (港元 累積) 
+  + 20k * 1/3 = 6,738.44hkd    
 
 ##### ETF-stock - 30+-10%  -   
-* **us:voo** - 0.03%  - Vanguard S&P 500 ETF -   
+* **us:voo** - 0.03%  - Vanguard S&P 500 ETF -  SEC yield  1.69- 
   + 北美股票 - **3462 usd**   -> 19081.40 hkd  
   + 313.77 * 2 = 625.74 usd   
   + 315.08 * 6 = 1890.51usd  
@@ -135,7 +141,16 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
 * 3010.hk iShares 安碩核心MSCI 亞洲（日本除外）ETF - 0.28%  
   + **5786 hkd** on 08-26-2020  
 
+
+* 2801.HK iShares安碩核心MSCI中國指數ETF - 0.2%  
+
 * Vanguard FTSE歐洲ETF〈VGK〉 - 0.08%  -    
+
+
+* ~ Franklin FTSE歐洲ETF〈FLEE〉- 0.09%  
+
+
+* ~ 3022.hk - iShares安碩MSCI新興市場ETF (HK) - 0.18% 
 
 
 
@@ -158,8 +173,7 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
 
   + [iShares NASDAQ 100 ETF](https://www.blackrock.com/hk/zh/products/282238/ishares-nasdaq-100-etf-fund) - 2834 - 0.28 -
 
-  +  ~ simplyFund -  恒生香港債券基金D類單位 (港元 累積) 
-    - 20k * 1/3 = 6,738.44hkd     
+ 
 
   +  ~ 9101.hk - 領航富時發展歐洲指數ETF - 0.18% 
 
@@ -187,14 +201,13 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
 自願醫保認可產品編號: F00029-01-000-01
 
 
-
 #### **Money - MPF**  
 
 **Hang Seng MPF** 
   - scheme id: 39999981  
   - 計劃成員帳戶號碼 : 313084227    
-  - HKD49377.23 -> **5775.94** on 08-25-2020   
-  - 40% 北美股票 + 35% 环球债券 + 25% 亚太股票  on 08-25-2020  
+  - HKD49672.96 -> **6071.67** on 08-26-2020   
+  - 20% 环球债券 + 20% 均衡基 + 20% 北美股票 + 20% 欧洲股票 + 20% 亚太股票 金  on 08-27-2020   
 
 47,332.35
 47765
