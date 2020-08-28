@@ -7,16 +7,7 @@ categories: [learning]
 abstract: "Summary the investment"
 ---
 
-#### Money - living  
-  * **~around 13,6k/m**    
-     - 5k + 2643.37 = 7643.37 
-     - 12k
 
-     - ~5k for life + ~6k for living  
-
-     - Money - credit card - **2643.37**hkd
-       + 1706.67 for 20k
-       + 936.7 for credit card 
 
 #### Stratery   
    * notes  
@@ -40,25 +31,28 @@ abstract: "Summary the investment"
 
    * **input**    
    > ---------  
-     + input: 10,000.00 + 10,000.00 + 10,000.00 + 2,500.00 - 1,500.00 - 2,973.34 + 10,000.00 + 50,000.00 
+     + sofi input: 10,000.00 + 10,000.00 + 10,000.00 + 2,500.00 - 1,500.00 - 2,973.34 + 10,000.00 + 50,000.00 
 = **88026.66** 
 
      + 2020-08-25  -> 103817.36  
         - 88026.66 - **80817.36** = **-7209.3**   
 
         - 80817.36 **+ 13,000.0** = **103817.36**   
-
+     
+     + 2020-08-28 -> **161817.36**   
+        - 103817.36 + 58000 = 161817.36  
      
    > ---------
 
 
 ##### **sofi HK stock** ~ 10+-10% ->  
-+ 31961 HKD  
+* input: 
+  + **31961.71** HKD  on 2020-08-28  
 
 汇丰控股 0005.hk - 13,560 
 
 PIN 36.35 * 16 - 198.84 = 547.2 - 198.84 = 348.36 usd 
-34.46 +  348.36 = 382.82 usd -> 2,967.10hkd
+34.46 +  348.36 = **382.82** usd -> 2,967.10hkd
 
 US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?  
 
@@ -74,7 +68,9 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
 20350 - 13700 = **-6650**    
 > 
 
-##### 增长基金  -  20+-10%    
+##### 增长基金  -  20+-10%   -> 
+* input: 
+  + **61421.01** hkd  on 2020-08-28  
 
 * **us:vgt** - 0.1% - Vanguard Information Technology Index Fund ETF Shares  - Yield  1.08% * 0.7 - 
   + IT 基金  - **2855.89** usd -> 22134.43 HKD  
@@ -83,17 +79,19 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
   + 321.38 usd on 2020-08-26  
   + 322.31 usd 
 
-* **us:VNQ** - Vanguard Real Estate Index Fund ETF Shares - 0.12%  - yield 2.73% - 
-  + **727.47** usd  -> 5638.22 hkd  on 08-25-2020  
-  
 
 * 富兰克林科技基金A类 (美元 累积) - 1% - 
   + 1,112USD + 981USD = **2093USD**   - 16006.02HKD  
   + **+18.950** on 08-26-2020  
-  + **+92.350** on 08-27-2020
+  + **+92.350** on 08-27-2020    
+  + **+3.99%** -> 83.490 on 2020-08-28  
 
 
-* 恆生中國新經濟指數基金-D類	  - 0.55%  ?   
+* **us:VNQ** - Vanguard Real Estate Index Fund ETF Shares - 0.12%  - yield 2.73% - 
+  + **727.47** usd  -> 5638.22 hkd  on 08-25-2020  
+  
+
+* 恆生中國新經濟指數基金-D類	  - 0.55%  
   + HKD4,900    
 
 
@@ -101,36 +99,45 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
     - 2616.6usd  
     - **-52.300** on 08-26-2020  
     - **-51.150** on 08-27-2020 
+    - **-1.12%** -> -29.280  on 2020-08-28  
 
 
-* ~ Schwab U.S. REIT ETF (SCHH) - 0.07%  
 
-* ~ 贝莱德全球基金 - 环球资产配置基金A2类股份 (美元)   - 1.75%   ?  
-    - 2383.4usd  
-    - **+61.190** on 08-26-2020  
-    - **+68.590** on 08-27-2020 
+##### **US Bond**  - 30+-10%   -  
+* input: 
+  + **6429.42** hkd on 2020-08-28  
+  + 7k on 2020-08-28 
+  + at least 30k -> 42k hkd on 2020-08-28 ?  
 
-* Tether - stable digital cash on the Blockchain 
-
-
-* ~ 恒生基金 
-  + **+747.34**  
-
-
-##### **US Bond**  - 30+-40%   -  
-* us:AGG - 0.04% - iShares Core U.S. Aggregate Bond ETF  - Yield  2.46% - 
-  + 环球债券  -> + **829.555** USD  -> 6429.42 hkd  
-  + 118.7867 * 4 = 356.355 usd
+* us:**AGG** - 0.04% - iShares Core U.S. Aggregate Bond ETF  - Yield  2.46% - 
+  + 环球债券  ->  **829.555** USD  -> 6429.42 hkd  
+  + 118.7867 * 4 = 356.355 usd  
   + 118.3 * 2 = 236.6usd  on 2020-08-25    
   + 118.28 * 2 + 118.26 + 118.25 * 2 = 591.32usd  on 2020-08-26 
   + -118.24 * 3 = -354.72 
 
-* ~ 貝萊德中國債券基金 - 0.75% 
 
-*  ~ simplyFund -  恒生香港債券基金D類單位 (港元 累積) 
-  + 20k * 1/3 = 6,738.44hkd    
+* Money - living  
+  + **~around 13,6k/m**   
+     - at least **3350 usd** for bond  
+     - 5k + 2643.37 = 7643.37 
+     - 12k
+
+     - ~5k for life + ~6k for living  
+
+     - Money - credit card - **2643.37**hkd
+       + 1706.67 for 20k
+       + 936.7 for credit card 
+ 
 
 ##### ETF-stock - 30+-10%  -   
+
+* input: 
+  + **19081.40hkd** on 2020-08-28   
+  +  20k hkd ?
+  + object: **10k hkd** on 2020-08-28  
+  
+
 * **us:voo** - 0.03%  - Vanguard S&P 500 ETF -  SEC yield  1.69- 
   + 北美股票 - **3462 usd**   -> 19081.40 hkd  
   + 313.77 * 2 = 625.74 usd   
@@ -138,33 +145,45 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
   + 315.25 * 3 = 945.75usd on 2020-08-25   
 
 
-* 3010.hk iShares 安碩核心MSCI 亞洲（日本除外）ETF - 0.28%  
-  + **5786 hkd** on 08-26-2020  
-
-
-* 2801.HK iShares安碩核心MSCI中國指數ETF - 0.2%  
+* 3010.hk iShares 安碩核心MSCI 亞洲（日本除外）ETF - 0.28%  ? 
+  + **5806 hkd** on 08-26-2020  
 
 * Vanguard FTSE歐洲ETF〈VGK〉 - 0.08%  -    
-
-
-* ~ Franklin FTSE歐洲ETF〈FLEE〉- 0.09%  
-
-
-* ~ 3022.hk - iShares安碩MSCI新興市場ETF (HK) - 0.18% 
+  + 10hkd on 2020-08-28 ?  
 
 
 
-##### ~ 均衡增長  - 15%  -> 15k  
 
-* ~ simplyFund - 恒生環球均衡增長基金D類單位 (港元 累積) 
-  + 32k - 16160.44  = **16160.44hkd**  
+##### others    
+  + ~ 貝萊德中國債券基金 - 0.75%  
+
+  + ~ 2801.HK iShares安碩核心MSCI中國指數ETF - 0.2%  
+
+  + ~ Franklin FTSE歐洲ETF〈FLEE〉- 0.09%  
+
+  + ~ 3022.hk - iShares安碩MSCI新興市場ETF (HK) - 0.18% 
+
+  + ~ simplyFund - 恒生環球均衡增長基金D類單位 (港元 累積) 
+    - 32k - 16160.44  = **16160.44hkd**   
+
+  +  ~ simplyFund -  恒生香港債券基金D類單位 (港元 累積) 
+    - 20k * 1/3 = 6,738.44hkd    
+
+  +  ~ Schwab U.S. REIT ETF (SCHH) - 0.07%  
+
+  + ~ 贝莱德全球基金 - 环球资产配置基金A2类股份 (美元)   - 1.75%    
+    - 2383.4usd  
+    - **+61.190** on 08-26-2020  
+    - **+68.590** on 08-27-2020 
+    - **+3.45%** -> +82.280 on 08-28-2020  
+
+  + Tether - stable digital cash on the Blockchain 
 
 
-
-##### info  
+  +  ~ 恒生基金 
+    - **+747.34**  
 
   + ~ NYSE Arca : GLD  5%  - 
-
 
   + 3022 / 9022 - [iShares安碩MSCI新興市場ETF](https://www.blackrock.com/hk/zh/products/314932/ishares-msci-emerging-markets-etf-fund)  - 0.18%  - 
  
@@ -207,6 +226,7 @@ US:BABA - 260.75 * 2 = 521.50USD -> 4,041.86hkd  ?
   - scheme id: 39999981  
   - 計劃成員帳戶號碼 : 313084227    
   - HKD49672.96 -> **6071.67** on 08-26-2020   
+  - HKD49,600.83 -> **5999.54** on 08-27-2020 
   - 20% 环球债券 + 20% 均衡基 + 20% 北美股票 + 20% 欧洲股票 + 20% 亚太股票 金  on 08-27-2020   
 
 47,332.35
