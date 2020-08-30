@@ -3,8 +3,18 @@ layout: post
 title: "About Empiricism"
 date: 2020-08-26
 comments: true
-categories: [notes, learning]
-abstract: "Empiricism VS Rationalism"
+categories: [home, learning]
+abstract: "About Empiricism"
 ---
 
-TODO  
+
+##### Empiricism  
+from John Locke to David Hume    
+
+
+##### Rationalism 
+
+from plato, Aristotle, Descartes, to Gottfried Leibuiz  
+ 
+
+##### Bayesian vs frequentist   
