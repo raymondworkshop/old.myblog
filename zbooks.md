@@ -15,6 +15,7 @@ title: Bookshelf
 
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
+* [阿Q正传](http://luxun.zuopinj.com/2231/89931.html) by lu xun  
 * [Lisp in Small Pieces](https://www.goodreads.com/book/show/1168500.LISP_in_Small_Pieces?ac=1&from_search=true&qid=HnaUgVLHQI&rank=1) by Christian Queinnec  
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman and Matthias Felleisen  
 * [zero to one](https://www.goodreads.com/book/show/18050143-zero-to-one?from_search=true&from_srp=true&qid=h2c1IqcxBr&rank=1) by Peter Thiel  
