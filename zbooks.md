@@ -15,17 +15,17 @@ title: Bookshelf
 
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
-* [阿Q正传](http://luxun.zuopinj.com/2231/89931.html) by lu xun  
-* [Lisp in Small Pieces](https://www.goodreads.com/book/show/1168500.LISP_in_Small_Pieces?ac=1&from_search=true&qid=HnaUgVLHQI&rank=1) by Christian Queinnec  
-* [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman and Matthias Felleisen  
-* [zero to one](https://www.goodreads.com/book/show/18050143-zero-to-one?from_search=true&from_srp=true&qid=h2c1IqcxBr&rank=1) by Peter Thiel  
-* [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
-* [The Richest Man in Babylon](https://book.douban.com/subject/1922725/) by George S. Clason  
-* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
-* [尋找快樂的能力 : 艾未未訪談集] by ai weiwei    
 * [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner   
 * [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
+
+* [Lisp in Small Pieces](https://www.goodreads.com/book/show/1168500.LISP_in_Small_Pieces?ac=1&from_search=true&qid=HnaUgVLHQI&rank=1) by Christian Queinnec  
+* [zero to one](https://www.goodreads.com/book/show/18050143-zero-to-one?from_search=true&from_srp=true&qid=h2c1IqcxBr&rank=1) by Peter Thiel  
+* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
+
+* [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
+* [The Richest Man in Babylon](https://book.douban.com/subject/1922725/) by George S. Clason  
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
+
 * [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)  
 * [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by by Michael A. Singer  (8/10)  
 * [Don Quixote de la Mancha](https://book.douban.com/subject/1005918/) by Miguel de Cervantes Saavedra    

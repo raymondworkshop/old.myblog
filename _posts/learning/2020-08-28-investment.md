@@ -7,6 +7,22 @@ categories: [learning]
 abstract: "About investment"
 ---
 
+
+##### living  
+   * **~around 13,6k/m**   
+     - cost every month  
+       + 6k for living  
+       + 4k for eating  
+       + 1k for others  
+         - 68 for mobile fee  
+         - 100 for books/news  
+         - exercise 
+         -   
+
+     - Money - credit card - **2643.37**hkd
+       + 1706.67 for 20k
+       + 936.7 for credit card 
+
 #### 投资策略   
    * **长远投资策略** 较少忧虑市场波幅    
      - **股市升跌時正常現象**, 波幅不應成為決定性因素  
@@ -26,6 +42,15 @@ abstract: "About investment"
    * 定期累计  
      - **平均成本法**, 以较低金额定期进行投资, 有助降低投资平均成本  
 
+
+##### 年化報酬率  
+   *  投资报酬率(%)  = (股票总净值 +  股息) / 總投入資金  
+
+   *  **年化報酬率 (%)**  = (总报酬率+1)^(1/年数) - 1  
+     - 总报酬率 = (现股价-原股价) / 原股价  
+
+   * 殖利率 - Dividend yield  = 股息(股票今年現金股利) / 當初買的股價  
+     - 殖利率不考慮當初 **投入資本價值增減**
 
 
 ##### 债券 与 投资 
