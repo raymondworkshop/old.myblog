@@ -19,9 +19,14 @@ abstract: "About investment"
          - exercise 
          -   
 
-     - Money - credit card - **2643.37**hkd
+     - Money - credit card - **2643.37**hkd  
        + 1706.67 for 20k
        + 936.7 for credit card 
+
+#### notes 
+  * understand money 
+     - understand leverage, compound interest and integrity
+
 
 #### 投资策略   
    * **长远投资策略** 较少忧虑市场波幅    
@@ -81,8 +86,7 @@ abstract: "About investment"
 當前的價格 P = (票息率) / (1 + r) + (票息率) / (1 + r)2 + 1000 /(1 + r)2
 
 怎么计算收益率?  
-
-##### 复利  
+ 
 
 
 ##### 市盈率  PE = Price-to-Earning Ratio 
