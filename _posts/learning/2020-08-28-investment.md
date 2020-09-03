@@ -40,7 +40,7 @@ abstract: "About investment"
 
    * **把收益再投资**以提高总回报  
      - 透过**复利增长效应**, 股息再作投资长远课显著提高总回报  
-     - 切记验收投资纪律和保持耐心  
+     - 切记验收 **投资纪律和保持耐心**    
 
    * **分散投资**  
 
@@ -59,7 +59,6 @@ abstract: "About investment"
 
 
 
-
 ##### 债券 与 投资 
 经济环境转差时, 投资者偏好 投资级别债券 (风险低, 稳定).  
 
@@ -67,7 +66,7 @@ abstract: "About investment"
 
 
 ##### 利率, 价格, 通胀  
- 利率由央行制定, 会影响 借贷成本和储蓄回报; 央行的决策会以利率来控制 通胀和经济增长 (利率低, 可以刺激民众借贷和消费, 从而带动经济增长和通胀上升; 则加息可以抑制通胀. <small> why? 通胀 是指**货币发行数量上升**; 加息则 借贷成本和储蓄回报上升, 抑制民众借贷和消费, 货币流通就降低 进而抑制通胀. </small>)   
+ 利率由央行制定, 会影响 借贷成本和储蓄回报; 央行的决策会以利率来控制 通胀和经济增长 (利率低, 銀行存款收息回報隨之减少, 可以刺激民众借贷和消费, 从而带动经济增长和通胀上升; 则加息可以抑制通胀. <small> why? 通胀 是指**货币发行数量上升**; 加息即 利率高, 銀行存款收息回報隨之提高，債券價格可因此下跌; 加息则 借贷成本和储蓄回报上升, 抑制民众借贷和消费, 货币流通就降低 进而抑制通胀. </small>)   
 
 ##### 债券 与 利率, 通涨   
 利率上升, 和通胀 都可能对投资者 的债券构成负面影响.   
@@ -115,6 +114,7 @@ abstract: "About investment"
 
 
 ##### reference  
+* [BlackRock 大趨勢](https://www.blackrock.com/hk/zh/investment-ideas/themes/megatrends)
 * [利率升跌對債券的影響](https://www.fidelity.com.hk/zh/start-investing/learn-about-investing/bond-investing-made-simple/how-interest-rates-affect-bonds) 
 * [富达投资](https://www.fidelity.com.hk/zh/start-investing/learn-about-investing/bond-investing-made-simple/understanding-investment-grade-and-high-yield-bonds) 
 * [Vanguard投資理念](https://www.vanguard.com.cn/investment-philosophies/) 
