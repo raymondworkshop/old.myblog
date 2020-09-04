@@ -17,12 +17,11 @@ title: Bookshelf
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
 * [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner   
 * [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
-
-* [Lisp in Small Pieces](https://www.goodreads.com/book/show/1168500.LISP_in_Small_Pieces?ac=1&from_search=true&qid=HnaUgVLHQI&rank=1) by Christian Queinnec  
-* [zero to one](https://www.goodreads.com/book/show/18050143-zero-to-one?from_search=true&from_srp=true&qid=h2c1IqcxBr&rank=1) by Peter Thiel  
+  
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
+
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/) by George S. Clason  
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 
@@ -34,7 +33,7 @@ title: Bookshelf
 * [Composing Programs](http://composingprograms.com/) (8/10)  
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (note: a superb guide on philosophical writings) (9/10)  
 * [The Five Love Languages](https://www.goodreads.com/book/show/23878688-the-5-love-languages) by Gary Chapman (9/10)  
-* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (8/10)  
+* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10)  
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (9/10)  
 * [An Introduction to Language](https://book.douban.com/subject/2275489/) by Victoria Fromkin, Robert Rodman, et al. (8/10)  
 * [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)  
