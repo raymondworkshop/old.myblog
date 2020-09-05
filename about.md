@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-Hi, I'm Raymond . I'm a Computer Scientist and Software Engineer based in Hong Kong NOW.   
+Hi, I'm Raymond. I'm a Computer Scientist and Software Engineer based in Hong Kong NOW.   
 <br>  
 
 You can see some of my projects on [github](https://github.com/muyun), find my slides & research at [here](http://muyun.github.io/research/), share with me your own story, or just send me an [email](mailto:wenlzhao@gmail.com).  
@@ -19,8 +19,5 @@ I am an active learner. I have a BS in Electroic and Information Engineering fro
 <br>  
 
 I believe that "The good life is one inspired by love and guided by knowledge".  
-<br>   
-
-
 All opinions here are my own.  
 
