@@ -8,13 +8,13 @@ abstract: "About Empiricism"
 ---
 
 
-##### Empiricism  
+#### Empiricism  
 from John Locke to David Hume    
 
 
-##### Rationalism 
+#### Rationalism 
 
 from plato, Aristotle, Descartes, to Gottfried Leibuiz  
  
 
-##### Bayesian vs frequentist   
+#### Bayesian vs frequentist   

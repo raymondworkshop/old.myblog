@@ -92,6 +92,10 @@ abstract: "About investment"
 怎么计算收益率?  
  
 
+##### EPS = Earnings per share  
+   * EPS 是公司获利的指标  
+
+##### Beta is a measure of a stock's volatility in relation to the overall market.
 
 ##### 市盈率  PE = Price-to-Earning Ratio 
    * PE = 每股市价 / 每股盈利 
@@ -102,6 +106,7 @@ abstract: "About investment"
 
    *  PB = 每股市价 / 每股净资产  
       - 在评估高风险企业, 当资产大量为实物资产的时候  
+      - PB 越低, 代表投资者能以相对较低的价格购入 
 
 
 ##### 股息率  Dividend yield  
