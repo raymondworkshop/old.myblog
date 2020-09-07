@@ -3,7 +3,7 @@ layout: post
 title: "About Empiricism"
 date: 2020-08-26
 comments: true
-categories: [home, learning]
+categories: [learning,notes]
 abstract: "About Empiricism"
 ---
 
