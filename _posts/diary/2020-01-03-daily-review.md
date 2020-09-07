@@ -8,7 +8,20 @@ categories: [diary]
 ### 记录下每天的工作和生活 - 2020
   * analyze how I spent my time
   * review my priorities
+  * transfer to-do-list to what-do-list
   * TODO
+
+
+#### 2020-09-07
+  * 过去一两周 有些颓废
+
+
+  * correct mpf signature #todo
+  * 18:55 KH02003 - 素描初阶
+
+  * todo
+    - build a team or group for a task
+    - enhance people skills
 
 #### 2020-08-18
   * getup around 7:30pm, and do running at shatin park
