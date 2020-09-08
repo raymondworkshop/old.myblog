@@ -11,6 +11,11 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2020-09-08
+  * correct mpf signature
+
+  * write homework of Business English course
+
 
 #### 2020-09-07
   * 过去一两周 有些颓废
@@ -18,6 +23,10 @@ categories: [diary]
 
   * correct mpf signature #todo
   * 18:55 KH02003 - 素描初阶
+    - not to do
+
+  * read  <中国崩而不溃>
+    - insightful
 
   * todo
     - build a team or group for a task
