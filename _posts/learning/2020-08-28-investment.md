@@ -60,7 +60,7 @@ abstract: "About how money works, and grow wealthier"
 
 
 
-##### 期权 - 买卖的**决定权**
+##### **期权** Option - 买卖的**决定权**
    * 投資者付出期權金買入期權
 
 
@@ -113,9 +113,8 @@ abstract: "About how money works, and grow wealthier"
       - PE 越低, 代表投资者能以相对较低的价格购入股票
 
 
-##### 市帳率/市净率  PB = Price-to-Book Ratio
-
-   *  PB = 每股市价 / 每股净资产
+##### 市帳率/市净率  PB = Price-to-Book Ratio  
+   *  PB = 每股市价 / 每股净资产  
       - 在评估高风险企业, 当资产大量为实物资产的时候
       - PB 越低, 代表投资者能以相对较低的价格购入
 
