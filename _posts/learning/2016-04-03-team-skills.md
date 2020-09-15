@@ -7,7 +7,13 @@ categories: [learning, softskill]
 abstract: "Some lessons about team skills"
 ---
 
-#### [management]()  
+#### 向上管理  - 管理你的上司, 讓他變成你個人成功的資源  
+  * 真诚 是唯一方法  
+  * 如何帮助我的主管更成功?  
+
+##### 了解主管的管理风格  
+
+#### 向下管理  
 
 #### Team-work  
 * Motivation - why do we join groups in the first place?  
@@ -725,6 +731,7 @@ abstract: "Some lessons about team skills"
    
 #### reference  
 - [向上管理, 向下管理]  
-- [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/home/week/3)
+- [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/home/week/3) 
+- [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills#syllabus)
 - [好的人际关系](http://www.weibo.com/ttwenda/p/show?id=2310684096786611478970#_0)
 - [6个技巧帮你快速听出“画外音”](http://likaifu.blog.caixin.com/archives/171679)
