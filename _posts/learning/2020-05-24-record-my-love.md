@@ -41,6 +41,55 @@ abstract: "!!Record my Love with Ivy"
     - 关心 -> 关心对方的精神要求
 
 
+#### 2020-07-08
+
+* enough confidences with Ivy?
+  - be afraid to lose myself
+    + **just be true of yourself, she love the person you are**, not the achievements
+  -
+  - **just be everything you truly are**
+  - She will **love you for the person you are** if you can do the same for her
+      - all she wants is for **both of you to be equals** in the relationship
+
+* skills
+  - **experience her emotions**
+    + listen to her
+    + always respect her opinion
+    + do nice things for her
+    + compliment her
+    +
+  - express self
+    + **主人翁精神**
+
+    + be honest
+      - tell her the truth
+      - if you fall in love with her, just say it
+      - **tackle any problems or worries you face together, don't bottle things up**
+
+    + "你今天怎么样"
+  -
+  - be a gentleman
+
+  - **relax**
+  - courages
+
+
+* love through your behavior
+  -
+
+* love through romantic gestures
+
+* express your love in public
+  - needn't care the others
+  - others will help and encourage you, they are happier with you
+
+
+* value
+  - kindness, honesty, empathy
+  - like directness, openness
+  - enjoy positive vibes
+
+
 #### how
   * **“我说清楚了吗？你怎么想？”**
     - 如果不一致就想办法协调而不会甩锅给“你不懂我和你故意的”
