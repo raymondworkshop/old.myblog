@@ -23,7 +23,7 @@ title: Bookshelf
 
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
-* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  
+* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter (note: About how money works, and how to have it work for you)   
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1) (9/10) (note: softskills in the workplace and life; reshape some of my thoughts )  
 
 * [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)  

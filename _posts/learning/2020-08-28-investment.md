@@ -135,9 +135,10 @@ abstract: "About how money works, and grow wealthier"
 ##### 复利
 
 
-##### reference
-* [BlackRock 大趨勢](https://www.blackrock.com/hk/zh/investment-ideas/themes/megatrends)
-* [利率升跌對債券的影響](https://www.fidelity.com.hk/zh/start-investing/learn-about-investing/bond-investing-made-simple/how-interest-rates-affect-bonds)
-* [富达投资](https://www.fidelity.com.hk/zh/start-investing/learn-about-investing/bond-investing-made-simple/understanding-investment-grade-and-high-yield-bonds)
-* [Vanguard投資理念](https://www.vanguard.com.cn/investment-philosophies/)
-* [BlackRock ETF投資指南](https://www.blackrock.com/hk/zh/etfs-simplified)
+##### reference 
+* [如何投資/](https://www.fool.hk/)  
+* [BlackRock 大趨勢](https://www.blackrock.com/hk/zh/investment-ideas/themes/megatrends)  
+* [利率升跌對債券的影響](https://www.fidelity.com.hk/zh/start-investing/learn-about-investing/bond-investing-made-simple/how-interest-rates-affect-bonds)  
+* [富达投资](https://www.fidelity.com.hk/zh/start-investing/learn-about-investing/bond-investing-made-simple/understanding-investment-grade-and-high-yield-bonds)  
+* [Vanguard投資理念](https://www.vanguard.com.cn/investment-philosophies/)  
+* [BlackRock ETF投資指南](https://www.blackrock.com/hk/zh/etfs-simplified)   
