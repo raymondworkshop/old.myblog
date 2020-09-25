@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About how money works, and grow wealthier"
+title: "About financial education"
 date: 2020-08-29
 comments: true
 categories: [learning]
-abstract: "About how money works, and grow wealthier"
+abstract: "About financial education"  
 ---
 
 
@@ -19,9 +19,13 @@ abstract: "About how money works, and grow wealthier"
          - exercise
          -
 
-     - Money - credit card - **2643.37**hkd
-       + 1706.67 for 20k
-       + 936.7 for credit card
+     - Money 
+       + credit card - **2643.37**hkd
+         - 1706.67 for 20k 
+         - 936.7 for credit card  
+
+       + at least 5000 hkd cash dollar for monthly living  
+       + fetch 3000 hkd at least 2 weeks advance  
 
 #### notes
   * understand money
@@ -65,6 +69,8 @@ abstract: "About how money works, and grow wealthier"
 ##### **期权** Option - 买卖的**决定权**
    * 投資者付出期權金買入期權
 
+
+##### 特殊目的收购公司(SPAC)  
 
 ##### 年化報酬率
    *  投资报酬率(%)  = (股票总净值 +  股息) / 總投入資金
