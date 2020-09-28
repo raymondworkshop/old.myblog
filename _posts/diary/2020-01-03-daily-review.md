@@ -11,6 +11,13 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2020-09-28
+  * it's a crazy week in the month
+    - lost in stock markets
+
+  * read the book <Rich dad Poor Dad>
+    - it is insightful
+
 #### 2020-09-08
   * correct mpf signature
 
