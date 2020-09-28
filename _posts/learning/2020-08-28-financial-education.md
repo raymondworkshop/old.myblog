@@ -16,7 +16,7 @@ abstract: "About financial education"
        + 1k for others
          - 68 for mobile fee
          - 100 for books/news
-         - exercise
+         - exercise  
          -
 
      - Money - credit card - **2643.37**hkd
@@ -29,7 +29,7 @@ abstract: "About financial education"
 #### Financial education  
 
 #### notes
-  * understand money
+   * understand money 
      - understand leverage, compound interest and integrity
 
 
@@ -115,7 +115,7 @@ abstract: "About financial education"
 
 ##### Beta is a measure of a stock's volatility in relation to the overall market.
 
-##### 市盈率  PE = Price-to-Earning Ratio
+##### 市盈率  PE = Price-to-Earning Ratio  
    * PE = 每股市价 / 每股盈利
       - PE 越低, 代表投资者能以相对较低的价格购入股票
 
