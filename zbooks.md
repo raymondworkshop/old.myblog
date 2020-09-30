@@ -21,7 +21,7 @@ title: Bookshelf
 * [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
   
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
-
+* [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel 
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
 * [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (note: About how money works, and how to have it work for you)   (9/10) 
