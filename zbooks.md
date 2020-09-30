@@ -11,6 +11,7 @@ title: Bookshelf
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
 * [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
 * [Cracking the Creativity Code: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology   
+* [認知訓練營](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
 
 
 #### reading-2020  
@@ -23,14 +24,14 @@ title: Bookshelf
 
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
-* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter (note: About how money works, and how to have it work for you)   
-* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1) (9/10) (note: softskills in the workplace and life; reshape some of my thoughts )  
+* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter (9/10) (note: About how money works, and how to have it work for you)   
+* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1) (9/10) (note: some softskills in the workplace and life )  
 
 * [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)  
 * [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by by Michael A. Singer  (8/10)  
 * [Don Quixote de la Mancha](https://book.douban.com/subject/1005918/) by Miguel de Cervantes Saavedra    
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (note: Hamlet and Don Quixote are so different but as the same great)  (9/10)  
-* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politics framework from the western perspective, and reshape some of my thoughts )  (9/10)  
+* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politic framework from the western perspective, and reshape some of my thoughts )  (9/10)  
 * [Composing Programs](http://composingprograms.com/) (8/10)  
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (note: a superb guide on philosophical writings) (9/10)  
 * [The Five Love Languages](https://www.goodreads.com/book/show/23878688-the-5-love-languages) by Gary Chapman (9/10)  
