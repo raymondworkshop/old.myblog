@@ -14,6 +14,7 @@ categories: [diary]
 #### 2020-10-01
   * a bit boring at home
 
+
 #### 2020-09-28
   * it's a crazy week in the month
     - lost in stock markets
