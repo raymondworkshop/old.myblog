@@ -11,6 +11,11 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+
+#### 2020-10-02
+  *  hiking on 大美督
+     - beautiful, and a great trip with friends
+
 #### 2020-10-01
   * a bit boring at home
 
