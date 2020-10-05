@@ -12,6 +12,16 @@ categories: [diary]
   * TODO
 
 
+#### 2020-10-05
+  * feel tired and boring during these days
+  * a bit tired at home
+    - go to cuhk
+    - go to sketching class, a bit better to meet persons there
+
+  * feel good to make money in HK stocks
+
+  *
+
 #### 2020-10-02
   *  hiking on 大美督
      - beautiful, and a great trip with friends
