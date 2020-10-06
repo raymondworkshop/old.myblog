@@ -20,7 +20,10 @@ categories: [diary]
 
   * feel good to make money in HK stocks
 
-  *
+  * write daily reviews
+
+  * TOIMPROVE
+    - put too much effort on stocks & investment
 
 #### 2020-10-02
   *  hiking on 大美督
