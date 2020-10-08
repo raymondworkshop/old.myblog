@@ -12,6 +12,14 @@ categories: [diary]
   * TODO
 
 
+#### 2020-10-08
+  * feel tired yesterday
+    - searching your goal
+
+  * work again
+    - coding
+
+
 #### 2020-10-05
   * feel tired and boring during these days
   * a bit tired at home
