@@ -16,16 +16,19 @@ title: Bookshelf
 
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
-* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman   
-* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner   
-* [Keys to Drawing](https://www.goodreads.com/book/show/168814.Keys_to_Drawing?ac=1&from_search=true&qid=OMddTwuTui&rank=1) by Bert Dodson  
+* [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners?from_search=true&from_srp=true&qid=TzUuGOAZOA&rank=1) by James Joyce   
+* [流言](https://book.douban.com/subject/1980436/) by 張愛玲  
+* [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
+* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman    
+* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner    
+* [Successful Drawing](https://book.douban.com/subject/6773763/) by Andrew Loomis   
   
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
-* [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel 
+* [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel  
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
-* [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill   
-* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note:)
-* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (note: About how money works, and how to have it work for you)   (9/10) 
+* [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (9/10)  (note: reshape some of my thoughts) 
+* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
+* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: About how money works, and how to have it work for you)  
 
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  (9/10) 
 
@@ -35,7 +38,7 @@ title: Bookshelf
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (note: Hamlet and Don Quixote are so different but as the same great)  (9/10)  
 * [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politic framework from the western perspective, and reshape some of my thoughts )  (9/10)  
 * [Composing Programs](http://composingprograms.com/) (8/10)  
-* [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (note: a superb guide on philosophical writings) (9/10)  
+* [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (note: a superb guide on philosophical writing) (9/10)  
 * [The Five Love Languages](https://www.goodreads.com/book/show/23878688-the-5-love-languages) by Gary Chapman (9/10)  
  
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (9/10)  
