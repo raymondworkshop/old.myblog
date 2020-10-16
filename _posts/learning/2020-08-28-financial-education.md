@@ -33,7 +33,7 @@ abstract: "About financial education"
      - understand leverage, compound interest and integrity
 
 
-#### 投资策略
+#### 投资策略  
    * notes
      - 要遵守**纪律**
      - 以财务为第一标准, 潜力为第二标准  
@@ -108,7 +108,7 @@ abstract: "About financial education"
 
 當前的價格 P = (票息率) / (1 + r) + (票息率) / (1 + r)2 + 1000 /(1 + r)2
 
-怎么计算收益率?
+怎么计算收益率? 
 
 
 ##### EPS = Earnings per share
