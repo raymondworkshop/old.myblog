@@ -7,6 +7,30 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+####
+Don't ever do that to me again.
+I have no idea waht you're talking about.
+
+Ok, uh, and I'd prefer it if you didn't say anything..
+
+I aim to please, madam (乐意效劳)
+
+Can u give us a minute ?
+
+How do u feel?
+
+Is there a problem?
+
+what is it?
+
+I was nice to spend some quality hours with you, gramps.
+
+And how, may i ask, is uncle logan doing?  (怎么样了)
+
+
+
+
+
 #### SO3E10
 I don't mind **paying my dues** (不介意吃苦)
 

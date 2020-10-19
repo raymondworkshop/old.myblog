@@ -12,6 +12,24 @@ categories: [diary]
   * TODO
 
 
+#### 2020-10-20
+  * TODO
+    - CHECK SOFI USD account
+    - DO reading <think and grow rich>
+    - CHECK my BCT from huobi again
+
+  * DONE
+    ...
+
+#### 2020-10-19
+  * take too much time on the investment
+    - concern on the money transfer from sofi into my bank
+    -
+
+  * to improve
+    - write TODO list for the next day
+    - TO improve your effecience
+
 #### 2020-10-08
   * feel tired yesterday
     - searching your goal
