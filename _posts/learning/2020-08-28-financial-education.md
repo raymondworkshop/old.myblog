@@ -66,6 +66,10 @@ abstract: "About financial education"
      - **平均成本法**, 以较低金额定期进行投资, 有助降低投资平均成本  
 
 
+##### 特殊目的收购公司(SPAC)  
+   * 空白支票公司是**已经上市的空壳公司**，他们与非上市公司合并，使合并对象能够绕开首次公开募股(IPO)实现上市
+
+
 ##### **可转换债券**   
 
 ##### **期权** Option - 买卖的**决定权**
@@ -133,7 +137,7 @@ abstract: "About financial education"
 
 
 
-##### questions
+##### questions 
 
 ###### 债券价格和利率的关系
 
