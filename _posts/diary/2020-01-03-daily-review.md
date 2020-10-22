@@ -22,13 +22,12 @@ categories: [diary]
     ...
 
 #### 2020-10-19
-  * take too much time on the investment
-    - concern on the money transfer from sofi into my bank
-    -
+  * take too much time on the investment 
+    - concern on the money transfer from sofi into my bank  
 
-  * to improve
-    - write TODO list for the next day
-    - TO improve your effecience
+  * to improve 
+    - write TODO list for the next day 
+    - TO improve your effecience 
 
 #### 2020-10-08
   * feel tired yesterday

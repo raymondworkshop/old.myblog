@@ -112,7 +112,7 @@ abstract: "About financial education"
 
 
 ##### EPS = Earnings per share
-   * EPS 是公司获利的指标
+   * EPS 是公司获利的指标 
 
 ##### Beta is a measure of a stock's volatility in relation to the overall market.
 
