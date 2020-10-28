@@ -16,9 +16,13 @@ title: Bookshelf
 
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
+
+
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners?from_search=true&from_srp=true&qid=TzUuGOAZOA&rank=1) by James Joyce   
 * [流言](https://book.douban.com/subject/1980436/) by 張愛玲  
 * [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
+
 * [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman    
 * [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner    
 * [Successful Drawing](https://book.douban.com/subject/6773763/) by Andrew Loomis   

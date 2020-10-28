@@ -12,6 +12,14 @@ categories: [diary]
   * TODO
 
 
+
+#### 2020-10-27
+  * summary on the last week
+    - donot feel good to stay at home not work
+
+  * go out to work
+    - cityU or cuhk ?
+
 #### 2020-10-20
   * TODO
     - CHECK SOFI USD account
@@ -22,12 +30,12 @@ categories: [diary]
     ...
 
 #### 2020-10-19
-  * take too much time on the investment 
-    - concern on the money transfer from sofi into my bank  
+  * take too much time on the investment
+    - concern on the money transfer from sofi into my bank
 
-  * to improve 
-    - write TODO list for the next day 
-    - TO improve your effecience 
+  * to improve
+    - write TODO list for the next day
+    - TO improve your effecience
 
 #### 2020-10-08
   * feel tired yesterday
