@@ -7,7 +7,10 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
-####
+#### S03E12
+
+
+#### Succession
 Don't ever do that to me again.
 I have no idea waht you're talking about.
 
@@ -26,8 +29,6 @@ what is it?
 I was nice to spend some quality hours with you, gramps.
 
 And how, may i ask, is uncle logan doing?  (怎么样了)
-
-
 
 
 

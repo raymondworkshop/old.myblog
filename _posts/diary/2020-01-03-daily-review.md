@@ -12,6 +12,17 @@ categories: [diary]
   * TODO
 
 
+#### 2020-10-28
+  * feel a bit better staying at cityU
+    -
+
+  * need to work
+    - programming
+    - reading
+
+  * spend too much time on investment
+    - the key is that you don't have so much money
+
 
 #### 2020-10-27
   * summary on the last week

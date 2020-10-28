@@ -16,25 +16,26 @@ title: Bookshelf
 
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
-* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
 
-
+* [人生的枷鎖](https://book.douban.com/subject/2035171/) by W. Somerset Maugham  
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners?from_search=true&from_srp=true&qid=TzUuGOAZOA&rank=1) by James Joyce   
 * [流言](https://book.douban.com/subject/1980436/) by 張愛玲  
-* [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
-
 * [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman    
 * [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner    
-* [Successful Drawing](https://book.douban.com/subject/6773763/) by Andrew Loomis   
-  
+* [Successful Drawing](https://book.douban.com/subject/6773763/) by Andrew Loomis     
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
+
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
+* [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel  
+* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
+* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
+* [The Dance of Intimacy](https://book.douban.com/subject/26988131/) by Harriet Lerner  
+
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (9/10)  (note: reshape some of my thoughts) 
-* [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
 * [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: About how money works, and how to have it work for you)  
 
-* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  (9/10) 
 
 * [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)  
 * [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by by Michael A. Singer  (8/10)  
