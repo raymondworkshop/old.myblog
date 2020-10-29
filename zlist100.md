@@ -1,6 +1,6 @@
 ---
 layout: post
-title: List 100   
+title: List100   
 ---
 Things I want to do before I die. 
 

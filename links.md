@@ -38,6 +38,7 @@ title: links
 * **[Patrick Collison](https://patrickcollison.com/)**  
 * [James Long](https://jlongster.com/)
 * 
+* [Chip Huyen](https://huyenchip.com/)
 * [Matt Might](http://matt.might.net/articles/)
 * **[Kate Matsudaira](http://katemats.com/about/)**  
 * **[Erik Bernhardsson](https://erikbern.com/)**
