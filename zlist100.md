@@ -12,12 +12,13 @@ Things I want to do before I die. Any recommendation please let me know.
 * Travel around Europa, and South America  
 * Speak at TED  
 * Build my own home 
-* Start a startup or lab  
 * Write a package   
-* Run a meetup / shop on travelling, books/movies, food, or art/flowers ?  
 * Hiking at Kilimanjaro  
 * Write a column  
 * Read 1000 books ()  
+* Run a meetup / shop on travelling, books/movies, food, or art/flowers 
+* Build a lab or startup  
+* Start a business  
 * Publish a paper at a top conference     
 * Get a patent  
 * Make a documentary or film, or write a script for it  

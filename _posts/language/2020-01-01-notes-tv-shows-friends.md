@@ -7,6 +7,32 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### S03E15
+> there is a 'g' in there
+
+He totally **gets me** (对我着迷)
+
+we're **having second thoughts** about our copying needs.
+
+> Sergei said **it took the germans six weeks to get all the way across it**.
+
+this is **the extent of my knowledge on the subject**. (我只知道这么多)
+
+You're not listening to me. I don't have time to stop.
+
+> Look, about what happened earlier,
+
+> what do u want from me?
+
+> I cannot keep having this same fight over and over again, Ross. No, you're making this too hard
+> Fine, Let's take a break, Let's cool off. okay?
+
+>
+> Hi, look, I was jsut gonna leave a message, isn't tonight your big anniversary dinner?
+> Rach? Are you okay?
+> **You wanna talk?  I mean I can come over**.
+> All right. I'm coming over and I'm bringing chinese food.
+
 #### S03E12
 That's pretty much all I'm looking for from these people.
 
@@ -15,7 +41,6 @@ Come on, would you just think about it?  ( 考虑一下)
 > I wanted to be with you. I don't know, **I feel like lately you're slipping away from me. I know it's dumb**, but i just hate that I'm not a part of it.
 
 > I like that you're not involved in that part of my life.  Honey, see, it doesn't mean that I don't love you because I do. But my work it's for me, you know?  **I'm out there on my own, and i'm doing it. And it's scary, but I love it because it's mine**. **is that okay?**
-
 
 
 #### Succession
