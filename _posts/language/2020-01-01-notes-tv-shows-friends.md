@@ -7,6 +7,23 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### S03E16
+> Hi, it's me. I've been trying to reach you all night. I feel awful.
+I'm just so sorry i put you through it.
+and i don't want to get back together over a machine. and i love you.
+I get to bed now, but on my way to work tomorrow morning. i'm gonna stop by around 8:30. bye.
+
+Listen, **can you keep this information to yourself**? (保守秘密)
+
+She was nothing compared to you.
+
+**Could I get in on that**?  Because I'm kind of hungry myself. (算我一份)
+
+> You said there was nothing so big that we couldn't work past it together.
+
+
+
+
 #### S03E15
 > there is a 'g' in there
 
