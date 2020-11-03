@@ -57,6 +57,45 @@ abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"
    * cooperation  
 
 
+##### **Freedome and 	Get with giving**    
+   * **Capital** is more highly organized, intelligent groups of men who plan ways and means of using money efficiently for **the good of the public, and profitable to themselves**    
+
+   * **Step up to the front,   
+     select what you want,   
+     create your plan,    
+     put the plan into action,   
+     and follow through with persistence**.    
+
+
+
+#### ch8 - Decision  
+   * better to **reach decisions promptly**, and change the decisions slowly if when they were changed  
+     - Decide quickly, and firmly  
+
+   * **Deeds**, and not words, are what count most  
+     - **Keep a closed mouth and Open ears and eyes**    
+     - Only TRUST the members of your 'Master Mind' group  
+     - choose **ONLY those who sympathy and harmony with your purpose**  
+
+   * Definite decision always requires **courage**    
+     - stake economic freedom  
+
+
+
+
+####  ch10 - **Power** of the Master MIND  -> **Organized knowledge**    
+   * Gain power through the 'Master Mind'  
+     - Coordination of effort of two or more people toward a definite end, in a spirit of harmony  
+     - **create PLANS** for the purpose of translating DESIRE into its monetary equivalent  
+
+  
+   * Using economic feature  - matter 
+     - surround with the advice, counsel, and personal cooperation of a group of men in a spirit of perfect harmony  
+
+   * Using psychic feature  - energy  
+     - coordinate in a SPIRIT of harmony, the spiritual units of energy of each mind form an affinity  
+     - Men take on the nature and the habits and the POWER of Thoughts of those with whom they associate in a spirit of **sympathy and harmony**   
+
 
 #### reference  
 * [Think and Grow Rich]  
