@@ -7,13 +7,97 @@ categories: [notes]
 abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"  
 ---
 
-#### begin in the form of **Desire**    
+#### ch1 - Success Consciousness  
+  * turn the word 'impossible' out  
+  
+  * maintain a spirit of open-mindedness 
+    - another weakness is "measure everything, and everyone, by their own impressions and beliefs"   
+  
+  * Never mind what 'they' say if you meet with temporary defeat  
 
-#### Translate the desire for money into its monetary equivalent  
+  
+  * **No one is ready for a thing**, until he believes he can acquire it  
 
-#### Build definite, and practical plans  
+  * humility, tolerance, and open-mindedness  
 
-##### Form 'Master Mind' alliance   
+
+
+#### ch2 - **Burning Desire**    
+  *  translate his dream/desire into reality   
+  * Desire for riches  
+    - the exact amount of money you desire 
+      + **100 - 200 W in 2 years**    
+
+    - what I intend to give for it  
+      + TODO  
+
+    -  create a definite plan for it, and begin at once 
+
+    - Check it everyday  
+
+
+#### ch3 - Faith  
+  * note: 
+    - **Love and faith** are psychic; related to the spiritual side of man  
+    - **Sex** is purely biological, related only to the physical  
+
+    - the methods based on economic combinations of FORCE and FEAR, 
+    will be supplanted by the better principles fo **FAITH and cooperation**  
+      +  giving before they try to get    
+
+    - **Thought** in the mind is put into motion, **FAITH** removes limitations  
+
+
+
+  * **How to develop faith**     
+    - **self-suggestion**   
+      + **you believe you will receive that for which you ask**, and it will act upon that belief 
+
+
+    - **I have the ability to achieve the object**   
+
+    - dominating thoughts of my mind **gradually transform into physical reality**    
+
+    - clearly written down a description of my definite chief in life, and **I will never stop trying**  
+
+    - I will succeed by **attracting to myself the forces** i wish to use, and **the cooperation of other people**    
+      + **serve others** so that others will serve me 
+      + **develop love** and eliminate hatred, envy, jealousy, selfishness, and cynicism  
+      + cause others to believe in me, because i will believe in them, and in myself   
+
+
+#### ch4 - self-suggestion  
+
+
+#### ch5 - Specialized knowledge  
+  * **Organize and Direct a 'Master Mind' group** who possess knowledge useful in the accumulation of money   
+
+  * **How to organize and use knowledge** after acquiring it  
+    - **develop the faculities of his mind that he may acquire anything he wants**, or its equivalent, without viloating the rights of others   
+
+    - bridge your weakness through the aid of your 'master mind' group  
+
+  * How to purchase knowledge  
+    - **Your major purpose in life**, the goal toward which you are working, and help determine what knowldege you need  
+      + **healthy, family, money** 
+      + relationship -> understanding/helpful, independent, experience   
+      + career -> freedom, understanding/helpful, influence, new/learning,  meaningful  
+
+    
+    - **first determine the purpose for the knowledge** you are seeking, then learn where can be obtained  
+      + never stop acquiring specialized knowledge **related to major purpose, business, or profession**    
+
+    - **qualities of character, intelligence and personality** far more than specific educational background  
+
+
+  * Specialized knowledge with Ideas, in the forms of organized plans designed to yield riches  
+
+
+#### ch6 - Imagination  
+
+
+
+#### ch7 - Organized Planning form 'Master Mind' alliance   
   * **Ally yourself with a group of as many people as you may need** for the creation, and carrying out of plans  
 
   * **decide what advantages, and benefits**, you may offer the individual members of your group, in return for their cooperation  
@@ -95,6 +179,19 @@ abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"
    * Using psychic feature  - energy  
      - coordinate in a SPIRIT of harmony, the spiritual units of energy of each mind form an affinity  
      - Men take on the nature and the habits and the POWER of Thoughts of those with whom they associate in a spirit of **sympathy and harmony**   
+
+
+#### ch11 
+   * harmonize the emotions of **love ,sex, and romance**  - marriage  
+     - love is through the **heart**, or the emotional side of man ; not through his head, or reasoning side 
+     - Accept and enjoy it while it remains  
+     - love is spiritual, while sex is biological  
+
+   * **love, romance, and the proper understanding of the emotion** and **function of sex** abide 
+
+   * Man's greatest motivatong force is **his desire to please women**  
+
+
 
 
 #### reference  
