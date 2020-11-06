@@ -94,6 +94,7 @@ abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"
 
 
 #### ch6 - Imagination  
+  * Ideas can be into cash through **the power of definite purpose, plus definite plans**     
 
 
 
@@ -119,6 +120,7 @@ abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"
        + **create new plans to take the place of those which fail, until you find a plan which does work**  
        + **accept temporary defeat as a signal that your plans are not sound, rebuild those plans**  
 
+
 ##### Leadership by consent of, and with the sympathy of the followers  
    * **self-confidence and courage**   
    * self-control  
@@ -141,7 +143,7 @@ abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"
    * cooperation  
 
 
-##### **Freedome and 	Get with giving**    
+##### **Freedome and Get with giving**    
    * **Capital** is more highly organized, intelligent groups of men who plan ways and means of using money efficiently for **the good of the public, and profitable to themselves**    
 
    * **Step up to the front,   
@@ -192,7 +194,38 @@ abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"
    * Man's greatest motivatong force is **his desire to please women**  
 
 
+#### ch12 - subsonscious mind  
+   * note: 
+     - the subconscious mind is more by **thought impulse mixed with 'feeling' or emotion**   
+     - **try to feed positive thought impulse**, and reduce negative thought impulse  
+     - **Form the habit of applying and using the positive emotions**    
+     - go back in your memory, and **Recall your actual state of MIND**    
 
+
+   * major positive emotions  
+     - sincere  **desire** 
+     - **faith**  
+     - **love**  
+     - **sex**  
+     - **enthusiasm** 
+     - romance  
+     - hope  
+
+   * major negative emotions  
+     - **fear**  <- Faith  
+     - jealousy
+     - **hatred**  
+     - **revenge**    
+     - greed  
+     - anger  
+     - superstition  
+
+#### ch13 - the brain  
+   
+
+
+#### ch14 - the sixth sense  
+   
 
 #### reference  
 * [Think and Grow Rich]  
