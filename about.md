@@ -18,6 +18,6 @@ Outside of Engineering & Philosophy world, I also like personal growth, product 
 I am an active learner. I have a BS in Electroic and Information Engineering from [Wuhan University](https://www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018?fbclid=IwAR0RzFSkpxaI8wk61JDnE7p6SWr7SlKXLyoFHkrg4-iqKGiRyE2gZfaGl8s), and a MS in Computer Science from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html). I also hold a Diploma in International Business Communication from HKU.   
 <br>  
 
-I believe that "The good life is one inspired by love and guided by knowledge".  
+I speak Jin, Madarin, English, Cantonese and Japanese (basic).  
 All opinions here are my own.  
 
