@@ -14,7 +14,7 @@ abstract: "About financial education"
        + 6k for living
        + 4k for eating
        + 1k for others
-         - 68 for mobile fee
+         - 33 for mobile fee
          - 100 for books/news
          - exercise  
          -

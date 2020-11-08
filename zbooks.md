@@ -33,6 +33,8 @@ title: Bookshelf
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇  
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
+
+* [Illimitable Men](https://illimitablemen.com/archives/)
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
 
