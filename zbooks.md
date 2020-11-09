@@ -34,10 +34,11 @@ title: Bookshelf
 
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
-
-* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [The Dance of Intimacy](https://book.douban.com/subject/26988131/) by Harriet Lerner  
 
+* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
+
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
 * [Illimitable Men](https://illimitablemen.com/archives/)  
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (9/10)  (note: reshape some of my thoughts) 
 * [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: About how money works, and how to have it work for you)  

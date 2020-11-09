@@ -1,11 +1,18 @@
 ---
 layout: post
-title: '!![Updating] A better me'
+title: '!![Updating] A better me - stronger, healthier, smarter, wealthier, better'
 date: 2017-11-07
 comments: true
 categories: [learning]
 abstract: "!![Updating] A better me"
 ---
+
+#### stronger
+
+  *
+
+  * reference
+      - [MONK MODE: STRONGER, SMARTER, MORE REFINED](https://illimitablemen.com/2014/04/13/monk-mode/)
 
 #### self-skills
   * **模仿比聪明和努力更重要**
@@ -13,7 +20,7 @@ abstract: "!![Updating] A better me"
         +  **交流进而模仿**, 而不是自己进化
       - **跟不同的人社交**, 老师越多越好
         +  要找不同的老师,  模仿对象越多越好, 这样才可能青出于蓝
-      - 要想和优秀的人在一起, 懂他真实的快乐, 懂他真实的痛苦,并且 给予他能量
+      - 要想和优秀的人在一起, **懂他真实的快乐, 懂他真实的痛苦,并且 给予他能量**
 
 
   * master some **skill, interest, or knowledge that others find valuable**
