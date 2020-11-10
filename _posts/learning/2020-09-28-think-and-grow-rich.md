@@ -224,7 +224,10 @@ abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"
    
 
 
-#### ch14 - the sixth sense  
+#### ch14 - the sixth sense   
+
+
+#### ch15 - outwit the fear    
    
 
 #### reference  

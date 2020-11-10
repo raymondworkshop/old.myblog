@@ -12,6 +12,17 @@ categories: [diary]
   * TODO
 
 
+#### 2020-11-10
+  * spend too much effort and time on the investment
+    - the key is that you donot have much money and are not a expert
+    - cannot keep peaceful when it flustrates so much
+
+  * object
+    - a better me: stronger, heathier, wealthier, smarter
+    -
+
+
+
 #### 2020-10-28
   * feel a bit better staying at cityU
     -
