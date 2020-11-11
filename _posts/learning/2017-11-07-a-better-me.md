@@ -1,14 +1,23 @@
 ---
 layout: post
-title: '!![Updating] A better me - stronger, healthier, smarter, wealthier, better'
+title: '!![Updating] A better me - to be great man'
 date: 2017-11-07
 comments: true
 categories: [learning]
-abstract: "!![Updating] A better me"
+abstract: "!![Updating] A better me - to be great man"
 ---
 
-#### stronger
+#### goal -> be a **Great** man
+  * focus everything into
+    - health
+    - wealth
+    - intellect
+    - career
+    - goal and ambitions
+    - work tirelessly to be better
 
+
+#### stronger
   *
 
   * reference
