@@ -20,11 +20,14 @@ abstract: "About financial education"
          -
 
      - Money - credit card - **2643.37**hkd
-       + 1706.67 for 20k
-       + 936.7 for credit card  
+       + 1706.67 for 20k - 信用卡供款HKD2,0000的現金分期
+       + 936.7 for credit card  - 消費以及簽賬HKD1,1000的分期  
+       
          
        + at least 5000 hkd cash dollar for monthly living  
        + fetch 3000 hkd at least 2 weeks advance  
+
+     - 往來戶口内 HKD250,000的信用透支額度  
 
 #### Financial education  
 
