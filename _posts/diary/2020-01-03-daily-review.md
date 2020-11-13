@@ -12,6 +12,14 @@ categories: [diary]
   * TODO
 
 
+#### 2020-11-13
+  * consider your desire, career, and work
+
+  * so sad to fail two times in the same issue
+    - trust the women too much, you should put yourself firstly
+    - lose 52800 hkd
+    - lost 8000 hkd
+
 #### 2020-11-10
   * spend too much effort and time on the investment
     - the key is that you donot have much money and are not a expert

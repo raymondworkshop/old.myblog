@@ -17,11 +17,60 @@ abstract: "!![Updating] A better me - to be great man"
     - work tirelessly to be better
 
 
+#### self-analysis
+  * learn yourself
+    - learn about yourself by studying your friends
+      + honest, understanding, support
+
+  * **the fear of Poverty**
+    - indifference
+      + **lack of ambition**
+      + **acceptance of whatever compensation life may offer without protest**
+      + lack of enthusiasm
+
+    - over-causion
+      + **never searching for the plans to avoid failure**
+      +  concentrate upon the means of succeeding
+
+    - should seek the company of thouse who demand and receive riches
+
+  * money makes difference
+    - you could be independence, self-respect and manhood
+
+  * **build a wall** against negative influences in your own mind
+    - seek people who let you **think and act for yourself**
+    - aid those who wish to see themselves as **they really are**
+
+    - **a method you can shield yourself** against the negative influence of others
+      + don't leave your minds open to the negative influences of other people
+
+  * questions
+    - **Do u have a definite major purpose?**
+      + **what plan** have u for achieving it?
+
+    - does your occupation **inspire you with faith and hope**?
+
+
+    - what do u most **desire**? do u intend to acquire it?
+      + **how much time daily do u devote to acquiring it**?
+
+
 #### stronger
+  * **putting your own needs first**
+    - wise men always please themselves firstly, then **give the woman the option to accept how he does things**
+      + women choose to do things his way
+    - women make man weak **if indulging in too much emotional closeness with women**
+
+  * appreciation easily becomes admiration
+    - appreciation of men that women find a funcamental ingredient necessary for love
+
   *
+
 
   * reference
       - [MONK MODE: STRONGER, SMARTER, MORE REFINED](https://illimitablemen.com/2014/04/13/monk-mode/)
+
+
 
 #### self-skills
   * **模仿比聪明和努力更重要**
