@@ -20,3 +20,4 @@ I am an active learner. I have a BS in Electroic and Information Engineering fro
 
 I speak Jin, Madarin, English, Cantonese, and Japanese (basic).  
 
+All opinions here are my own.
