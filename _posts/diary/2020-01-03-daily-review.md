@@ -15,6 +15,9 @@ categories: [diary]
 #### 2020-11-13
   * consider your desire, career, and work
 
+  * feel disappointed when Ivy were not there for dinner
+    - i might like her now
+
   * so sad to fail two times in the same issue
     - trust the women too much, you should put yourself firstly
     - lose 52800 hkd

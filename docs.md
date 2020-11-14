@@ -78,7 +78,7 @@ title: docs
     + 
     + g g -> beginning of file
     + G   -> end of file  
-    + b -> back one word
+    + b -> back one word 
     + w -> advance one word 
     + 
 

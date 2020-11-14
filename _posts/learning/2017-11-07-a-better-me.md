@@ -68,9 +68,61 @@ abstract: "!![Updating] A better me - to be great man"
 
 
   * reference
-      - [MONK MODE: STRONGER, SMARTER, MORE REFINED](https://illimitablemen.com/2014/04/13/monk-mode/)
+    - [MONK MODE: STRONGER, SMARTER, MORE REFINED](https://illimitablemen.com/2014/04/13/monk-mode/)
 
 
+#### The quest for power
+  * **man must poss power** - high-value persons -> being better than other people
+    - require self-discipline, motivation, **selfishness, no qualms in taking power from others**
+    - self-improvement, actualisation, enrich yourself, and improve your skillsets
+
+  * Game - Social skills - **cultivate your personality** and **being real**
+    - **how to play a situation to get victorious**
+        + **knowing what's real and what's not**
+        + **why people are doing what they're doing**
+        + **knowing when you're being played as a pawn or a theatrical fool**
+
+    - social market value
+        + pursue as much **self-improvement** as possible
+        + **don't contest it, just forget it**  -> if taking too much energy to fix a bad reputation or low status within a group
+
+    - charm - fake it until you make it
+        + self-confidence, self-assuredness
+        + better to be grounded in reality (**work hard and are good at certain things**)
+
+    - humor
+
+
+  *  **Money**
+    - need money to **build connections and get into the networks that hire and promote**
+    - money **requires an external economic skill** others can benefit from, and **social skills**
+    - more money means more opportunity, more opportunity means more growth
+
+
+  * Beauty  - good looking people get an advantage
+    - **gym**
+        + increase your strength and improve how you look
+        + get stronger
+
+    - **maintain your hair, facial**
+    - **dress well**
+
+
+  * practical skill sets
+    - having an understanding of any discipline
+        + **cooking**, building, car mechanics
+    - dancing or learning an instrument
+        + guitar
+
+    - speaking multiple languages - shows
+
+
+  * enjoy being the man you've built, maintaing what you have built
+
+
+
+  * reference
+    - [The Quest for power](https://illimitablemen.com/2014/01/03/20s-men-the-quest-for-power-the-decade-of-empire/)
 
 #### self-skills
   * **模仿比聪明和努力更重要**
@@ -163,8 +215,6 @@ abstract: "!![Updating] A better me - to be great man"
 
   * reference
     - [Mistakes Relating to life choices](https://lifemathmoney.com/grave-errors-made-by-men-in-their-20s/)
-
-
 
 
 
@@ -385,7 +435,7 @@ abstract: "!![Updating] A better me - to be great man"
 
   * **对外部世界的不信任感和独立意识极强，缺少合作意识**
 
-  *  中国人最需要的东西是**放弃因的确不行带来的自卑导致的那份自大, 弥补性的狂妄与自卑自贱交替**
+  * 中国人最需要的东西是**放弃因的确不行带来的自卑导致的那份自大, 弥补性的狂妄与自卑自贱交替**
       - 改正因**精神懒惰而带来的那种宿命情结**而导致的那份给自己找核心找主子,在集体中寻找个人价值同时伺机破坏规则的狡黠
 
   * 在人与人及国与国交往中,  只能理解主奴关系
