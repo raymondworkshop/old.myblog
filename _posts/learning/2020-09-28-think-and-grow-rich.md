@@ -98,7 +98,7 @@ abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"
 
 
 
-#### ch7 - Organized Planning form 'Master Mind' alliance   
+#### ch7 - Organized Planning from 'Master Mind' alliance   
   * **Ally yourself with a group of as many people as you may need** for the creation, and carrying out of plans  
 
   * **decide what advantages, and benefits**, you may offer the individual members of your group, in return for their cooperation  
