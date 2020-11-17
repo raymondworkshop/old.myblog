@@ -7,6 +7,19 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### S03E18
+**Why don't you hold on to** that one.
+
+**I'm really sick of** your smoking (我受够了 ... )
+
+Frank told me so much about you, **but you're not how I pictured you at all** (跟我想象的不一样) .
+
+> Can I get you something else? (你还要什么)
+
+> I like you, I think you are great.
+> what do u say?  why not?
+
+
 #### S03E16
 > Hi, it's me. I've been trying to reach you all night. I feel awful.
 I'm just so sorry i put you through it.

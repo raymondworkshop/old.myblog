@@ -19,15 +19,22 @@ abstract: "About financial education"
          - exercise  
          -
 
-     - Money - credit card - **2643.37**hkd
-       + 1706.67 for 20k - 信用卡供款HKD2,0000的現金分期
-       + 936.7 for credit card  - 消費以及簽賬HKD1,1000的分期  
-       
+     - Money - credit card - **2643.37**hkd  
+       + 1,666.67 for 20k - 信用卡供款HKD2,0000的現金分期
+       + 916.67 for credit card  - 消費以及簽賬HKD1,1000的分期  
+
          
        + at least 5000 hkd cash dollar for monthly living  
        + fetch 3000 hkd at least 2 weeks advance  
 
      - 往來戶口内 HKD250,000的信用透支額度  
+       + **60K** hkd 信用透支  on 2020-11-17  
+          - 4000k for the credit card  
+          -  50k for sofi stock  (30k for the 1859, 10k for treasury, 10k for american stock)
+
+          - 6k for the living  
+       
+       + check 信用卡現金分期 for this ?  
 
 #### Financial education  
 

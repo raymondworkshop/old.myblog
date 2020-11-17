@@ -30,7 +30,6 @@ title: Bookshelf
 
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇  
-* [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
 
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
@@ -40,7 +39,9 @@ title: Bookshelf
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
 * [Illimitable Men](https://illimitablemen.com/archives/)  
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
-* [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (9/10)  (note: reshape some of my thoughts) 
+* [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
+* [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason  
+* [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (10/10)  (note: So wonderful, the best one in this year) 
 * [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (8/10)  (note: About how money works, and how to have it work for you)  
 
 

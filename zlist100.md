@@ -5,11 +5,11 @@ title: 100 Lists or Less
 Things I want to do before I die. Any recommendation please let me know.  
 
 * Get a driver's license   
-* Learn to Invest more 
 * Learn another new language: Japanese     
 * Get married to someone I love    
+* Learn to Invest more 
 * Learn to Swim  
-* Improve to Cook  
+* Improve Cooking skills    
 * Learn Guitar skills    
 * Travel around Europa, and South America  
 * Speak at TED  
