@@ -15,7 +15,7 @@ abstract: "About financial education"
        + 4k for eating
        + 1k for others
          - 33 for mobile fee
-         - 100 for books/news
+         - 100 for books/news 
          - exercise  
          -
 
@@ -30,7 +30,7 @@ abstract: "About financial education"
      - 往來戶口内 HKD250,000的信用透支額度  
        + **60K** hkd 信用透支  on 2020-11-17  
           - 4000k for the credit card  
-          -  50k for sofi stock  (30k for the 1859, 10k for treasury, 10k for american stock)
+          - 50k for sofi stock  (40k for the 1859, 10k for treasury)
 
           - 6k for the living  
        
