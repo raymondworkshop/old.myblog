@@ -12,6 +12,20 @@ categories: [diary]
   * TODO
 
 
+#### 2020-11-19
+  * feel so bad in this week
+    - a bit tired, and cannot get up early in the morning
+    - go to bed too late
+
+  * 60k in debt
+    - a bit risky for another stock losses
+    - it's an experience in debt - worry, concern
+
+  * improve
+    - sleep before 11:00pm and get up earlier
+    - go running in the morning
+p
+
 #### 2020-11-13
   * consider your desire, career, and work
 
