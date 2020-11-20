@@ -35,7 +35,7 @@ abstract: "About financial education"
           - 6k for the living  
        
        + check 信用卡現金分期 for this ?  
-          - 10150 * 6 
+          - 5150 * 12 
 
 #### Financial education  
 

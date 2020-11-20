@@ -38,8 +38,8 @@ title: Bookshelf
 
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
 * [Illimitable Men](https://illimitablemen.com/archives/)  
-* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
+* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason  
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (10/10)  (note: So wonderful, the best one in this year) 
 * [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (8/10)  (note: About how money works, and how to have it work for you)  

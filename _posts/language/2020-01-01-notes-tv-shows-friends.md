@@ -7,6 +7,30 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends'"
 ---
 
+#### S03E19
+I've kind of had this **crush on** you (喜欢). And you're not, **I'd really like to ask you out** sometime.
+
+I'm not **attracted** to him at all (我对他没兴趣)
+
+> It's time we move on (我们该放下了) . I mean, don't you think?
+
+> "The inventor of the door rests happily in his grave" (门的发明者可以安息了)
+
+> Can I ask you something?
+> **Where are we**? (告诉我们情况). Just tell me the truth.
+> you know what, don't be. **it's not so bad**. I'm not zhouruifa, or someone you find attractive.
+> I just think that you might end up feeling differently.
+> you wanna get someting to eat?
+>
+
+> Hey, listen, **you feel like getting a cup of coffee**?
+>
+
+> **How was work**?
+> oh, great. Although  ...
+
+
+
 #### S03E18
 **Why don't you hold on to** that one.
 
