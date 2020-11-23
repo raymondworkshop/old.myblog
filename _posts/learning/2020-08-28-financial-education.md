@@ -10,10 +10,10 @@ abstract: "About financial education"
 
 ##### living
    * **~around 13,6k/m**
-     - cost every month
-       + 6k for living
-       + 4k for eating
-       + 1k for others
+     - cost every month 
+       + 6k for living 
+       + 4k for eating 
+       + 1k for others 
          - 33 for mobile fee
          - 100 for books/news 
          - exercise  
@@ -36,6 +36,21 @@ abstract: "About financial education"
        
        + check 信用卡現金分期 for this ?  
           - 5150 * 12 
+
+   * 100k extra income each year  
+     - 5000 hkd income firstly 
+
+   * 医疗保险   
+     -  Bowtie 保險
+     -  保柏环球优越自愿医保计划  
+     -  保柏互通保額醫療保障計劃  
+       + 每年根据年龄重新投保?  
+       + 恒生银行为你提供合资格延期年金保单、自愿医保及强积金可扣税自愿性供款方案, 
+        -> 恒生强积金可扣税自愿性供款 ?  
+
+     - 保泰自願醫保 – 靈活計劃 – 升級計劃  - 446.38hkd/m
+     - 友邦    
+   
 
 #### Financial education  
 

@@ -15,6 +15,7 @@ title: Bookshelf
 * [影響力 x 心理學課程 Influence: The Psychology of Making Things Happen] by Treeholehk  
 
 
+
 #### reading-2020  
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
 
@@ -35,15 +36,15 @@ title: Bookshelf
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
 * [The Dance of Intimacy](https://book.douban.com/subject/26988131/) by Harriet Lerner  
 
-
+* [Poor Charlie's Almanack](https://book.douban.com/subject/3273615/) by Charles T. Munger  
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
-* [Illimitable Men](https://illimitablemen.com/archives/)  
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
+* [Illimitable Men](https://illimitablemen.com/archives/)  
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason  
+* [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (9/10)
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (10/10)  (note: So wonderful, the best one in this year) 
-* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (8/10)  (note: About how money works, and how to have it work for you)  
-
+* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: About how money works, and how to have it work for you)  
 
 * [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)  
 * [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by by Michael A. Singer  (8/10)  
