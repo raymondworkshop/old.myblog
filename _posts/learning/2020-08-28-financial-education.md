@@ -13,6 +13,7 @@ abstract: "About financial education"
      - cost every month 
        + 6k for living 
        + 4k for eating 
+         - 4233.01 on this october  
        + 1k for others 
          - 33 for mobile fee
          - 100 for books/news 
