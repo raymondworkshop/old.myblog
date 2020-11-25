@@ -21,8 +21,9 @@ abstract: "About financial education"
          -
 
      - Money - credit card - **2643.37**hkd  
-       + 1,666.67 for 20k - 信用卡供款HKD2,0000的現金分期
+       + 1,666.67 for  20k - 信用卡供款HKD2,0000的現金分期
        + 916.67 for credit card  - 消費以及簽賬HKD1,1000的分期  
+       + 5150 * 12 for 60k - 信用卡HKD6,0000現金分期
 
          
        + at least 5000 hkd cash dollar for monthly living  
@@ -34,12 +35,11 @@ abstract: "About financial education"
           - 50k for sofi stock  (40k for the 1859, 10k for treasury)
 
           - 6k for the living  
-       
-       + check 信用卡現金分期 for this ?  
-          - 5150 * 12 
+
 
    * 100k extra income each year  
      - 5000 hkd income firstly 
+
 
    * 医疗保险   
      -  Bowtie 保險
@@ -50,8 +50,21 @@ abstract: "About financial education"
         -> 恒生强积金可扣税自愿性供款 ?  
 
      - 保泰自願醫保 – 靈活計劃 – 升級計劃  - 446.38hkd/m
-     - 友邦    
-   
+     - 友邦   
+
+
+  * **Hang Seng MPF**  
+     - TODO CHECK 靈活供款申請表(個人賬戶持有人) ?  
+       + 3000 hkd or 10% ? 
+     
+     - 計劃成員帳戶號碼 : 313084227 
+       + scheme id: 39999981      
+       + input: HKD **101,233.21** hkd on 2020-09-09  
+       + 10% 平稳基金 + 35% 北美股票 + 15% 欧洲股票 + 25% 亚太股票  on 11-24-2020   
+       + +6167.84 -> 49769.13 on 08-28-2020 
+       + +4130.98 -> 105364.19 on 2020-09-09 
+       + +11119.68 on 2020-11-24  
+
 
 #### Financial education  
 
@@ -68,6 +81,10 @@ abstract: "About financial education"
        + 定期卖出部分“表现出色”的资产，并买入一些“表现落后”的资产  
 
      - **要多交流**, 而不是自己一个人苦想  
+
+
+     - TODO  
+       + how to measure a good stock  
 
    * **长远投资策略** 较少忧虑市场波幅
      - **股市升跌時正常現象**, 波幅不應成為決定性因素
