@@ -12,6 +12,17 @@ categories: [diary]
   * TODO
 
 
+#### 2020-11-27
+  * sell the stock
+    - so tired although a bit more money
+
+  * black friday, know this firstly
+    - airpod2 + Asus zenscreen MB16AC
+
+  * TODO
+    - try to write your diary everyday
+    - to be more organized
+
 #### 2020-11-19
   * feel so bad in this week
     - a bit tired, and cannot get up early in the morning
@@ -24,7 +35,6 @@ categories: [diary]
   * improve
     - sleep before 11:00pm and get up earlier
     - go running in the morning
-p
 
 #### 2020-11-13
   * consider your desire, career, and work
