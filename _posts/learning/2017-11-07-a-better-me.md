@@ -137,6 +137,10 @@ abstract: "!![Updating] A better me - to be great man"
       - once you master it, you'll be rewarded with new opportunities
       - don't try to find your passion
 
+  * being kind
+      - life, success and stability require **trust and connection**, friendship and family
+      - you get this from being kind, not from being clever
+
   * **Always give before you take**
       - soften the ground, take the bit out of a future request, or simply create a distraction
       - like an actual **gift**, a generous **act**, a kind **favor**, an "honest" adminssion
@@ -303,7 +307,6 @@ abstract: "!![Updating] A better me - to be great man"
       + don't gossip, backstab, break your word, betray
       + prey on or look for ways to hurt people
 
-    -
 
 
   * build with relationships
@@ -405,6 +408,7 @@ abstract: "!![Updating] A better me - to be great man"
 
   * 老板的角度都是，他们能给我们什么？我们是否有这个责任一定要确实完成这些要求？
 
+
 #### **families**
   * **在自己喜欢的人身上用心**，**在不喜欢自己的人身上健忘**
 
@@ -414,10 +418,9 @@ abstract: "!![Updating] A better me - to be great man"
   * 有**内在中心***的女人，找老公自然找能够携手一起创造美好的人，谁也不会觉得谁多付出了，谁亏欠谁了，都是在为自己想要的人生奋斗而已
 
 
-
-#### 中国人的群体性格
+#### china
   * **人的发现**
-      - 日本人没有经历过西欧的文艺复兴,全体国民都被束缚在日本神学的框架里, 也被其教义束缚了思维;
+      - 日本人没有经历过西欧的**文艺复兴**,全体国民都被束缚在日本神学的框架里, 也**被其教义束缚了思维**;
       所以这里没有十九世纪史学大师布克哈特说的**“人的发现”,同时也就没有人道主义产生的土壤**,
       这也是日本人通常被外国人批评**没有内在教养**的原因
       -  虽然日本人有炽烈的民族意识, 但是作为 **个人却没有独立的意识, 没有人性的真正发展**;
@@ -492,7 +495,9 @@ abstract: "!![Updating] A better me - to be great man"
   * 性格
       -  奚梦瑶的笑容把一个让人吓到苍白无力的场景，转化为整场秀最好、最动人心的时刻之一
         + 这似乎又反映了经典的中国式好面子，对比西方人**鼓励尝试、不怕失败**的精神
-
+  * 思想
+      - 纳粹和社会主义者, 都讲问题于答案之间的起因和细节全部忽略
+      - 只由**问题的现象直接跳跃到 道德的答案**
 
 #### 中国人的教育
   * 归因错误的教育方式 -> 因为别人complain或者别人有可能complain，所以我们可以教育孩子收敛一下; 而不是从一开始就告诉孩子，你本来就不应该怎么做怎么做，即便没有任何人指出来。
