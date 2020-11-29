@@ -37,8 +37,8 @@ abstract: "About financial education"
           - 6k for the living  
 
 
-   * 100k extra income each year  
-     - 5000 hkd income firstly 
+   * 100k extra passive income each year  
+     - 5000 hkd passive income firstly 
 
 
    * 医疗保险   
