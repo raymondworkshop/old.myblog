@@ -1,15 +1,28 @@
 ---
 layout: post
-title: "[Updating] Goal: build frameworks or strategies for a pleasure of life"
+title: "[Updating] !! Goal: Build frameworks or strategies for a pleasure of life"
 date: 2020-08-20
 comments: true
 categories: [learning]
-abstract: "[Updating] Goal: build frameworks or strategies for a pleasure of life"
+abstract: "[Updating]  !! Goal: Build frameworks or strategies for a pleasure of life"
 ---
 
-#### **Goal: a pleasure of life - healthy, free, money, and loved**   
+#### **Goal: a pleasure of life - healthy, free, wealthy, and loved**   
 
-#####  **build yourself - healthy, free, money, and loved**  
+##### Build my career 
+  * TODO  
+
+###### build business - do more - **action > theory** 
+
+  * an **exciting & meaningful mission** to help channelize energy & thoughts 
+    - build a purpose  
+      + identify a clear mission, and head toward it 
+    - let the mission channelize all your inward, latent energy 
+
+
+
+
+#####  **Build myself - healthy, free, wealthy, and loved**  
   * > **always be kind to yourself**  
     > - treat yourself as your dear friend, with kindness and patience  
 
@@ -24,15 +37,15 @@ abstract: "[Updating] Goal: build frameworks or strategies for a pleasure of lif
     > - not what is possible and  then decide what result you want to create
 
   * > **keep healthy and fit**
-    > - avoid injuries
-    > - keep rest
-    > - exercise
+    > - avoid injuries 
+    > - keep rest 
+    > - exercise 
 
   * > **build a clear & calm & peace of mind**  
-    - **know your own mind** - how your mind works
-       + need insight into **your own thinking process**
-       + write the diary
-       + don't shrink from challenges which could **provide growth**
+    - **know your own mind** - how your mind works 
+       + need insight into **your own thinking process** 
+       + write the diary 
+       + don't shrink from challenges which could **provide growth** 
 
 
     - **be true to your deepest and most profoundly felt emotions** - those of a spiritual nature
@@ -53,31 +66,24 @@ abstract: "[Updating] Goal: build frameworks or strategies for a pleasure of lif
     - growth happens in the places **you're scared to go**
 
 
-##### **build love and families**
-  * kind, independent, and charming
-
-##### **build business - do more -> action > theory**
-
-  * an **exciting & meaningful mission** to help channelize energy & thoughts
-    - build a purpose 
-      + identify a clear mission, and head toward it
-    - let the mission channelize all your inward, latent energy
+##### **Build love and families** 
+  * kind, cheerful, understanding, graceful, independent 
 
 
 
-##### **build relationships**  
-  * close friends, **value quantitys** more than quality
-    - they know **who you are**, not what you are
-    - get around like **minded positive people**
-    - form trustworthy, deep bonds, fewer the better  
+##### **Build relationships**  
+  * close friends, **value quantitys** more than quality 
+    - they know **who you are**, not what you are 
+    - get around like **minded positive people** 
+    - form trustworthy, deep bonds, fewer the better   
 
-  * social relationships
+  * social relationships 
 
 
 #### **Notes on strategies or choices**   
 
 ##### **learn about yourself**    
-  * **time and peace of mind** are the most expensive mode of payment
+  * **time and peace of mind** are the most expensive mode of payment 
 
 
   *  **self-growth**    
@@ -122,7 +128,7 @@ abstract: "[Updating] Goal: build frameworks or strategies for a pleasure of lif
     - TODO
 
 
-##### **build love and families**  
+##### **Build love and families**  
   * **尊重和确认的力量**  - 对伴侣观点的关心和尊重
     -  **行为描述**  
       > + 在精确表述上表现很糟糕, 如果抱怨某事,同时谈及几个问题
@@ -272,7 +278,7 @@ abstract: "[Updating] Goal: build frameworks or strategies for a pleasure of lif
 
 
 #### **How to be healthy and be in clear&calm mind**  
-  * peaceful of minded
+  * peaceful of minded 
     - meditation 
     - diary  
 
@@ -283,3 +289,5 @@ abstract: "[Updating] Goal: build frameworks or strategies for a pleasure of lif
 
   * build a clear & calm & peace of mind
 
+
+#### reference  
