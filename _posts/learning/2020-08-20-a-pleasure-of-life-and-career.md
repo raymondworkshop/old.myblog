@@ -1,19 +1,45 @@
 ---
 layout: post
-title: "[Updating] !! Goal: Build frameworks or strategies for a pleasure of life"
+title: "[Updating] !! Goal: Build frameworks or strategies for a pleasure of life and career"
 date: 2020-08-20
 comments: true
 categories: [learning]
-abstract: "[Updating]  !! Goal: Build frameworks or strategies for a pleasure of life"
+abstract: "[Updating]  !! Goal: Build frameworks or strategies for a pleasure of life and career"
 ---
 
 #### **Goal: a pleasure of life - healthy, free, wealthy, and loved**   
 
-##### Build my career 
-  * TODO  
+##### Build my career or business -> **ample income** + **providing satisfaction**      
+  * **TIME** I spend, and **a high savings rate** as the seeds of wealth is a requirement   
+
+  * three Paths  -> financially independent  
+    - the high-income-producing, high-level leadership path  -> senior executives of public corporations  
+    - the self-employed, risk-taking, investing-in-my-business approach  -> owners/managers of successful businesses  
+    - the frugal, steady-as-she-goes journey  
+
+  * Solution -> one matches between  **skills, abilities,characteristics and the environment/market**  
+    - **understanding of our own strengths and weaknesses**  
+      + **Recognize my strengths** and **creating goals** as a starting point  
+    - finding a career that **makes full use of one's competencies  like skills, abilities,characteristics**   
+    - if you love your job, if it provides you with **the life-style** and **level of freedom you desire**, then working is great   
+      + learn **what it's like to work** so you can check the field was of interest to you  
+      + whether survive in **the type of environments/market**    
+      + whether like **the work you are doing** 
+      + check what we liked and didn't like about work, what we are interested in and able to do  
+
+
+  * **Margin** Required  
+    - **Money gives you the independence and options to choose**    
+    - **generating multiple sources of revenue**    
+      + **opportunities to expand revenue generation** and a setup for a future career move  
+      + or part-time career    
+      + **translate hobbies into income-producing activities**     
+        - **pursue other interests** that could lead to a new career or your own business  
+      + the needs of the future customers  
+        - "what do u need and what are your problems with current products?"
+
 
 ###### build business - do more - **action > theory** 
-
   * an **exciting & meaningful mission** to help channelize energy & thoughts 
     - build a purpose  
       + identify a clear mission, and head toward it 

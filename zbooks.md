@@ -29,7 +29,6 @@ title: Bookshelf
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
 * [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
 
-
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇  
 
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
@@ -39,7 +38,9 @@ title: Bookshelf
 * [Poor Charlie's Almanack](https://book.douban.com/subject/3273615/) by Charles T. Munger  
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
+
 * [Illimitable Men](https://illimitablemen.com/archives/)  
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason  
 * [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (10/10)  

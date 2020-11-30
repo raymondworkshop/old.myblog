@@ -38,7 +38,7 @@ abstract: "About financial education"
 
 
    * 100k extra passive income each year  
-     - 5000 hkd passive income firstly 
+     - 5000 hkd passive income firstly each year
 
 
    * 医疗保险   
