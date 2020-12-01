@@ -7,7 +7,15 @@ categories: [learning]
 abstract: "[Updating]  !! Goal: Build frameworks or strategies for a pleasure of life and career"
 ---
 
-#### **Goal: a pleasure of life - healthy, free, wealthy, and loved**   
+#### **Goal: a pleasure of life - healthy, free, wealthy, and loved**, no influence?   
+  * create **life vision**  
+    - get into better shape  
+    - build a successful business  
+    - relax more and worry less 
+    - spend more time with **family and friends**  
+
+  * identify required habits  
+  * develop habits one day at a time  
 
 ##### Build my career or business -> **ample income** + **providing satisfaction**      
   * **TIME** I spend, and **a high savings rate** as the seeds of wealth is a requirement   

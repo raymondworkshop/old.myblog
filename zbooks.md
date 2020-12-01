@@ -12,6 +12,7 @@ title: Bookshelf
 * [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
 * [Cracking the Creativity Code: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology   
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)  
+* []()
 * [影響力 x 心理學課程 Influence: The Psychology of Making Things Happen] by Treeholehk  
 
 
@@ -41,8 +42,8 @@ title: Bookshelf
 
 * [Illimitable Men](https://illimitablemen.com/archives/)  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
-* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear    
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason  
+* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear  (10/10) (note: Habits are the Compound interest of self-improvement)    
 * [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (10/10)  
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (10/10)  (note: about how to make Desire into reality) 
 * [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: About how money works, and how to have it work for you)  

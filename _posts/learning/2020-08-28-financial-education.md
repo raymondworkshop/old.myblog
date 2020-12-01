@@ -21,7 +21,7 @@ abstract: "About financial education"
          -
 
      - Money - credit card - **2643.37**hkd  
-       + 1,666.67 for  20k - 信用卡供款HKD2,0000的現金分期
+       + 1,706.67 * 12 for  20k - 信用卡供款HKD2,0000的現金分期
        + 916.67 for credit card  - 消費以及簽賬HKD1,1000的分期  
        + 5150 * 12 for 60k - 信用卡HKD6,0000現金分期
 
@@ -41,7 +41,7 @@ abstract: "About financial education"
      - 5000 hkd passive income firstly each year
 
 
-   * 医疗保险   
+   * 医疗保险 - 10%   
      -  Bowtie 保險
      -  保柏环球优越自愿医保计划  
      -  保柏互通保額醫療保障計劃  
@@ -52,6 +52,11 @@ abstract: "About financial education"
      - 保泰自願醫保 – 靈活計劃 – 升級計劃  - 446.38hkd/m
      - 友邦   
 
+
+  * 我的投資 - 30%  
+
+  * 退休投資  - 20% 
+     - 富达 TODO CHECK  ?
 
   * **Hang Seng MPF**  
      - TODO CHECK 靈活供款申請表(個人賬戶持有人) ?  
@@ -75,7 +80,7 @@ abstract: "About financial education"
 
 #### 投资策略  
    * notes
-     - 要遵守**纪律**
+     - 要遵守**纪律** 
      - 以财务为第一标准, 潜力为第二标准  
      - 定期重新调整  
        + 定期卖出部分“表现出色”的资产，并买入一些“表现落后”的资产  
