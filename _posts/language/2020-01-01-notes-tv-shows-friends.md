@@ -4,8 +4,45 @@ title: "Notes about TV shows"
 date: 2020-01-01
 comments: true
 categories: [language]
-abstract: "notes about TV shows like 'Friends'"
+abstract: "notes about TV shows like 'Friends' "  
 ---
+
+#### S03E20
+> my grandmother used to say that exact same thing to me.
+
+**you didn't have to walk me** all the way back up here (不必麻烦送我回来)
+
+> Bing? That's a great name.
+
+> Not one that can pee on the roof.
+
+>
+> **Listen, what are u doing** after rehearsal?  **do u wanna get a drink or something**?
+> yeah, sure. A drink sounds great.
+> Cool. I will see u then.
+>
+
+> **What do u see in him**, anyway?  (你到底看上他哪点**
+>
+
+It's gonna be all right.
+
+> **this was fun. Let's do it again sometime. I'll give you a call.**
+>
+
+> that's **just a lot of big talk**. (仅仅说说而已)
+>
+
+> about what happened with us.
+> no, let's **not make a big deal out of it**, okay?  (别小题大做)
+> what are u talking about? it was a big deal. you can't tell me last night didn't mean something to you .
+I was there. **You're not that good an actress**.
+>
+
+> **I have issues with commitment**, intimacy. I am really sorry, this isn't going to work out.
+> **This isn't how I was hoping** this would end, **but I guess I have to appreciate your honesty**.
+>
+
 
 #### S03E19
 I've kind of had this **crush on** you (喜欢). And you're not, **I'd really like to ask you out** sometime.

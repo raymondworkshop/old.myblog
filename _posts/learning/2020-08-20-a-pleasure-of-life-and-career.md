@@ -9,10 +9,14 @@ abstract: "[Updating]  !! Goal: Build frameworks or strategies for a pleasure of
 
 #### **Goal: a pleasure of life - healthy, free, wealthy, and loved**, no influence?   
   * create **life vision**  
-    - get into better shape  
+    - get into better shape  -> **energy and health**  
+      +  cooking/food     
     - build a successful business  
+      +  wealthy  
     - relax more and worry less 
+      +  freedom, happy    
     - spend more time with **family and friends**  
+      +  happy, freedom     
 
   * identify required habits  
   * develop habits one day at a time  

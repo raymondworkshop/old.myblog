@@ -27,21 +27,21 @@ title: Bookshelf
 * [Successful Drawing](https://book.douban.com/subject/6773763/) by Andrew Loomis     
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 
-* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
-* [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
-
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇  
 
+* [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
 * [The Dance of Intimacy](https://book.douban.com/subject/26988131/) by Harriet Lerner  
 
-* [Poor Charlie's Almanack](https://book.douban.com/subject/3273615/) by Charles T. Munger  
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
 
-* [Illimitable Men](https://illimitablemen.com/archives/)  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
+
+* [The Way of Men](https://book.douban.com/subject/11252959/) by Jack Donovan  
+* [Illimitable Men](https://illimitablemen.com/archives/)  
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason  
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear  (10/10) (note: Habits are the Compound interest of self-improvement)    
 * [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (10/10)  
