@@ -4,8 +4,12 @@ title: "Notes about TV shows"
 date: 2020-01-01
 comments: true
 categories: [language]
-abstract: "notes about TV shows like 'Friends' "  
+abstract: "notes about TV shows like 'Friends' "
 ---
+
+#### S03E21
+
+
 
 #### S03E20
 > my grandmother used to say that exact same thing to me.
@@ -22,7 +26,7 @@ abstract: "notes about TV shows like 'Friends' "
 > Cool. I will see u then.
 >
 
-> **What do u see in him**, anyway?  (你到底看上他哪点**
+> **What do u see in him**, anyway?  (你到底看上他哪)
 >
 
 It's gonna be all right.
