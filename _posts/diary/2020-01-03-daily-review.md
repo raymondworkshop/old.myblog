@@ -12,6 +12,20 @@ categories: [diary]
   * TODO
 
 
+#### 2020-12-04
+  * swith into FUTU-HK for the investment
+    - it's better
+
+  * shouldnot get up so lately
+    - around 9:00
+
+  * TODO
+    - know exactly which kind of #lifestyle do u wanna and which kind of #career/work do u wanna
+      + TODO CHECK MORE
+    - #exercise in the morning
+    - #sleeps around 23:00
+
+
 #### 2020-11-27
   * sell the stock
     - so tired although a bit more money
