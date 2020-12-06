@@ -4,11 +4,26 @@ title: "Notes about TV shows"
 date: 2020-01-01
 comments: true
 categories: [language]
-abstract: "notes about TV shows like 'Friends' "
+abstract: "notes about TV shows like 'Friends** "
 ---
 
-#### S03E21
+#### S03E22
+**I was supposed to** call my dad back like two hours ago.  (我该 ...)
 
+**I gotta double-check for** tickets tonight.
+
+> you look so familiar.
+> **I ran into you**  (见过) in the hallway in your building.
+
+**Look, I wasn't gonna say anything to you**, but ... (我本不想说 ...)
+
+Hey, **you mind if I** use phone ...
+
+Ross, would u stop it? **It's getting really old** (看腻了)
+
+> Joey, **I'm so glad i caught you** (幸好见上你), **I couldn't find you before**.
+> **What's going on**? (发生什么了)
+> What about us?
 
 
 #### S03E20

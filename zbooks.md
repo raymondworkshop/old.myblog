@@ -32,7 +32,6 @@ title: Bookshelf
 * [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
-* [The Dance of Intimacy](https://book.douban.com/subject/26988131/) by Harriet Lerner  
 
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
@@ -40,10 +39,11 @@ title: Bookshelf
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
 
-* [The Way of Men](https://book.douban.com/subject/11252959/) by Jack Donovan  
 * [Illimitable Men](https://illimitablemen.com/archives/)  
+
+* [Getting Things Done](https://book.douban.com/subject/1316569/) by David Allen  
+* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear  (8/10) (note: Habits are the Compound interest of self-improvement)    
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason  
-* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear  (10/10) (note: Habits are the Compound interest of self-improvement)    
 * [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (10/10)  
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (10/10)  (note: about how to make Desire into reality) 
 * [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: About how money works, and how to have it work for you)  
