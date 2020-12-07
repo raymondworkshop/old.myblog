@@ -12,6 +12,10 @@ categories: [diary]
   * TODO
 
 
+#### 2020-12-07
+  * toimprove
+    - investment is a kind of buying/spending
+    - a bit low
 #### 2020-12-04
   * swith into FUTU-HK for the investment
     - it's better
