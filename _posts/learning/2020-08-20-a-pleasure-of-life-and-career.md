@@ -21,6 +21,7 @@ abstract: "[Updating]  !! Goal: Build frameworks or strategies for a pleasure of
   * identify required habits  
   * develop habits one day at a time  
 
+
 ##### Build my career or business -> **ample income** + **providing satisfaction**      
   * **TIME** I spend, and **a high savings rate** as the seeds of wealth is a requirement   
 

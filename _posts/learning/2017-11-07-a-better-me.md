@@ -11,6 +11,7 @@ abstract: "!![Updating] A better me - to be great man"
   * focus everything into
     - health
     - wealth
+    - families
     - intellect
     - career
     - goal and ambitions
@@ -21,6 +22,18 @@ abstract: "!![Updating] A better me - to be great man"
   * learn yourself
     - learn about yourself by studying your friends
       + honest, understanding, support
+
+    - my advantages  <- feedback analysis
+      +
+
+    - how do I work with myself ?
+      + reading not listening
+
+    - how do u study?
+      + reading + chatting/learning with people
+
+    - how do I work with others?
+      + relationship
 
   * **the fear of Poverty**
     - indifference
@@ -63,9 +76,6 @@ abstract: "!![Updating] A better me - to be great man"
 
   * appreciation easily becomes admiration
     - appreciation of men that women find a funcamental ingredient necessary for love
-
-  *
-
 
   * reference
     - [MONK MODE: STRONGER, SMARTER, MORE REFINED](https://illimitablemen.com/2014/04/13/monk-mode/)
