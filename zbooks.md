@@ -33,7 +33,6 @@ title: Bookshelf
 * [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
 
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
@@ -42,6 +41,8 @@ title: Bookshelf
 * [Illimitable Men](https://illimitablemen.com/archives/)  
 
 * [Getting Things Done](https://book.douban.com/subject/1316569/) by David Allen  
+
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear  (8/10) (note: Habits are the Compound interest of self-improvement)    
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason  
 * [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (10/10)  
