@@ -11,11 +11,21 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2020-12-10
+  * TODO
+    - CHECK Monk framework, and read <Mastery> by George Leonard
+    - Write summary about the course on psychology
+    - Practice my english and cantonese
+    - Write some code
+    - SELL voo tonight, and try to buy MSFT on futu
+
 
 #### 2020-12-07
   * toimprove
     - investment is a kind of buying/spending
     - a bit low
+
+
 #### 2020-12-04
   * swith into FUTU-HK for the investment
     - it's better
