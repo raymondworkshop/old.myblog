@@ -17,6 +17,7 @@ categories: [diary]
     - Write summary about the course on psychology
     - Practice my english and cantonese
     - Write some code
+    - try to buy zara suit at shatin
     - SELL voo tonight, and try to buy MSFT on futu
 
 
