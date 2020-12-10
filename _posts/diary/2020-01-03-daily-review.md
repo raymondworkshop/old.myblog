@@ -15,9 +15,9 @@ categories: [diary]
   * TODO
     - CHECK Monk framework, and read <Mastery> by George Leonard
     - Write summary about the course on psychology
-    - Practice my english and cantonese
     - Write some code
-    - try to buy zara suit at shatin
+    - Practice my english and cantonese
+    - try to buy Uniqlo MA-1 suit at shatin
     - SELL voo tonight, and try to buy MSFT on futu
 
 
