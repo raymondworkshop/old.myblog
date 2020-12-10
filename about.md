@@ -2,11 +2,14 @@
 layout: default
 title: About
 ---
-Hi, I'm Raymond. I like problem solving and reading. I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S.A. (Nokia Corporation now) .   
+Hi, I'm Raymond ZHAO Wenlong.   
 <br>     
 
-You can see some of my projects on [github](https://github.com/muyun), find my slides & research at [here](http://muyun.github.io/research/), or just send me an [email](mailto:wenlzhao@gmail.com).  
+I like problem solving and reading. I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S.A. (Nokia Corporation now) . 
 <br>  
+
+
+You can see some of my projects on [github](https://github.com/muyun), find my slides & research at [here](http://muyun.github.io/research/), or just send me an [email](mailto:wenlzhao@gmail.com). <br>  
 
 Outside of Engineering & Philosophy world, I also like nature, self-improvement, product & service, local culture & life, and  art now.  
 <br>   

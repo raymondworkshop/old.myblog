@@ -7,12 +7,15 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends** "
 ---
 
+#### S03E25  
+> what's going on here?  (怎么回事)  
+
+let me get this stragith. (让我理下)  
+
 #### S03E24
 > **How did it go with** peter?
 
->**Can I just tell you** how proud I am of you?
-
-
+>**Can I just tell you** how proud I am of you? 
 
 #### S03E22
 **I was supposed to** call my dad back like two hours ago.  (我该 ...)

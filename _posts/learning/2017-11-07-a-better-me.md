@@ -68,7 +68,7 @@ abstract: "!![Updating] A better me - to be great man"
       + **how much time daily do u devote to acquiring it**?
 
 
-#### stronger
+#### stronger - Monk Mode
   * **putting your own needs first**
     - wise men always please themselves firstly, then **give the woman the option to accept how he does things**
       + women choose to do things his way
