@@ -12,7 +12,10 @@ categories: [diary]
   * TODO
 
 
-#### 2020-12-12  
+#### 2020-12-12
+  * write code
+  * play badminton
+  * practice Japanese
 
 #### 2020-12-11
   * TODO
