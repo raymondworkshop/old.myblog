@@ -11,15 +11,56 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+
+#### 2020-12-12  
+
+#### 2020-12-11
+  * TODO
+    - read <Mastery>
+      + finish 2 chapters, and finish 1 chapter on <atomic habit>
+
+    - finish the summary of psychology course
+      + write a draft, #todo try to apply to use it
+
+    - join the seminor on japanese, and practice a bit
+      + boring, #todo spend more time on Japanese
+
+    - practicer a bit English
+      + #not
+
+    - try to buy MSFT, and sell VHT
+      + done, improve the sell/buy contions
+
+  * toimprove
+    - cannot work at home
+    - Only watch shows on ipad
+
+
 #### 2020-12-10
   * TODO
     - CHECK Monk framework, and read <Mastery> by George Leonard
-    - Write summary about the course on psychology
-    - Write some code
-    - Practice my english and cantonese
-    - try to buy Uniqlo MA-1 suit at shatin
-    - SELL voo tonight, and try to buy MSFT on futu
+      + finish 2 chapters
 
+    - Write summary about the course on psychology
+      + write a bit, because of less info, #todo in next day
+
+    - Write some code
+      + #not, find a bit boring, and no passion
+
+    - Practice my english and cantonese
+      + done, see a tv cantonese serious
+      + done, six friends is becoming more interesting, especially in the dating parts
+
+    - try to buy Uniqlo MA-1 suit at shatin
+      + done, buy one Uniqlo suit
+      + Unidlo is a good brand for me
+
+    - SELL voo tonight, and try to buy MSFT on futu
+      + Done, sell voo at a resonable price
+      + #not buy MSFT, because cannot transfer money at night
+
+  * toimprove
+    - didn't do anyting at home
 
 #### 2020-12-07
   * toimprove
