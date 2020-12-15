@@ -112,6 +112,7 @@ categories: [softskill, learning, summary]
 
     - **Praise someone** - sincerely, appropriately - when they've done something successfully.  
       + whether publicly noting all their hard work or just dropping by their desk to thank them for helping you  
+      
   * Avoid being defensive  
     - **Ask questions and be receptive to feedback** when a peer criticizes your work or disagrees with you  
     - **Taking people's opinions seriously also builds trust** - and builds better managers too 
@@ -174,15 +175,14 @@ categories: [softskill, learning, summary]
 
 #### fiends -> 你交的朋友必须是：1）**正直**的；2）**比你更有智慧的**；3）**比你更有钱的**  
   * 挚友  
-     - 
      - 交友时 一定要真诚, 大方和宽容  
-     - 
+    
 
   * **对自己好** - 找那种 **“帮助过你的人”**  
      - 对我们好的人， 要格外珍惜  
      - 对自己好，能帮助自己成长的公司  
      - 对自己好是比金钱，门第和外貌更持久的依靠  
-     -  
+     
   * 合作型朋友  
      - 做事之前最好**把利益分配讲清楚**  
        + 合理预期 -> 哪些可以帮，哪些不可以帮  

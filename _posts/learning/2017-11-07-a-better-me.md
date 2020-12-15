@@ -7,15 +7,13 @@ categories: [learning]
 abstract: "!![Updating] A better me - to be great man"
 ---
 
-#### goal -> be a **Great** man
+#### Goal -> be a **Great** man
   * focus everything into
-    - health
-    - wealth
-    - families
-    - intellect
-    - career
-    - goal and ambitions
-    - work tirelessly to be better
+    - **health** 
+    - **Money**  
+    - **family**  
+    - **Purpose & Self-growth**   
+    - career & work tirelessly to be better 
 
 
 #### self-analysis
@@ -33,7 +31,8 @@ abstract: "!![Updating] A better me - to be great man"
       + reading + chatting/learning with people
 
     - how do I work with others?
-      + relationship
+      + relationship 
+      + TOIMPROVE -　和人打交道的能力 
 
   * **the fear of Poverty**
     - indifference

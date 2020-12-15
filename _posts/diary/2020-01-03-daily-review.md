@@ -11,11 +11,26 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2020-12-15
+  * TODO
+    - read <mastery> and <atomic habit>
+    - practice Cantonese and English
+    - prepare for driver test
+
+#### 2020-12-14
+  * feel badly to argue with families
+    - cannot be peaceful
+
+  * TODO
+    - read
 
 #### 2020-12-12
   * write code
+    - #not
   * play badminton
+    - #not, closed
   * practice Japanese
+    - #not, find boring
 
 #### 2020-12-11
   * TODO
