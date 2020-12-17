@@ -8,7 +8,7 @@ categories: [softskill, learning, summary]
 
 #### Mentors  
 
-  * Pick out the best qualities and attributes of an individual and incorporating those things into your style and life   
+  * Pick out **the best qualities and attributes** of an individual and incorporating those things into your style and life   
 
   * learn as much as you can that will help you be successful  
 

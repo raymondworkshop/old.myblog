@@ -14,8 +14,17 @@ categories: [diary]
 #### 2020-12-15
   * TODO
     - read <mastery> and <atomic habit>
+      + #not, not peaceful
+
     - practice Cantonese and English
+      + done
+
     - prepare for driver test
+      + a bit
+
+  * toimprove
+    - how to keep your peace and focus
+    - how to touch with your relationship like lover & friends
 
 #### 2020-12-14
   * feel badly to argue with families

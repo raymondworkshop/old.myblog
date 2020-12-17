@@ -9,11 +9,19 @@ abstract: "!![Updating] A better me - to be great man"
 
 #### Goal -> be a **Great** man
   * focus everything into
-    - **health** 
+    - **Health** 
+      + get physically stronger  
     - **Money**  
-    - **family**  
+      + aim to be financially independent 
+    - **hapiness**  
+    - **relationship**  like family, and friends  
     - **Purpose & Self-growth**   
-    - career & work tirelessly to be better 
+    - career & work tirelessly to be better  
+
+  * Be open to growth, feedback & learning  
+  * 
+
+  Step back if you find yourself giving more energy than you receive  
 
 
 #### self-analysis

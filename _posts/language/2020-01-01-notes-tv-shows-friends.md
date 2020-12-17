@@ -4,18 +4,25 @@ title: "Notes about TV shows"
 date: 2020-01-01
 comments: true
 categories: [language]
-abstract: "notes about TV shows like 'Friends** "
+abstract: "notes about TV shows like 'Friends' "
 ---
 
-#### S03E25  
-> what's going on here?  (怎么回事)  
+#### S04E02
+Come on, **that was back** in high school (高中的事**. How can it still bother you?
 
-let me get this stragith. (让我理下)  
+**The fat girl inside of me** realy wants to go. **I own her this**. I never let her eat.
+
+
+
+#### S03E25
+> what's going on here?  (怎么回事)
+
+let me get this stragith. (让我理下)
 
 #### S03E24
 > **How did it go with** peter?
 
->**Can I just tell you** how proud I am of you? 
+>**Can I just tell you** how proud I am of you?
 
 #### S03E22
 **I was supposed to** call my dad back like two hours ago.  (我该 ...)
@@ -1062,7 +1069,7 @@ how's it going?
 
 
 #### reference
-* [六人行 第四季](https://ustv123.com/%E5%85%AD%E4%BA%BA%E8%A1%8C-%E7%AC%AC%E5%9B%9B%E5%AD%A3-%E7%B7%9A%E4%B8%8A%E7%9C%8B/)  
+* [六人行 第四季](https://ustv123.com/%E5%85%AD%E4%BA%BA%E8%A1%8C-%E7%AC%AC%E5%9B%9B%E5%AD%A3-%E7%B7%9A%E4%B8%8A%E7%9C%8B/)
 * [老友记 第三季](https://ustv123.com/%E5%85%AD%E4%BA%BA%E8%A1%8C-%E7%AC%AC%E4%B8%89%E5%AD%A3-%E7%B7%9A%E4%B8%8A%E7%9C%8B/#)
 * [老友记 第二季](https://www.dililitv.com/vplay/NTU0MC0xLTE=.html)
 * [六人行](https://ustv123.com/%E5%85%AD%E4%BA%BA%E8%A1%8C-%E7%AC%AC%E4%B8%80%E5%AD%A3-%E7%B7%9A%E4%B8%8A%E7%9C%8B/#)
