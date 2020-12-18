@@ -9,19 +9,18 @@ abstract: "!![Updating] A better me - to be great man"
 
 #### Goal -> be a **Great** man
   * focus everything into
-    - **Health** 
-      + get physically stronger  
-    - **Money**  
-      + aim to be financially independent 
-    - **hapiness**  
-    - **relationship**  like family, and friends  
-    - **Purpose & Self-growth**   
-    - career & work tirelessly to be better  
+    - **Health**
+      + get physically stronger
+    - **Money**
+      + aim to be financially independent
+    - **hapiness**
+    - **relationship**  like family, and friends
+    - **Purpose & Self-growth**
+    - career & work tirelessly to be better
 
-  * Be open to growth, feedback & learning  
-  * 
+  * Be open to growth, feedback & learning
 
-  Step back if you find yourself giving more energy than you receive  
+  * Step back if you find yourself giving more energy than you receive
 
 
 #### self-analysis
@@ -39,8 +38,26 @@ abstract: "!![Updating] A better me - to be great man"
       + reading + chatting/learning with people
 
     - how do I work with others?
-      + relationship 
-      + TOIMPROVE -　和人打交道的能力 
+      + self
+        - **too emotional**
+        - fully trust ones, just because what they said
+        - **you firstly**
+
+      + friends
+        - know how to **filter out friends**
+        - focus on ones with driven, happy, cheerful, high-principled
+        - stay away from negative people or ones don't like you
+           +   有很重的防备心
+           +   always depress and discourage you in any way
+
+        - **step back** if you find giving your energy more than you receiving
+        - don't trust the weakers, skilled and competent is the first
+        - try to make friends with money, ideas, and vision, especailly ones reached there after a struggle
+
+      + known
+        - small talks
+
+      + TOIMPROVE -　和人打交道的能力
 
   * **the fear of Poverty**
     - indifference

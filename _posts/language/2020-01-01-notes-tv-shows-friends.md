@@ -8,7 +8,7 @@ abstract: "notes about TV shows like 'Friends' "
 ---
 
 #### S04E02
-Come on, **that was back** in high school (高中的事**. How can it still bother you?
+Come on, **that was back** in high school (高中的事). How can it still bother you?
 
 **The fat girl inside of me** realy wants to go. **I own her this**. I never let her eat.
 
