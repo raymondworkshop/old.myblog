@@ -10,7 +10,17 @@ categories: [diary]
   * review my priorities
   * transfer to-do-list to what-do-list
   * TODO
-  
+
+#### 2020-12-18
+  * self
+    - be confident with myself
+    - be good with myself
+    - myself first
+    - focus more on **business, not on investmenti**
+
+  * how to keep peaceful
+    - filter out your friends
+    - fight for yourself
 
 #### 2020-12-15
   * TODO
@@ -26,6 +36,7 @@ categories: [diary]
   * toimprove
     - how to keep your peace and focus
     - how to touch with your relationship like lover & friends
+
 
 #### 2020-12-14
   * feel badly to argue with families
