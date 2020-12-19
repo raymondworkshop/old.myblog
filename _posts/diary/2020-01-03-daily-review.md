@@ -17,6 +17,7 @@ categories: [diary]
     - be good with myself
     - myself first
     - focus more on **business, not on investmenti**
+    - work hard, and not be friends with weakers
 
   * how to keep peaceful
     - filter out your friends
