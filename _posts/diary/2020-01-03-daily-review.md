@@ -11,6 +11,15 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+
+#### 2020-12-20
+  * TODO
+    -
+  * toimprove
+    - be more **active** to act, not so obessed in yourself
+      + more positive, more work on your business, more outsides
+
+
 #### 2020-12-18
   * self
     - be confident with myself
