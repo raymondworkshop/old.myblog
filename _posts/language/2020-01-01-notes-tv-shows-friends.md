@@ -4,12 +4,28 @@ title: "Notes about TV shows"
 date: 2020-01-01
 comments: true
 categories: [language]
-abstract: "notes about TV shows like 'Friends' "
+abstract: "notes about TV shows like 'Friends** "
 ---
+
+#### S04E06
+cathy,**granted**, I just saw the back of her head, But **I got this sense that** she's smart and funny.
+
+**i don't have a preference**. you?
+
+**Joey's running a bit late**, and he says he's sorry.
+
+It looks like we'll be stuck here.
+
+> I need to talk to you about sth.
+> What's up?
+>
+
+
+
+
 
 #### S04E04
 Come on, don't say that, you just need more practice.
-
 
 #### S04E02
 Come on, **that was back** in high school (高中的事). How can it still bother you?

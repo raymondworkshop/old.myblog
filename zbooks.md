@@ -5,29 +5,22 @@ title: Bookshelf
 
 #### log of training & books and my ratings   
 
+#### training-2021  
+* [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)  
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
+
+
 #### training-2020   
 * [Advanced Programming] with David Beazley 
 * [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)  
-* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
 * [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
 * [Cracking the Creativity Code: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology   
-* [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)  
-* []()
 * [影響力 x 心理學課程 Influence: The Psychology of Making Things Happen] by Treeholehk  
 
 
 #### reading-2021  
 
 * [500 Lines or Less](http://aosabook.org/en/index.html) 
-
-* [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
-* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
-* [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
-
-* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
-* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
-
-* [Illimitable Men](https://illimitablemen.com/archives/)  
 
 * [Getting Things Done](https://book.douban.com/subject/1316569/) by David Allen  
 
@@ -41,21 +34,30 @@ title: Bookshelf
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇  
 
+* [No Filter](https://book.douban.com/subject/34927538/) by Sarah Frier  
+* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )  
+* [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
+
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
+
+* [Illimitable Men](https://illimitablemen.com/archives/)  
+
 #### reading-2020  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
 
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  (10/10) (note: so powerful sharing on the psychological journey towards the master)
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear  (8/10) (note: Habits are the Compound interest of self-improvement)    
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason  
 * [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (10/10)  
 * [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (10/10)  (note: about how to make Desire into reality) 
-* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: About how money works, and how to have it work for you)  
+* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: About how money works, and how to have it work for you)  
 
 * [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)  
-* [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by by Michael A. Singer  (8/10)  
+* [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer  (8/10)  
 * [Don Quixote de la Mancha](https://book.douban.com/subject/1005918/) by Miguel de Cervantes Saavedra    
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (note: Hamlet and Don Quixote are so different but as the same great)  (9/10)  
-* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politic framework from the western perspective, and reshape some of my thoughts )  (9/10)  
+* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politic framework from the western perspective )  (9/10)  
 * [Composing Programs](http://composingprograms.com/) (8/10)  
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (note: a superb guide on philosophical writing) (9/10)  
 * [The Five Love Languages](https://www.goodreads.com/book/show/23878688-the-5-love-languages) by Gary Chapman (9/10)  
@@ -69,7 +71,7 @@ title: Bookshelf
 * [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true&qid=13w9EjAaq4&rank=1) by Julie Zhuo (8/10)  
 * [Crafting Your Research Future](https://www.goodreads.com/book/show/15090386-crafting-your-research-future) by Charles X. Ling  (8/10)  
 * [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries (8/10) 
-* [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing skills) (9/10) 
+* [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing working experience) (9/10) 
 * [Design It!: From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling (7/10)  
-* [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some superb pragmatic working experience) (9/10)   
+* [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some superb pragmatic working skills) (9/10)   
 
