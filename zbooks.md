@@ -41,7 +41,11 @@ title: Bookshelf
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
 
-* [Illimitable Men](https://illimitablemen.com/archives/)  
+* [Illimitable Men](https://illimitablemen.com/archives/)   
+
+* [Unconventional Success](https://book.douban.com/subject/1899252/) by David F. Swensen 
+* [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C.P.A. Robert T. Kiyosaki with Sharon L. Lechter  
+
 
 #### reading-2020  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
