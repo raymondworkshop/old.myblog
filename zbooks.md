@@ -8,13 +8,14 @@ title: Bookshelf
 #### training-2021  
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego  
-
+* [6.033 Computer System Engineering](http://web.mit.edu/6.033/www/general.shtml)
+* [Digital Product Management: Modern Fundamentals](https://www.coursera.org/learn/uva-darden-digital-product-management/home/welcome) 
+* [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)  
 
 #### training-2020   
 * [Advanced Programming] with David Beazley 
-* [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)  
 * [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
-* [Cracking the Creativity Code: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology   
+* [Cracking the Creativity Code: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology  
 * [影響力 x 心理學課程 Influence: The Psychology of Making Things Happen] by Treeholehk  
 
 

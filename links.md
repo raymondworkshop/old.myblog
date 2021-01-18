@@ -33,10 +33,11 @@ title: links
 
 
 #### tech
-* **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)**    
+* **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)** 
+* **[Tim](https://www.oreilly.com/tim/)**     
 * [Joel On Software](https://www.joelonsoftware.com/)
 * **[Patrick Collison](https://patrickcollison.com/)**  
-* [James Long](https://jlongster.com/)
+* [James Long](https://jlongster.com/)  
 * 
 * [Chip Huyen](https://huyenchip.com/)
 * [Matt Might](http://matt.might.net/articles/)

@@ -7,6 +7,13 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends** "
 ---
 
+#### S04E10
+
+> I know what I'm giving you for Christmas.
+>
+
+> Like father, like son ( 虎父无犬子)
+
 #### S04E06
 cathy,**granted**, I just saw the back of her head, But **I got this sense that** she's smart and funny.
 
@@ -19,9 +26,6 @@ It looks like we'll be stuck here.
 > I need to talk to you about sth.
 > What's up?
 >
-
-
-
 
 
 #### S04E04
