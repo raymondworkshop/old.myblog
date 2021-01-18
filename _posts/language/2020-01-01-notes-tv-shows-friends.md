@@ -4,7 +4,7 @@ title: "Notes about TV shows"
 date: 2020-01-01
 comments: true
 categories: [language]
-abstract: "notes about TV shows like 'Friends** "
+abstract: "notes about TV shows like 'Friends' "
 ---
 
 #### S04E10
