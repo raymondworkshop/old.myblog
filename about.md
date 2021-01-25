@@ -2,11 +2,11 @@
 layout: default
 title: About
 ---
-Hi, I'm Raymond ZHAO Wenlong.   
+Hi, I'm Raymond ZHAO Wenlong, a Computer Researcher & Engineer, and Product Manager based in HK NOW.   
 <br>     
 
 I like problem solving and reading. I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S.A. (Nokia Corporation now) . 
-<br>  
+<br>      
 
 
 You can see some of my projects on [github](https://github.com/muyun), find my slides & research at [here](http://muyun.github.io/research/), or just send me an [email](mailto:wenlzhao@gmail.com). <br>  
