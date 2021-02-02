@@ -11,6 +11,17 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2020-02-01
+  *
+
+#### 2020-01-30
+  * TOIMPROVE your energy
+    -
+
+  * TODO
+    - check your next work
+    - read the ch6&7 for the decision making
+    - go hiking
 
 #### 2020-01-25
   * sell/buy the stocks
