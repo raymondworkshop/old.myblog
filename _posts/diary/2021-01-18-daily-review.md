@@ -11,12 +11,31 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+
+#### 2020-02-06
+
+#### 2020-02-03
+  * care the stock 2377 and sell 10K
+    - put < 50K on the growth stock and don't borrow money for it
+    - discipline
+      + follow your framework, and adjust the details
+      + check your framework
+
+  * TOIMPROVE
+    - so nice to chat with team members
+
+
+
+#### 2020-02-02
+  * TODO
+    -  重新振作起来
+    - 记录下每天的工作，生活； 以及进步
+
 #### 2020-02-01
-  *
+  * TODO
 
 #### 2020-01-30
   * TOIMPROVE your energy
-    -
 
   * TODO
     - check your next work

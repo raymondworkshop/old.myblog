@@ -7,6 +7,15 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S04E17
+> Hey, **cheer up**. You'll ... right?  ( 振作)
+
+When I **brought it up**, she said ...  ( 提起)
+
+> I had the most amazing time with you.
+> Listen, I have to tell you something.
+> I am been thinking ... ; I'm just going to say it, okay?  I think I love you.
+
 #### S04E15
 What have you been up to?  (你们做什么去了 )
 
