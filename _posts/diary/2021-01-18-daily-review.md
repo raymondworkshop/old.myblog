@@ -12,7 +12,53 @@ categories: [diary]
   * TODO
 
 
-#### 2020-02-06
+#### 2020-02-16
+  * TODO
+    - online chatting on vanessa's group
+    - programming
+    - reading
+
+
+
+#### 2020-02-15
+  * speak at CH
+    - it was great when I challenge something I didnot do before
+    - know what the others think about something
+
+  * SELF
+    - **too political thinking NOW***
+    - too general and not so practical and details
+    - good knowledge in education, society, and mind
+    - foucs on too much on peace-mind and avoid the conflicts & growth
+
+
+  * TOIMPROVE
+    - focus on tech & product
+      +  a bit more creative
+
+  * TODO
+    - record your habit and time every day
+    - review them often
+    - Don't put politics in the first step
+
+  * learning
+    - the most effective form of learning is **active practice**, not planning (**delay failure**)
+       + **focus on taking action**, not being in motion
+       + repetition -> **the frequency** not the time to build a habit
+       + only the action of working out will get the result;
+       + motion allow to feel like to make progress without running the risk of failure
+
+    - **apply it into the flow of your life**
+       + **optimize your env** to make actions easier
+         - reset the room
+       + design it to automate, eliminate, or simplify as many steps as possible
+
+  * review
+    - read two ch2 on <atomatic habit>
+    -  豆鼓鱼 is delicious
+    - always like to lie on the bed - not good
+       + ?
+
 
 #### 2020-02-03
   * care the stock 2377 and sell 10K

@@ -61,7 +61,5 @@ Let me get it straight.
 
 
 
-
-
 #### reference
-* [老友记第四季](https://www.jjmeiju.com/play/690~0~10.html)
+* [老友记第四季](https://gimy.co/eps/20622-1-18.html)

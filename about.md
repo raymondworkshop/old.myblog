@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-Hi, I'm Raymond ZHAO Wenlong, a Computer Engineer based in HK NOW.   
+Hi, I'm Raymond ZHAO Wenlong, a Computer Engineer & Scientist based in HK NOW.   
 <br>     
 
 I like problem solving and reading. You can see some of my projects on [github](https://github.com/muyun), find my slides & research at [here](http://muyun.github.io/research/), or just send me an [email](mailto:wenlzhao@gmail.com). 
