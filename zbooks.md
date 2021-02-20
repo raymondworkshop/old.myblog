@@ -12,12 +12,6 @@ title: Bookshelf
 * [Digital Product Management: Modern Fundamentals](https://www.coursera.org/learn/uva-darden-digital-product-management/home/welcome) 
 * [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)  
 
-#### training-2020   
-* [Advanced Programming] with David Beazley 
-* [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
-* [Cracking the Creativity Code: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology  
-* [影響力 x 心理學課程 Influence: The Psychology of Making Things Happen] by Treeholehk  
-
 
 #### reading-2021  
 
@@ -52,6 +46,13 @@ title: Bookshelf
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard 
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear   
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker 
+
+#### training-2020   
+* [Advanced Programming] with David Beazley 
+* [High Performance Collaboration](https://www.coursera.org/learn/leadership-collaboration/home/welcome) by Northwestern University  
+* [Cracking the Creativity Code: Discovering Ideas](https://www.coursera.org/learn/startup-entrepreneurship-discovering-ideas/home/welcome) by Technion - Israel Institute of Technology  
+* [影響力 x 心理學課程 Influence: The Psychology of Making Things Happen] by Treeholehk  
+
 
 #### reading-2020  
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
