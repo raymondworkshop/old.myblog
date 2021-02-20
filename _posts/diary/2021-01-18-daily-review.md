@@ -12,13 +12,63 @@ categories: [diary]
   * TODO
 
 
+#### 2020-02-19
+  * TODO
+    - programming on Blog
+      + write a bit, find boring
+      + try to write blog myself
+
+    - read the flask and python doc
+      + about Module, package, namespace
+
+    - reading
+    - english practice
+
+
+  * TOIMPROVE
+    - wake up earlier and go to bed earlier
+    - make a todo list everyday
+    - do hardest tasks on list first
+    - stop being pefect
+
+
+#### 2020-02-18
+  * DONE
+    - running
+    - withdrawl the money from sofi as emergency fund and pay for the debt
+      + invest more on index fund, and spend less time on stocks
+
+    - dinner with huoguo
+      + great to have dinner at the resturant
+
+    - read some code
+
+  * TOIMPROVE
+    - find your purpose
+      + **build my business**, especially the tech ones
+      + I am a thinker, not a actioner, you should do more
+
+    - improve your energy
+      + more exercise
+      + more good food
+
+    - less time on surfing online
+      + checking wsj and looking through some titles are ok
+
+    - get up a bit earlier around 7:30 - 8:00
+
+
 #### 2020-02-16
   * TODO
     - online chatting on vanessa's group
+      + NOT
     - programming
+      + NOT
     - reading
+      + NOT
 
-
+  * review
+    - ?
 
 #### 2020-02-15
   * speak at CH
