@@ -24,7 +24,6 @@ title: Bookshelf
 * [流言](https://book.douban.com/subject/1980436/) by 張愛玲  
 * [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman    
 * [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner    
-* [Successful Drawing](https://book.douban.com/subject/6773763/) by Andrew Loomis     
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.  
 
 
@@ -33,7 +32,6 @@ title: Bookshelf
 
 * [Illimitable Men](https://illimitablemen.com/archives/)   
 
-* [Unconventional Success](https://book.douban.com/subject/1899252/) by David F. Swensen 
 * [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C.P.A. Robert T. Kiyosaki with Sharon L. Lechter  
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇  
@@ -43,6 +41,7 @@ title: Bookshelf
 * [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing working experience) (9/10) 
 * [Zero to One](https://book.douban.com/subject/24753651/) by  Peter Thiel   
 
+* [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton  
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard 
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear   
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker 

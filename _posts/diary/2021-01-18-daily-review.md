@@ -12,6 +12,31 @@ categories: [diary]
   * TODO
 
 
+#### 2021-02-24
+  * TODO
+    - review Insurance docs
+    - programming on blog
+
+
+#### 2021-02-23
+  * TODO
+    - insurance exam/services
+      + try to test once
+      + ch1-ch3
+
+    - RA job
+      + practice the research skills
+
+    - programming work
+      + fix the initdb error
+
+    - volunteer tech work
+      + meet on Thursday
+
+    - lecture
+      + postpone
+
+
 #### 2020-02-19
   * TODO
     - programming on Blog
