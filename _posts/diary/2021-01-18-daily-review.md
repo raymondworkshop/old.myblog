@@ -12,10 +12,25 @@ categories: [diary]
   * TODO
 
 
+#### 2021-02-25
+  * TODO
+    - response to RA
+    - read the insurance doc
+    - adjust the investment
+
+  * self
+    - so stressful
+      + cannot sleep for the investment
+      + TODO - how to **make big decisions**
+
+
 #### 2021-02-24
   * TODO
     - review Insurance docs
+      + ch3-ch6
+
     - programming on blog
+      + db part
 
 
 #### 2021-02-23
