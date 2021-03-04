@@ -11,6 +11,37 @@ categories: [diary]
   * transfer to-do-list to what-do-list
   * TODO
 
+#### 2021-03-04
+  *
+
+
+#### 2021-03-02
+  * DONE
+    - finish one part of Insurance
+
+  * TOIMPROVE
+    - 和人打交道的能力
+       + 善意的谎言
+       + **用说谎让别人自我感觉良好， 同时有效地展现自我**
+
+    - 了解自己，想要什么样的生活
+       + 过好自己的小日子
+       + 小而美
+
+    - 谨慎选择自己的朋友
+       + 不离不弃的人
+       + 真心为你的成就而高兴的人
+
+#### 2021-02-26
+  * Done
+    - feel happy to spend time with colleges on the holiday
+
+  * TOIMPROVE
+    - spend too much effort/time on the stocks
+      + compose index etf
+      + don't **trade frequently**
+      + learn how to invest the poential ones
+      + don't put too much money on ones from news
 
 #### 2021-02-25
   * TODO
