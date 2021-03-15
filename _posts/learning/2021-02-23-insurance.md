@@ -9,4 +9,9 @@ abstract: "notes on Insurance"
 
 ##### 卷一 - 保险原理及实务
 
-##### 卷三 
+##### 卷三 - 长期保险 
+
+
+##### costs  
+  * 220 hkd for exam fee 
+  * 252 hkd for insurance fee 
