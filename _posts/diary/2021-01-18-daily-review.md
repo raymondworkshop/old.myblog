@@ -12,11 +12,25 @@ categories: [diary]
   * TODO
 
 
-#### 2021-03-15  
-  * build your blog  
-    - the front-end  
-    
-  * practice your language  
+#### 2021-03-15
+  * build your blog
+    - the front-end
+    - NOT, check JS doc
+
+  * practice your language
+    - NOT, listen to too much politics news
+
+  * Done
+    - read <The Rules of Life>
+    - know **what you are dedicating your life to**
+      + love my partner/families
+      + build my business/career, enhance my experience
+      + beauty
+    - so you can focus on what's important to you and make positive changes
+    - so you always check what you're doing and where you're going
+      + set a standard to be the very best that's impossible
+      + check back to that standard to see how you are doing
+      + failing is fine, know what you are doing based on some benchmark
 
 
 #### 2021-03-08 -  2021-03-14
