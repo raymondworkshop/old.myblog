@@ -12,6 +12,27 @@ categories: [diary]
   * TODO
 
 
+#### 2021-03-16
+  * find the common with Ivy
+    - make sure Ivy is my dreamer one
+    - read the article <The Nature of Women>
+    - TOSUMMARY
+
+  * programming
+    - JS
+    - NOT
+
+  * the front-end
+    - react
+    - NOT
+
+  * practice my cantonese and English
+    - a bit
+
+  * Done
+    - order the vaccine
+
+
 #### 2021-03-15
   * build your blog
     - the front-end
