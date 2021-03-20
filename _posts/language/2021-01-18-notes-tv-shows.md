@@ -7,6 +7,39 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S04E19
+You know what, I am tired of your bellyaching, ok?
+
+You know **I'd stay in a minute** (我真的想留下来)
+
+Emily **convinced me to** do it. (说服做)
+
+> So what are you gonna do? (你要怎么办)
+
+> when i was with her, she brings out this great side of me.
+
+
+>
+> **Don't be scared**. I know it sounds crazy, and people will say it's soon soon.
+>
+> I didn't mean it. I didn't say it. I take it back.
+>
+
+> the feel is right.
+> are u saying, "yes"? is that "yes"?
+>
+> I thought that'd be romantic **as hell** (及其).
+>
+
+> what's going on?
+> ross has some big thing to tell everyone.
+>
+> we know it's a bit hasty, but it just feels so right.
+
+
+
+
+
 #### S04E17
 > Hey, **cheer up**. You'll ... right?  ( 振作)
 

@@ -31,6 +31,9 @@ title: links
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 * [courses](https://learn.saylor.org/course/index.php)
 
+#### TOCHECK
+* [Blog Surf](https://dkb.io/)
+
 
 #### tech
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)** 
