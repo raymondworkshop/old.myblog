@@ -12,6 +12,12 @@ categories: [diary]
   * TODO
 
 
+#### 2021-03-18
+  * TODO
+    - check react and front-end part
+    - read the book <the rules of love> and <the rules of life>
+    - practice language
+
 #### 2021-03-16
   * find the common with Ivy
     - make sure Ivy is my dreamer one
