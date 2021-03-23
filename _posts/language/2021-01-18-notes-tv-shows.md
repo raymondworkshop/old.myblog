@@ -7,6 +7,18 @@ categories: [language]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S04E20
+> Do u have a minute?
+> Yeah. I was just about to take a break anyway.
+> listening, **I know you and i haven't really had a chance to talk** ... .
+> And **I was jut wondering how you were**.
+> **I just wanted to check**.
+> You are great. and I know someday this will happen for u too.
+
+> **You know what would make me happy?**
+> **if the four of us could all, you know, hang out together.**
+> what do u say we all have dinner, say sunday night?
+
 #### S04E19
 You know what, I am tired of your bellyaching, ok?
 

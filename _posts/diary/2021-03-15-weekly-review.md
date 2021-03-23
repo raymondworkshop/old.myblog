@@ -6,27 +6,40 @@ comments: true
 categories: [diary]
 ---
 
+#### 2021-03-22 - 2021-03-28
+
 #### 2021-03-15 - 2021-03-21
 * professional skills
    - design and build my blog
      + the front-end
      + other issues
+     + comment
+         - finish the typotype, the progress is all right until now
 
    - enhance your programming skills
      + try to begin the book <lisp in small pieces>
      + python/js skills
+     + comment
+         - don't begin, the reason is that it's boring?
+         - based on project?
 
 * build the connection with Ivy
    - try to find commons with her
+   - comment
+     + read a blit blog, and NOT so good
+     + the reason is that
 
 * Improve my lifestyle
    - improve your habits
    - read <atomic habits> and <mastery>
+   - comment
+     + NO, get up so late in this week
 
 * practice your softskills
    - practice my languages
      + improve my english and cantonese
      + japanese ?
+   - a bit
 
 
 #### 2021-03-08 -  2021-03-14
@@ -70,4 +83,4 @@ categories: [diary]
       + 和人 交互的能力
       + **找相关的老师来研究**
 
-  *  Learn more about yourself 
+  *  Learn more about yourself

@@ -31,6 +31,10 @@ title: links
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 * [courses](https://learn.saylor.org/course/index.php)
 
+#### my old blog
+* [my blog 2012](https://sites.google.com/site/wenlzhao/home-1/blog/sleftalk)
+* [2009-2011](https://www.douban.com/people/aiding2001/notes)
+
 #### TOCHECK
 * [Blog Surf](https://dkb.io/)
 

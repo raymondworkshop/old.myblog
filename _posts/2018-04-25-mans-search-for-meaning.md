@@ -6,6 +6,7 @@ comments: true
 categories: [home, notes, writing]
 abstract: "There is much wisdom in the words of Friedrich Nietzsche: 'He who has a why to live for can bear almost any how.' "
 ---
+
 > <small>There is much wisdom in the words of Friedrich Nietzsche: "He who has **a why to live for** can bear almost any how."
 </small> 
 
