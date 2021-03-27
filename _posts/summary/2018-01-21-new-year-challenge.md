@@ -3,7 +3,7 @@ layout: post
 title: "2018 New Year Challenges"
 date: 2018-01-21
 comments: true
-categories: [learning]
+categories: [learning, challenge]
 ---
 
 ### 2018 New Year Challenges: 

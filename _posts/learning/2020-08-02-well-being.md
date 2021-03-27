@@ -6,6 +6,7 @@ comments: true
 categories: [learning]
 abstract: "notes on health and well-being"
 ---
+
 ### being driven by noble purposes  
   
   * if you wanna **grow, you have to choose the difficult path**  

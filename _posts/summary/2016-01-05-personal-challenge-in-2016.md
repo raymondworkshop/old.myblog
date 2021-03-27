@@ -3,7 +3,7 @@ layout: post
 title: "Personal Challenge in 2016"
 date: 2016-01-05
 comments: true
-categories: [summary]
+categories: [summary, self, challenge]
 ---
 
 #### 珍惜时间，珍惜机会，好好努力

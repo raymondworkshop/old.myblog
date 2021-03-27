@@ -3,8 +3,9 @@ layout: post
 title: '!!How to be manager: up and dowm'
 date: 2020-03-15
 comments: true
-categories: [softskills, learning, summary]
+categories: [softskills, learning, summary, management]
 ---
+
 ### how to mange down  
 
 #### Giving Feedback - in a way that was helpful and direct, but also kind and thoughtful  

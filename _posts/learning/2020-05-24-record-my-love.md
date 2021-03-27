@@ -3,7 +3,7 @@ layout: post
 title: "!Record my Love"
 date: 2020-05-24
 comments: true
-categories: [learning]
+categories: [learning, love]
 abstract: "!!Record my Love with Ivy"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "On Interview"
 date: 2019-04-07
 comments: true
-categories: [learning, work]
+categories: [learning, work, interview]
 abstract: "On Interview"
 ---
 

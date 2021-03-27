@@ -3,7 +3,7 @@ layout: post
 title: "notes on Think and Grow Rich"
 date: 2020-09-28
 comments: true
-categories: [notes]
+categories: [notes, insight]
 abstract: "Notes on Think and Grow Rich, Rich Dad Poor Dad"
 ---
 

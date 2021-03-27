@@ -3,7 +3,7 @@ layout: post
 title: "Notes on Philosophy"
 date: 2021-02-20
 comments: true
-categories: [learning]
+categories: [learning, philosophy]
 abstract: "notes on Philosophy"
 ---
 

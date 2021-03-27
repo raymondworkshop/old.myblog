@@ -3,7 +3,7 @@ layout: post
 title: "Literature"
 date: 2017-09-02
 comments: true
-categories: [learning]
+categories: [learning, literature]
 ---
 
 

@@ -2,10 +2,11 @@
 layout: post
 title: "Productivity"
 date: 2015-07-29
-categories: [softskill]
+categories: [softskill, self]
 abstract: "How to be more productive"
 
 ---
+
 #### to be more productive [1]
   * listen to your body
     - Ease mental constraints - eat, sleep, exercise  

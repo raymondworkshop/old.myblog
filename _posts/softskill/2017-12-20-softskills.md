@@ -3,9 +3,9 @@ layout: post
 title: "Soft Skills - communications"
 date: 2017-12-20
 comments: true
-categories: [softskill]
+categories: [softskill, communication]
 abstract: "关于沟通"
---- 
+---
 
 #### self    
   *  

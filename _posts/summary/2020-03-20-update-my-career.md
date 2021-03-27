@@ -3,7 +3,7 @@ layout: post
 title: "Update about my career development and lessons"
 date: 2020-03-20
 comments: true
-categories: [summary, learning, softskills]
+categories: [summary, learning, softskills, work]
 ---
 
 #### Career  

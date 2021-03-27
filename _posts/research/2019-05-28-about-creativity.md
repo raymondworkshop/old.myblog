@@ -3,7 +3,7 @@ layout: post
 title: "About creativity"
 date: 2018-05-28
 comments: true
-categories: [learning, notes]
+categories: [learning, notes, research]
 abstract: "About creativity"
 ---
 

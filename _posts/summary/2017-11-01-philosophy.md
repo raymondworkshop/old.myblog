@@ -3,7 +3,7 @@ layout: post
 title: "TODO-Philosophy"
 date: 2017-11-01
 comments: true
-categories: [summary]
+categories: [summary, philosophy]
 abstract: "About philosophy"
 ---
 

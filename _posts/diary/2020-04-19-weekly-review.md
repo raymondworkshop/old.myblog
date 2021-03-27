@@ -5,6 +5,7 @@ date: 2020-01-03
 comments: true
 categories: [diary]
 ---
+
 #### list my priorities
 - health
       + health check at least each two years

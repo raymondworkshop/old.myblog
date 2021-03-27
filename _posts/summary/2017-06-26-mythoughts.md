@@ -1,10 +1,9 @@
 ---
 layout: post
 title: My Daily thoughts
-date: '2017-06-26'
+date: 2017-06-26
 comments: true
-categories:
-  - summary
+categories: summary, self
 published: true
 ---
 
