@@ -1,1 +1,0 @@
-../learning/2016-04-03-team-skills.md

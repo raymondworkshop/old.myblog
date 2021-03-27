@@ -3,7 +3,7 @@ layout: post
 title: "About financial education"
 date: 2020-08-29
 comments: true
-categories: [learning, investment]
+categories: [learning]
 abstract: "About financial education"  
 ---
 

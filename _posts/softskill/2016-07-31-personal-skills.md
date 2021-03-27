@@ -3,10 +3,9 @@ layout: post
 title: "personal skills"
 date: 2016-07-31
 comments: true
-categories: [softskill, self]
+categories: [softskill]
 abstract: ""
 ---
-
 #### 能量提升
  - 早睡早起
 

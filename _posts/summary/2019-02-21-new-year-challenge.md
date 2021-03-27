@@ -3,7 +3,7 @@ layout: post
 title: "2019 New Year Challenges"
 date: 2019-02-21
 comments: true
-categories: [summary, challenge]
+categories: [summary]
 ---
 
 ### 2019 New Year Challenges: 

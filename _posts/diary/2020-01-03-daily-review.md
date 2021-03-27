@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Daily Review"
-date: 2020-01-03 
+date: 2020-01-03
 comments: true
 categories: [diary]
 ---
-
 ### 记录下每天的工作和生活 - 2020
   * analyze how I spent my time
   * review my priorities

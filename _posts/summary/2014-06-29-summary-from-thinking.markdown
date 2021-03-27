@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "思考的技术"
-date: 2014-06-29
+date: 2014-06-29 16:23
 comments: true
-categories: [summary, insight]
+categories: [summary]
 abstract: '总结自 <a href="http://book.douban.com/subject/3138847/">[思考的技术]</a>'
 ---
-
 总结自[思考的技术](http://book.douban.com/subject/3138847/)
 
 * 不要把假设和结论混为一谈; **搜集证据,印证假设到导出真正结论过程中的逻辑思考**

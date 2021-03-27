@@ -3,7 +3,7 @@ layout: post
 title: "[Updating] !Notes on creativity and research"
 date: 2018-11-18
 comments: true
-categories: [learning, notes, research]
+categories: [learning, notes]
 abstract: "[Updating] !Notes on creativity and research"
 ---
 

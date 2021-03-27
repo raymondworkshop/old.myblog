@@ -6,7 +6,6 @@ comments: true
 categories: [language, english]
 abstract: "Summary about the American pronunciation"
 ---
-
 ### ELP: English Listening and Pronunciation
 
 ### intonation  
