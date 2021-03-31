@@ -3,6 +3,7 @@ layout: default
 title: About
 ---
 Hi, I'm Raymond ZHAO Wenlong, a Computer Engineer & Scientist based in HONG KONG.   
+You can find me from my new [BLOG](http://muyun.pythonanywhere.com/).  
 <br>     
 
 I like problem solving and reading.<br> 
